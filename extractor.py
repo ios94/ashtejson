@@ -9,22 +9,31 @@ headers = {
 }
 
 response = requests.get(url, headers=headers)
-apps_data = []
+apps_list = []
 
 if response.status_code == 200:
     data = response.json()
     if "data" in data:
         for app in data["data"]:
-            apps_data.append({
+            apps_list.append({
                 "name": app.get("name"),
-                "slug": app.get("slug"),
-                "icon": app.get("icon"),
-                "last_modified": app.get("last_modified_at"),
-                "ipa_link": f"https://builds.io/{app.get('slug')}"
+                "bundleIdentifier": f"com.builds.{app.get('slug')}",
+                "version": "1.0",
+                "versionDate": app.get("last_modified_at"),
+                "downloadURL": f"https://builds.io/{app.get('slug')}",
+                "iconURL": app.get("icon"),
+                "localizedDescription": app.get("name")
             })
+
+# فۆرماتی فەرمی سەرچاوەی AltStore
+altstore_source = {
+    "name": "AshteMobile Builds",
+    "identifier": "com.ashtemobile.source",
+    "apps": apps_list
+}
 
 output_file = "ashtemobile94.json"
 with open(output_file, "w", encoding="utf-8") as f:
-    json.dump(apps_data, f, ensure_ascii=False, indent=4)
+    json.dump(altstore_source, f, ensure_ascii=False, indent=4)
 
-print(f"Successfully extracted {len(apps_data)} apps into {output_file}")
+print(f"Successfully generated AltStore source with {len(apps_list)} apps.")
