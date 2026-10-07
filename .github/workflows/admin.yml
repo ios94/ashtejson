@@ -13,7 +13,7 @@ on:
         description: 'قەبارە (نموونە: 150 MB)'
         required: true
       app_icon:
-        description: 'ناوی وێنەکە یان لینک (نموونە: logo.png)'
+        description: 'ناوی وێنەکە لە ناو فۆڵدەری img (نموونە: logo.png)'
         required: true
       ipa_link:
         description: 'لینکی ڕاستەوخۆی دابەزاندنی IPA'
