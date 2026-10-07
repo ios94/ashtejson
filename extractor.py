@@ -15,17 +15,17 @@ if response.status_code == 200:
     data = response.json()
     if "data" in data:
         for app in data["data"]:
+            slug = app.get("slug")
             apps_list.append({
                 "name": app.get("name"),
-                "bundleIdentifier": f"com.builds.{app.get('slug')}",
+                "bundleIdentifier": f"com.builds.{slug}",
                 "version": "1.0",
                 "versionDate": app.get("last_modified_at"),
-                "downloadURL": f"https://builds.io/{app.get('slug')}",
+                "downloadURL": f"https://builds.io/download/{slug}.ipa",
                 "iconURL": app.get("icon"),
                 "localizedDescription": app.get("name")
             })
 
-# فۆرماتی فەرمی سەرچاوەی AltStore
 altstore_source = {
     "name": "AshteMobile Builds",
     "identifier": "com.ashtemobile.source",
