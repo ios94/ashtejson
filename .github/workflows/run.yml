@@ -1,4 +1,4 @@
-name: Auto Build and Release Apps
+name: Upload IPAs and JSON to Release
 
 on:
   schedule:
@@ -28,10 +28,12 @@ jobs:
       - name: Run extractor script
         run: python extractor.py
 
-      - name: Upload or Update Release V1
+      - name: Upload IPAs and JSON to Release V1
         uses: softprops/action-gh-release@v1
         with:
           tag_name: V1
-          files: ashtemobile94.json
+          files: |
+            ashtemobile94.json
+            ipas/*.ipa
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
