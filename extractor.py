@@ -1,93 +1,30 @@
 import json
-import os
+import requests
 
-# داتای یاری و بەرنامەکان بە ناو و زانیاری ڕێکخراو
-apps_data = [
-    {
-        "name": "BuildStore",
-        "bundle_id": "com.builds.store",
-        "version": "1.0",
-        "size": "45 MB",
-        "icon": "https://builds.io/icon1.png",
-        "ipa_link": "https://builds.io/downloads/buildstore.ipa"
-    },
-    {
-        "name": "iPoGo - Pokemon GO++ mod for...",
-        "bundle_id": "com.nianticlabs.pokemongo.ipogo",
-        "version": "3.5.0",
-        "size": "120 MB",
-        "icon": "https://builds.io/icon2.png",
-        "ipa_link": "https://builds.io/downloads/ipogo.ipa"
-    },
-    {
-        "name": "BHTikTok Plus",
-        "bundle_id": "com.bhtiktok.plus",
-        "version": "32.0",
-        "size": "95 MB",
-        "icon": "https://builds.io/icon_bhtiktok.png",
-        "ipa_link": "https://builds.io/downloads/bhtiktok.ipa"
-    },
-    {
-        "name": "YouTube YouMod (ex. uYou)",
-        "bundle_id": "com.google.ios.youtube.youmod",
-        "version": "19.10",
-        "size": "110 MB",
-        "icon": "https://builds.io/icon_youtube.png",
-        "ipa_link": "https://builds.io/downloads/youtube.ipa"
-    },
-    {
-        "name": "ThreadSaver - Threads Hack for...",
-        "bundle_id": "com.bignish.threadsaver",
-        "version": "1.2",
-        "size": "75 MB",
-        "icon": "https://builds.io/icon_threads.png",
-        "ipa_link": "https://builds.io/downloads/threadsaver.ipa"
-    },
-    {
-        "name": "Coin Master Hack",
-        "bundle_id": "com.moonactive.coinmaster.hack",
-        "version": "3.5.2731",
-        "size": "107.88 MB",
-        "icon": "https://builds.io/icon3.png",
-        "ipa_link": "https://builds.io/downloads/coinmaster.ipa"
-    },
-    {
-        "name": "Simply Piano Modded",
-        "bundle_id": "com.joindrop.simplypiano.mod",
-        "version": "7.4.0",
-        "size": "85 MB",
-        "icon": "https://builds.io/icon_piano.png",
-        "ipa_link": "https://builds.io/downloads/simplypiano.ipa"
-    },
-    {
-        "name": "RyukGram",
-        "bundle_id": "com.ryuk.gram",
-        "version": "10.14",
-        "size": "90 MB",
-        "icon": "https://builds.io/icon_ryuk.png",
-        "ipa_link": "https://builds.io/downloads/ryukgram.ipa"
-    },
-    {
-        "name": "Block Blast!",
-        "bundle_id": "com.blockblast.game",
-        "version": "2.1",
-        "size": "60 MB",
-        "icon": "https://builds.io/icon_blockblast.png",
-        "ipa_link": "https://builds.io/downloads/blockblast.ipa"
-    },
-    {
-        "name": "YouTube Plus (ex. YTLite)",
-        "bundle_id": "com.google.ios.youtube.ytlite",
-        "version": "19.10",
-        "size": "105 MB",
-        "icon": "https://builds.io/icon_ytlite.png",
-        "ipa_link": "https://builds.io/downloads/ytlite.ipa"
-    }
-]
+url = "https://ng-api.builds.io/api/v1/applications/?page=1&page_size=100"
 
-# پاشەکەوتکردنی داتاکان بۆ ناو فایلی JSON بە ستایڵی تۆ
+headers = {
+    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "Accept": "application/json"
+}
+
+response = requests.get(url, headers=headers)
+apps_data = []
+
+if response.status_code == 200:
+    data = response.json()
+    if "data" in data:
+        for app in data["data"]:
+            apps_data.append({
+                "name": app.get("name"),
+                "slug": app.get("slug"),
+                "icon": app.get("icon"),
+                "last_modified": app.get("last_modified_at"),
+                "ipa_link": f"https://builds.io/{app.get('slug')}"
+            })
+
 output_file = "ashtemobile94.json"
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(apps_data, f, ensure_ascii=False, indent=4)
 
-print(f"Successfully generated {output_file}")
+print(f"Successfully extracted {len(apps_data)} apps into {output_file}")
