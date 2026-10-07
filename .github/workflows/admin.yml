@@ -54,9 +54,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Update JSON Source
+      - name: Update JSON Source and Memory
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add ashtemobile94.json
+          git add ashtemobile94.json backup_memory.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Admin added: ${{ github.event.inputs.app_name }}" && git push)
