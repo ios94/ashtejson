@@ -84,6 +84,44 @@
                 }
             },
             "patreon": {}
+        },
+        {
+            "id": 1870428001,
+            "name": "KR 2 - King Simulator",
+            "version": "35",
+            "size": "409.84 MB",
+            "icon": "img/kr2kingsimulator.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/kr2kingsimulator.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/kr2kingsimulator.ipa",
+            "bundleIdentifier": "com.ashtemobile.app1870428001",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Downloaded from AshteMobile Source.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kr2kingsimulator.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "35",
+                    "date": "2026-10-07T22:50:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/kr2kingsimulator.ipa",
+                    "size": 429748387,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {
+                    "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you."
+                }
+            },
+            "patreon": {}
         }
     ],
     "news": []
