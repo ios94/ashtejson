@@ -3,6 +3,13 @@ name: Admin Panel - Add New App
 on:
   workflow_dispatch:
     inputs:
+      app_type:
+        description: 'ئایا ئەمە یارییە یان بەرنامە؟'
+        required: true
+        type: choice
+        options:
+          - games
+          - apps
       app_name:
         description: 'ناوی یاری (نموونە: Block Blast)'
         required: true
@@ -39,6 +46,7 @@ jobs:
 
       - name: Run Admin Script
         env:
+          APP_TYPE: ${{ github.event.inputs.app_type }}
           APP_NAME: ${{ github.event.inputs.app_name }}
           APP_VERSION: ${{ github.event.inputs.app_version }}
           APP_SIZE: ${{ github.event.inputs.app_size }}
@@ -59,4 +67,4 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add ashtemobile94.json backup_memory.json img/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Admin added: ${{ github.event.inputs.app_name }} with local icon" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Admin added: ${{ github.event.inputs.app_name }} (${{ github.event.inputs.app_type }})" && git push)
