@@ -5,7 +5,76 @@ import random
 import re
 from datetime import datetime, timezone
 
-bulk_data = os.environ.get("BULK_DATA", "").strip()
+app_name = os.environ.get("APP_NAME")
+app_version = os.environ.get("APP_VERSION")
+app_size_str = os.environ.get("APP_SIZE")
+app_icon_input = os.environ.get("APP_ICON").strip()
+ipa_link = os.environ.get("IPA_LINK").strip()
+
+slug = "".join(e for e in app_name if e.isalnum()).lower()
+app_id = random.randint(1111111111, 1999999999)
+
+try:
+    size_in_mb = float(re.sub(r'[^\d.]', '', app_size_str))
+    size_in_bytes = int(size_in_mb * 1024 * 1024)
+except:
+    size_in_bytes = 150000000
+
+# دڵنیابوون لە بوونی فۆڵدەری وێنەکان
+os.makedirs("img", exist_ok=True)
+
+# بڕیاردان لەسەر وێنەکە: ئایا لینکە یان تەنها ناوە؟
+if app_icon_input.startswith("http://") or app_icon_input.startswith("https://"):
+    print(f"دەستم کرد بە داگرتنی وێنەکە لە لینکەکەوە...")
+    
+    # دیاریکردنی جۆری وێنەکە (.png یان .jpg)
+    ext = ".jpg"
+    if ".png" in app_icon_input.lower():
+        ext = ".png"
+    elif ".jpeg" in app_icon_input.lower():
+        ext = ".jpeg"
+        
+    downloaded_icon_name = f"{slug}{ext}"
+    icon_path = os.path.join("img", downloaded_icon_name)
+    
+    try:
+        ir = requests.get(app_icon_input, stream=True)
+        if ir.status_code == 200:
+            with open(icon_path, "wb") as f:
+                for chunk in ir.iter_content(1024):
+                    f.write(chunk)
+            print(f"وێنەکە سەرکەوتووانە داگیرا و سەیڤ کرا بە ناوی: {downloaded_icon_name}")
+        else:
+            print("کێشە هەبوو لە داگرتنی وێنەکە.")
+    except Exception as e:
+        print(f"ئیرۆر لە کاتی داگرتنی وێنەکە: {e}")
+
+    icon_relative = f"img/{downloaded_icon_name}"
+    icon_full_url = f"https://raw.githubusercontent.com/ios94/ashtejson/main/img/{downloaded_icon_name}"
+else:
+    print("تەنها ناوی وێنەکە دراوە، بەبێ داگرتن بەکاریدەهێنم.")
+    icon_relative = f"img/{app_icon_input}"
+    icon_full_url = f"https://raw.githubusercontent.com/ios94/ashtejson/main/img/{app_icon_input}"
+
+
+os.makedirs("ipas", exist_ok=True)
+ipa_filename = f"ipas/{slug}.ipa"
+
+print(f"خەریکی داگرتنی یاری {app_name} ...")
+
+try:
+    r = requests.get(ipa_link, stream=True)
+    if r.status_code == 200:
+        with open(ipa_filename, "wb") as f:
+            for chunk in r.iter_content(chunk_size=8192):
+                f.write(chunk)
+        print("داگرتنی یارییەکە سەرکەوتوو بوو.")
+    else:
+        print("کێشە لە داگرتنی IPA هەیە!")
+        exit(1)
+except Exception as e:
+    print(f"Error: {e}")
+    exit(1)
 
 json_file = "ashtemobile94.json"
 backup_file = "backup_memory.json"
@@ -31,121 +100,53 @@ else:
         "news": []
     }
 
-os.makedirs("img", exist_ok=True)
-os.makedirs("ipas", exist_ok=True)
+github_release_url = f"https://github.com/ios94/ashtejson/releases/download/V1/{slug}.ipa"
 current_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
 
-added_count = 0
-lines = bulk_data.split('\n')
+new_app = {
+    "id": app_id,
+    "name": app_name,
+    "version": app_version,
+    "size": app_size_str,
+    "icon": icon_relative,
+    "badge": "",
+    "type": "apps",
+    "install_url": github_release_url,
+    "download_url": github_release_url,
+    "bundleIdentifier": f"com.ashtemobile.app{app_id}",
+    "marketplaceID": "",
+    "developerName": "AshteMobile",
+    "subtitle": "Awesome App",
+    "localizedDescription": "Downloaded from AshteMobile Source.",
+    "iconURL": icon_full_url,
+    "tintColor": "#04ecfc",
+    "category": "apps",
+    "screenshots": [],
+    "versions": [
+        {
+            "version": app_version,
+            "date": current_date,
+            "localizedDescription": None,
+            "downloadURL": github_release_url,
+            "size": size_in_bytes,
+            "buildVersion": None,
+            "minOSVersion": "14.0"
+        }
+    ],
+    "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+            "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you."
+        }
+    },
+    "patreon": {}
+}
 
-for line in lines:
-    line = line.strip()
-    if not line or "|" not in line:
-        continue
-        
-    parts = [p.strip() for p in line.split("|")]
-    if len(parts) < 5:
-        print(f"زانیاری کەمە لەم دێڕەدا: {line}")
-        continue
-        
-    app_name, app_version, app_size_str, app_icon_input, ipa_link = parts[0], parts[1], parts[2], parts[3], parts[4]
-    
-    slug = "".join(e for e in app_name if e.isalnum()).lower()
-    app_id = random.randint(1111111111, 1999999999)
-
-    try:
-        size_in_mb = float(re.sub(r'[^\d.]', '', app_size_str))
-        size_in_bytes = int(size_in_mb * 1024 * 1024)
-    except:
-        size_in_bytes = 150000000
-
-    if app_icon_input.startswith("http://") or app_icon_input.startswith("https://"):
-        print(f"داگرتنی وێنە بۆ {app_name}...")
-        ext = ".jpg"
-        if ".png" in app_icon_input.lower():
-            ext = ".png"
-        elif ".jpeg" in app_icon_input.lower():
-            ext = ".jpeg"
-            
-        downloaded_icon_name = f"{slug}{ext}"
-        icon_path = os.path.join("img", downloaded_icon_name)
-        
-        try:
-            ir = requests.get(app_icon_input, stream=True)
-            if ir.status_code == 200:
-                with open(icon_path, "wb") as f:
-                    for chunk in ir.iter_content(1024):
-                        f.write(chunk)
-        except Exception as e:
-            print(f"کێشە لە وێنەی {app_name}: {e}")
-
-        icon_relative = f"img/{downloaded_icon_name}"
-        icon_full_url = f"https://raw.githubusercontent.com/ios94/ashtejson/main/img/{downloaded_icon_name}"
-    else:
-        icon_relative = f"img/{app_icon_input}"
-        icon_full_url = f"https://raw.githubusercontent.com/ios94/ashtejson/main/img/{app_icon_input}"
-
-    ipa_filename = f"ipas/{slug}.ipa"
-    print(f"خەریکی داگرتنی یاری {app_name} ...")
-    
-    try:
-        r = requests.get(ipa_link, stream=True)
-        if r.status_code == 200:
-            with open(ipa_filename, "wb") as f:
-                for chunk in r.iter_content(chunk_size=8192):
-                    f.write(chunk)
-            print(f"داگرتنی {app_name} سەرکەوتوو بوو.")
-        else:
-            print(f"کێشە لە لینکی {app_name} هەیە، تێپەڕێنرا.")
-            continue
-    except Exception as e:
-        print(f"ئیرۆری داگرتن بۆ {app_name}: {e}")
-        continue
-
-    github_release_url = f"https://github.com/ios94/ashtejson/releases/download/V1/{slug}.ipa"
-
-    new_app = {
-        "id": app_id,
-        "name": app_name,
-        "version": app_version,
-        "size": app_size_str,
-        "icon": icon_relative,
-        "badge": "",
-        "type": "apps",
-        "install_url": github_release_url,
-        "download_url": github_release_url,
-        "bundleIdentifier": f"com.ashtemobile.app{app_id}",
-        "marketplaceID": "",
-        "developerName": "AshteMobile",
-        "subtitle": "Awesome App",
-        "localizedDescription": "Downloaded from AshteMobile Source.",
-        "iconURL": icon_full_url,
-        "tintColor": "#04ecfc",
-        "category": "apps",
-        "screenshots": [],
-        "versions": [
-            {
-                "version": app_version,
-                "date": current_date,
-                "localizedDescription": None,
-                "downloadURL": github_release_url,
-                "size": size_in_bytes,
-                "buildVersion": None,
-                "minOSVersion": "14.0"
-            }
-        ],
-        "appPermissions": {
-            "entitlements": [],
-            "privacy": {
-                "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you."
-            }
-        },
-        "patreon": {}
-    }
-
-    source_data["apps"] = [a for a in source_data["apps"] if a.get("name") != app_name]
+existing_idx = next((i for i, a in enumerate(source_data["apps"]) if a.get("name") == new_app["name"]), None)
+if existing_idx is not None:
+    source_data["apps"][existing_idx] = new_app
+else:
     source_data["apps"].append(new_app)
-    added_count += 1
 
 with open(json_file, "w", encoding="utf-8") as f:
     json.dump(source_data, f, ensure_ascii=False, indent=4)
@@ -153,4 +154,4 @@ with open(json_file, "w", encoding="utf-8") as f:
 with open(backup_file, "w", encoding="utf-8") as f:
     json.dump(source_data, f, ensure_ascii=False, indent=4)
 
-print(f"\nکۆتایی هات! {added_count} یاری بە سەرکەوتوویی زیاد کران.")
+print(f"بە سەرکەوتوویی یارییەکە و وێنەکەی سەیڤ کران!")
