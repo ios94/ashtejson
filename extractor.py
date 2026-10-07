@@ -1,60 +1,70 @@
-import json
 import os
+import json
 import requests
+from datetime import datetime
 
-# دروستکردنی فۆڵدەر بۆ دابەزاندنی IPA
+# وەرگرتنی زانیارییەکان لە فۆڕمی ئەدمینەوە
+app_name = os.environ.get("APP_NAME")
+app_version = os.environ.get("APP_VERSION")
+app_size = os.environ.get("APP_SIZE")
+app_icon = os.environ.get("APP_ICON")
+ipa_link = os.environ.get("IPA_LINK")
+
+# دروستکردنی ناوی کورت (slug) بە شێوەی ئۆتۆماتیکی
+slug = "".join(e for e in app_name if e.isalnum()).lower()
+
+# دروستکردنی فۆڵدەری داگرتن
 os.makedirs("ipas", exist_ok=True)
+ipa_filename = f"ipas/{slug}.ipa"
 
-# خوێندنەوەی ئەو فایلەی کە تۆ زانیارییەکانت تێدا نووسیوە
-with open("apps.json", "r", encoding="utf-8") as f:
-    apps_input = json.load(f)
+print(f"Admin is downloading {app_name}...")
 
-altstore_apps = []
+# داگرتنی فایلی IPA
+r = requests.get(ipa_link, stream=True)
+if r.status_code == 200:
+    with open(ipa_filename, "wb") as f:
+        for chunk in r.iter_content(chunk_size=8192):
+            f.write(chunk)
+    print("Download successful.")
+else:
+    print("Failed to download the IPA link!")
+    exit(1)
 
-for app in apps_input:
-    name = app["name"]
-    slug = app["slug"]
-    ipa_url = app["ipa_link"]
-    
-    ipa_filename = f"ipas/{slug}.ipa"
-    print(f"Downloading {name}...")
-    
-    try:
-        # دابەزاندنی فایلی IPA
-        r = requests.get(ipa_url, stream=True)
-        if r.status_code == 200:
-            with open(ipa_filename, "wb") as f:
-                for chunk in r.iter_content(chunk_size=8192):
-                    f.write(chunk)
-            print(f"Downloaded {name} successfully.")
-            
-            # لینکی IPA لە ناو ڕێلیزی گیتهاب کە دەچێتە ناو سۆرسەکەوە
-            github_release_url = f"https://github.com/ios94/ashtejson/releases/download/V1/{slug}.ipa"
-            
-            # ئامادەکردنی زانیارییەکان بۆ ناو فایلی سۆرس
-            altstore_apps.append({
-                "name": name,
-                "bundleIdentifier": f"com.ashtemobile.{slug}",
-                "version": app.get("version", "1.0"),
-                "size": app.get("size", "0 MB"),
-                "versionDate": "2026-10-07",
-                "downloadURL": github_release_url,
-                "iconURL": app.get("icon", ""),
-                "localizedDescription": f"{name} - Uploaded by AshteMobile"
-            })
-        else:
-            print(f"Failed to download {name} from {ipa_url}")
-    except Exception as e:
-        print(f"Error downloading {name}: {e}")
+# کردنەوەی فایلی سۆرسەکە یان دروستکردنی ئەگەر نەبوو
+json_file = "ashtemobile94.json"
+if os.path.exists(json_file):
+    with open(json_file, "r", encoding="utf-8") as f:
+        source_data = json.load(f)
+else:
+    source_data = {
+        "name": "AshteMobile Store",
+        "identifier": "com.ashtemobile.source",
+        "apps": []
+    }
 
-# دروستکردنی فایلی ashtemobile94.json بە شێوەی ئۆتۆماتیکی
-altstore_source = {
-    "name": "AshteMobile Store",
-    "identifier": "com.ashtemobile.source",
-    "apps": altstore_apps
+# ئامادەکردنی زانیارییە نوێیەکان بۆ ناو JSON
+github_release_url = f"https://github.com/ios94/ashtejson/releases/download/V1/{slug}.ipa"
+
+new_app = {
+    "name": app_name,
+    "bundleIdentifier": f"com.ashtemobile.{slug}",
+    "version": app_version,
+    "size": app_size,
+    "versionDate": datetime.now().strftime("%Y-%m-%d"),
+    "downloadURL": github_release_url,
+    "iconURL": app_icon,
+    "localizedDescription": f"Uploaded by Admin AshteMobile"
 }
 
-with open("ashtemobile94.json", "w", encoding="utf-8") as f:
-    json.dump(altstore_source, f, ensure_ascii=False, indent=4)
+# پشکنین ئەگەر ئەپەکە پێشتر هەبوو ڤێرژنەکەی نوێ بکەرەوە، ئەگەر نا زیادی بکە
+existing_idx = next((i for i, a in enumerate(source_data["apps"]) if a["bundleIdentifier"] == new_app["bundleIdentifier"]), None)
+if existing_idx is not None:
+    source_data["apps"][existing_idx] = new_app
+else:
+    source_data["apps"].append(new_app)
 
-print("Source JSON generated successfully.")
+# پاشەکەوتکردن
+with open(json_file, "w", encoding="utf-8") as f:
+    json.dump(source_data, f, ensure_ascii=False, indent=4)
+
+print(f"Successfully added {app_name} to the store source!")
