@@ -21,7 +21,7 @@ if response.status_code == 200:
                 "bundleIdentifier": f"com.builds.{slug}",
                 "version": "1.0",
                 "versionDate": app.get("last_modified_at"),
-                "downloadURL": f"https://builds.io/download/{slug}.ipa",
+                "downloadURL": f"https://ng-api.builds.io/api/v1/applications/{slug}/download",
                 "iconURL": app.get("icon"),
                 "localizedDescription": app.get("name")
             })
