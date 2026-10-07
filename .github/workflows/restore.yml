@@ -13,50 +13,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Recreate JSON file
+      - name: Restore from Memory
         run: |
-          cat << 'EOF' > ashtemobile94.json
-          {
-              "name": "Ashtemobile",
-              "subtitle": "A source for all of my apps & games",
-              "description": "Welcome to my source! Here you'll find all of my apps.",
-              "iconURL": "https://ashtemobile.site/logo.png",
-              "website": "https://ashtemobile.site/",
-              "patreonURL": "https://ashtemobile.site/Ashtemobile.json",
-              "tintColor": "#ff007f",
-              "featuredApps": [],
-              "headerURL": "https://ashtemobile.site/logo.png",
-              "apps": [],
-              "news": [
-                  {
-                      "title": "Instagram",
-                      "identifier": "news_kwuwharinc",
-                      "caption": "Ashtemobile",
-                      "date": "2026-08-28T16:13:42+00:00",
-                      "tintColor": "#ff007f",
-                      "imageURL": "https://ashtemobile.site/logo.png",
-                      "notify": true,
-                      "url": "https://www.instagram.com/ashtemobile",
-                      "appID": null
-                  },
-                  {
-                      "title": "Telegram",
-                      "identifier": "news_l2keyetzkn",
-                      "caption": "Ashtemobile",
-                      "date": "2026-08-28T16:13:42+00:00",
-                      "tintColor": "#ff007f",
-                      "imageURL": "https://ashtemobile.site/logo.png",
-                      "notify": true,
-                      "url": "https://t.me/ashtemobile",
-                      "appID": null
-                  }
-              ]
-          }
-          EOF
-
-      - name: Commit and push recovered file
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add ashtemobile94.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Emergency Restore: Recovered ashtemobile94.json" && git push)
+          if [ -f backup_memory.json ]; then
+            cp backup_memory.json ashtemobile94.json
+            git config --global user.name "GitHub Action"
+            git config --global user.email "action@github.com"
+            git add ashtemobile94.json
+            git commit -m "Emergency Restore: Recovered all apps from memory!"
+            git push
+          else
+            echo "کێشە هەیە: فایلی بیرگە نەدۆزرایەوە!"
+          fi
