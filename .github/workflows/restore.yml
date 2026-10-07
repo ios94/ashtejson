@@ -1,4 +1,4 @@
-name: Admin Panel - Restore JSON
+name: Emergency Restore JSON
 
 on:
   workflow_dispatch:
@@ -20,8 +20,10 @@ jobs:
             git config --global user.name "GitHub Action"
             git config --global user.email "action@github.com"
             git add ashtemobile94.json
-            git commit -m "Emergency Restore: Recovered all apps from memory!"
+            git commit -m "Emergency Restore: Recovered all apps from backup!"
             git push
+            echo "سەرکەوتوو بوو! هەموو یارییەکان گەڕانەوە."
           else
             echo "کێشە هەیە: فایلی بیرگە نەدۆزرایەوە!"
+            exit 1
           fi
