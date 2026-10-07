@@ -36,35 +36,43 @@ app_name = app_name_input
 for a_tag in soup.find_all('a'):
     btn_text = a_tag.get_text(strip=True)
     if "دابەزاندن" in btn_text or "داگرتن" in btn_text:
-        parent = a_tag.find_parent('div')
-        if not parent:
+        # ڕاستکردنەوەی گەڕانەکە بۆ دۆزینەوەی تەواوی قاڵبی یارییەکە نەک تەنها دوگمەکە
+        card = a_tag.parent
+        while card and card.name != 'body':
+            if card.find('img'):
+                break
+            card = card.parent
+        
+        if not card or card.name == 'body':
             continue
         
-        heading = parent.find(['h1', 'h2', 'h3', 'h4', 'strong', 'p', 'span'])
-        if heading:
-            found_name = heading.get_text(strip=True)
-            # ئەگەر ئەو ناوەی تۆ نوسیوتە، لەگەڵ ناوی یارییەکە یەکی گرت (بۆ نموونە pubg لەگەڵ Pubg Mobile)
-            if app_name_input.lower() in found_name.lower():
-                app_found = True
-                app_name = found_name
-                ipa_link = urljoin(website_url, a_tag.get('href'))
+        card_text = card.get_text(separator=' ', strip=True)
+        
+        if app_name_input.lower() in card_text.lower():
+            app_found = True
+            
+            # وەرگرتنی ناوە دروستەکە
+            heading = card.find(['h1', 'h2', 'h3', 'h4', 'strong', 'p', 'span'])
+            if heading:
+                app_name = heading.get_text(strip=True)
+            else:
+                app_name = app_name_input
                 
-                # دەرهێنانی لۆگۆکە
-                img_tag = parent.find('img')
-                if img_tag and img_tag.get('src'):
-                    icon_url = urljoin(website_url, img_tag.get('src'))
-                    
-                # دەرهێنانی ڤێرژن و قەبارە
-                full_text = parent.get_text(separator=' ', strip=True)
-                v_match = re.search(r'V\s*([\d\.]+)', full_text, re.IGNORECASE)
-                if v_match:
-                    version = v_match.group(1)
-                    
-                s_match = re.search(r'MB\s*([\d\.]+)', full_text, re.IGNORECASE)
-                if s_match:
-                    size_str = f"{s_match.group(1)} MB"
+            ipa_link = urljoin(website_url, a_tag.get('href'))
+            
+            img_tag = card.find('img')
+            if img_tag and img_tag.get('src'):
+                icon_url = urljoin(website_url, img_tag.get('src'))
                 
-                break
+            v_match = re.search(r'V\s*([\d\.]+)', card_text, re.IGNORECASE)
+            if v_match:
+                version = v_match.group(1)
+                
+            s_match = re.search(r'MB\s*([\d\.]+)', card_text, re.IGNORECASE)
+            if s_match:
+                size_str = f"{s_match.group(1)} MB"
+            
+            break
 
 if not app_found:
     print(f"کێشە: نەمتوانی یارییەکی وا بە ناوی '{app_name_input}' لە ماڵپەڕەکەتدا بدۆزمەوە.")
