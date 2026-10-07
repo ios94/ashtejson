@@ -160,6 +160,44 @@
                 }
             },
             "patreon": {}
+        },
+        {
+            "id": 1769532000,
+            "name": "Urban Heat: FPS",
+            "version": "6.10.3",
+            "size": "894.53 MB",
+            "icon": "img/urbanheatfps.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/urbanheatfps.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/urbanheatfps.ipa",
+            "bundleIdentifier": "com.ashtemobile.app1769532000",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Downloaded from AshteMobile Source.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/urbanheatfps.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "6.10.3",
+                    "date": "2026-10-07T22:58:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/urbanheatfps.ipa",
+                    "size": 937982689,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {
+                    "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you."
+                }
+            },
+            "patreon": {}
         }
     ],
     "news": []
