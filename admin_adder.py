@@ -8,8 +8,8 @@ from datetime import datetime, timezone
 app_name = os.environ.get("APP_NAME")
 app_version = os.environ.get("APP_VERSION")
 app_size_str = os.environ.get("APP_SIZE")
-app_icon_input = os.environ.get("APP_ICON")
-ipa_link = os.environ.get("IPA_LINK")
+app_icon_input = os.environ.get("APP_ICON").strip()
+ipa_link = os.environ.get("IPA_LINK").strip()
 
 slug = "".join(e for e in app_name if e.isalnum()).lower()
 app_id = random.randint(1111111111, 1999999999)
@@ -20,8 +20,13 @@ try:
 except:
     size_in_bytes = 150000000
 
-icon_relative = f"img/{app_icon_input}"
-icon_full_url = f"https://raw.githubusercontent.com/ios94/ashtejson/main/img/{app_icon_input}"
+# زیرەکی کۆدەکە: جیاکردنەوەی لینکی دەرەکی لە ناوی وێنەی ئاسایی
+if app_icon_input.startswith("http://") or app_icon_input.startswith("https://"):
+    icon_relative = app_icon_input
+    icon_full_url = app_icon_input
+else:
+    icon_relative = f"img/{app_icon_input}"
+    icon_full_url = f"https://raw.githubusercontent.com/ios94/ashtejson/main/img/{app_icon_input}"
 
 os.makedirs("ipas", exist_ok=True)
 ipa_filename = f"ipas/{slug}.ipa"
@@ -45,7 +50,6 @@ except Exception as e:
 json_file = "ashtemobile94.json"
 backup_file = "backup_memory.json"
 
-# لێرەدا پشت بە بیرگەی شاراوە دەبەستێت ئەگەر فایلی سەرەکی نەبێت
 if os.path.exists(json_file):
     with open(json_file, "r", encoding="utf-8") as f:
         source_data = json.load(f)
@@ -115,7 +119,6 @@ if existing_idx is not None:
 else:
     source_data["apps"].append(new_app)
 
-# هەڵگرتن لە هەردوو فایلەکە (بۆ ئەوەی هەرگیز نەفەوتێت)
 with open(json_file, "w", encoding="utf-8") as f:
     json.dump(source_data, f, ensure_ascii=False, indent=4)
     
