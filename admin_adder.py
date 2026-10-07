@@ -45,6 +45,7 @@ except Exception as e:
 json_file = "ashtemobile94.json"
 backup_file = "backup_memory.json"
 
+# لێرەدا پشت بە بیرگەی شاراوە دەبەستێت ئەگەر فایلی سەرەکی نەبێت
 if os.path.exists(json_file):
     with open(json_file, "r", encoding="utf-8") as f:
         source_data = json.load(f)
@@ -114,6 +115,7 @@ if existing_idx is not None:
 else:
     source_data["apps"].append(new_app)
 
+# هەڵگرتن لە هەردوو فایلەکە (بۆ ئەوەی هەرگیز نەفەوتێت)
 with open(json_file, "w", encoding="utf-8") as f:
     json.dump(source_data, f, ensure_ascii=False, indent=4)
     
