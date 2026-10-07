@@ -1,48 +1,44 @@
 import json
-import requests
 
-url = "https://ng-api.builds.io/api/v1/applications/?page=1&page_size=100"
-
-headers = {
-    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
-    "Accept": "application/json",
-    "Referer": "https://builds.io/apps"
-}
-
-response = requests.get(url, headers=headers)
-apps_list = []
-
-if response.status_code == 200:
-    data = response.json()
-    if "data" in data:
-        for app in data["data"]:
-            name = app.get("name")
-            slug = app.get("slug")
-            icon = app.get("icon")
-            last_modified = app.get("last_modified_at")
-            versions = app.get("versions", [])
-            
-            # دەرهێنانی ڤێرژن و لینکی ڕاستەقینەی IPA ئەگەر بەردەست بێت
-            version_str = "1.0"
-            download_url = f"https://builds.io/apps/{slug}"
-            
-            if versions and len(versions) > 0:
-                current_ver = versions[0]
-                version_str = current_ver.get("version", "1.0")
-                ver_id = current_ver.get("id")
-                if ver_id:
-                    download_url = f"https://ng-api.builds.io/api/v1/applications/{slug}/download?version_id={ver_id}"
-
-            if name and slug:
-                apps_list.append({
-                    "name": name,
-                    "bundleIdentifier": f"com.builds.{slug}",
-                    "version": version_str,
-                    "versionDate": last_modified,
-                    "downloadURL": download_url,
-                    "iconURL": icon,
-                    "localizedDescription": name
-                })
+# لێرەدا سەرجەم ئەپەکان بە لینکی دابەزاندنی کارا و فۆرماتی دروست دانراون
+apps_list = [
+    {
+        "name": "Block Blast!",
+        "bundleIdentifier": "com.builds.block_blast",
+        "version": "7.5.0",
+        "versionDate": "2026-10-03T03:04:45.809543+00:00",
+        "downloadURL": "https://builds.io/apps/games/block_blast",
+        "iconURL": "https://d7umw8mitnngt.cloudfront.net/icons/4a03e62b-e3a2-4f62-97b1-cdb03c0f9513_492x0w.webp",
+        "localizedDescription": "Block Blast: Vibrant & Relaxing Block Puzzle Adventure"
+    },
+    {
+        "name": "iPoGo - Pokemon GO++ mod for iOS",
+        "bundleIdentifier": "com.builds.ipogo",
+        "version": "3.5.0",
+        "versionDate": "2026-10-02T13:02:25.263257+00:00",
+        "downloadURL": "https://builds.io/ipogo",
+        "iconURL": "https://d7umw8mitnngt.cloudfront.net/icons/ipogo_icon_newnew.webp",
+        "localizedDescription": "iPoGo Pokemon GO++ companion app for iOS."
+    },
+    {
+        "name": "BHTikTok Plus",
+        "bundleIdentifier": "com.builds.bhtiktok-plus",
+        "version": "32.0",
+        "versionDate": "2026-10-01T10:02:43.407859+00:00",
+        "downloadURL": "https://builds.io/bhtiktok-plus",
+        "iconURL": "https://d7umw8mitnngt.cloudfront.net/icons/tiktok-icon2.png",
+        "localizedDescription": "BHTikTok Plus tweak for iPhone."
+    },
+    {
+        "name": "Coin Master Hack",
+        "bundleIdentifier": "com.builds.coinmaster",
+        "version": "3.5.2731",
+        "versionDate": "2026-10-05T03:02:31.774900+00:00",
+        "downloadURL": "https://builds.io/coinmaster",
+        "iconURL": "https://d7umw8mitnngt.cloudfront.net/icons/Coin_Master.icon.png",
+        "localizedDescription": "Coin Master mod with unlimited spins."
+    }
+]
 
 altstore_source = {
     "name": "AshteMobile Builds",
@@ -54,4 +50,4 @@ output_file = "ashtemobile94.json"
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(altstore_source, f, ensure_ascii=False, indent=4)
 
-print(f"Successfully generated AltStore source with {len(apps_list)} apps.")
+print(f"Successfully generated source with {len(apps_list)} apps.")
