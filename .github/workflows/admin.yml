@@ -1,70 +1,159 @@
-name: Admin Panel - Add New App
+import os
+import json
+import requests
+import random
+import re
+from datetime import datetime, timezone
 
-on:
-  workflow_dispatch:
-    inputs:
-      app_type:
-        description: 'ئایا ئەمە یارییە یان بەرنامە؟'
-        required: true
-        type: choice
-        options:
-          - games
-          - apps
-      app_name:
-        description: 'ناوی یاری (نموونە: Block Blast)'
-        required: true
-      app_version:
-        description: 'ڤێرژن (نموونە: 1.0.0)'
-        required: true
-      app_size:
-        description: 'قەبارە (نموونە: 150 MB)'
-        required: true
-      app_icon:
-        description: 'ناوی وێنەکە یان لینکی وێنەکە لێرە دابنێ'
-        required: true
-      ipa_link:
-        description: 'لینکی ڕاستەوخۆی دابەزاندنی IPA'
-        required: true
+# لێرەدا جۆری بەرنامەکە یان یارییەکە لە فۆڕمەکەوە وەردەگرێت
+app_type = os.environ.get("APP_TYPE", "apps").strip()
+app_name = os.environ.get("APP_NAME")
+app_version = os.environ.get("APP_VERSION")
+app_size_str = os.environ.get("APP_SIZE")
+app_icon_input = os.environ.get("APP_ICON").strip()
+ipa_link = os.environ.get("IPA_LINK").strip()
 
-jobs:
-  add_app:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+slug = "".join(e for e in app_name if e.isalnum()).lower()
+app_id = random.randint(1111111111, 1999999999)
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+try:
+    size_in_mb = float(re.sub(r'[^\d.]', '', app_size_str))
+    size_in_bytes = int(size_in_mb * 1024 * 1024)
+except:
+    size_in_bytes = 150000000
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
+# دڵنیابوون لە بوونی فۆڵدەری وێنەکان
+os.makedirs("img", exist_ok=True)
 
-      - name: Install dependencies
-        run: pip install requests
+# بڕیاردان لەسەر وێنەکە: ئایا لینکە یان تەنها ناوە؟
+if app_icon_input.startswith("http://") or app_icon_input.startswith("https://"):
+    print(f"دەستم کرد بە داگرتنی وێنەکە لە لینکەکەوە...")
+    
+    # دیاریکردنی جۆری وێنەکە (.png یان .jpg)
+    ext = ".jpg"
+    if ".png" in app_icon_input.lower():
+        ext = ".png"
+    elif ".jpeg" in app_icon_input.lower():
+        ext = ".jpeg"
+        
+    downloaded_icon_name = f"{slug}{ext}"
+    icon_path = os.path.join("img", downloaded_icon_name)
+    
+    try:
+        ir = requests.get(app_icon_input, stream=True)
+        if ir.status_code == 200:
+            with open(icon_path, "wb") as f:
+                for chunk in ir.iter_content(1024):
+                    f.write(chunk)
+            print(f"وێنەکە سەرکەوتووانە داگیرا و سەیڤ کرا بە ناوی: {downloaded_icon_name}")
+        else:
+            print("کێشە هەبوو لە داگرتنی وێنەکە.")
+    except Exception as e:
+        print(f"ئیرۆر لە کاتی داگرتنی وێنەکە: {e}")
 
-      - name: Run Admin Script
-        env:
-          APP_TYPE: ${{ github.event.inputs.app_type }}
-          APP_NAME: ${{ github.event.inputs.app_name }}
-          APP_VERSION: ${{ github.event.inputs.app_version }}
-          APP_SIZE: ${{ github.event.inputs.app_size }}
-          APP_ICON: ${{ github.event.inputs.app_icon }}
-          IPA_LINK: ${{ github.event.inputs.ipa_link }}
-        run: python admin_adder.py
+    icon_relative = f"img/{downloaded_icon_name}"
+    icon_full_url = f"https://raw.githubusercontent.com/ios94/ashtejson/main/img/{downloaded_icon_name}"
+else:
+    print("تەنها ناوی وێنەکە دراوە، بەبێ داگرتن بەکاریدەهێنم.")
+    icon_relative = f"img/{app_icon_input}"
+    icon_full_url = f"https://raw.githubusercontent.com/ios94/ashtejson/main/img/{app_icon_input}"
 
-      - name: Upload IPA to Release V1
-        uses: softprops/action-gh-release@v1
-        with:
-          tag_name: V1
-          files: ipas/*.ipa
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Update JSON Source, Memory, and Images
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add ashtemobile94.json backup_memory.json img/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Admin added: ${{ github.event.inputs.app_name }} (${{ github.event.inputs.app_type }})" && git push)
+os.makedirs("ipas", exist_ok=True)
+ipa_filename = f"ipas/{slug}.ipa"
+
+print(f"خەریکی داگرتنی یاری {app_name} ...")
+
+try:
+    r = requests.get(ipa_link, stream=True)
+    if r.status_code == 200:
+        with open(ipa_filename, "wb") as f:
+            for chunk in r.iter_content(chunk_size=8192):
+                f.write(chunk)
+        print("داگرتنی یارییەکە سەرکەوتوو بوو.")
+    else:
+        print("کێشە لە داگرتنی IPA هەیە!")
+        exit(1)
+except Exception as e:
+    print(f"Error: {e}")
+    exit(1)
+
+json_file = "ashtemobile94.json"
+backup_file = "backup_memory.json"
+
+if os.path.exists(json_file):
+    with open(json_file, "r", encoding="utf-8") as f:
+        source_data = json.load(f)
+elif os.path.exists(backup_file):
+    with open(backup_file, "r", encoding="utf-8") as f:
+        source_data = json.load(f)
+else:
+    source_data = {
+        "name": "Ashtemobile",
+        "subtitle": "A source for all of my apps & games",
+        "description": "Welcome to my source! Here you'll find all of my apps.",
+        "iconURL": "https://ashtemobile.site/logo.png",
+        "website": "https://ashtemobile.site/",
+        "patreonURL": "https://ashtemobile.site/Ashtemobile.json",
+        "tintColor": "#ff007f",
+        "featuredApps": [],
+        "headerURL": "https://ashtemobile.site/logo.png",
+        "apps": [],
+        "news": []
+    }
+
+github_release_url = f"https://github.com/ios94/ashtejson/releases/download/V1/{slug}.ipa"
+current_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
+
+new_app = {
+    "id": app_id,
+    "name": app_name,
+    "version": app_version,
+    "size": app_size_str,
+    "icon": icon_relative,
+    "badge": "",
+    "type": app_type,  # لێرەدا بە ئۆتۆماتیکی دەگۆڕێت بۆ games یان apps
+    "install_url": github_release_url,
+    "download_url": github_release_url,
+    "bundleIdentifier": f"com.ashtemobile.app{app_id}",
+    "marketplaceID": "",
+    "developerName": "AshteMobile",
+    "subtitle": "Awesome App",
+    "localizedDescription": "Downloaded from AshteMobile Source.",
+    "iconURL": icon_full_url,
+    "tintColor": "#04ecfc",
+    "category": app_type,  # لێرەشدا هەمان شت
+    "screenshots": [],
+    "versions": [
+        {
+            "version": app_version,
+            "date": current_date,
+            "localizedDescription": None,
+            "downloadURL": github_release_url,
+            "size": size_in_bytes,
+            "buildVersion": None,
+            "minOSVersion": "14.0"
+        }
+    ],
+    "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+            "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you."
+        }
+    },
+    "patreon": {}
+}
+
+existing_idx = next((i for i, a in enumerate(source_data["apps"]) if a.get("name") == new_app["name"]), None)
+if existing_idx is not None:
+    source_data["apps"][existing_idx] = new_app
+else:
+    source_data["apps"].append(new_app)
+
+with open(json_file, "w", encoding="utf-8") as f:
+    json.dump(source_data, f, ensure_ascii=False, indent=4)
+    
+with open(backup_file, "w", encoding="utf-8") as f:
+    json.dump(source_data, f, ensure_ascii=False, indent=4)
+
+print(f"بە سەرکەوتوویی یارییەکە و وێنەکەی سەیڤ کران لە بەشی {app_type}!")
