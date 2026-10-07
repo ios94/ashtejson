@@ -1,26 +1,15 @@
-name: Admin Panel - Add New App
+name: Admin Panel - Add Bulk Apps
 
 on:
   workflow_dispatch:
     inputs:
-      app_name:
-        description: 'ناوی یاری (نموونە: Block Blast)'
+      bulk_data:
+        description: 'لێرەدا یارییەکان دابنێ. (نموونە: ناو | ڤێرژن | قەبارە | وێنە | لینک)'
         required: true
-      app_version:
-        description: 'ڤێرژن (نموونە: 1.0.0)'
-        required: true
-      app_size:
-        description: 'قەبارە (نموونە: 150 MB)'
-        required: true
-      app_icon:
-        description: 'ناوی وێنەکە یان لینکی وێنەکە لێرە دابنێ'
-        required: true
-      ipa_link:
-        description: 'لینکی ڕاستەوخۆی دابەزاندنی IPA'
-        required: true
+        type: string
 
 jobs:
-  add_app:
+  add_apps:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -39,14 +28,10 @@ jobs:
 
       - name: Run Admin Script
         env:
-          APP_NAME: ${{ github.event.inputs.app_name }}
-          APP_VERSION: ${{ github.event.inputs.app_version }}
-          APP_SIZE: ${{ github.event.inputs.app_size }}
-          APP_ICON: ${{ github.event.inputs.app_icon }}
-          IPA_LINK: ${{ github.event.inputs.ipa_link }}
+          BULK_DATA: ${{ github.event.inputs.bulk_data }}
         run: python admin_adder.py
 
-      - name: Upload IPA to Release V1
+      - name: Upload IPAs to Release V1
         uses: softprops/action-gh-release@v1
         with:
           tag_name: V1
@@ -59,4 +44,4 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add ashtemobile94.json backup_memory.json img/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Admin added: ${{ github.event.inputs.app_name }} with local icon" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Admin added multiple apps successfully!" && git push)
