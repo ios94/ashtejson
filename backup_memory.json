@@ -122,6 +122,44 @@
                 }
             },
             "patreon": {}
+        },
+        {
+            "id": 1683722859,
+            "name": "Shoot & Hide",
+            "version": "1.10.1",
+            "size": "97.99 MB",
+            "icon": "img/shoothide.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/shoothide.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/shoothide.ipa",
+            "bundleIdentifier": "com.ashtemobile.app1683722859",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Downloaded from AshteMobile Source.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shoothide.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.10.1",
+                    "date": "2026-10-07T22:55:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/shoothide.ipa",
+                    "size": 102749962,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {
+                    "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you."
+                }
+            },
+            "patreon": {}
         }
     ],
     "news": []
