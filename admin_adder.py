@@ -21,7 +21,8 @@ except:
     size_in_bytes = 150000000
 
 icon_relative = f"img/{app_icon_input}"
-icon_full_url = f"https://ashtemobile.site/img/{app_icon_input}"
+# لێرەدا لینکەکەمان گۆڕی بۆ لینکی ڕاستەوخۆی گیتهاپ بۆ ئەوەی دەستبەجێ کار بکات
+icon_full_url = f"https://raw.githubusercontent.com/ios94/ashtejson/main/img/{app_icon_input}"
 
 os.makedirs("ipas", exist_ok=True)
 ipa_filename = f"ipas/{slug}.ipa"
@@ -45,7 +46,6 @@ except Exception as e:
 json_file = "ashtemobile94.json"
 backup_file = "backup_memory.json"
 
-# لێرەدا سەرەتا سەیری فایلی سەرەکی دەکات، ئەگەر نەبوو سەیری بیرگەی مێشکی دەکات بۆ ئەوەی هیچی لێ نەفەوتێت
 if os.path.exists(json_file):
     with open(json_file, "r", encoding="utf-8") as f:
         source_data = json.load(f)
@@ -138,7 +138,6 @@ if existing_idx is not None:
 else:
     source_data["apps"].append(new_app)
 
-# پاشەکەوتکردن لە هەردوو فایلی سەرەکی و بیرگەی مێشکەکە
 with open(json_file, "w", encoding="utf-8") as f:
     json.dump(source_data, f, ensure_ascii=False, indent=4)
     
