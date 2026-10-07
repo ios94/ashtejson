@@ -1,4 +1,4 @@
-name: Upload IPAs and JSON to Release
+name: Auto Download IPAs and Update Source
 
 on:
   schedule:
@@ -25,15 +25,20 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run extractor script
+      - name: Run extractor script to download IPAs and make JSON
         run: python extractor.py
 
-      - name: Upload IPAs and JSON to Release V1
+      - name: Commit and push JSON to Repository
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add ashtemobile94.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update JSON source automatically" && git push)
+
+      - name: Upload downloaded IPAs to Release V1
         uses: softprops/action-gh-release@v1
         with:
           tag_name: V1
-          files: |
-            ashtemobile94.json
-            ipas/*.ipa
+          files: ipas/*.ipa
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
