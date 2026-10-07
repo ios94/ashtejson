@@ -13,7 +13,7 @@ on:
         description: 'قەبارە (نموونە: 150 MB)'
         required: true
       app_icon:
-        description: 'ناوی وێنەکە لە ناو img (نموونە: logo.png)'
+        description: 'ناوی وێنەکە یان لینکی وێنەکە لێرە دابنێ'
         required: true
       ipa_link:
         description: 'لینکی ڕاستەوخۆی دابەزاندنی IPA'
@@ -54,9 +54,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Update JSON Source and Memory
+      - name: Update JSON Source, Memory, and Images
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add ashtemobile94.json backup_memory.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Admin added: ${{ github.event.inputs.app_name }}" && git push)
+          git add ashtemobile94.json backup_memory.json img/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Admin added: ${{ github.event.inputs.app_name }} with local icon" && git push)
