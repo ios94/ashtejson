@@ -20,18 +20,47 @@ try:
 except:
     size_in_bytes = 150000000
 
-# زیرەکی کۆدەکە: جیاکردنەوەی لینکی دەرەکی لە ناوی وێنەی ئاسایی
+# دڵنیابوون لە بوونی فۆڵدەری وێنەکان
+os.makedirs("img", exist_ok=True)
+
+# بڕیاردان لەسەر وێنەکە: ئایا لینکە یان تەنها ناوە؟
 if app_icon_input.startswith("http://") or app_icon_input.startswith("https://"):
-    icon_relative = app_icon_input
-    icon_full_url = app_icon_input
+    print(f"دەستم کرد بە داگرتنی وێنەکە لە لینکەکەوە...")
+    
+    # دیاریکردنی جۆری وێنەکە (.png یان .jpg)
+    ext = ".jpg"
+    if ".png" in app_icon_input.lower():
+        ext = ".png"
+    elif ".jpeg" in app_icon_input.lower():
+        ext = ".jpeg"
+        
+    downloaded_icon_name = f"{slug}{ext}"
+    icon_path = os.path.join("img", downloaded_icon_name)
+    
+    try:
+        ir = requests.get(app_icon_input, stream=True)
+        if ir.status_code == 200:
+            with open(icon_path, "wb") as f:
+                for chunk in ir.iter_content(1024):
+                    f.write(chunk)
+            print(f"وێنەکە سەرکەوتووانە داگیرا و سەیڤ کرا بە ناوی: {downloaded_icon_name}")
+        else:
+            print("کێشە هەبوو لە داگرتنی وێنەکە.")
+    except Exception as e:
+        print(f"ئیرۆر لە کاتی داگرتنی وێنەکە: {e}")
+
+    icon_relative = f"img/{downloaded_icon_name}"
+    icon_full_url = f"https://raw.githubusercontent.com/ios94/ashtejson/main/img/{downloaded_icon_name}"
 else:
+    print("تەنها ناوی وێنەکە دراوە، بەبێ داگرتن بەکاریدەهێنم.")
     icon_relative = f"img/{app_icon_input}"
     icon_full_url = f"https://raw.githubusercontent.com/ios94/ashtejson/main/img/{app_icon_input}"
+
 
 os.makedirs("ipas", exist_ok=True)
 ipa_filename = f"ipas/{slug}.ipa"
 
-print(f"Admin is downloading {app_name}...")
+print(f"خەریکی داگرتنی یاری {app_name} ...")
 
 try:
     r = requests.get(ipa_link, stream=True)
@@ -39,9 +68,9 @@ try:
         with open(ipa_filename, "wb") as f:
             for chunk in r.iter_content(chunk_size=8192):
                 f.write(chunk)
-        print("Download successful.")
+        print("داگرتنی یارییەکە سەرکەوتوو بوو.")
     else:
-        print("Failed to download the IPA!")
+        print("کێشە لە داگرتنی IPA هەیە!")
         exit(1)
 except Exception as e:
     print(f"Error: {e}")
@@ -125,4 +154,4 @@ with open(json_file, "w", encoding="utf-8") as f:
 with open(backup_file, "w", encoding="utf-8") as f:
     json.dump(source_data, f, ensure_ascii=False, indent=4)
 
-print(f"Successfully generated JSON and saved to memory for {app_name}!")
+print(f"بە سەرکەوتوویی یارییەکە و وێنەکەی سەیڤ کران!")
