@@ -21,6 +21,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,7 +32,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4
 
-      - name: Run Smart Scraper Script
+      - name: Heavy Work (Download IPA and Scrape)
         env:
           APP_NAME: ${{ github.event.inputs.app_name }}
           IPA_LINK: ${{ github.event.inputs.ipa_link }}
@@ -44,9 +46,28 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Update JSON Source, Memory, and Images
+      - name: Smart Queue (Safe JSON Update and Push)
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add ashtemobile94.json backup_memory.json img/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Smart Added App" && git push)
+          
+          # سیستەمی ڕیزبەندی زیرەک - تا ٢٠ جار هەوڵ دەدات بۆ ئەوەی ئیرۆر نەدات
+          for i in {1..20}; do
+            echo "هەوڵی ژمارە $i: هێنانی تازەترین ڤێرژنی سۆرسەکە..."
+            git pull origin main --rebase
+            
+            echo "خستنە ناوەوەی یارییە نوێیەکە بۆ ناو سۆرسەکە..."
+            python admin_adder.py update_json
+            
+            git add ashtemobile94.json backup_memory.json img/
+            git commit -m "Smart Added App" || echo "No changes"
+            
+            if git push; then
+              echo "سەرکەوتوو بوو! یارییەکە خرایە ناو گیتهاپ."
+              break
+            else
+              echo "هێڵەکە قەرەباڵغە! ڕۆبۆتێکی تر خەریکە... ١٠ چرکە چاوەڕێ دەکەم."
+              git restore ashtemobile94.json backup_memory.json || true
+              sleep 10
+            fi
+          done
