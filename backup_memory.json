@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1534127536,
+            "name": "Recycle Empire",
+            "version": "0.22",
+            "size": "161.82 MB",
+            "icon": "img/recycleempire.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/recycleempire.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/recycleempire.ipa",
+            "bundleIdentifier": "com.eg.recycleempire",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Cash (Will go negative, but you can still spend!)\n- High move speed",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/recycleempire.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "0.22",
+                    "date": "2026-10-08T20:49:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/recycleempire.ipa",
+                    "size": 169680568,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1795944814,
             "name": "Yukon: Family Adventure",
             "version": "1.73.0",
