@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1483757643,
+            "name": "Zombie Vanguard",
+            "version": "1.0.1",
+            "size": "159.61 MB",
+            "icon": "img/zombievanguard.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/zombievanguard.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/zombievanguard.ipa",
+            "bundleIdentifier": "net.gameduo.zd",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → boost your firepower output\n- Defence Multiplier → strengthen your squad's resilience\n- Never Die → become invulnerable in battle\n- Unlimited Currencies - Will increase instead of decrease → spend freely without depletion\n- Gold Modifier → multiply your gold earnings\n- Diamond Modifier → multiply your diamond earnings\n- Energy Modifier → adjust your energy consumption",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zombievanguard.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.0.1",
+                    "date": "2026-10-08T16:47:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/zombievanguard.ipa",
+                    "size": 167363215,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1789969839,
             "name": "Sled Surfers",
             "version": "1.13.2",
