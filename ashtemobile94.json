@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1601004971,
+            "name": "Idle Miner Tycoon clicker game",
+            "version": "5.64.1",
+            "size": "142.43 MB",
+            "icon": "img/idleminertycoonclickergame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/idleminertycoonclickergame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/idleminertycoonclickergame.ipa",
+            "bundleIdentifier": "com.fluffyfairygames.idleminertycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free store",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idleminertycoonclickergame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "5.64.1",
+                    "date": "2026-10-08T20:39:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/idleminertycoonclickergame.ipa",
+                    "size": 149348679,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1162359460,
             "name": "Ninja Scroll Rush",
             "version": "0.3.9",
