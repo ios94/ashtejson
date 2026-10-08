@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1977014265,
+            "name": "Little Singham 2: World Hero",
+            "version": "1.0.25",
+            "size": "167.56 MB",
+            "icon": "img/littlesingham2worldhero.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/littlesingham2worldhero.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/littlesingham2worldhero.ipa",
+            "bundleIdentifier": "com.zapak.littlesingham.cat.minion.princess.temple.cookie",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Coins\n- Unlimited Gems",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/littlesingham2worldhero.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.0.25",
+                    "date": "2026-10-08T20:32:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/littlesingham2worldhero.ipa",
+                    "size": 175699394,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1948882521,
             "name": "Idle Lumber Empire - Wood Game",
             "version": "1.13.2",
