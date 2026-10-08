@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1525802029,
+            "name": "Hero Wars: Alliance Adventure",
+            "version": "1.291.001",
+            "size": "144.56 MB",
+            "icon": "img/herowarsallianceadventure.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/herowarsallianceadventure.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/herowarsallianceadventure.ipa",
+            "bundleIdentifier": "com.nexters.titanhunters",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defense Multiplier",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/herowarsallianceadventure.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.291.001",
+                    "date": "2026-10-08T18:56:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/herowarsallianceadventure.ipa",
+                    "size": 151582146,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1417160430,
             "name": "War Drone: 3D Shooting Games",
             "version": "500253",
