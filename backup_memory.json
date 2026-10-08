@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1811025715,
+            "name": "Road Trip: Merge Family Games!",
+            "version": "2609.0.1",
+            "size": "192.14 MB",
+            "icon": "img/roadtripmergefamilygames.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/roadtripmergefamilygames.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/roadtripmergefamilygames.ipa",
+            "bundleIdentifier": "com.vizor-apps.Road-Trip",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Merge Energy\n- Freeze Energy\n- Freeze Cash\n- Unlimited Merge Energy -> Spend some then restart the game.\n- Unlimited Energy -> Spend some then restart the game.\n- Unlimited Cash -> Spend some then restart the game.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roadtripmergefamilygames.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "2609.0.1",
+                    "date": "2026-10-08T16:42:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/roadtripmergefamilygames.ipa",
+                    "size": 201473392,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1412547930,
             "name": "FarmVille 2: Country Escape",
             "version": "30.9",
