@@ -3,12 +3,8 @@ name: Admin Panel - Smart Auto Adder
 on:
   workflow_dispatch:
     inputs:
-      checkover_link:
-        description: 'لینکی یارییەکە لە سایتی checkover دابنێ (نموونە: https://check0ver.net/en/iapps)'
-        required: true
-        type: string
-      app_name_to_find:
-        description: 'تەنها ناوی یارییەکە بنووسە (بۆ ئەوەی ڕۆبۆتەکە لەناو سایتەکە بیدۆزێتەوە)'
+      app_name:
+        description: 'تەنها ناوی یارییەکە بنووسە (بۆ نموونە: Coffee Stack)'
         required: true
         type: string
       ipa_link:
@@ -36,8 +32,7 @@ jobs:
 
       - name: Run Smart Scraper Script
         env:
-          CHECKOVER_LINK: ${{ github.event.inputs.checkover_link }}
-          APP_NAME: ${{ github.event.inputs.app_name_to_find }}
+          APP_NAME: ${{ github.event.inputs.app_name }}
           IPA_LINK: ${{ github.event.inputs.ipa_link }}
         run: python admin_adder.py
 
@@ -54,4 +49,4 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add ashtemobile94.json backup_memory.json img/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Smart Added: ${{ github.event.inputs.app_name_to_find }}" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Smart Added: ${{ github.event.inputs.app_name }}" && git push)
