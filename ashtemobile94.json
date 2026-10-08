@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1942557203,
+            "name": "Among Us!",
+            "version": "2026.9.29",
+            "size": "723.73 MB",
+            "icon": "img/amongus.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/amongus.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/amongus.ipa",
+            "bundleIdentifier": "com.innersloth.amongus",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "✅ All Skins Unlocked\n✅ All Pets Unlocked\n✅ All Hats Unlocked\n✅ No Ads",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amongus.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "2026.9.29",
+                    "date": "2026-10-08T21:22:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/amongus.ipa",
+                    "size": 758885908,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1895090513,
             "name": "Paradise Paws: Merge Animals",
             "version": "1.15.0",
