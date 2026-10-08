@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1250896101,
+            "name": "Galaxy Attack: Alien Shooter",
+            "version": "76.2",
+            "size": "322.15 MB",
+            "icon": "img/galaxyattackalienshooter.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyattackalienshooter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyattackalienshooter.ipa",
+            "bundleIdentifier": "com.alien.shooter.galaxy.attack",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Max Bullet .\n- Max Life .\n- DMG .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/galaxyattackalienshooter.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "76.2",
+                    "date": "2026-10-08T18:46:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyattackalienshooter.ipa",
+                    "size": 337798758,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1311384947,
             "name": "SimCity BuildIt",
             "version": "1.83.2",
