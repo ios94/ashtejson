@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1398439141,
+            "name": "Knit Out",
+            "version": "1.32.1",
+            "size": "253.5 MB",
+            "icon": "img/knitout.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/knitout.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/knitout.ipa",
+            "bundleIdentifier": "com.sbg.knitout",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- 9 million coins\n- Unlimited time\n- Activate fake purchases\n\nNote: Activate the mission from the mod menu, exit the game, and then re-enter it.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/knitout.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.32.1",
+                    "date": "2026-10-08T20:07:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/knitout.ipa",
+                    "size": 265814016,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1944033969,
             "name": "Bullet Force",
             "version": "1.120",
