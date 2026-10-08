@@ -21,11 +21,9 @@ if not slug:
 
 print("خەریکی پشکنینی سایتەکەم بۆ دۆزینەوەی یارییەکە...")
 
-# فەنکشنێکی زیرەک بۆ گەڕان بەناو هەموو داتاکانی سایتەکەدا (بۆ هەر جۆرە لینکێک بێت کار دەکات)
 def find_app_in_json(data, target_name):
     if isinstance(data, dict):
         name = data.get('name', '')
-        # ئەگەر ناوەکەی تێدابوو، وە دڵنیا بین کە یارییە (ڤێرژن یان قەبارەی هەیە)
         if isinstance(name, str) and target_name.lower() in name.lower():
             if 'version' in data or 'size' in data or 'image' in data or 'iconURL' in data:
                 return data
@@ -55,8 +53,6 @@ try:
         exit(1)
         
     page_data = json.loads(app_div['data-page'])
-    
-    # گەڕانی زیرەک بەدوای یارییەکەدا لەناو سایتەکە
     target_app = find_app_in_json(page_data, app_name_input)
         
 except Exception as e:
@@ -73,7 +69,6 @@ print(f"- ناو: {target_app.get('name', app_name_input)}")
 print(f"- ڤێرژن: {target_app.get('version', '1.0')}")
 print(f"- قەبارە: {target_app.get('size', 'N/A')}")
 
-# ٣. ڕێکخستنی وێنەکە
 app_icon_url = target_app.get('image', target_app.get('icon', target_app.get('iconURL', '')))
 os.makedirs("img", exist_ok=True)
 ext = ".jpg"
@@ -96,7 +91,6 @@ if app_icon_url and app_icon_url.startswith("http"):
 icon_relative = f"img/{downloaded_icon_name}"
 icon_full_url = f"https://raw.githubusercontent.com/ios94/ashtejson/main/img/{downloaded_icon_name}"
 
-# ٤. داگرتنی یارییەکە (IPA)
 os.makedirs("ipas", exist_ok=True)
 ipa_filename = f"ipas/{slug}.ipa"
 print("خەریکی داگرتنی یارییەکە لە لینکەکەتەوە...")
@@ -114,7 +108,6 @@ except Exception as e:
     print(f"Error: {e}")
     exit(1)
 
-# ٥. دروستکردنی فۆرمات بۆ سۆرسەکەت
 github_release_url = f"https://github.com/ios94/ashtejson/releases/download/V1/{slug}.ipa"
 current_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
 app_id = random.randint(1111111111, 1999999999)
@@ -158,7 +151,6 @@ new_app = {
     ]
 }
 
-# ٦. سەیڤکردن لەناو JSON
 json_file = "ashtemobile94.json"
 backup_file = "backup_memory.json"
 source_data = None
@@ -175,17 +167,19 @@ if "apps" not in source_data:
 is_update = False
 for i, existing_app in enumerate(source_data["apps"]):
     if existing_app.get("name") == new_app["name"]:
-        # پاراستنی ئایدی کۆن بۆ ئەوەی سۆرسەکە تێک نەچێت
         new_app["id"] = existing_app.get("id", app_id)
-        source_data["apps"][i] = new_app
+        # دەرکردنی یارییە کۆنەکە لە شوێنی خۆی بۆ ئەوەی بخرێتە سەرەوە
+        source_data["apps"].pop(i)
         is_update = True
         break
 
+# خستنە ڕیزی یەکەم بە فەرمانی insert
+source_data["apps"].insert(0, new_app)
+
 if is_update:
-    print("\n===> ئەم یارییە پێشتر هەبوو، ئاپدەیت کرا بۆ ڤێرژنە نوێیەکە! <===\n")
+    print("\n===> ئەم یارییە پێشتر هەبوو، ئاپدەیت کرا و هاتە ڕیزی یەکەم! <===\n")
 else:
-    source_data["apps"].append(new_app)
-    print("\n===> یارییەکی نوێیە، بە سەرکەوتوویی زیاد کرا! <===\n")
+    print("\n===> یارییەکی نوێیە، بە سەرکەوتوویی چووە ڕیزی یەکەم! <===\n")
 
 with open(json_file, "w", encoding="utf-8") as f:
     json.dump(source_data, f, ensure_ascii=False, indent=4)
