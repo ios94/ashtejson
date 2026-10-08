@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1944033969,
+            "name": "Bullet Force",
+            "version": "1.120",
+            "size": "827.47 MB",
+            "icon": "img/bulletforce.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bulletforce.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bulletforce.ipa",
+            "bundleIdentifier": "com.blayzegames.iosfps",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Aimbot\n- ESP\n- No Recoil\n- No Bullet Spread\n- Set Weapon [0 - 68]\n- Set Weapon Camo [0 - 209]\n- Set Bullet Color [0 - 7]\n- Unlimited Ammo",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bulletforce.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.120",
+                    "date": "2026-10-08T20:02:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bulletforce.ipa",
+                    "size": 867665182,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1845812269,
             "name": "Hill Climb Racing",
             "version": "1.72.0",
