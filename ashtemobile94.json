@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1789969839,
+            "name": "Sled Surfers",
+            "version": "1.13.2",
+            "size": "186.25 MB",
+            "icon": "img/sledsurfers.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/sledsurfers.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/sledsurfers.ipa",
+            "bundleIdentifier": "com.sled.surfers.game",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Set Max Level on all items and Get 999k item upon spent (ViP)\n- Unlock All Skins (ViP)\n- Free Upgrades (Free)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sledsurfers.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.13.2",
+                    "date": "2026-10-08T16:46:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/sledsurfers.ipa",
+                    "size": 195297280,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1811025715,
             "name": "Road Trip: Merge Family Games!",
             "version": "2609.0.1",
