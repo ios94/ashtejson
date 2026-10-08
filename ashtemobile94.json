@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1787167228,
+            "name": "Pizza Ready!",
+            "version": "60.3.0",
+            "size": "148.53 MB",
+            "icon": "img/pizzaready.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/pizzaready.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/pizzaready.ipa",
+            "bundleIdentifier": "io.supercent.pizzaidle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Free store (tap \"Purchase\" then cancel) .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pizzaready.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "60.3.0",
+                    "date": "2026-10-08T20:34:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/pizzaready.ipa",
+                    "size": 155744993,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1977014265,
             "name": "Little Singham 2: World Hero",
             "version": "1.0.25",
