@@ -4,7 +4,6 @@ import requests
 import random
 import re
 import copy
-import urllib.parse
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 
@@ -22,48 +21,57 @@ if not slug:
 
 print("خەریکی پشکنینی سایتەکەم بۆ دۆزینەوەی یارییەکە...")
 
-# ١. هێنانی زانیارییەکان لە سایتەکەوە
+# فەنکشنێکی زیرەک بۆ گەڕان بەناو هەموو داتاکانی سایتەکەدا (بۆ هەر جۆرە لینکێک بێت کار دەکات)
+def find_app_in_json(data, target_name):
+    if isinstance(data, dict):
+        name = data.get('name', '')
+        # ئەگەر ناوەکەی تێدابوو، وە دڵنیا بین کە یارییە (ڤێرژن یان قەبارەی هەیە)
+        if isinstance(name, str) and target_name.lower() in name.lower():
+            if 'version' in data or 'size' in data or 'image' in data or 'iconURL' in data:
+                return data
+        for value in data.values():
+            result = find_app_in_json(value, target_name)
+            if result:
+                return result
+    elif isinstance(data, list):
+        for item in data:
+            result = find_app_in_json(item, target_name)
+            if result:
+                return result
+    return None
+
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
+
 try:
     response = requests.get(checkover_link, headers=headers)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, 'html.parser')
     
-    # دۆزینەوەی داتای JSON لەناو سایتەکە
     app_div = soup.find('div', id='app')
     if not app_div or not app_div.has_attr('data-page'):
         print("کێشە: نەمتوانی زانیارییەکان لە سایتەکە دەربهێنم.")
         exit(1)
         
     page_data = json.loads(app_div['data-page'])
-    games_list = page_data.get('props', {}).get('paginator', {}).get('data', [])
     
-    if not games_list:
-        # هەوڵدان لە شوێنی تر ئەگەر لەناو paginator نەبوو
-        games_list = page_data.get('props', {}).get('app', {}).get('apps', [])
+    # گەڕانی زیرەک بەدوای یارییەکەدا لەناو سایتەکە
+    target_app = find_app_in_json(page_data, app_name_input)
         
 except Exception as e:
     print(f"کێشە لە پەیوەندیکردن بە سایتەکە: {e}")
     exit(1)
 
-# ٢. دۆزینەوەی یارییەکە
-target_app = None
-for game in games_list:
-    name = game.get('name', '')
-    if app_name_input.lower() in name.lower():
-        target_app = game
-        break
-
 if not target_app:
     print(f"کێشە: نەمتوانی یاری '{app_name_input}' لەناو ئەو لینکەدا بدۆزمەوە.")
+    print("تکایە دڵنیابە کە ناوی یارییەکەت ڕێک وەک خۆی نووسیوە یان لینکەکە ڕاستە.")
     exit(1)
 
 print(f"سەرکەوتوو بوو! یارییە دۆزرایەوە:")
-print(f"- ناو: {target_app.get('name')}")
-print(f"- ڤێرژن: {target_app.get('version')}")
-print(f"- قەبارە: {target_app.get('size')}")
+print(f"- ناو: {target_app.get('name', app_name_input)}")
+print(f"- ڤێرژن: {target_app.get('version', '1.0')}")
+print(f"- قەبارە: {target_app.get('size', 'N/A')}")
 
 # ٣. ڕێکخستنی وێنەکە
 app_icon_url = target_app.get('image', target_app.get('icon', target_app.get('iconURL', '')))
@@ -113,7 +121,7 @@ app_id = random.randint(1111111111, 1999999999)
 
 app_size_str = target_app.get('size', '100 MB')
 try:
-    size_in_mb = float(re.sub(r'[^\d.]', '', app_size_str))
+    size_in_mb = float(re.sub(r'[^\d.]', '', str(app_size_str)))
     size_in_bytes = int(size_in_mb * 1024 * 1024)
 except:
     size_in_bytes = 150000000
@@ -122,7 +130,7 @@ new_app = {
     "id": app_id,
     "name": target_app.get('name', app_name_input),
     "version": target_app.get('version', '1.0'),
-    "size": app_size_str,
+    "size": str(app_size_str),
     "icon": icon_relative,
     "badge": "",
     "type": "games",
@@ -147,14 +155,7 @@ new_app = {
             "buildVersion": None,
             "minOSVersion": "14.0"
         }
-    ],
-    "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-            "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you."
-        }
-    },
-    "patreon": {}
+    ]
 }
 
 # ٦. سەیڤکردن لەناو JSON
@@ -168,10 +169,13 @@ if os.path.exists(json_file):
 else:
     source_data = {"apps": []}
 
+if "apps" not in source_data:
+    source_data["apps"] = []
+
 is_update = False
-for i, existing_app in enumerate(source_data.get("apps", [])):
+for i, existing_app in enumerate(source_data["apps"]):
     if existing_app.get("name") == new_app["name"]:
-        # گۆڕینی ئایدی بۆ ئەوەی کۆنەکە تێک نەچێت
+        # پاراستنی ئایدی کۆن بۆ ئەوەی سۆرسەکە تێک نەچێت
         new_app["id"] = existing_app.get("id", app_id)
         source_data["apps"][i] = new_app
         is_update = True
@@ -180,7 +184,7 @@ for i, existing_app in enumerate(source_data.get("apps", [])):
 if is_update:
     print("\n===> ئەم یارییە پێشتر هەبوو، ئاپدەیت کرا بۆ ڤێرژنە نوێیەکە! <===\n")
 else:
-    source_data.setdefault("apps", []).append(new_app)
+    source_data["apps"].append(new_app)
     print("\n===> یارییەکی نوێیە، بە سەرکەوتوویی زیاد کرا! <===\n")
 
 with open(json_file, "w", encoding="utf-8") as f:
