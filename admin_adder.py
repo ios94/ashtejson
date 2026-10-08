@@ -3,24 +3,24 @@ import json
 import requests
 import random
 import re
-import copy
+import urllib.parse
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 
-checkover_link = os.environ.get("CHECKOVER_LINK", "").strip()
 app_name_input = os.environ.get("APP_NAME", "").strip()
 ipa_link = os.environ.get("IPA_LINK", "").strip()
 
-if not checkover_link or not app_name_input or not ipa_link:
-    print("کێشە: پێویستە هەموو خانەکان پڕ بکرێنەوە!")
+if not app_name_input or not ipa_link:
+    print("کێشە: پێویستە ناوی یاری و لینک پڕ بکرێتەوە!")
     exit(1)
 
 slug = "".join(e for e in app_name_input if e.isalnum()).lower()
 if not slug:
     slug = f"app{random.randint(1000, 9999)}"
 
-print("خەریکی پشکنینی سایتەکەم بۆ دۆزینەوەی یارییەکە...")
+print(f"خەریکی گەڕانم بەدوای '{app_name_input}' لەناو سایتەکە بە ئۆتۆماتیکی...")
 
+# فەنکشن بۆ دۆزینەوەی یاری لەناو داتای سایتەکە
 def find_app_in_json(data, target_name):
     if isinstance(data, dict):
         name = data.get('name', '')
@@ -29,39 +29,63 @@ def find_app_in_json(data, target_name):
                 return data
         for value in data.values():
             result = find_app_in_json(value, target_name)
-            if result:
-                return result
+            if result: return result
     elif isinstance(data, list):
         for item in data:
             result = find_app_in_json(item, target_name)
-            if result:
-                return result
+            if result: return result
     return None
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-}
-
-try:
-    response = requests.get(checkover_link, headers=headers)
-    response.raise_for_status()
-    soup = BeautifulSoup(response.text, 'html.parser')
+# فەنکشن بۆ هێنانی داتا لە سایتەکەوە بەبێ پێویستی بە لینک
+def fetch_checkover_data(app_name):
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
     
-    app_div = soup.find('div', id='app')
-    if not app_div or not app_div.has_attr('data-page'):
-        print("کێشە: نەمتوانی زانیارییەکان لە سایتەکە دەربهێنم.")
-        exit(1)
-        
-    page_data = json.loads(app_div['data-page'])
-    target_app = find_app_in_json(page_data, app_name_input)
-        
-except Exception as e:
-    print(f"کێشە لە پەیوەندیکردن بە سایتەکە: {e}")
-    exit(1)
+    # ١. سەرەتا با لە ڕێگەی گەڕانی سایتەکەوە تاقی بکەینەوە
+    search_params = [
+        f"?filter[search]={urllib.parse.quote(app_name)}",
+        f"?search={urllib.parse.quote(app_name)}",
+        f"?q={urllib.parse.quote(app_name)}"
+    ]
+    
+    for param in search_params:
+        url = f"https://check0ver.net/en/iapps{param}"
+        try:
+            res = requests.get(url, headers=headers, timeout=10)
+            if res.status_code == 200:
+                soup = BeautifulSoup(res.text, 'html.parser')
+                app_div = soup.find('div', id='app')
+                if app_div and app_div.has_attr('data-page'):
+                    page_data = json.loads(app_div['data-page'])
+                    found = find_app_in_json(page_data, app_name)
+                    if found: return found
+        except:
+            pass
+            
+    # ٢. ئەگەر بە گەڕان نەیدۆزییەوە، با بەناو ١٥ لاپەڕەی یەکەمدا بگەڕێت!
+    print("خەریکە بەناو لاپەڕەکانی سایتەکەدا دەگەڕێم، تکایە کەمێک چاوەڕێ بە...")
+    for page in range(1, 16):
+        url = f"https://check0ver.net/en/iapps?page={page}"
+        try:
+            res = requests.get(url, headers=headers, timeout=10)
+            if res.status_code == 200:
+                soup = BeautifulSoup(res.text, 'html.parser')
+                app_div = soup.find('div', id='app')
+                if app_div and app_div.has_attr('data-page'):
+                    page_data = json.loads(app_div['data-page'])
+                    found = find_app_in_json(page_data, app_name)
+                    if found: 
+                        print(f"(یارییەکە لە لاپەڕەی {page} دۆزرایەوە!)")
+                        return found
+        except:
+            continue
+            
+    return None
+
+target_app = fetch_checkover_data(app_name_input)
 
 if not target_app:
-    print(f"کێشە: نەمتوانی یاری '{app_name_input}' لەناو ئەو لینکەدا بدۆزمەوە.")
-    print("تکایە دڵنیابە کە ناوی یارییەکەت ڕێک وەک خۆی نووسیوە یان لینکەکە ڕاستە.")
+    print(f"کێشە: نەمتوانی یاری '{app_name_input}' بدۆزمەوە.")
+    print("تکایە دڵنیابە کە ناوی یارییەکەت ڕاست نووسیوە.")
     exit(1)
 
 print(f"سەرکەوتوو بوو! یارییە دۆزرایەوە:")
@@ -69,6 +93,7 @@ print(f"- ناو: {target_app.get('name', app_name_input)}")
 print(f"- ڤێرژن: {target_app.get('version', '1.0')}")
 print(f"- قەبارە: {target_app.get('size', 'N/A')}")
 
+# ڕێکخستن و داگرتنی وێنەکە
 app_icon_url = target_app.get('image', target_app.get('icon', target_app.get('iconURL', '')))
 os.makedirs("img", exist_ok=True)
 ext = ".jpg"
@@ -80,7 +105,7 @@ icon_path = os.path.join("img", downloaded_icon_name)
 if app_icon_url and app_icon_url.startswith("http"):
     print("خەریکی داگرتنی وێنەکە...")
     try:
-        ir = requests.get(app_icon_url, stream=True, headers=headers)
+        ir = requests.get(app_icon_url, stream=True, headers={"User-Agent": "Mozilla/5.0"})
         if ir.status_code == 200:
             with open(icon_path, "wb") as f:
                 for chunk in ir.iter_content(1024):
@@ -91,6 +116,7 @@ if app_icon_url and app_icon_url.startswith("http"):
 icon_relative = f"img/{downloaded_icon_name}"
 icon_full_url = f"https://raw.githubusercontent.com/ios94/ashtejson/main/img/{downloaded_icon_name}"
 
+# داگرتنی یارییەکە
 os.makedirs("ipas", exist_ok=True)
 ipa_filename = f"ipas/{slug}.ipa"
 print("خەریکی داگرتنی یارییەکە لە لینکەکەتەوە...")
@@ -108,6 +134,7 @@ except Exception as e:
     print(f"Error: {e}")
     exit(1)
 
+# دروستکردنی فۆرمات
 github_release_url = f"https://github.com/ios94/ashtejson/releases/download/V1/{slug}.ipa"
 current_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
 app_id = random.randint(1111111111, 1999999999)
@@ -151,6 +178,7 @@ new_app = {
     ]
 }
 
+# سەیڤکردن لە JSON وە خستنە ڕیزی یەکەم
 json_file = "ashtemobile94.json"
 backup_file = "backup_memory.json"
 source_data = None
@@ -168,12 +196,11 @@ is_update = False
 for i, existing_app in enumerate(source_data["apps"]):
     if existing_app.get("name") == new_app["name"]:
         new_app["id"] = existing_app.get("id", app_id)
-        # دەرکردنی یارییە کۆنەکە لە شوێنی خۆی بۆ ئەوەی بخرێتە سەرەوە
-        source_data["apps"].pop(i)
+        source_data["apps"].pop(i)  # دەرکردنی کۆنەکە
         is_update = True
         break
 
-# خستنە ڕیزی یەکەم بە فەرمانی insert
+# خستنە ڕیزی یەکەم
 source_data["apps"].insert(0, new_app)
 
 if is_update:
