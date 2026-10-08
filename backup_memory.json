@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1991198730,
+            "name": "Gym Mania Time Management Game",
+            "version": "1.6.2",
+            "size": "145.68 MB",
+            "icon": "img/gymmaniatimemanagementgame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/gymmaniatimemanagementgame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/gymmaniatimemanagementgame.ipa",
+            "bundleIdentifier": "com.fme.gym.mania.simulator.games",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Gems → spend freely on premium upgrades\n- Unlimited Coins → expand and enhance without limits\n- Unlimited Energy → keep your gym running continuously\n- Unlimited Booster → maximize your training and growth\n\nNote: Disable Before Playing",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gymmaniatimemanagementgame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.6.2",
+                    "date": "2026-10-08T20:23:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/gymmaniatimemanagementgame.ipa",
+                    "size": 152756551,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1234711351,
             "name": "Mansion Tale: Merge Secrets",
             "version": "1.159.0",
