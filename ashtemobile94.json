@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1203482812,
+            "name": "Pirate Ships・Build and Fight",
+            "version": "1.45.2",
+            "size": "271.4 MB",
+            "icon": "img/pirateshipsbuildandfight.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/pirateshipsbuildandfight.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/pirateshipsbuildandfight.ipa",
+            "bundleIdentifier": "com.herocraft.game.piratearena",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Ship Damage Multiplier\n- Ship Defense Multiplier",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pirateshipsbuildandfight.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.45.2",
+                    "date": "2026-10-08T21:08:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/pirateshipsbuildandfight.ipa",
+                    "size": 284583526,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1112609694,
             "name": "Solitaire Truck Deluxe",
             "version": "3.6.2",
