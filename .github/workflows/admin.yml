@@ -1,29 +1,14 @@
-name: Admin Panel - Add New App
+name: Admin Panel - Smart Auto Adder
 
 on:
   workflow_dispatch:
     inputs:
-      app_type:
-        description: 'ئایا ئەمە یارییە یان بەرنامە؟ (games یان apps)'
-        required: true
-        type: choice
-        options:
-          - games
-          - apps
-      app_name:
-        description: 'ناوی یاری (نموونە: Block Blast)'
+      checkover_link:
+        description: 'لینکی یارییەکە لە سایتی checkover دابنێ (نموونە: https://check0ver.net/en/iapps)'
         required: true
         type: string
-      app_version:
-        description: 'ڤێرژن (نموونە: 1.0.0)'
-        required: true
-        type: string
-      app_size:
-        description: 'قەبارە (نموونە: 150 MB)'
-        required: true
-        type: string
-      app_icon:
-        description: 'ناوی وێنەکە یان لینکی وێنەکە لێرە دابنێ'
+      app_name_to_find:
+        description: 'تەنها ناوی یارییەکە بنووسە (بۆ ئەوەی ڕۆبۆتەکە لەناو سایتەکە بیدۆزێتەوە)'
         required: true
         type: string
       ipa_link:
@@ -47,15 +32,12 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests beautifulsoup4
 
-      - name: Run Admin Script
+      - name: Run Smart Scraper Script
         env:
-          APP_TYPE: ${{ github.event.inputs.app_type }}
-          APP_NAME: ${{ github.event.inputs.app_name }}
-          APP_VERSION: ${{ github.event.inputs.app_version }}
-          APP_SIZE: ${{ github.event.inputs.app_size }}
-          APP_ICON: ${{ github.event.inputs.app_icon }}
+          CHECKOVER_LINK: ${{ github.event.inputs.checkover_link }}
+          APP_NAME: ${{ github.event.inputs.app_name_to_find }}
           IPA_LINK: ${{ github.event.inputs.ipa_link }}
         run: python admin_adder.py
 
@@ -72,4 +54,4 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add ashtemobile94.json backup_memory.json img/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Admin added: ${{ github.event.inputs.app_name }} (${{ github.event.inputs.app_type }})" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Smart Added: ${{ github.event.inputs.app_name_to_find }}" && git push)
