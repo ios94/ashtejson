@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1412547930,
+            "name": "FarmVille 2: Country Escape",
+            "version": "30.9",
+            "size": "368.57 MB",
+            "icon": "img/farmville2countryescape.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/farmville2countryescape.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/farmville2countryescape.ipa",
+            "bundleIdentifier": "com.zynga.FarmVille2CountryEscape",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze keys",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmville2countryescape.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "30.9",
+                    "date": "2026-10-08T16:39:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/farmville2countryescape.ipa",
+                    "size": 386473656,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1665903954,
             "name": "Double drift",
             "version": "1.85.0",
