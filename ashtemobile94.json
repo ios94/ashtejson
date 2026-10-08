@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1659585884,
+            "name": "Trophy Hunter: Sniper Game",
+            "version": "3.28.0",
+            "size": "211.25 MB",
+            "icon": "img/trophyhuntersnipergame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/trophyhuntersnipergame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/trophyhuntersnipergame.ipa",
+            "bundleIdentifier": "trophy.hunter.hunting.games.sniper.shooting",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Animal Vitals ESP (Extra Sensory Perception, wallhack) Always On → see target weak points at all times",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/trophyhuntersnipergame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "3.28.0",
+                    "date": "2026-10-08T19:02:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/trophyhuntersnipergame.ipa",
+                    "size": 221511680,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1195328246,
             "name": "Candy Crush Saga",
             "version": "1.338.0",
