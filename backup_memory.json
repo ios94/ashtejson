@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1716175847,
+            "name": "Idle Bank Tycoon: Money Game",
+            "version": "2.1.0",
+            "size": "140.84 MB",
+            "icon": "img/idlebanktycoonmoneygame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/idlebanktycoonmoneygame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/idlebanktycoonmoneygame.ipa",
+            "bundleIdentifier": "com.luckyskeletonstudios.idlebanktycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free store (click buy then cancel)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "2.1.0",
+                    "date": "2026-10-08T20:35:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/idlebanktycoonmoneygame.ipa",
+                    "size": 147681443,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1567942500,
             "name": "Cat Crunch - Match 3 Games",
             "version": "2.97",
