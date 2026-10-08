@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1755136708,
+            "name": "Highway Drifter:Hajwala Online",
+            "version": "5.0.65",
+            "size": "383.39 MB",
+            "icon": "img/highwaydrifterhajwalaonline.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/highwaydrifterhajwalaonline.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/highwaydrifterhajwalaonline.ipa",
+            "bundleIdentifier": "com.madboxgames.drifter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Hajwala and racing game\n\n- Free store (click on buy then cancel)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/highwaydrifterhajwalaonline.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "5.0.65",
+                    "date": "2026-10-08T20:15:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/highwaydrifterhajwalaonline.ipa",
+                    "size": 402013552,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1768743852,
             "name": "Coin Master",
             "version": "3.5.2731",
