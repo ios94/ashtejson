@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1128107985,
+            "name": "Block Blast！",
+            "version": "7.5.0",
+            "size": "85.89 MB",
+            "icon": "img/blockblast.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/blockblast.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/blockblast.ipa",
+            "bundleIdentifier": "com.blockpuzzle.us.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "No ads .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blockblast.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "7.5.0",
+                    "date": "2026-10-08T20:40:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/blockblast.ipa",
+                    "size": 90062192,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1601004971,
             "name": "Idle Miner Tycoon clicker game",
             "version": "5.64.1",
