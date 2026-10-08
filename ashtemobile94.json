@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1999730316,
+            "name": "Travel Decor",
+            "version": "2.0.0",
+            "size": "198.99 MB",
+            "icon": "img/traveldecor.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/traveldecor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/traveldecor.ipa",
+            "bundleIdentifier": "com.match.fun.free.traveldecor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto ADS OFF\n- Auto Win / Use 1 Move\n- Unlimited Coins / Use & Earn\n- Unlimited Potion / Use & Earn\n- Unlimited Lives / Use & Earn",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/traveldecor.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "2.0.0",
+                    "date": "2026-10-08T20:50:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/traveldecor.ipa",
+                    "size": 208656138,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1534127536,
             "name": "Recycle Empire",
             "version": "0.22",
