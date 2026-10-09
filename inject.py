@@ -16,7 +16,7 @@ def inject():
     dylib_file = "AlertAshte.dylib"
 
     if not os.path.exists(dylib_file):
-        print("فایلی AlertAshte.dylib نەدۆزرایەوە، هەنگاوەکە تێپەڕێنرا.")
+        print("فایلی AlertAshte.dylib نەدۆزرایەوە لە پەڕەی سەرەکی، هەنگاوەکە تێپەڕێنرا.")
         return
 
     print(f"خەریکی کارکردنم لەسەر: {target_ipa}")
@@ -38,13 +38,13 @@ def inject():
     app_name = os.path.splitext(app_folders[0])[0]
     main_exec = os.path.join(app_dir, app_name)
 
-    frameworks_dir = os.path.join(app_dir, "Frameworks")
-    os.makedirs(frameworks_dir, exist_ok=True)
-    target_dylib = os.path.join(frameworks_dir, "AlertAshte.dylib")
+    # خستنە ناو سەرەکی فۆڵدەری .app بێ بوونی Frameworks
+    target_dylib = os.path.join(app_dir, "AlertAshte.dylib")
     shutil.copy2(dylib_file, target_dylib)
     os.chmod(target_dylib, 0o755)
 
-    dylib_path = b"@executable_path/Frameworks/AlertAshte.dylib"
+    # ڕێڕەوی ڕاستەوخۆ لە تەنیشت فایلە سەرەکییەکە
+    dylib_path = b"@executable_path/AlertAshte.dylib"
     try:
         m = MachO(main_exec)
         for header in m.headers:
@@ -57,15 +57,15 @@ def inject():
 
         with open(main_exec, 'rb+') as f:
             m.write(f)
-        print("فایلی AlertAshte.dylib بە سەرکەوتوویی خرایە ناو باینەری ئەپەکە.")
+        print("فایلی AlertAshte.dylib ڕاستەوخۆ خرایە سەرەکی فایلی ئەپەکە.")
     except Exception as e:
-        print(f"تێبینی لە کاتی دانان: {e}")
+        print(f"تێبینی لە کاتی ناساندن: {e}")
 
     os.remove(target_ipa)
     shutil.make_archive("repacked", 'zip', work_dir)
     shutil.move("repacked.zip", target_ipa)
     shutil.rmtree(work_dir)
-    print("هەموو شتێک تەواو بوو! IPA نوێیەکە ئامادەیە.")
+    print("هەموو شتێک بە سەرکەوتوویی جێبەجێ کرا!")
 
 if __name__ == "__main__":
     inject()
