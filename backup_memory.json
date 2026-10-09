@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1218386826,
+            "name": "Pocket Land!",
+            "version": "0.126.0",
+            "size": "155.82 MB",
+            "icon": "img/pocketland.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/pocketland.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/pocketland.ipa",
+            "bundleIdentifier": "gs.hadi.pocketisland",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Currency\n- Freeze Resources\n- Upgrade without Resources (Dont Abuse)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pocketland.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "0.126.0",
+                    "date": "2026-10-09T12:44:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/pocketland.ipa",
+                    "size": 163389112,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1122927528,
             "name": "Idle Last Shelter",
             "version": "1.1.9",
