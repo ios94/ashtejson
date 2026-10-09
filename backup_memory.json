@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1958822552,
+            "name": "PickCrafter: Mining & Crafting",
+            "version": "6.0.43",
+            "size": "96.67 MB",
+            "icon": "img/pickcrafterminingcrafting.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/pickcrafterminingcrafting.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/pickcrafterminingcrafting.ipa",
+            "bundleIdentifier": "com.fiveamp.pickcrafterapp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Picks\n- Freeze Runics\n- Freeze Enderpearls\n- Freeze Artifact Dust\n- Infinite Blocks\n- 9999 Runicsdefault\n- 999 Ascension Crystal on Ascenddefault\n- Can Always prestigedefault\n- Set Prestige Level default\n- Free IAP Premium Only",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pickcrafterminingcrafting.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "6.0.43",
+                    "date": "2026-10-09T13:17:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/pickcrafterminingcrafting.ipa",
+                    "size": 101365841,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1733718717,
             "name": "Candy Pop Story : Match 3",
             "version": "1.69.1008",
