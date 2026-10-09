@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1534104680,
+            "name": "City Island 5: Building Sim",
+            "version": "5.13.0",
+            "size": "126.43 MB",
+            "icon": "img/cityisland5buildingsim.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/cityisland5buildingsim.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/cityisland5buildingsim.ipa",
+            "bundleIdentifier": "com.sparklingsociety.cityisland5",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free store (buy then cancel)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cityisland5buildingsim.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "5.13.0",
+                    "date": "2026-10-09T15:02:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/cityisland5buildingsim.ipa",
+                    "size": 132571463,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1716175847,
             "name": "Idle Bank Tycoon: Money Game",
             "version": "2.1.0",
@@ -2019,37 +2050,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/ninjascrollrush.ipa",
                     "size": 180816445,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1534104680,
-            "name": "City Island 5: Building Sim",
-            "version": "5.13.0",
-            "size": "126.43 MB",
-            "icon": "img/cityisland5buildingsim.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/cityisland5buildingsim.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/cityisland5buildingsim.ipa",
-            "bundleIdentifier": "com.sparklingsociety.cityisland5",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Free store (buy then cancel)",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cityisland5buildingsim.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "5.13.0",
-                    "date": "2026-10-08T20:38:44+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/cityisland5buildingsim.ipa",
-                    "size": 132571463,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
