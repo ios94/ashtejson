@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1195328246,
+            "name": "Candy Crush Saga",
+            "version": "1.338.0",
+            "size": "106.21 MB",
+            "icon": "img/candycrushsaga.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/candycrushsaga.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/candycrushsaga.ipa",
+            "bundleIdentifier": "com.midasplayer.apps.candycrushsaga",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Lives\n- Infinite Boosters",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/candycrushsaga.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.338.0",
+                    "date": "2026-10-09T14:54:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/candycrushsaga.ipa",
+                    "size": 111369256,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1525802029,
             "name": "Hero Wars: Alliance Adventure",
             "version": "1.291.001",
@@ -2267,37 +2298,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/trophyhuntersnipergame.ipa",
                     "size": 221511680,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1195328246,
-            "name": "Candy Crush Saga",
-            "version": "1.338.0",
-            "size": "106.21 MB",
-            "icon": "img/candycrushsaga.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/candycrushsaga.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/candycrushsaga.ipa",
-            "bundleIdentifier": "com.midasplayer.apps.candycrushsaga",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Infinite Lives\n- Infinite Boosters",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/candycrushsaga.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "1.338.0",
-                    "date": "2026-10-08T18:59:50+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/candycrushsaga.ipa",
-                    "size": 111369256,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
