@@ -19,6 +19,7 @@ def inject():
         print("AlertAshte.dylib لە پەڕەی سەرەکی نەدۆزرایەوە!")
         return
 
+    print(f"دەستپێکردنی کار لەسەر: {target_ipa}")
     work_dir = "extracted_ipa"
     if os.path.exists(work_dir):
         shutil.rmtree(work_dir)
@@ -30,13 +31,14 @@ def inject():
     payload_dir = os.path.join(work_dir, "Payload")
     app_folders = [f for f in os.listdir(payload_dir) if f.endswith(".app")]
     if not app_folders:
+        print("فۆڵدەری .app نەدۆزرایەوە!")
         return
 
     app_dir = os.path.join(payload_dir, app_folders[0])
     plist_path = os.path.join(app_dir, "Info.plist")
-    
-    # ١. گۆڕینی ناوی یارییەکە بە زۆرەملێ بۆ پاراستنی مافی خۆت
     exec_name = None
+    
+    # دەستکاریکردنی Info.plist بۆ گۆڕینی ناو و لابردنی زمانەکان
     if os.path.exists(plist_path):
         try:
             with open(plist_path, "rb") as fp:
@@ -62,70 +64,58 @@ def inject():
                 
             for strings_file in glob.glob(os.path.join(app_dir, "**", "InfoPlist.strings"), recursive=True):
                 os.remove(strings_file)
+                
         except Exception as e:
             pass
 
     if not exec_name:
         exec_name = os.path.splitext(app_folders[0])[0]
 
-    # ٢. تەکنیکی شاردنەوەی جۆری فایل (Extension Spoofing)
-    # ناوەکە دەگۆڕین بۆ فایلێکی داتای سیستەم نەک dylib، بۆ ئەوەی ESign نەیبینێت و نەیسڕێتەوە!
-    fake_official_name = "CoreUI_Cache.dat"
+    # گۆڕینی ناوی دیلایبەکە بۆ شاردنەوەی لە چاوی بەکارهێنەرانی ESign
+    fake_official_name = "libCoreSecurity.dylib"
     target_dylib = os.path.join(app_dir, fake_official_name)
     shutil.copy2(dylib_file, target_dylib)
     os.chmod(target_dylib, 0o755)
 
     dylib_load_path = f"@executable_path/{fake_official_name}"
 
-    # ٣. ئینجێکتی قووڵ بۆ ناو هەموو فایلەکانی یارییەکە (تاوەکو کراشکردنەکە ١٠٠٪ مسۆگەر بێت)
-    magic_numbers = [
-        b'\xca\xfe\xba\xbe',
-        b'\xce\xfa\xed\xfe',
-        b'\xcf\xfa\xed\xfe',
-        b'\xfe\xed\xfa\xce',
-        b'\xfe\xed\xfa\xcf'
-    ]
+    # فەنکشنی بەستنەوە بۆ هەر باینەرییەک (بە شێوازی پارێزراو)
+    def inject_to_binary(binary_path):
+        if not os.path.exists(binary_path): return
+        try:
+            parsed = lief.MachO.parse(binary_path)
+            if parsed:
+                injected = False
+                for arch in parsed:
+                    existing = [lib.name for lib in arch.libraries]
+                    if dylib_load_path not in existing:
+                        arch.add_library(dylib_load_path)
+                        injected = True
+                if injected:
+                    parsed.write(binary_path)
+                    os.chmod(binary_path, 0o755)
+        except Exception as e:
+            pass
 
-    for root, dirs, files in os.walk(app_dir):
-        for file in files:
-            file_path = os.path.join(root, file)
-            if fake_official_name in file_path:
-                continue
-            
-            is_macho = False
-            try:
-                with open(file_path, 'rb') as f:
-                    magic = f.read(4)
-                    if magic in magic_numbers:
-                        is_macho = True
-            except:
-                pass
+    # ١. بەستنەوە بە باینەری سەرەکییەوە
+    main_exec = os.path.join(app_dir, exec_name)
+    inject_to_binary(main_exec)
 
-            if is_macho:
-                try:
-                    parsed = lief.MachO.parse(file_path)
-                    if parsed:
-                        injected = False
-                        for arch in parsed:
-                            # تەنها دەیخاتە ناو پەڕگە کارپێکەرەکان
-                            if int(arch.header.file_type) in [2, 6]:
-                                existing = [lib.name for lib in arch.libraries]
-                                if dylib_load_path not in existing:
-                                    arch.add_library(dylib_load_path)
-                                    injected = True
-                        if injected:
-                            parsed.write(file_path)
-                            os.chmod(file_path, 0o755)
-                            print(f"Protected and Injected into: {file}")
-                except Exception as e:
-                    pass
+    # ٢. بەستنەوە بە هەموو فایلی Frameworks بۆ ئەوەی سڕینەوەی قورس بێت و کراش بکات ئەگەر دەستکاری بکرێت
+    frameworks_dir = os.path.join(app_dir, "Frameworks")
+    if os.path.exists(frameworks_dir):
+        for fw in os.listdir(frameworks_dir):
+            if fw.endswith(".framework") or fw.endswith(".dylib"):
+                fw_name = os.path.splitext(fw)[0]
+                fw_exec_path = os.path.join(frameworks_dir, fw, fw_name) if fw.endswith(".framework") else os.path.join(frameworks_dir, fw)
+                inject_to_binary(fw_exec_path)
 
-    # ٤. دووبارە بەستنەوەی IPA
+    # دروستکردنەوەی IPA
     os.remove(target_ipa)
     shutil.make_archive("repacked", 'zip', work_dir)
     shutil.move("repacked.zip", target_ipa)
     shutil.rmtree(work_dir)
-    print("پڕۆسەی پاراستنی تەواوەتی کۆتایی هات! فایلەکە ئامادەیە.")
+    print("پڕۆسەی بەستنەوەی فرە-لایەنە بە سەرکەوتوویی کۆتایی هات!")
 
 if __name__ == "__main__":
     inject()
