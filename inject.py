@@ -55,11 +55,14 @@ def inject():
             if not base_name:
                 base_name = "App"
                 
+            # پاککردنەوەی ناوەکە لە هێمای ✨ و بۆشاییە زیادەکان
+            clean_name = str(base_name).replace("✨", "").replace("🌟", "").strip()
+            
             suffix = " - ashtemobile"
             
             # زۆرەملێ زیادکردنی ناوەکە بۆ ناو فایلی سەرەکی
-            if not str(base_name).endswith(suffix.strip()) and not str(base_name).endswith(suffix):
-                new_name = f"{base_name}{suffix}"
+            if not clean_name.endswith(suffix.strip()) and not clean_name.endswith(suffix):
+                new_name = f"{clean_name}{suffix}"
                 pl["CFBundleDisplayName"] = new_name
                 pl["CFBundleName"] = new_name
                 
