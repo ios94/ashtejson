@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1309566927,
+            "name": "DIGIMON UP",
+            "version": "1.5.0",
+            "size": "93.48 MB",
+            "icon": "img/digimonup.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/digimonup.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/digimonup.ipa",
+            "bundleIdentifier": "jp.co.bandainamcoent.BNEI0442",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → boost your attack output in battles\n- Defence Multiplier → increase your defensive stats\n- Never Die → become invincible in combat",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/digimonup.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.5.0",
+                    "date": "2026-10-09T14:14:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/digimonup.ipa",
+                    "size": 98020884,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1484936724,
             "name": "Sniper 3D: Gun Shooting Games",
             "version": "7.11.0",
