@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1246780372,
+            "name": "Bounce Dunk - basketball game",
+            "version": "1.1.42",
+            "size": "109.35 MB",
+            "icon": "img/bouncedunkbasketballgame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bouncedunkbasketballgame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bouncedunkbasketballgame.ipa",
+            "bundleIdentifier": "com.bounce.dunk",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "✅ 9 million coins 💰\n\n📵To cancel ads when entering the game\nMake a purchase and cancel",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bouncedunkbasketballgame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.1.42",
+                    "date": "2026-10-09T21:36:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bouncedunkbasketballgame.ipa",
+                    "size": 114661785,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1778838803,
             "name": "Xeno Swarm: Alien Survivor",
             "version": "4.2.1",
