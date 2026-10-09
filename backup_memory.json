@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1660965567,
+            "name": "Score! Hero",
+            "version": "4.720",
+            "size": "177.4 MB",
+            "icon": "img/scorehero.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/scorehero.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/scorehero.ipa",
+            "bundleIdentifier": "com.firsttouch.story",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "▫️ unlimited rewinds no switch already active",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/scorehero.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "4.720",
+                    "date": "2026-10-09T13:39:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/scorehero.ipa",
+                    "size": 186017382,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1803035251,
             "name": "Homescapes",
             "version": "9.2.100",
@@ -190,37 +221,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/idlelastshelter.ipa",
                     "size": 182190080,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1660965567,
-            "name": "Score! Hero",
-            "version": "4.720",
-            "size": "177.4 MB",
-            "icon": "img/scorehero.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/scorehero.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/scorehero.ipa",
-            "bundleIdentifier": "com.firsttouch.story",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "▫️ unlimited rewinds no switch already active",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/scorehero.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "4.720",
-                    "date": "2026-10-09T12:21:56+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/scorehero.ipa",
-                    "size": 186017382,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
