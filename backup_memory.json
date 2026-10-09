@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1217568641,
+            "name": "TikTok Sy",
+            "version": "46.1.0",
+            "size": "419.46 MB",
+            "icon": "img/tiktoksy.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/tiktoksy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/tiktoksy.ipa",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "TikTokSy App Features:\r\n\r\n1. Displays a download button on the interface.\r\n2. Displays a button to hide the interface entirely.\r\n3. No more annoying ads.\r\n4. Allows you to download instant videos.\r\n5. Allows you to download instant videos in HD quality.\r\n6. Allows you to download a single image, all images, or all images at once.\r\n\r\nAnd more...",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tiktoksy.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "46.1.0",
+                    "date": "2026-10-09T11:01:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/tiktoksy.ipa",
+                    "size": 439835688,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1765391160,
             "name": "Telegram Messenger",
             "version": "12.9.3",
