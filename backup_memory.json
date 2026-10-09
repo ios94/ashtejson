@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1617632327,
+            "name": "Kid-E-Cats: Building Car Games",
+            "version": "3.7.2",
+            "size": "77.16 MB",
+            "icon": "img/kidecatsbuildingcargames.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/kidecatsbuildingcargames.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/kidecatsbuildingcargames.ipa",
+            "bundleIdentifier": "com.gokids.threecats",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "🛒 Enable Fake Purchase\n🚫 No Ads\n\n📝 Note: Activate the hack from the mod menu.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kidecatsbuildingcargames.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "3.7.2",
+                    "date": "2026-10-09T22:37:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/kidecatsbuildingcargames.ipa",
+                    "size": 80908124,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1234711351,
             "name": "Mansion Tale: Merge Secrets",
             "version": "1.160.0",
@@ -1399,37 +1430,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/homescapes.ipa",
                     "size": 205657210,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1617632327,
-            "name": "Kid-E-Cats: Building Car Games",
-            "version": "3.7.2",
-            "size": "77.16 MB",
-            "icon": "img/kidecatsbuildingcargames.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/kidecatsbuildingcargames.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/kidecatsbuildingcargames.ipa",
-            "bundleIdentifier": "com.gokids.threecats",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "🛒 Enable Fake Purchase\n🚫 No Ads\n\n📝 Note: Activate the hack from the mod menu.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kidecatsbuildingcargames.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "3.7.2",
-                    "date": "2026-10-09T13:37:21+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/kidecatsbuildingcargames.ipa",
-                    "size": 80908124,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
