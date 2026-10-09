@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1765391160,
+            "name": "Telegram Messenger",
+            "version": "12.9.3",
+            "size": "140.81 MB",
+            "icon": "img/telegrammessenger.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/telegrammessenger.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/telegrammessenger.ipa",
+            "bundleIdentifier": "ph.telegra.Telegraph",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "It includes the Lead tool, which has many features.\n\nTo activate the features, go to Settings and select \"Ask a Question\".",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/telegrammessenger.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "12.9.3",
+                    "date": "2026-10-09T11:01:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/telegrammessenger.ipa",
+                    "size": 147649986,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1707431842,
             "name": "YouTube YTKACE",
             "version": "21.40.5",
