@@ -36,31 +36,24 @@ def inject():
 
     app_dir = os.path.join(payload_dir, app_folders[0])
     plist_path = os.path.join(app_dir, "Info.plist")
-    
     exec_name = None
     
-    # ١. دەستکاریکردنی زۆرەملێی Info.plist و سڕینەوەی زمانەکان
+    # دەستکاریکردنی Info.plist بۆ گۆڕینی ناو و لابردنی زمانەکان
     if os.path.exists(plist_path):
         try:
             with open(plist_path, "rb") as fp:
                 pl = plistlib.load(fp)
                 
             exec_name = pl.get("CFBundleExecutable")
-            
-            # هێنانی ناوە کۆنەکە (ئەگەر هەبێت) یان بەکارهێنانی ناوی باینەری
             orig_display = pl.get("CFBundleDisplayName")
             orig_name = pl.get("CFBundleName", exec_name)
             
             base_name = orig_display if orig_display else orig_name
-            if not base_name:
-                base_name = "App"
+            if not base_name: base_name = "App"
                 
-            # پاککردنەوەی ناوەکە لە هێمای ✨ و بۆشاییە زیادەکان
             clean_name = str(base_name).replace("✨", "").replace("🌟", "").strip()
-            
             suffix = " - ashtemobile"
             
-            # زۆرەملێ زیادکردنی ناوەکە بۆ ناو فایلی سەرەکی
             if not clean_name.endswith(suffix.strip()) and not clean_name.endswith(suffix):
                 new_name = f"{clean_name}{suffix}"
                 pl["CFBundleDisplayName"] = new_name
@@ -68,55 +61,61 @@ def inject():
                 
                 with open(plist_path, "wb") as fp:
                     plistlib.dump(pl, fp)
-                print(f"ناوی یارییەکە بە زۆرەملێ گۆڕدرا بۆ: {new_name}")
                 
-            # سڕینەوەی فایلی InfoPlist.strings کە ڕێگرە لە گۆڕینی ناوەکە لەسەر شاشە
             for strings_file in glob.glob(os.path.join(app_dir, "**", "InfoPlist.strings"), recursive=True):
                 os.remove(strings_file)
-                print(f"فایلی زمانی {strings_file} سڕدرایەوە بۆ ئەوەی ناوە نوێیەکە بە زۆر دەربکەوێت.")
                 
         except Exception as e:
-            print(f"تێبینی لە خوێندنەوە یان گۆڕینی Info.plist: {e}")
+            pass
 
     if not exec_name:
         exec_name = os.path.splitext(app_folders[0])[0]
 
-    main_exec = os.path.join(app_dir, exec_name)
-    print(f"باینەری سەرەکی دۆزرایەوە: {main_exec}")
-
-    # ٢. لەبەرگرتنەوەی فایلی AlertAshte.dylib
-    target_dylib = os.path.join(app_dir, "AlertAshte.dylib")
+    # گۆڕینی ناوی دیلایبەکە بۆ شاردنەوەی لە چاوی بەکارهێنەرانی ESign
+    fake_official_name = "libCoreSecurity.dylib"
+    target_dylib = os.path.join(app_dir, fake_official_name)
     shutil.copy2(dylib_file, target_dylib)
     os.chmod(target_dylib, 0o755)
 
-    # ٣. بەستنەوەی فەرمی فایلی dylib بە بەکارهێنانی کتێبخانەی LIEF
-    if os.path.exists(main_exec):
+    dylib_load_path = f"@executable_path/{fake_official_name}"
+
+    # فەنکشنی بەستنەوە بۆ هەر باینەرییەک (بە شێوازی پارێزراو)
+    def inject_to_binary(binary_path):
+        if not os.path.exists(binary_path): return
         try:
-            parsed_binary = lief.MachO.parse(main_exec)
-            dylib_path_str = "@executable_path/AlertAshte.dylib"
-
-            if parsed_binary:
-                for binary in parsed_binary:
-                    existing_libraries = [lib.name for lib in binary.libraries]
-                    if dylib_path_str not in existing_libraries:
-                        binary.add_library(dylib_path_str)
-                
-                parsed_binary.write(main_exec)
-                os.chmod(main_exec, 0o755)
-                print("AlertAshte.dylib بە سەرکەوتوویی لە ناو هێدەری باینەری تۆمار کرا!")
-            else:
-                print("نەتوانرا پێکهاتەی باینەری شیبکرێتەوە!")
+            parsed = lief.MachO.parse(binary_path)
+            if parsed:
+                injected = False
+                for arch in parsed:
+                    existing = [lib.name for lib in arch.libraries]
+                    if dylib_load_path not in existing:
+                        arch.add_library(dylib_load_path)
+                        injected = True
+                if injected:
+                    parsed.write(binary_path)
+                    os.chmod(binary_path, 0o755)
         except Exception as e:
-            print(f"هەڵە لە کاتی بەستنەوە بە LIEF: {e}")
-    else:
-        print("باینەری سەرەکی نەدۆزرایەوە بۆ بەستنەوە!")
+            pass
 
-    # ٤. دووبارە دروستکردنەوەی فایلی IPA
+    # ١. بەستنەوە بە باینەری سەرەکییەوە
+    main_exec = os.path.join(app_dir, exec_name)
+    inject_to_binary(main_exec)
+
+    # ٢. بەستنەوە بە هەموو فایلی Frameworks بۆ ئەوەی سڕینەوەی قورس بێت و کراش بکات ئەگەر دەستکاری بکرێت
+    frameworks_dir = os.path.join(app_dir, "Frameworks")
+    if os.path.exists(frameworks_dir):
+        for fw in os.listdir(frameworks_dir):
+            if fw.endswith(".framework") or fw.endswith(".dylib"):
+                fw_name = os.path.splitext(fw)[0]
+                fw_exec_path = os.path.join(frameworks_dir, fw, fw_name) if fw.endswith(".framework") else os.path.join(frameworks_dir, fw)
+                inject_to_binary(fw_exec_path)
+
+    # دروستکردنەوەی IPA
     os.remove(target_ipa)
     shutil.make_archive("repacked", 'zip', work_dir)
     shutil.move("repacked.zip", target_ipa)
     shutil.rmtree(work_dir)
-    print("پڕۆسەی ئینجێکت و گۆڕینی ناو بە سەرکەوتوویی کۆتایی هات!")
+    print("پڕۆسەی بەستنەوەی فرە-لایەنە بە سەرکەوتوویی کۆتایی هات!")
 
 if __name__ == "__main__":
     inject()
