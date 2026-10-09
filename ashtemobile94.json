@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1803035251,
+            "name": "Homescapes",
+            "version": "9.2.100",
+            "size": "196.13 MB",
+            "icon": "img/homescapes.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/homescapes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/homescapes.ipa",
+            "bundleIdentifier": "com.playrix.gardenscapes-sweethome",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Moves\n- Infinite Boosters\n- Infinite Lives\n- Infinite Coins\n- Complete Tasks without Stars\n- Unlock Season Pass* (Go click the purchase button. It'll look like nothing happened. Leave season pass area. And go back. It'll show unlocked. And be saved that way)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/homescapes.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "9.2.100",
+                    "date": "2026-10-09T22:48:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/homescapes.ipa",
+                    "size": 205657210,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1617632327,
             "name": "Kid-E-Cats: Building Car Games",
             "version": "3.7.2",
@@ -1399,37 +1430,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/scorehero.ipa",
                     "size": 186017382,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1803035251,
-            "name": "Homescapes",
-            "version": "9.2.100",
-            "size": "196.13 MB",
-            "icon": "img/homescapes.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/homescapes.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/homescapes.ipa",
-            "bundleIdentifier": "com.playrix.gardenscapes-sweethome",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Infinite Moves\n- Infinite Boosters\n- Infinite Lives\n- Infinite Coins\n- Complete Tasks without Stars\n- Unlock Season Pass* (Go click the purchase button. It'll look like nothing happened. Leave season pass area. And go back. It'll show unlocked. And be saved that way)",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/homescapes.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "9.2.100",
-                    "date": "2026-10-09T13:38:03+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/homescapes.ipa",
-                    "size": 205657210,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
