@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1484936724,
+            "name": "Sniper 3D: Gun Shooting Games",
+            "version": "7.11.0",
+            "size": "194.25 MB",
+            "icon": "img/sniper3dgunshootinggames.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/sniper3dgunshootinggames.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/sniper3dgunshootinggames.ipa",
+            "bundleIdentifier": "com.fungames.sniper3d",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Coins Only (Upgrade Weapon and Speed up Delivery with Coins)\n- Infinite Energy\n- No Spread\n- One Hit Kill\n- iGameGod Cheat Engine Enabled",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sniper3dgunshootinggames.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "7.11.0",
+                    "date": "2026-10-09T13:53:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/sniper3dgunshootinggames.ipa",
+                    "size": 203685888,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1733718717,
             "name": "Candy Pop Story : Match 3",
             "version": "1.69.1008",
