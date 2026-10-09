@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1633831884,
+            "name": "My Talking Tom Friends",
+            "version": "26.5.1",
+            "size": "259.7 MB",
+            "icon": "img/mytalkingtomfriends.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mytalkingtomfriends.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mytalkingtomfriends.ipa",
+            "bundleIdentifier": "com.outfit7.mytalkingtomfriends",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Coin\n- No Ads",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mytalkingtomfriends.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "26.5.1",
+                    "date": "2026-10-09T14:56:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mytalkingtomfriends.ipa",
+                    "size": 272315187,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1500421103,
             "name": "Merge Ville: Match Puzzle Game",
             "version": "0.15.12",
@@ -2267,37 +2298,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/cookingworldcookinggames.ipa",
                     "size": 321241743,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1633831884,
-            "name": "My Talking Tom Friends",
-            "version": "26.5.1",
-            "size": "259.7 MB",
-            "icon": "img/mytalkingtomfriends.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mytalkingtomfriends.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mytalkingtomfriends.ipa",
-            "bundleIdentifier": "com.outfit7.mytalkingtomfriends",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Infinite Coin\n- No Ads",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mytalkingtomfriends.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "26.5.1",
-                    "date": "2026-10-08T19:07:02+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mytalkingtomfriends.ipa",
-                    "size": 272315187,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
