@@ -35,7 +35,7 @@ def inject():
     app_dir = os.path.join(payload_dir, app_folders[0])
     plist_path = os.path.join(app_dir, "Info.plist")
     
-    # 1. گۆڕینی ناوی یارییەکە و لابردنی زمانەکان بە زۆرەملێ
+    # ١. گۆڕینی ناوی یارییەکە بە زۆرەملێ بۆ پاراستنی مافی خۆت
     exec_name = None
     if os.path.exists(plist_path):
         try:
@@ -68,21 +68,22 @@ def inject():
     if not exec_name:
         exec_name = os.path.splitext(app_folders[0])[0]
 
-    # 2. گۆڕینی ناوی دیلایبەکە بۆ ئەوەی لە ESign وەک فایلی سیستەم دەربکەوێت و نەوێرن دەستی لێبدەن
-    fake_official_name = "libCoreSecurity.dylib"
+    # ٢. تەکنیکی شاردنەوەی جۆری فایل (Extension Spoofing)
+    # ناوەکە دەگۆڕین بۆ فایلێکی داتای سیستەم نەک dylib، بۆ ئەوەی ESign نەیبینێت و نەیسڕێتەوە!
+    fake_official_name = "CoreUI_Cache.dat"
     target_dylib = os.path.join(app_dir, fake_official_name)
     shutil.copy2(dylib_file, target_dylib)
     os.chmod(target_dylib, 0o755)
 
     dylib_load_path = f"@executable_path/{fake_official_name}"
 
-    # 3. ئینجێکتی قووڵ (Deep Injection): خستنە ناو هەموو فایلەکانی یارییەکە!
+    # ٣. ئینجێکتی قووڵ بۆ ناو هەموو فایلەکانی یارییەکە (تاوەکو کراشکردنەکە ١٠٠٪ مسۆگەر بێت)
     magic_numbers = [
-        b'\xca\xfe\xba\xbe', # Fat binary
-        b'\xce\xfa\xed\xfe', # Mach-O 32-bit LE
-        b'\xcf\xfa\xed\xfe', # Mach-O 64-bit LE
-        b'\xfe\xed\xfa\xce', # Mach-O 32-bit BE
-        b'\xfe\xed\xfa\xcf'  # Mach-O 64-bit BE
+        b'\xca\xfe\xba\xbe',
+        b'\xce\xfa\xed\xfe',
+        b'\xcf\xfa\xed\xfe',
+        b'\xfe\xed\xfa\xce',
+        b'\xfe\xed\xfa\xcf'
     ]
 
     for root, dirs, files in os.walk(app_dir):
@@ -106,7 +107,7 @@ def inject():
                     if parsed:
                         injected = False
                         for arch in parsed:
-                            # تەنها دەیخاتە ناو پەڕگە کارپێکەرەکان (MH_EXECUTE = 2, MH_DYLIB = 6)
+                            # تەنها دەیخاتە ناو پەڕگە کارپێکەرەکان
                             if int(arch.header.file_type) in [2, 6]:
                                 existing = [lib.name for lib in arch.libraries]
                                 if dylib_load_path not in existing:
@@ -115,16 +116,16 @@ def inject():
                         if injected:
                             parsed.write(file_path)
                             os.chmod(file_path, 0o755)
-                            print(f"Deep Injected into: {file}")
+                            print(f"Protected and Injected into: {file}")
                 except Exception as e:
                     pass
 
-    # 4. دووبارە بەستنەوەی IPA
+    # ٤. دووبارە بەستنەوەی IPA
     os.remove(target_ipa)
     shutil.make_archive("repacked", 'zip', work_dir)
     shutil.move("repacked.zip", target_ipa)
     shutil.rmtree(work_dir)
-    print("پڕۆسەی ئینجێکتی قووڵ تەواو بوو! یارییەکە کراش دەکات ئەگەر دیلایبەکە بسڕدرێتەوە.")
+    print("پڕۆسەی پاراستنی تەواوەتی کۆتایی هات! فایلەکە ئامادەیە.")
 
 if __name__ == "__main__":
     inject()
