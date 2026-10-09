@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1176074281,
+            "name": "YouTube Plus",
+            "version": "21.40.5",
+            "size": "148.52 MB",
+            "icon": "img/youtubeplus.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubeplus.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubeplus.ipa",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "To resolve the content issue, go to YouTube settings, then select YTUHD, and then enable \"Fix Playback Issues.\"\r\n\r\n- Added a mute button.\r\n- Added a screen lock button.\r\n- Preferred a stable volume level when downloading media.\r\n- Removed IDs from share links.\r\n- Downloaded Shorts videos directly from previews.\r\n- Embedded thumbnails within uploaded videos.\r\n\r\nAnd more...",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/youtubeplus.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "21.40.5",
+                    "date": "2026-10-09T10:59:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/youtubeplus.ipa",
+                    "size": 155734507,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1341604327,
             "name": "YouTube Music",
             "version": "9.40.2",
