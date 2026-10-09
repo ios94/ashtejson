@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1311384947,
+            "name": "SimCity BuildIt",
+            "version": "1.83.2",
+            "size": "274.79 MB",
+            "icon": "img/simcitybuildit.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/simcitybuildit.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/simcitybuildit.ipa",
+            "bundleIdentifier": "com.ea.simcitymobile.bv",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Original Version → bypass tutorial or unstuck progression\n- Added iGameGod → integrated modding framework for enhanced gameplay control",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/simcitybuildit.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.83.2",
+                    "date": "2026-10-09T14:52:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/simcitybuildit.ipa",
+                    "size": 288138199,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1944308109,
             "name": "Muscle Rush - Destruction Run",
             "version": "1.2.49",
@@ -2298,37 +2329,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyattackalienshooter.ipa",
                     "size": 337798758,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1311384947,
-            "name": "SimCity BuildIt",
-            "version": "1.83.2",
-            "size": "274.79 MB",
-            "icon": "img/simcitybuildit.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/simcitybuildit.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/simcitybuildit.ipa",
-            "bundleIdentifier": "com.ea.simcitymobile.bv",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Original Version → bypass tutorial or unstuck progression\n- Added iGameGod → integrated modding framework for enhanced gameplay control",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/simcitybuildit.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "1.83.2",
-                    "date": "2026-10-08T16:49:10+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/simcitybuildit.ipa",
-                    "size": 288138199,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
