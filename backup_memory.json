@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1733718717,
+            "name": "Candy Pop Story : Match 3",
+            "version": "1.69.1008",
+            "size": "149.19 MB",
+            "icon": "img/candypopstorymatch3.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/candypopstorymatch3.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/candypopstorymatch3.ipa",
+            "bundleIdentifier": "com.gamoper.candysweetstory.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto Win\n- Coins\n- Moves",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/candypopstorymatch3.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.69.1008",
+                    "date": "2026-10-09T13:52:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/candypopstorymatch3.ipa",
+                    "size": 156437053,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1660965567,
             "name": "Score! Hero",
             "version": "4.720",
@@ -128,37 +159,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/pickcrafterminingcrafting.ipa",
                     "size": 101365841,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1733718717,
-            "name": "Candy Pop Story : Match 3",
-            "version": "1.69.1008",
-            "size": "149.19 MB",
-            "icon": "img/candypopstorymatch3.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/candypopstorymatch3.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/candypopstorymatch3.ipa",
-            "bundleIdentifier": "com.gamoper.candysweetstory.ios",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Auto Win\n- Coins\n- Moves",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/candypopstorymatch3.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "1.69.1008",
-                    "date": "2026-10-09T12:51:53+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/candypopstorymatch3.ipa",
-                    "size": 156437053,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
