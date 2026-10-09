@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1112609694,
+            "name": "Solitaire Truck Deluxe",
+            "version": "3.6.2",
+            "size": "261.11 MB",
+            "icon": "img/solitairetruckdeluxe.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/solitairetruckdeluxe.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/solitairetruckdeluxe.ipa",
+            "bundleIdentifier": "com.duole.solitaire.zen.home.design.patience.free.card.games",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto ADS NO → removes ad interruptions\n- Unlimited Gems → spend freely on upgrades and customization\n- Unlimited Wrench → repair and restore trucks without limits\n- Unlimited Undo → retry moves and puzzle solutions freely\n- Unlimited Hints → solve puzzles with guidance whenever needed",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/solitairetruckdeluxe.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "3.6.2",
+                    "date": "2026-10-09T15:07:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/solitairetruckdeluxe.ipa",
+                    "size": 273793679,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1534127536,
             "name": "Recycle Empire",
             "version": "0.22",
@@ -1926,37 +1957,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/pirateshipsbuildandfight.ipa",
                     "size": 284583526,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1112609694,
-            "name": "Solitaire Truck Deluxe",
-            "version": "3.6.2",
-            "size": "261.11 MB",
-            "icon": "img/solitairetruckdeluxe.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/solitairetruckdeluxe.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/solitairetruckdeluxe.ipa",
-            "bundleIdentifier": "com.duole.solitaire.zen.home.design.patience.free.card.games",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Auto ADS NO → removes ad interruptions\n- Unlimited Gems → spend freely on upgrades and customization\n- Unlimited Wrench → repair and restore trucks without limits\n- Unlimited Undo → retry moves and puzzle solutions freely\n- Unlimited Hints → solve puzzles with guidance whenever needed",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/solitairetruckdeluxe.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "3.6.2",
-                    "date": "2026-10-08T21:07:51+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/solitairetruckdeluxe.ipa",
-                    "size": 273793679,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
