@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1341604327,
+            "name": "YouTube Music",
+            "version": "9.40.2",
+            "size": "105.7 MB",
+            "icon": "img/youtubemusic.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubemusic.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubemusic.ipa",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Background playback\n\nAd-free experience\n\nArabic language support\n\nNote:\nFeatures must be enabled from the tool’s settings.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/youtubemusic.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "9.40.2",
+                    "date": "2026-10-09T10:58:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/youtubemusic.ipa",
+                    "size": 110834483,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1966590023,
             "name": "WhatsApp Business",
             "version": "26.38.74",
