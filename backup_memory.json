@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1113517421,
+            "name": "Cooking World: Cooking Games",
+            "version": "1.56.2",
+            "size": "306.36 MB",
+            "icon": "img/cookingworldcookinggames.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/cookingworldcookinggames.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/cookingworldcookinggames.ipa",
+            "bundleIdentifier": "com.cooking.world.chef.craze.restaurant.fever",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Gems [ Earn Some ]\n- Coins [ Earn Some ]\n- Exp [ Earn Some + Rewards ] Breakable Feature\n- Lives [ Linked With Exp ]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cookingworldcookinggames.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.56.2",
+                    "date": "2026-10-09T14:58:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/cookingworldcookinggames.ipa",
+                    "size": 321241743,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1769532000,
             "name": "Urban Heat: FPS",
             "version": "6.10.3",
@@ -2298,37 +2329,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/subwaysurfers.ipa",
                     "size": 246478274,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1113517421,
-            "name": "Cooking World: Cooking Games",
-            "version": "1.56.2",
-            "size": "306.36 MB",
-            "icon": "img/cookingworldcookinggames.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/cookingworldcookinggames.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/cookingworldcookinggames.ipa",
-            "bundleIdentifier": "com.cooking.world.chef.craze.restaurant.fever",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Gems [ Earn Some ]\n- Coins [ Earn Some ]\n- Exp [ Earn Some + Rewards ] Breakable Feature\n- Lives [ Linked With Exp ]",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cookingworldcookinggames.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "1.56.2",
-                    "date": "2026-10-08T19:52:49+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/cookingworldcookinggames.ipa",
-                    "size": 321241743,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
