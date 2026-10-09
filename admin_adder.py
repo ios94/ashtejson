@@ -36,6 +36,7 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
             source_data["apps"].pop(i)
             break
 
+    # خستنە ڕیزی یەکەم
     source_data["apps"].insert(0, new_app)
 
     with open(json_file, "w", encoding="utf-8") as f:
@@ -47,7 +48,8 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     exit(0)
 
 
-# بەشی یەکەم: هێنانی زانیارییەکان و داگرتنی فایلەکان (لە یەک کاتدا بۆ چەند یارییەک کار دەکات)
+# بەشی یەکەم: هێنانی زانیارییەکان و داگرتنی فایلەکان
+app_type = os.environ.get("APP_TYPE", "games").strip()
 app_input = os.environ.get("APP_NAME", "").strip()
 ipa_link = os.environ.get("IPA_LINK", "").strip()
 
@@ -133,7 +135,7 @@ if not target_app:
     exit(1)
 
 app_name_final = target_app.get('name', 'Unknown')
-print(f"سەرکەوتوو بوو! یارییە دۆزرایەوە: {app_name_final}")
+print(f"سەرکەوتوو بوو! دۆزرایەوە: {app_name_final} | بەشی: {app_type}")
 
 slug = "".join(e for e in app_name_final if e.isalnum()).lower()
 if not slug: slug = f"app{random.randint(1000, 9999)}"
@@ -167,10 +169,8 @@ try:
         with open(ipa_filename, "wb") as f:
             for chunk in r.iter_content(chunk_size=8192):
                 f.write(chunk)
-    else:
-        print("کێشە لە داگرتنی یارییەکە هەیە!")
-        exit(1)
 except Exception as e:
+    print("کێشە لە داگرتنی یارییەکە هەیە!")
     exit(1)
 
 github_release_url = f"https://github.com/ios94/ashtejson/releases/download/V1/{slug}.ipa"
@@ -191,7 +191,7 @@ new_app = {
     "size": str(app_size_str),
     "icon": icon_relative,
     "badge": "",
-    "type": "games",
+    "type": app_type,
     "install_url": github_release_url,
     "download_url": github_release_url,
     "bundleIdentifier": target_app.get('bundle', target_app.get('bundleIdentifier', f"com.ashtemobile.{slug}")),
@@ -201,7 +201,7 @@ new_app = {
     "localizedDescription": target_app.get('description', "Downloaded from AshteMobile Source."),
     "iconURL": icon_full_url,
     "tintColor": "#04ecfc",
-    "category": "games",
+    "category": app_type,
     "screenshots": [],
     "versions": [
         {
@@ -216,7 +216,6 @@ new_app = {
     ]
 }
 
-# پاراستنی داتاکە لە فایلێکی کاتی بۆ ئەوەی لە ڕیزەکەدا بیخەینە ناو سۆرسەکە
 with open("temp_app.json", "w", encoding="utf-8") as f:
     json.dump(new_app, f, ensure_ascii=False, indent=4)
     
