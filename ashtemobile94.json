@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1944308109,
+            "name": "Muscle Rush - Destruction Run",
+            "version": "1.2.49",
+            "size": "122.54 MB",
+            "icon": "img/musclerushdestructionrun.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/musclerushdestructionrun.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/musclerushdestructionrun.ipa",
+            "bundleIdentifier": "com.muscle.rush",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "✅ 9 million cash 💰",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/musclerushdestructionrun.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.2.49",
+                    "date": "2026-10-09T14:51:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/musclerushdestructionrun.ipa",
+                    "size": 128492503,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1870428001,
             "name": "KR 2 - King Simulator",
             "version": "35",
@@ -2360,44 +2391,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/urbanheatfps.ipa",
                     "size": 937982689,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ],
-            "appPermissions": {
-                "entitlements": [],
-                "privacy": {
-                    "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you."
-                }
-            },
-            "patreon": {}
-        },
-        {
-            "id": 1944308109,
-            "name": "Muscle Rush - Destruction Run",
-            "version": "1.2.49",
-            "size": "122.54 MB",
-            "icon": "img/musclerushdestructionrun.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/musclerushdestructionrun.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/musclerushdestructionrun.ipa",
-            "bundleIdentifier": "com.ashtemobile.app1944308109",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Downloaded from AshteMobile Source.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/musclerushdestructionrun.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "1.2.49",
-                    "date": "2026-10-07T23:17:55+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/musclerushdestructionrun.ipa",
-                    "size": 128492503,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
