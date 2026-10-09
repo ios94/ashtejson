@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1286178137,
+            "name": "Forge Master – Idle RPG",
+            "version": "2.10.0",
+            "size": "101.25 MB",
+            "icon": "img/forgemasteridlerpg.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/forgemasteridlerpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/forgemasteridlerpg.ipa",
+            "bundleIdentifier": "com.hariwn.legendofcivilizations",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- xDmg\n- Never Die",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/forgemasteridlerpg.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "2.10.0",
+                    "date": "2026-10-09T21:50:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/forgemasteridlerpg.ipa",
+                    "size": 106168320,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1246780372,
             "name": "Bounce Dunk - basketball game",
             "version": "1.1.42",
