@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1683722859,
+            "name": "Shoot & Hide",
+            "version": "1.10.1",
+            "size": "97.99 MB",
+            "icon": "img/shoothide.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/shoothide.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/shoothide.ipa",
+            "bundleIdentifier": "com.sniper.shoot.hide.game",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Exclusive\n\n- Unlimited Money\n- Unlimited Gems\n- Unlimited Trophies\n- No Ads\n\nNote: If it doesn't work for you, exit the app and reopen it twice.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shoothide.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.10.1",
+                    "date": "2026-10-09T14:46:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/shoothide.ipa",
+                    "size": 102749962,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1569633392,
             "name": "Arabian Puzzle: Ludo Quest",
             "version": "1.3",
@@ -2305,44 +2336,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/kr2kingsimulator.ipa",
                     "size": 429748387,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ],
-            "appPermissions": {
-                "entitlements": [],
-                "privacy": {
-                    "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you."
-                }
-            },
-            "patreon": {}
-        },
-        {
-            "id": 1683722859,
-            "name": "Shoot & Hide",
-            "version": "1.10.1",
-            "size": "97.99 MB",
-            "icon": "img/shoothide.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/shoothide.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/shoothide.ipa",
-            "bundleIdentifier": "com.ashtemobile.app1683722859",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Downloaded from AshteMobile Source.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shoothide.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "1.10.1",
-                    "date": "2026-10-07T22:55:25+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/shoothide.ipa",
-                    "size": 102749962,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
