@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1319508161,
+            "name": "Facebook Glow",
+            "version": "566.1.0",
+            "size": "209.98 MB",
+            "icon": "img/facebookglow.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Remove ads\r\nRemove people you may know\r\nRemove Reels from the homepage\r\nConfirm likes\r\nSave videos\r\nSave Reels videos\r\nHide buttons\r\nConfirm likes\r\nSave by long-press\r\nSave stories\r\nWatch stories incognito\r\nDisable auto-progression\r\nClear cache when starting the app",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/facebookglow.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "566.1.0",
+                    "date": "2026-10-09T11:03:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
+                    "size": 220179988,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1130452612,
             "name": "Swiftgram: Telegram mod client",
             "version": "12.8",
