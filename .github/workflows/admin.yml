@@ -11,7 +11,7 @@ on:
           - games
           - apps
       app_name:
-        description: 'لینکی پەڕەی یارییەکە (لە سایتی check0ver) یان ناوی یارییەکە دابنێ'
+        description: 'لینکی پەڕەی یارییەکە یان ناوی یارییەکە دابنێ'
         required: true
         type: string
       ipa_link:
@@ -46,7 +46,7 @@ jobs:
           IPA_LINK: ${{ github.event.inputs.ipa_link }}
         run: python admin_adder.py
 
-      - name: Inject AlertAshte.dylib directly inside IPA files
+      - name: Inject Custom Library directly inside IPA files
         run: python inject.py
 
       - name: Upload IPA to Release V1
@@ -62,6 +62,9 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
+          # کردنەوەی کۆدی ناوی سۆرسەکە بە نهێنی
+          JSON_FILE=$(echo "YXNodGVtb2JpbGU5NC5qc29u" | base64 --decode)
+          
           for i in {1..20}; do
             echo "هەوڵی ژمارە $i: هێنانی تازەترین ڤێرژنی سۆرسەکە..."
             git pull origin main --rebase
@@ -69,7 +72,7 @@ jobs:
             echo "خستنە ناوەوەی یارییە نوێیەکە بۆ ناو سۆرسەکە..."
             python admin_adder.py update_json
             
-            git add ashtemobile94.json backup_memory.json img/
+            git add "$JSON_FILE" backup_memory.json img/
             git commit -m "Added: ${{ github.event.inputs.app_name }} (${{ github.event.inputs.app_type }})" || echo "No changes"
             
             if git push; then
@@ -77,7 +80,7 @@ jobs:
               break
             else
               echo "هێڵەکە قەرەباڵغە! ڕۆبۆتێکی تر خەریکە... ١٠ چرکە چاوەڕێ دەکەم."
-              git restore ashtemobile94.json backup_memory.json || true
+              git restore "$JSON_FILE" backup_memory.json || true
               sleep 10
             fi
           done
