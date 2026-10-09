@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1500421103,
+            "name": "Merge Ville: Match Puzzle Game",
+            "version": "0.15.12",
+            "size": "380.02 MB",
+            "icon": "img/mergevillematchpuzzlegame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mergevillematchpuzzlegame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mergevillematchpuzzlegame.ipa",
+            "bundleIdentifier": "com.merge.ville",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Everything is free",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergevillematchpuzzlegame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "0.15.12",
+                    "date": "2026-10-09T14:56:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mergevillematchpuzzlegame.ipa",
+                    "size": 398479851,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1659585884,
             "name": "Trophy Hunter: Sniper Game",
             "version": "3.28.0",
@@ -2267,37 +2298,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mytalkingtomfriends.ipa",
                     "size": 272315187,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1500421103,
-            "name": "Merge Ville: Match Puzzle Game",
-            "version": "0.15.12",
-            "size": "380.02 MB",
-            "icon": "img/mergevillematchpuzzlegame.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mergevillematchpuzzlegame.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mergevillematchpuzzlegame.ipa",
-            "bundleIdentifier": "com.merge.ville",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Everything is free",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergevillematchpuzzlegame.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "0.15.12",
-                    "date": "2026-10-08T19:04:06+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mergevillematchpuzzlegame.ipa",
-                    "size": 398479851,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
