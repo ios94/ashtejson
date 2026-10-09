@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1763607208,
+            "name": "Messenger Flow",
+            "version": "566.0.0",
+            "size": "99.81 MB",
+            "icon": "img/messengerflow.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/messengerflow.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/messengerflow.ipa",
+            "bundleIdentifier": "com.facebook.Messenger",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Remove ads\r\nRemove the Stories banner\r\nRemove the \"People You May Know\" section\r\nDisable the typing indicator\r\nRead messages incognito\r\nWatch stories incognito\r\nRepeat stories\r\nDownload stories\r\nRemove the \"Stories\" tab\r\nRemove the \"Friends\" tab\r\nRemove the AI ​​circle\r\nRequire confirmation before making calls",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/messengerflow.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "566.0.0",
+                    "date": "2026-10-09T11:04:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/messengerflow.ipa",
+                    "size": 104658370,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1319508161,
             "name": "Facebook Glow",
             "version": "566.1.0",
