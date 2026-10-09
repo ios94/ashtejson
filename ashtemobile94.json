@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1417160430,
+            "name": "War Drone: 3D Shooting Games",
+            "version": "500253",
+            "size": "157.58 MB",
+            "icon": "img/wardrone3dshootinggames.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/wardrone3dshootinggames.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/wardrone3dshootinggames.ipa",
+            "bundleIdentifier": "com.miniclip.drone1",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- DMG",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wardrone3dshootinggames.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "500253",
+                    "date": "2026-10-09T14:53:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/wardrone3dshootinggames.ipa",
+                    "size": 165234606,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1193040640,
             "name": "Dead Spreading: Survival",
             "version": "1.0.93",
@@ -2267,37 +2298,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/herowarsallianceadventure.ipa",
                     "size": 151582146,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1417160430,
-            "name": "War Drone: 3D Shooting Games",
-            "version": "500253",
-            "size": "157.58 MB",
-            "icon": "img/wardrone3dshootinggames.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/wardrone3dshootinggames.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/wardrone3dshootinggames.ipa",
-            "bundleIdentifier": "com.miniclip.drone1",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- DMG",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wardrone3dshootinggames.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "500253",
-                    "date": "2026-10-08T18:53:23+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/wardrone3dshootinggames.ipa",
-                    "size": 165234606,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
