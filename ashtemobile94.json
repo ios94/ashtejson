@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1948882521,
+            "name": "Idle Lumber Empire - Wood Game",
+            "version": "1.13.2",
+            "size": "132.46 MB",
+            "icon": "img/idlelumberempirewoodgame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/idlelumberempirewoodgame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/idlelumberempirewoodgame.ipa",
+            "bundleIdentifier": "com.lumber.inc",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Currencies\n- No Ads",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlelumberempirewoodgame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.13.2",
+                    "date": "2026-10-09T15:01:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/idlelumberempirewoodgame.ipa",
+                    "size": 138894376,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1977014265,
             "name": "Little Singham 2: World Hero",
             "version": "1.0.25",
@@ -2112,37 +2143,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/pizzaready.ipa",
                     "size": 155744993,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1948882521,
-            "name": "Idle Lumber Empire - Wood Game",
-            "version": "1.13.2",
-            "size": "132.46 MB",
-            "icon": "img/idlelumberempirewoodgame.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/idlelumberempirewoodgame.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/idlelumberempirewoodgame.ipa",
-            "bundleIdentifier": "com.lumber.inc",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Freeze Currencies\n- No Ads",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlelumberempirewoodgame.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "1.13.2",
-                    "date": "2026-10-08T20:32:03+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/idlelumberempirewoodgame.ipa",
-                    "size": 138894376,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
