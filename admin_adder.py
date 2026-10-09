@@ -5,10 +5,13 @@ import requests
 import random
 import re
 import urllib.parse
+import base64
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 
-# بەشی دووەم: کاتێک ڕۆبۆتەکە لە ڕیزدایە تەنها بۆ نوێکردنەوەی سۆرسەکە
+def _d(s):
+    return base64.b64decode(s).decode('utf-8')
+
 if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     if not os.path.exists("temp_app.json"):
         exit(0)
@@ -16,7 +19,7 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     with open("temp_app.json", "r", encoding="utf-8") as f:
         new_app = json.load(f)
         
-    json_file = "ashtemobile94.json"
+    json_file = _d('YXNodGVtb2JpbGU5NC5qc29u')
     backup_file = "backup_memory.json"
     
     if os.path.exists(json_file):
@@ -36,7 +39,6 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
             source_data["apps"].pop(i)
             break
 
-    # خستنە ڕیزی یەکەم
     source_data["apps"].insert(0, new_app)
 
     with open(json_file, "w", encoding="utf-8") as f:
@@ -44,17 +46,16 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     with open(backup_file, "w", encoding="utf-8") as f:
         json.dump(source_data, f, ensure_ascii=False, indent=4)
         
-    print("زانیارییەکان بە خێرایی و بە سەرکەوتوویی خرانە ناو سۆرسەکەت.")
+    print("Data successfully updated in the source file.")
     exit(0)
 
 
-# بەشی یەکەم: هێنانی زانیارییەکان و داگرتنی فایلەکان
 app_type = os.environ.get("APP_TYPE", "games").strip()
 app_input = os.environ.get("APP_NAME", "").strip()
 ipa_link = os.environ.get("IPA_LINK", "").strip()
 
 if not app_input or not ipa_link:
-    print("کێشە: پێویستە خانەکان پڕ بکرێنەوە!")
+    print("Error: Missing required input fields.")
     exit(1)
 
 headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
@@ -87,7 +88,7 @@ def find_main_app_in_page(data):
     return None
 
 if app_input.startswith("http"):
-    print("لینک دۆزرایەوە! خەریکی هێنانی زانیارییەکانم...")
+    print("Direct link detected. Fetching data...")
     try:
         res = requests.get(app_input, headers=headers, timeout=15)
         soup = BeautifulSoup(res.text, 'html.parser')
@@ -96,15 +97,16 @@ if app_input.startswith("http"):
             page_data = json.loads(app_div['data-page'])
             target_app = find_main_app_in_page(page_data)
     except Exception as e:
-        print(f"کێشە لە کردنەوەی لینکەکە: {e}")
+        print(f"Request error: {e}")
 else:
-    print(f"خەریکی گەڕانم بەدوای '{app_input}'...")
+    print(f"Searching for query: '{app_input}'...")
+    base_search = _d('aHR0cHM6Ly9jaGVjazB2ZXIubmV0L2VuL2lhcHBz')
     search_params = [
         f"?filter[search]={urllib.parse.quote(app_input)}",
         f"?search={urllib.parse.quote(app_input)}"
     ]
     for param in search_params:
-        url = f"https://check0ver.net/en/iapps{param}"
+        url = f"{base_search}{param}"
         try:
             res = requests.get(url, headers=headers, timeout=10)
             if res.status_code == 200:
@@ -118,7 +120,7 @@ else:
     
     if not target_app:
         for page in range(1, 10):
-            url = f"https://check0ver.net/en/iapps?page={page}"
+            url = f"{base_search}?page={page}"
             try:
                 res = requests.get(url, headers=headers, timeout=10)
                 if res.status_code == 200:
@@ -131,11 +133,11 @@ else:
             except: continue
 
 if not target_app:
-    print("کێشە: نەمتوانی زانیاری یارییەکە بدۆزمەوە.")
+    print("Error: Target data could not be found.")
     exit(1)
 
 app_name_final = target_app.get('name', 'Unknown')
-print(f"سەرکەوتوو بوو! دۆزرایەوە: {app_name_final} | بەشی: {app_type}")
+print(f"Success. Found: {app_name_final} | Category: {app_type}")
 
 slug = "".join(e for e in app_name_final if e.isalnum()).lower()
 if not slug: slug = f"app{random.randint(1000, 9999)}"
@@ -147,7 +149,7 @@ downloaded_icon_name = f"{slug}{ext}"
 icon_path = os.path.join("img", downloaded_icon_name)
 
 if app_icon_url and app_icon_url.startswith("http"):
-    print("خەریکی داگرتنی وێنەکە...")
+    print("Downloading icon asset...")
     try:
         ir = requests.get(app_icon_url, stream=True, headers=headers)
         if ir.status_code == 200:
@@ -158,11 +160,11 @@ if app_icon_url and app_icon_url.startswith("http"):
         pass
 
 icon_relative = f"img/{downloaded_icon_name}"
-icon_full_url = f"https://raw.githubusercontent.com/ios94/ashtejson/main/img/{downloaded_icon_name}"
+icon_full_url = f"{_d('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lvczk0L2FzaHRlanNvbi9tYWluL2ltZy8=')}{downloaded_icon_name}"
 
 os.makedirs("ipas", exist_ok=True)
 ipa_filename = f"ipas/{slug}.ipa"
-print("خەریکی داگرتنی یارییەکە...")
+print("Downloading primary package...")
 try:
     r = requests.get(ipa_link, stream=True)
     if r.status_code == 200:
@@ -170,10 +172,10 @@ try:
             for chunk in r.iter_content(chunk_size=8192):
                 f.write(chunk)
 except Exception as e:
-    print("کێشە لە داگرتنی یارییەکە هەیە!")
+    print("Error during package download sequence.")
     exit(1)
 
-github_release_url = f"https://github.com/ios94/ashtejson/releases/download/V1/{slug}.ipa"
+github_release_url = f"{_d('aHR0cHM6Ly9naXRodWIuY29tL2lvczk0L2FzaHRlanNvbi9yZWxlYXNlcy9kb3dubG9hZC9WMS8=')}{slug}.ipa"
 current_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
 app_id = random.randint(1111111111, 1999999999)
 
@@ -194,11 +196,11 @@ new_app = {
     "type": app_type,
     "install_url": github_release_url,
     "download_url": github_release_url,
-    "bundleIdentifier": target_app.get('bundle', target_app.get('bundleIdentifier', f"com.ashtemobile.{slug}")),
+    "bundleIdentifier": target_app.get('bundle', target_app.get('bundleIdentifier', f"{_d('Y29tLmFzaHRlbW9iaWxlLg==')}{slug}")),
     "marketplaceID": "",
-    "developerName": "AshteMobile",
+    "developerName": _d('QXNodGVNb2JpbGU='),
     "subtitle": "Awesome App",
-    "localizedDescription": target_app.get('description', "Downloaded from AshteMobile Source."),
+    "localizedDescription": target_app.get('description', _d('RG93bmxvYWRlZCBmcm9tIEFzaHRlTW9iaWxlIFNvdXJjZS4=')),
     "iconURL": icon_full_url,
     "tintColor": "#04ecfc",
     "category": app_type,
@@ -219,4 +221,4 @@ new_app = {
 with open("temp_app.json", "w", encoding="utf-8") as f:
     json.dump(new_app, f, ensure_ascii=False, indent=4)
     
-print("هەموو فایلەکان ئامادەن، ئێستا دەچێتە ڕیزەوە بۆ ئەوەی بخرێتە ناو سۆرسەکەت بێ کێشە.")
+print("Operations completed. Task queued for processing.")
