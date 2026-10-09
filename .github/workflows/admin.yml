@@ -3,6 +3,13 @@ name: Admin Panel - Smart Auto Adder
 on:
   workflow_dispatch:
     inputs:
+      app_type:
+        description: 'ئایا ئەمە یارییە یان بەرنامە؟ (games یان apps)'
+        required: true
+        type: choice
+        options:
+          - games
+          - apps
       app_name:
         description: 'لینکی پەڕەی یارییەکە (لە سایتی check0ver) یان ناوی یارییەکە دابنێ'
         required: true
@@ -34,6 +41,7 @@ jobs:
 
       - name: Heavy Work (Download IPA and Scrape)
         env:
+          APP_TYPE: ${{ github.event.inputs.app_type }}
           APP_NAME: ${{ github.event.inputs.app_name }}
           IPA_LINK: ${{ github.event.inputs.ipa_link }}
         run: python admin_adder.py
@@ -51,7 +59,6 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
-          # سیستەمی ڕیزبەندی زیرەک - تا ٢٠ جار هەوڵ دەدات بۆ ئەوەی ئیرۆر نەدات
           for i in {1..20}; do
             echo "هەوڵی ژمارە $i: هێنانی تازەترین ڤێرژنی سۆرسەکە..."
             git pull origin main --rebase
@@ -60,7 +67,7 @@ jobs:
             python admin_adder.py update_json
             
             git add ashtemobile94.json backup_memory.json img/
-            git commit -m "Smart Added App" || echo "No changes"
+            git commit -m "Added: ${{ github.event.inputs.app_name }} (${{ github.event.inputs.app_type }})" || echo "No changes"
             
             if git push; then
               echo "سەرکەوتوو بوو! یارییەکە خرایە ناو گیتهاپ."
