@@ -1,33 +1,23 @@
-name: Build AlertAshte Dylib
+name: Build iOS Dylib
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: macos-latest
-
     steps:
-      - name: 📥 سحب الكود
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: ⚙️ تثبيت أداة ldid وبيئة Theos و SDKs
+      - name: Compile Dylib
         run: |
-          brew install ldid
-          rm -rf $GITHUB_WORKSPACE/theos
-          git clone --recursive https://github.com/theos/theos.git $GITHUB_WORKSPACE/theos
-          rm -rf $GITHUB_WORKSPACE/theos/sdks
-          git clone https://github.com/theos/sdks.git $GITHUB_WORKSPACE/theos/sdks
-
-      - name: 🔨 بناء التويك والدايلب
-        run: |
-          export THEOS=$GITHUB_WORKSPACE/theos
-          make package FINALPACKAGE=1
-
-      - name: 📦 رفع ملف الدايلب النهائي
+          clang -dynamiclib -isysroot $(xcrun --sdk iphoneos --show-sdk-path) -arch arm64 -miphoneos-version-min=13.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore SocialMenu.m -o SocialMenu.dylib
+      
+      - name: Upload Dylib Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: AlertAshte-Dylib
-          path: .theos/obj/*.dylib
+          name: SocialMenu-Dylib
+          path: SocialMenu.dylib
