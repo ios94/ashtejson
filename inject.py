@@ -76,21 +76,10 @@ def inject():
             if parsed:
                 injected = False
                 for arch in parsed:
-                    # فێڵە گەورەکە: گۆڕینی بەستەری Foundation بۆ دایلبەکەی تۆ
-                    hijacked = False
-                    for lib in arch.libraries:
-                        if "Foundation.framework" in lib.name:
-                            lib.name = dylib_load_path
-                            hijacked = True
-                            injected = True
-                            break
-                    
-                    # ئەگەر Foundation نەدۆزرایەوە، بە شێوەی ئاسایی ئینجێکتی دەکەین
-                    if not hijacked:
-                        existing = [lib.name for lib in arch.libraries]
-                        if dylib_load_path not in existing:
-                            arch.add_library(dylib_load_path)
-                            injected = True
+                    existing = [lib.name for lib in arch.libraries]
+                    if dylib_load_path not in existing:
+                        arch.add_library(dylib_load_path)
+                        injected = True
                             
                 if injected:
                     parsed.write(binary_path)
@@ -113,7 +102,7 @@ def inject():
     shutil.make_archive("repacked", 'zip', work_dir)
     shutil.move("repacked.zip", target_ipa)
     shutil.rmtree(work_dir)
-    print("پڕۆسەی بەستنەوە بە سەرکەوتوویی کۆتایی هات! پاراستنی دژە-سڕینەوە چالاککرا.")
+    print("پڕۆسەی بەستنەوە بە سەرکەوتوویی کۆتایی هات! دایلبەکە بە سەلامەتی زیادکرا.")
 
 if __name__ == "__main__":
     inject()
