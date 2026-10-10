@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1308317095,
+            "name": "Colopl Rune Story",
+            "version": "5.59.2",
+            "size": "93.31 MB",
+            "icon": "img/coloplrunestory.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/coloplrunestory.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/coloplrunestory.ipa",
+            "bundleIdentifier": "jp.colopl.wcat",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Loot Multiplier - x1 - 100\r\n- Damage Multiplier\r\n- Never Die\r\n- Custom Damage\r\n- Unlimited SP\r\n- Move Speed Multiplier\r\n\r\nNote:\r\n\r\n1 - Log in with any account from the iosgods.com website\r\n2 - Activate the hack from the menu\r\n3 - If you have a jailbreak, hide the jailbreak from the game",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/coloplrunestory.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "5.59.2",
+                    "date": "2026-10-10T01:32:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/coloplrunestory.ipa",
+                    "size": 97842626,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1943719559,
             "name": "Jewel Hunter - Match 3",
             "version": "4.13.1",
