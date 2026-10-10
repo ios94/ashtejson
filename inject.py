@@ -18,9 +18,15 @@ def patch_all_encodings(file_path, old_name, new_name):
 
   changed = False
 
+  # ڕێکخستنی درێژی ناوە نوێیەکە تا هەمان ژمارەی پیتەکانی ناوە کۆنەکەی هەبێت
+  if len(new_name) < len(old_name):
+    padded_new_name = new_name.ljust(len(old_name), " ")
+  else:
+    padded_new_name = new_name[: len(old_name)]
+
   # ١. پشکنین بۆ دۆخی ئاسایی (UTF-8)
   old_b8 = old_name.encode("utf-8")
-  new_b8 = new_name.encode("utf-8").ljust(len(old_b8), b" ")[: len(old_b8)]
+  new_b8 = padded_new_name.encode("utf-8")
 
   count8 = data.count(old_b8)
   if count8 > 0:
@@ -30,9 +36,7 @@ def patch_all_encodings(file_path, old_name, new_name):
 
   # ٢. پشکنین بۆ دۆخی UTF-16LE
   old_b16 = old_name.encode("utf-16le")
-  new_b16 = new_name.encode("utf-16le").ljust(len(old_b16), b" \x00")[
-      : len(old_b16)
-  ]
+  new_b16 = padded_new_name.encode("utf-16le")
 
   count16 = data.count(old_b16)
   if count16 > 0:
@@ -128,7 +132,7 @@ def inject():
   target_dylib = os.path.join(app_dir, fake_official_name)
   shutil.copy2(dylib_file, target_dylib)
 
-  # بەکارهێنانی فەنکشنە نوێیەکە بۆ گۆڕینی دەقەکە بە هەردوو فۆرمات
+  # بەکارهێنانی فەنکشنە چاککراوەکە بۆ گۆڕینی دەقەکە بە هەردوو فۆرمات
   patch_all_encodings(target_dylib, "CheckOver Team", "AshteMobile")
   os.chmod(target_dylib, 0o755)
 
