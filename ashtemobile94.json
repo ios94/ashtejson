@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1943719559,
+            "name": "Jewel Hunter - Match 3",
+            "version": "4.13.1",
+            "size": "109.34 MB",
+            "icon": "img/jewelhuntermatch3.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/jewelhuntermatch3.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/jewelhuntermatch3.ipa",
+            "bundleIdentifier": "com.linkdesks.puzzle.casual.jewelhunter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Enable fake purchase\n- No ads\n\nNote: Activate the hack from the mod menu.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jewelhuntermatch3.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "4.13.1",
+                    "date": "2026-10-10T01:17:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/jewelhuntermatch3.ipa",
+                    "size": 114651299,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1803035251,
             "name": "Homescapes",
             "version": "9.2.100",
