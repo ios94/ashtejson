@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1246884371,
+            "name": "Timeline Up!",
+            "version": "17.7.0",
+            "size": "218.64 MB",
+            "icon": "img/timelineup.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/timelineup.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/timelineup.ipa",
+            "bundleIdentifier": "com.MojoGames.EraEvolution",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Money\r\n- Freeze Diamond\r\n- Freeze Upgrade Token\r\n- Freeze Rare Key\r\n- Freeze Common Key\r\n- Freeze Battle Ticket\r\n- Freeze Dungeon Ticket\r\n- Freeze Champion unlock Tokens/Shards\r\n- No Ads",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/timelineup.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "17.7.0",
+                    "date": "2026-10-10T23:17:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/timelineup.ipa",
+                    "size": 229260656,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1234711351,
             "name": "Mansion Tale: Merge Secrets",
             "version": "1.160.0",
