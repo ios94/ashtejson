@@ -2,18 +2,20 @@
 
 %ctor {
     @autoreleasepool {
-        // پشکنینی نەرم و پارێزراو بۆ دڵنیابوون لە کارکردنی یارییەکە
+        // دۆزینەوەی ڕێڕەوی فۆڵدەری سەرەکی ئەپەکە
         NSString *bundlePath = [[NSBundle mainBundle] bundlePath];
+        
+        // ناوی ఆ فایلی دایلبەی کە لەناو ئەپەکەدا دانراوە
         NSString *targetDylib = @"libCoreSecurity.dylib";
         NSString *dylibPath = [bundlePath stringByAppendingPathComponent:targetDylib];
-        NSString *frameworksPath = [bundlePath stringByAppendingPathComponent:@"Frameworks/libCoreSecurity.dylib"];
         
         NSFileManager *fileManager = [NSFileManager defaultManager];
         
-        // ئەگەر لە هیچ کدام لەو دوو شوێنەدا نەبوو، ئینجا با کراش بکات
-        if (![fileManager fileExistsAtPath:dylibPath] && ![fileManager fileExistsAtPath:frameworksPath]) {
-            // بۆ تاقیکردنەوە دەتوانیت ئەمە فعال بکەیت یان لێیگەڕێیت
-            // abort();
+        // پشکنینی پاراستن:
+        // ئەگەر فایلەکە لە شوێنی خۆیدا هەبوو -> یارییەکە بێ کێشە کرایەوە دەبێت و کار دەکات.
+        // ئەگەر کەسێک فایلەکەی لەناو ESign سڕییەوە -> فەرمانی abort جێبەجێ دەبێت و یارییەکە یەکسەر دەشکێت!
+        if (![fileManager fileExistsAtPath:dylibPath]) {
+            abort();
         }
     }
 }
