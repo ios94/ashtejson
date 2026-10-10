@@ -17,7 +17,7 @@ def inject():
   dylib_file = "AlertAshte.dylib"
 
   if not os.path.exists(dylib_file):
-    print("AlertAshte.dylib نەدۆزرایەوە!")
+    print("AlertAshte.dylib لە پەڕەی سەرەکی نەدۆزرایەوە!")
     return
 
   print(f"دەستپێکردنی کار لەسەر: {target_ipa}")
@@ -26,6 +26,7 @@ def inject():
     shutil.rmtree(work_dir)
   os.makedirs(work_dir, exist_ok=True)
 
+  # دەرهێنانی فایلی IPA
   with zipfile.ZipFile(target_ipa, "r") as zip_ref:
     zip_ref.extractall(work_dir)
 
@@ -39,7 +40,7 @@ def inject():
   plist_path = os.path.join(app_dir, "Info.plist")
   exec_name = None
 
-  # ١. دەستکاریکردنی Info.plist بۆ گۆڕینی ناو
+  # ١. دەستکاریکردنی Info.plist بۆ گۆڕینی ناوی بەرنامە
   if os.path.exists(plist_path):
     try:
       with open(plist_path, "rb") as fp:
@@ -66,7 +67,7 @@ def inject():
         with open(plist_path, "wb") as fp:
           plistlib.dump(pl, fp)
 
-      # لابردنی فایلەکانی زمان تا ناوی گۆڕدراو نەگۆڕێتەوە
+      # سڕینەوەی زمانەکان تا ناوی گۆڕدراو جێگیر بێت
       for strings_file in glob.glob(
           os.path.join(app_dir, "**", "InfoPlist.strings"), recursive=True
       ):
@@ -81,7 +82,7 @@ def inject():
   if not exec_name:
     exec_name = os.path.splitext(app_folders[0])[0]
 
-  # ٢. دانانی فایلی dylib بە ناوێکی سیستەمی
+  # ٢. دانانی فایلی dylib بە ناوی libCoreSecurity
   fake_official_name = "libCoreSecurity.dylib"
   target_dylib = os.path.join(app_dir, fake_official_name)
   shutil.copy2(dylib_file, target_dylib)
@@ -89,7 +90,7 @@ def inject():
 
   dylib_load_path = f"@executable_path/{fake_official_name}"
 
-  # ٣. فەنکشنی بەستنەوەی زۆرەملێ بە Mach-O (LC_LOAD_DYLIB)
+  # ٣. فەنکشنی بەستنەوە بە بەکارهێنانی LIEF
   def inject_to_binary(binary_path):
     if not os.path.exists(binary_path) or os.path.islink(binary_path):
       return False
@@ -100,45 +101,45 @@ def inject():
 
       injected = False
       for arch in parsed:
-        # پشکنینی ئەوەی ئایا پێشتر بەستراوەتەوە
         existing_libs = [lib.name for lib in arch.libraries]
         if dylib_load_path not in existing_libs:
-          # بەستنەوە بە شێوازی بنەڕەتی (LC_LOAD_DYLIB) نەک weak
           arch.add_library(dylib_load_path)
           injected = True
 
       if injected:
         parsed.write(binary_path)
         os.chmod(binary_path, 0o755)
-        print(f"بە سەرکەوتوویی بەسترایەوە: {os.path.basename(binary_path)}")
+        print(f"بەستنەوە سەرکەوتوو بوو لە: {os.path.basename(binary_path)}")
         return True
     except Exception as e:
-      print(f"هەڵە لە بەستنەوەی {os.path.basename(binary_path)}: {e}")
+      print(f"نەتوانرا ببەسترێتەوە بە {os.path.basename(binary_path)}: {e}")
       return False
 
   # ٤. بەستنەوە بە باینەری سەرەکی
   main_exec = os.path.join(app_dir, exec_name)
-  if not inject_to_binary(main_exec):
-    print("ئاگاداری: بەستنەوە بە باینەری سەرەکی سەرکەوتوو نەبوو!")
+  inject_to_binary(main_exec)
 
-  # ٥. بەستنەوە بە هەموو فایلی Frameworks و Dynamic Libraries
+  # ٥. بەستنەوە بە فرەیمۆرکە سەرەکییەکان (UnityFramework یان فایلی .dylib لە ناو Frameworks)
   frameworks_dir = os.path.join(app_dir, "Frameworks")
   if os.path.exists(frameworks_dir):
-    for root, _, files in os.walk(frameworks_dir):
-      for f in files:
-        file_path = os.path.join(root, f)
-        # ئەگەر فایلەکە باینەری Mach-O بێت یان فایلی framework/dylib بێت
-        if f.endswith(".dylib") or (
-            not "." in f and os.path.isfile(file_path)
-        ):
-          inject_to_binary(file_path)
+    for item in os.listdir(frameworks_dir):
+      item_path = os.path.join(frameworks_dir, item)
+      if item.endswith(".framework") and os.path.isdir(item_path):
+        framework_bin_name = os.path.splitext(item)[0]
+        fw_binary = os.path.join(item_path, framework_bin_name)
+        if os.path.exists(fw_binary):
+          inject_to_binary(fw_binary)
+      elif item.endswith(".dylib") and os.path.isfile(item_path):
+        inject_to_binary(item_path)
 
-  # ٦. دروستکردنەوەی فایلی IPA
-  os.remove(target_ipa)
+  # ٦. کۆکردنەوە و دروستکردنەوەی فایلی IPA
+  if os.path.exists(target_ipa):
+    os.remove(target_ipa)
+
   shutil.make_archive("repacked", "zip", work_dir)
   shutil.move("repacked.zip", target_ipa)
   shutil.rmtree(work_dir)
-  print("پڕۆسەکە تەواو بوو؛ ئەپەکە بە تەواوی وابەستەی دیلایبەکە کرا.")
+  print("پڕۆسەی بەستنەوە بە سەرکەوتوویی کۆتایی هات!")
 
 
 if __name__ == "__main__":
