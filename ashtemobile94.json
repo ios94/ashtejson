@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1474586550,
+            "name": "Retro Wings: Sky Combat",
+            "version": "0.1.14",
+            "size": "75.22 MB",
+            "icon": "img/retrowingsskycombat.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/retrowingsskycombat.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/retrowingsskycombat.ipa",
+            "bundleIdentifier": "com.OnecoinClear.RetroWings",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Buy Anything for Free",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "0.1.14",
+                    "date": "2026-10-10T23:49:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/retrowingsskycombat.ipa",
+                    "size": 78873886,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1353026210,
             "name": "Screw Jam",
             "version": "8.16.3",
