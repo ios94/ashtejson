@@ -13,10 +13,11 @@ def inject():
         return
 
     target_ipa = ipa_list[0]
-    dylib_file = "AlertAshte.dylib"
+    # گۆڕینی ناوی دایلبەکە لێرەدا بۆ ئەوەی هاوسەنگ بێت لەگەڵ ڕیپۆسیتۆری و ناوەکی یارییەکە
+    dylib_file = "libCoreSecurity.dylib"
 
     if not os.path.exists(dylib_file):
-        print("AlertAshte.dylib لە پەڕەی سەرەکی نەدۆزرایەوە!")
+        print("libCoreSecurity.dylib لە پەڕەی سەرەکی نەدۆزرایەوە!")
         return
 
     print(f"دەستپێکردنی کار لەسەر: {target_ipa}")
@@ -71,7 +72,7 @@ def inject():
     if not exec_name:
         exec_name = os.path.splitext(app_folders[0])[0]
 
-    # گۆڕینی ناوی دیلایبەکە بۆ شاردنەوەی لە چاوی بەکارهێنەرانی ESign
+    # جێگیرکردنی دایلبەکە لەناو ئەپەکەدا بە ناوی پارێزراوی خۆی
     fake_official_name = "libCoreSecurity.dylib"
     target_dylib = os.path.join(app_dir, fake_official_name)
     shutil.copy2(dylib_file, target_dylib)
