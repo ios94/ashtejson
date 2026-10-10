@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1384337759,
+            "name": "Digi Merge",
+            "version": "3.30.2",
+            "size": "125.19 MB",
+            "icon": "img/digimerge.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/digimerge.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/digimerge.ipa",
+            "bundleIdentifier": "com.gibygames.digimerge",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "This app has iGameGod Jailed enabled so you can use the iOS Cheat Engine, Speed Hack Manager or Auto Touch Recorder to your liking! If you would like to add iGameGod Jailed to your app",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/digimerge.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "3.30.2",
+                    "date": "2026-10-10T23:46:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/digimerge.ipa",
+                    "size": 131271229,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1771688035,
             "name": "Voidpet Dungeon",
             "version": "5.29.53",
