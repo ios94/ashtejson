@@ -1,0 +1,30 @@
+name: Build AlertAshte Dylib
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-latest
+
+    steps:
+      - name: 📥 سحب الكود
+        uses: actions/checkout@v4
+
+      - name: ⚙️ تثبيت بيئة Theos و SDKs
+        run: |
+          git clone --recursive https://github.com/theos/theos.git $GITHUB_WORKSPACE/theos
+          git clone https://github.com/theos/sdks.git $GITHUB_WORKSPACE/theos/sdks
+
+      - name: 🔨 بناء التويك والدايلب
+        run: |
+          export THEOS=$GITHUB_WORKSPACE/theos
+          make package FINALPACKAGE=1
+
+      - name: 📦 رفع ملف الدايلب النهائي
+        uses: actions/upload-artifact@v4
+        with:
+          name: AlertAshte-Dylib
+          path: .theos/obj/*.dylib
