@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1639910675,
+            "name": "Mutiny: Pirate Survival RPG",
+            "version": "0.71.2",
+            "size": "650.42 MB",
+            "icon": "img/mutinypiratesurvivalrpg.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mutinypiratesurvivalrpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mutinypiratesurvivalrpg.ipa",
+            "bundleIdentifier": "com.heliogames.pirates",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Weapon Damage Multiplier\n- Never Die\n- Move Speed Multiplier\n- Quest Hack\n- Durability Hack\n- Inbox Hack\n- Stat Points Hack\n- Fast Travel\n- No Consumable Cooldown\n- Split Hack → Split to Gain\n- Craft Hack → No items needed for crafting\n- Custom Weapon Damage\n- Speed Multiplier\n- Enable VIP for some perks\n- No Requirements for Collection Buildings/Items for Finalize\n- Max Hunger Fill → One item = full hunger\n- Max Thirst Fill → One item = full thirst",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mutinypiratesurvivalrpg.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "0.71.2",
+                    "date": "2026-10-10T23:51:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mutinypiratesurvivalrpg.ipa",
+                    "size": 682014801,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1584635049,
             "name": "The Virus: Zombie Hunter",
             "version": "0.3.2",
