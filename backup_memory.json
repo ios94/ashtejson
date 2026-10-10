@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1495974840,
+            "name": "Zooba: Zoo Battle Royale Games",
+            "version": "7.3.0",
+            "size": "192.52 MB",
+            "icon": "img/zoobazoobattleroyalegames.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/zoobazoobattleroyalegames.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/zoobazoobattleroyalegames.ipa",
+            "bundleIdentifier": "com.fungames.battleroyale",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "✅Map Hacks\n✅Allow Shoot in Water",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zoobazoobattleroyalegames.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "7.3.0",
+                    "date": "2026-10-10T23:28:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/zoobazoobattleroyalegames.ipa",
+                    "size": 201871851,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1285201090,
             "name": "Block Out! - Color Sort Puzzle",
             "version": "1062",
@@ -2732,37 +2763,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/ninjascrollrush.ipa",
                     "size": 180816445,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1495974840,
-            "name": "Zooba: Zoo Battle Royale Games",
-            "version": "7.2.1",
-            "size": "192.51 MB",
-            "icon": "img/zoobazoobattleroyalegames.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/zoobazoobattleroyalegames.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/zoobazoobattleroyalegames.ipa",
-            "bundleIdentifier": "com.fungames.battleroyale",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "✅Map Hacks\n✅Allow Shoot in Water",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zoobazoobattleroyalegames.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "7.2.1",
-                    "date": "2026-10-08T20:36:03+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/zoobazoobattleroyalegames.ipa",
-                    "size": 201861365,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
