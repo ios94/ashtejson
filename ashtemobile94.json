@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1314653281,
+            "name": "Crowd Express: Boarding Puzzle",
+            "version": "4.9.0",
+            "size": "208.3 MB",
+            "icon": "img/crowdexpressboardingpuzzle.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/crowdexpressboardingpuzzle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/crowdexpressboardingpuzzle.ipa",
+            "bundleIdentifier": "com.feelcrafters.buspuzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto Ads No → removes ad interruptions\n- Coins Enough → unlimited in-game currency\n- Lives Freeze → never lose a life\n- Booster Max → all boosters at maximum",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crowdexpressboardingpuzzle.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "4.9.0",
+                    "date": "2026-10-10T23:48:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/crowdexpressboardingpuzzle.ipa",
+                    "size": 218418380,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1415322875,
             "name": "Gear Defenders",
             "version": "1.5.16",
@@ -3290,37 +3321,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/gymmaniatimemanagementgame.ipa",
                     "size": 152756551,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1314653281,
-            "name": "Crowd Express: Boarding Puzzle",
-            "version": "4.8.0",
-            "size": "200.72 MB",
-            "icon": "img/crowdexpressboardingpuzzle.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/crowdexpressboardingpuzzle.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/crowdexpressboardingpuzzle.ipa",
-            "bundleIdentifier": "com.feelcrafters.buspuzzle",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Auto Ads No → removes ad interruptions\n- Coins Enough → unlimited in-game currency\n- Lives Freeze → never lose a life\n- Booster Max → all boosters at maximum",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crowdexpressboardingpuzzle.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "4.8.0",
-                    "date": "2026-10-08T20:19:43+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/crowdexpressboardingpuzzle.ipa",
-                    "size": 210470174,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
