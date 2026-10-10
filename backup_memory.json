@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1951464125,
+            "name": "Packingdom",
+            "version": "1.5.3",
+            "size": "196.8 MB",
+            "icon": "img/packingdom.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/packingdom.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/packingdom.ipa",
+            "bundleIdentifier": "com.abi.packingdom",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Gold Modifier → earn or spend freely\n- Heart Modifier → earn or spend freely\n- Booster Modifier → earn or spend freely\n- Pre-Booster Modifier → earn or spend freely",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/packingdom.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.5.3",
+                    "date": "2026-10-10T23:28:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/packingdom.ipa",
+                    "size": 206359756,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1340420752,
             "name": "Stones and Bones",
             "version": "1.0.0",
