@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1568605724,
+            "name": "Icy Village: Survival Idle",
+            "version": "5.5.1",
+            "size": "592.43 MB",
+            "icon": "img/icyvillagesurvivalidle.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/icyvillagesurvivalidle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/icyvillagesurvivalidle.ipa",
+            "bundleIdentifier": "com.unimob.icy.village",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Currencies -> Will increase instead of decrease.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/icyvillagesurvivalidle.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "5.5.1",
+                    "date": "2026-10-10T23:53:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/icyvillagesurvivalidle.ipa",
+                    "size": 621207879,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1700011245,
             "name": "Tiny Hands Coloring Slate Pad",
             "version": "1.3",
