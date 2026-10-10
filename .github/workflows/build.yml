@@ -13,8 +13,9 @@ jobs:
       - name: 📥 سحب الكود
         uses: actions/checkout@v4
 
-      - name: ⚙️ تثبيت بيئة Theos و SDKs
+      - name: ⚙️ تثبيت أداة ldid وبيئة Theos و SDKs
         run: |
+          brew install ldid
           rm -rf $GITHUB_WORKSPACE/theos
           git clone --recursive https://github.com/theos/theos.git $GITHUB_WORKSPACE/theos
           rm -rf $GITHUB_WORKSPACE/theos/sdks
