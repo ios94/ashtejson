@@ -1,23 +1,21 @@
 #import <Foundation/Foundation.h>
-#import <dlfcn.h>
 
 %ctor {
     @autoreleasepool {
-        NSString *targetDylib = @"AlertAshte.dylib";
-        NSString *path = [NSString stringWithFormat:@"/Library/MobileSubstrate/DynamicLibraries/%@", targetDylib];
+        // دۆزینەوەی ڕێڕەوی فۆڵدەری سەرەکی ئەپەکە لەناو باینەرییەکەوە
+        NSString *exePath = [[NSBundle mainBundle] executablePath];
+        NSString *appDir = [exePath stringByDeletingLastPathComponent];
+        
+        // ناوی ئەو دایلبەی کە لەناو ئەپەکەدا هەیە (وەک لە وێنەکەدا دەردەکەوێت)
+        NSString *targetDylib = @"libCoreSecurity.dylib";
+        NSString *dylibPath = [appDir stringByAppendingPathComponent:targetDylib];
+        
         NSFileManager *fileManager = [NSFileManager defaultManager];
         
-        // پشکنینی بوونی فایل
-        if (![fileManager fileExistsAtPath:path]) {
+        // پشکنین: ئەگەر کەسێک فایلەکەی لەناو ESign سڕییەوە، یارییەکە بکراشێنە
+        // بەڵام ئەگەر فایلەکە لەوێ هەبوو، یارییەکە زۆر بە ئاسایی و بێ کێشە کرایەوە دەبێت
+        if (![fileManager fileExistsAtPath:dylibPath]) {
             abort();
-        }
-        
-        // پشکنینی شیاوی بارکردن بۆ ڕێگری لە لادانی پاراستن
-        void *handle = dlopen([path UTF8String], RTLD_LAZY);
-        if (!handle) {
-            abort();
-        } else {
-            dlclose(handle);
         }
     }
 }
