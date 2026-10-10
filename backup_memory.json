@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1237602537,
+            "name": "Bounty Go!™",
+            "version": "1.0.5",
+            "size": "245.62 MB",
+            "icon": "img/bountygo.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bountygo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bountygo.ipa",
+            "bundleIdentifier": "onetap.game.monopoly",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Never Die\n- One-Hit Kill\n- Token Multiplier\n- XP Multiplier\n- All Avatars Unlocked\n- All Avatar Frames Unlocked\n- Auto Win -> Press on Settings, toggle any switch like Music, then Give Up & quit.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bountygo.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.0.5",
+                    "date": "2026-10-10T23:44:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bountygo.ipa",
+                    "size": 257551237,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1387262921,
             "name": "Fortress Frontlines: Card TD",
             "version": "6.1.34",
