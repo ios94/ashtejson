@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1546851552,
+            "name": "My Stories: Choose romance",
+            "version": "2.5.314",
+            "size": "135.67 MB",
+            "icon": "img/mystorieschooseromance.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mystorieschooseromance.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mystorieschooseromance.ipa",
+            "bundleIdentifier": "com.bitfungame.destiny",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free Premium Choices\n- Freeze Tickets\n- Unlimited Coins -> Head over to Profile, scroll down and tap on Messages.\n- Unlimited Tickets -> Head over to Profile, scroll down and tap on Gift Code.\n- Unlimited Gems -> Head over to Profile, scroll down and tap on My Comments.\n- VIP Pass Enabled",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mystorieschooseromance.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "2.5.314",
+                    "date": "2026-10-10T23:30:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mystorieschooseromance.ipa",
+                    "size": 142260305,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1971360880,
             "name": "Christmas Magic: Match 3 Game",
             "version": "26.1007.00",
@@ -376,37 +407,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/designvillemergedesign.ipa",
                     "size": 285862789,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1546851552,
-            "name": "My Stories: Choose romance",
-            "version": "2.5.314",
-            "size": "135.67 MB",
-            "icon": "img/mystorieschooseromance.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mystorieschooseromance.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mystorieschooseromance.ipa",
-            "bundleIdentifier": "com.bitfungame.destiny",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Free Premium Choices\n- Freeze Tickets\n- Unlimited Coins -> Head over to Profile, scroll down and tap on Messages.\n- Unlimited Tickets -> Head over to Profile, scroll down and tap on Gift Code.\n- Unlimited Gems -> Head over to Profile, scroll down and tap on My Comments.\n- VIP Pass Enabled",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mystorieschooseromance.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "2.5.314",
-                    "date": "2026-10-10T17:43:57+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mystorieschooseromance.ipa",
-                    "size": 142260305,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
