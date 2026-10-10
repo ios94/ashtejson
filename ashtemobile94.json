@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1192186973,
+            "name": "Jackal Squad: Classic Shooting",
+            "version": "0.0.1518",
+            "size": "181.78 MB",
+            "icon": "img/jackalsquadclassicshooting.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/jackalsquadclassicshooting.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/jackalsquadclassicshooting.ipa",
+            "bundleIdentifier": "com.rocket.jackal.squad",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ViP Active → Unlocks premium account status\n- ASD NO → Disables ad-supported mode\n- Avatar Unlocked → All character skins available\n- Frame Unlocked → All cosmetic frames accessible\n- ADD Cash → Unlimited in-game currency\n- ADD Coins → Infinite coin supply\n- ADD Golden Key → Unlimited golden keys\n- ADD Silver Keys → Unlimited silver keys\n- ADD Titanium → Infinite titanium resource\n- ADD Scrolls → Unlimited scrolls\n- ADD Items → All items available\n- Unlimited Gas → Never run out of fuel",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jackalsquadclassicshooting.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "0.0.1518",
+                    "date": "2026-10-10T23:26:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/jackalsquadclassicshooting.ipa",
+                    "size": 190610145,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1246884371,
             "name": "Timeline Up!",
             "version": "17.7.0",
