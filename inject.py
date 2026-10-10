@@ -14,7 +14,7 @@ def inject():
 
     target_ipa = ipa_list[0]
     
-    # ناوەکەمان گۆڕی بۆ AlertAshte.dylib بۆ ئەوەی لەگەڵ Makefile یەکبگرێتەوە
+    # لێرەدا ناوەکەمان گۆڕی بۆ AlertAshte.dylib بۆ ئەوەی لەگەڵ فایلەکانی تر یەکبگرێتەوە
     dylib_file = "AlertAshte.dylib"
 
     if not os.path.exists(dylib_file):
