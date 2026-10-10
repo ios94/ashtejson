@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1387262921,
+            "name": "Fortress Frontlines: Card TD",
+            "version": "6.1.34",
+            "size": "261.99 MB",
+            "icon": "img/fortressfrontlinescardtd.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/fortressfrontlinescardtd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/fortressfrontlinescardtd.ipa",
+            "bundleIdentifier": "com.sandsoft.fingerwarriors",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Never Die\n- OHK\n\nPossible BAN (Online game) Use at your own risk!",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fortressfrontlinescardtd.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "6.1.34",
+                    "date": "2026-10-10T23:43:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/fortressfrontlinescardtd.ipa",
+                    "size": 274716426,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1241523569,
             "name": "Project Clean Earth",
             "version": "1.72",
