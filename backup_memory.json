@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1340420752,
+            "name": "Stones and Bones",
+            "version": "1.0.0",
+            "size": "263.77 MB",
+            "icon": "img/stonesandbones.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/stonesandbones.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/stonesandbones.ipa",
+            "bundleIdentifier": "com.stones.bones",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ADS NO / Rewards Free → Remove ads and unlock all reward content\n- ADD Gems → Gain premium currency for upgrades\n- ADD Resources → Collect materials instantly for crafting\n- Never Die → Survive any encounter without defeat\n- Damage Multiplier → Amplify your weapon power in combat",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stonesandbones.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "date": "2026-10-10T23:28:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/stonesandbones.ipa",
+                    "size": 276582891,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1495974840,
             "name": "Zooba: Zoo Battle Royale Games",
             "version": "7.3.0",
