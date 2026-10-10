@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1179955165,
+            "name": "#DRIVE",
+            "version": "3.1.473",
+            "size": "265.6 MB",
+            "icon": "img/drive.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/drive.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/drive.ipa",
+            "bundleIdentifier": "com.pixelperfectdude.htdrive",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Activate fake purchases\n- Speed ​​up the game\n- Remove ads\n\nNote: Activate the hack from the mod menu",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/drive.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "3.1.473",
+                    "date": "2026-10-10T23:54:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/drive.ipa",
+                    "size": 278501785,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1568605724,
             "name": "Icy Village: Survival Idle",
             "version": "5.5.1",
