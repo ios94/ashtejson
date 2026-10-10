@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1424309774,
+            "name": "Bus Escape: Traffic Puzzle",
+            "version": "1.0.17",
+            "size": "87.7 MB",
+            "icon": "img/busescapetrafficpuzzle.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/busescapetrafficpuzzle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/busescapetrafficpuzzle.ipa",
+            "bundleIdentifier": "com.maglickcoretech.bustrafficjam",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Activating the fake purchase",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/busescapetrafficpuzzle.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.0.17",
+                    "date": "2026-10-10T03:06:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/busescapetrafficpuzzle.ipa",
+                    "size": 91960115,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1958822552,
             "name": "PickCrafter: Mining & Crafting",
             "version": "6.0.43",
