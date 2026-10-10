@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1423239536,
+            "name": "Grand Hotel Mania・ My Manager",
+            "version": "4.20.10",
+            "size": "195.79 MB",
+            "icon": "img/grandhotelmaniamymanager.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/grandhotelmaniamymanager.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/grandhotelmaniamymanager.ipa",
+            "bundleIdentifier": "com.deuscraft.TurboTeam",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Lives",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/grandhotelmaniamymanager.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "4.20.10",
+                    "date": "2026-10-10T23:50:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/grandhotelmaniamymanager.ipa",
+                    "size": 205300695,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1474586550,
             "name": "Retro Wings: Sky Combat",
             "version": "0.1.14",
@@ -965,37 +996,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/designvillemergedesign.ipa",
                     "size": 285862789,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1423239536,
-            "name": "Grand Hotel Mania・ My Manager",
-            "version": "4.20.10",
-            "size": "195.79 MB",
-            "icon": "img/grandhotelmaniamymanager.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/grandhotelmaniamymanager.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/grandhotelmaniamymanager.ipa",
-            "bundleIdentifier": "com.deuscraft.TurboTeam",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Lives",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/grandhotelmaniamymanager.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "4.20.10",
-                    "date": "2026-10-10T16:10:10+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/grandhotelmaniamymanager.ipa",
-                    "size": 205300695,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
