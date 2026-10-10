@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1925933078,
+            "name": "Rising Super Chef 2 - Cooking",
+            "version": "10.10.0",
+            "size": "120.24 MB",
+            "icon": "img/risingsuperchef2cooking.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/risingsuperchef2cooking.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/risingsuperchef2cooking.ipa",
+            "bundleIdentifier": "com.ministone.game.risingsuperchef2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Currencies → preserve your coins and cash indefinitely\n- Freeze Boosters → keep power-ups and helpers active without consumption",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/risingsuperchef2cooking.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "10.10.0",
+                    "date": "2026-10-10T03:09:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/risingsuperchef2cooking.ipa",
+                    "size": 126080778,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1424309774,
             "name": "Bus Escape: Traffic Puzzle",
             "version": "1.0.17",
