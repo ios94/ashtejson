@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1415322875,
+            "name": "Gear Defenders",
+            "version": "1.5.16",
+            "size": "196.27 MB",
+            "icon": "img/geardefenders.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/geardefenders.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/geardefenders.ipa",
+            "bundleIdentifier": "com.iogames.gearworld",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Gems\n- Unlimited Coins\n- Unlimited Energy\n- Unlimited ADS Tickets\n- Unlimited Draw\n- Unlimited Battle Coins\n- Base HP\n- Gear Speed / Faster Deploy Trop\n- Unlimited Trop / Easy Win\n- ATK / Linked",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/geardefenders.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.5.16",
+                    "date": "2026-10-10T23:48:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/geardefenders.ipa",
+                    "size": 205804011,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1192443439,
             "name": "Archer Castle : AFK Idle RPG",
             "version": "1.14.00",
