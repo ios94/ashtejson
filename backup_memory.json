@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1824819766,
+            "name": "Home Pin 2: Family Adventure",
+            "version": "14.5",
+            "size": "269.43 MB",
+            "icon": "img/homepin2familyadventure.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/homepin2familyadventure.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/homepin2familyadventure.ipa",
+            "bundleIdentifier": "com.gamee.homepin2.manor.homescape",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- No Ads\n- Unlimited Coins",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/homepin2familyadventure.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "14.5",
+                    "date": "2026-10-10T19:27:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/homepin2familyadventure.ipa",
+                    "size": 282517831,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1914078672,
             "name": "Wordscapes - Word Game",
             "version": "3.13.91",
