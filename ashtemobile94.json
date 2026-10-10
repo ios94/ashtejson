@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1500066098,
+            "name": "Last Combat: Z Shooter",
+            "version": "1.0.2",
+            "size": "126.43 MB",
+            "icon": "img/lastcombatzshooter.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/lastcombatzshooter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/lastcombatzshooter.ipa",
+            "bundleIdentifier": "com.sg.lastaura.army.zombie.shooter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto Win\n- Unlimited Gems\n- Unlimited Coins\n- ADD Gems\n- ADD Coins\n- High Damage\n- Damage Multiplier",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lastcombatzshooter.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.0.2",
+                    "date": "2026-10-10T14:16:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/lastcombatzshooter.ipa",
+                    "size": 132571463,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1925933078,
             "name": "Rising Super Chef 2 - Cooking",
             "version": "10.10.0",
