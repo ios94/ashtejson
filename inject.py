@@ -7,39 +7,45 @@ import zipfile
 import lief
 
 
-def patch_dylib_text(dylib_path, old_str, new_str):
-  """دەستکاریکردنی دەقی ناو باینەری دیلایبەکە بەبێ تێکدانی قەبارەی فایلەکە"""
-  if not os.path.exists(dylib_path):
+def patch_all_encodings(file_path, old_name, new_name):
+  """دەستکاریکردنی دەقی ناو باینەری بە هەردوو شێوازی UTF-8 و UTF-16"""
+  if not os.path.exists(file_path):
+    print(f"فایلی {file_path} نەدۆزرایەوە!")
     return False
 
-  # دەبێت درێژی هەردوو دەقەکە یەکسان بێت بە بایت
-  old_bytes = old_str.encode("utf-8")
-  new_bytes = new_str.encode("utf-8")
+  with open(file_path, "rb") as f:
+    data = f.read()
 
-  if len(old_bytes) != len(new_bytes):
-    # پڕکردنەوەی بە بۆشایی ئەگەر نوێیەکە کورتتر بێت
-    if len(new_bytes) < len(old_bytes):
-      new_bytes = new_bytes + b" " * (len(old_bytes) - len(new_bytes))
-    else:
-      new_bytes = new_bytes[: len(old_bytes)]
+  changed = False
 
-  try:
-    with open(dylib_path, "rb") as f:
-      content = f.read()
+  # ١. پشکنین بۆ دۆخی ئاسایی (UTF-8)
+  old_b8 = old_name.encode("utf-8")
+  new_b8 = new_name.encode("utf-8").ljust(len(old_b8), b" ")[: len(old_b8)]
 
-    if old_bytes in content:
-      content = content.replace(old_bytes, new_bytes, 1)
-      with open(dylib_path, "wb") as f:
-        f.write(content)
-      print(
-          f"ناوی ناو دیلایبەکە بە سەرکەوتوویی گۆڕدرا بۆ: {new_bytes.decode()}"
-      )
-      return True
-    else:
-      print("دەقە کۆنەکە لەناو دیلایبەکە نەدۆزرایەوە.")
-      return False
-  except Exception as e:
-    print(f"هەڵە لە دەستکاریکردنی دەقی دیلایب: {e}")
+  count8 = data.count(old_b8)
+  if count8 > 0:
+    data = data.replace(old_b8, new_b8)
+    print(f"{count8} شوێن لە دۆخی UTF-8 دۆزرایەوە و گۆڕدرا.")
+    changed = True
+
+  # ٢. پشکنین بۆ دۆخی UTF-16LE
+  old_b16 = old_name.encode("utf-16le")
+  new_b16 = new_name.encode("utf-16le").ljust(len(old_b16), b" \x00")[
+      : len(old_b16)
+  ]
+
+  count16 = data.count(old_b16)
+  if count16 > 0:
+    data = data.replace(old_b16, new_b16)
+    print(f"{count16} شوێن لە دۆخی UTF-16LE دۆزرایەوە و گۆڕدرا.")
+    changed = True
+
+  if changed:
+    with open(file_path, "wb") as f:
+      f.write(data)
+    return True
+  else:
+    print("دەقە کۆنەکە لەناو دیلایبەکە نەدۆزرایەوە.")
     return False
 
 
@@ -122,8 +128,8 @@ def inject():
   target_dylib = os.path.join(app_dir, fake_official_name)
   shutil.copy2(dylib_file, target_dylib)
 
-  # گۆڕینی "CheckOver Team" بۆ "AshteMobile   "
-  patch_dylib_text(target_dylib, "CheckOver Team", "AshteMobile   ")
+  # بەکارهێنانی فەنکشنە نوێیەکە بۆ گۆڕینی دەقەکە بە هەردوو فۆرمات
+  patch_all_encodings(target_dylib, "CheckOver Team", "AshteMobile")
   os.chmod(target_dylib, 0o755)
 
   dylib_load_path = f"@executable_path/{fake_official_name}"
