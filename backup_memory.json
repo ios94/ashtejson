@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1827319895,
+            "name": "Castle Master：Total Battle",
+            "version": "1.0.2",
+            "size": "267.91 MB",
+            "icon": "img/castlemastertotalbattle.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/castlemastertotalbattle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/castlemastertotalbattle.ipa",
+            "bundleIdentifier": "com.funsea.castlemaster",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Coin Multiplier\n- Diamond Multiplier\n- Green Gem Multiplier\n- EXP Multiplier\n- Cup Multiplier\n- Multi Chest\n- Free Arena Chest\n- Tile Cost / No Need B-Gold Reveal Tile / Easy Win",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/castlemastertotalbattle.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.0.2",
+                    "date": "2026-10-10T23:55:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/castlemastertotalbattle.ipa",
+                    "size": 280923996,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1917391604,
             "name": "Cookies Inc. - Idle Clicker",
             "version": "104100",
