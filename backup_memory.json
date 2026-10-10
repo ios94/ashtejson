@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1917391604,
+            "name": "Cookies Inc. - Idle Clicker",
+            "version": "104100",
+            "size": "59.77 MB",
+            "icon": "img/cookiesincidleclicker.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/cookiesincidleclicker.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/cookiesincidleclicker.ipa",
+            "bundleIdentifier": "com.pixelcubestudios.cookiecollector2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free iAP (Press cancel when buy)\n- iGameGod Enabled",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cookiesincidleclicker.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "104100",
+                    "date": "2026-10-10T23:55:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/cookiesincidleclicker.ipa",
+                    "size": 62673387,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1179955165,
             "name": "#DRIVE",
             "version": "3.1.473",
