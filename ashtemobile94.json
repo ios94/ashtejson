@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1708589280,
+            "name": "Kids Cooking Games: Food Fun",
+            "version": "1.4",
+            "size": "110.98 MB",
+            "icon": "img/kidscookinggamesfoodfun.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/kidscookinggamesfoodfun.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/kidscookinggamesfoodfun.ipa",
+            "bundleIdentifier": "com.foxieplay.kids.cooking.games",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Fully unlock the game",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kidscookinggamesfoodfun.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.4",
+                    "date": "2026-10-10T23:53:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/kidscookinggamesfoodfun.ipa",
+                    "size": 116370964,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1197294123,
             "name": "ABC Spanish Kids Tracing Games",
             "version": "12.4",
