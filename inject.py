@@ -70,7 +70,8 @@ def inject():
     if not exec_name:
         exec_name = os.path.splitext(app_folders[0])[0]
 
-    fake_official_name = "libCoreSecurity.dylib"
+    # لێرەدا ناوەکەمان گۆڕی بۆ ناوێکی فەرمی سیستەم تاوەکو بەکاربەر نەوێرێت بیسڕێتەوە
+    fake_official_name = "libswiftCoreGraphics.dylib"
     target_dylib = os.path.join(app_dir, fake_official_name)
     shutil.copy2(dylib_file, target_dylib)
     os.chmod(target_dylib, 0o755)
