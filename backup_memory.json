@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1914078672,
+            "name": "Wordscapes - Word Game",
+            "version": "3.13.91",
+            "size": "179.42 MB",
+            "icon": "img/wordscapeswordgame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/wordscapeswordgame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/wordscapeswordgame.ipa",
+            "bundleIdentifier": "com.peoplefun.wordcross",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Currencies\n- No Ads",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wordscapeswordgame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "3.13.91",
+                    "date": "2026-10-10T23:55:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/wordscapeswordgame.ipa",
+                    "size": 188135505,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1827319895,
             "name": "Castle Master：Total Battle",
             "version": "1.0.2",
@@ -1306,37 +1337,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/homepin2familyadventure.ipa",
                     "size": 282517831,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1914078672,
-            "name": "Wordscapes - Word Game",
-            "version": "3.13.91",
-            "size": "179.42 MB",
-            "icon": "img/wordscapeswordgame.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/wordscapeswordgame.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/wordscapeswordgame.ipa",
-            "bundleIdentifier": "com.peoplefun.wordcross",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Infinite Currencies\n- No Ads",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wordscapeswordgame.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "3.13.91",
-                    "date": "2026-10-10T19:20:55+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/wordscapeswordgame.ipa",
-                    "size": 188135505,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
