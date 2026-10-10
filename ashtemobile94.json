@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1533715073,
+            "name": "Angry Birds Dream Blast",
+            "version": "2.10.0",
+            "size": "198.11 MB",
+            "icon": "img/angrybirdsdreamblast.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsdreamblast.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsdreamblast.ipa",
+            "bundleIdentifier": "com.rovio.dream",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Moves\n- Infinite Lives\n- Infinite Boosters",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsdreamblast.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "2.10.0",
+                    "date": "2026-10-10T23:59:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsdreamblast.ipa",
+                    "size": 207733391,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1733718717,
             "name": "Candy Pop Story : Match 3",
             "version": "1.69.1009",
@@ -3693,37 +3724,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/idlespaceshipcraftingrpg.ipa",
                     "size": 135496990,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1533715073,
-            "name": "Angry Birds Dream Blast",
-            "version": "2.9.0",
-            "size": "199.22 MB",
-            "icon": "img/angrybirdsdreamblast.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsdreamblast.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsdreamblast.ipa",
-            "bundleIdentifier": "com.rovio.dream",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Infinite Moves\n- Infinite Lives\n- Infinite Boosters",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsdreamblast.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "2.9.0",
-                    "date": "2026-10-08T20:51:52+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsdreamblast.ipa",
-                    "size": 208897310,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
