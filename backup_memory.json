@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1353405292,
+            "name": "Lamar - Idle Vlogger",
+            "version": "240.4.0",
+            "size": "158.93 MB",
+            "icon": "img/lamaridlevlogger.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/lamaridlevlogger.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/lamaridlevlogger.ipa",
+            "bundleIdentifier": "com.advant.lamar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Cash -> Will increase instead of decrease.\n- Unlimited Gold -> Spend some.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lamaridlevlogger.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "240.4.0",
+                    "date": "2026-10-10T23:52:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/lamaridlevlogger.ipa",
+                    "size": 166650183,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1639910675,
             "name": "Mutiny: Pirate Survival RPG",
             "version": "0.71.2",
