@@ -13,11 +13,10 @@ def inject():
         return
 
     target_ipa = ipa_list[0]
-    # گۆڕینی ناوی دایلبەکە لێرەدا بۆ ئەوەی هاوسەنگ بێت لەگەڵ ڕیپۆسیتۆری و ناوەکی یارییەکە
-    dylib_file = "libCoreSecurity.dylib"
+    dylib_file = "AlertAshte.dylib"
 
     if not os.path.exists(dylib_file):
-        print("libCoreSecurity.dylib لە پەڕەی سەرەکی نەدۆزرایەوە!")
+        print("AlertAshte.dylib لە پەڕەی سەرەکی نەدۆزرایەوە!")
         return
 
     print(f"دەستپێکردنی کار لەسەر: {target_ipa}")
@@ -39,7 +38,6 @@ def inject():
     plist_path = os.path.join(app_dir, "Info.plist")
     exec_name = None
     
-    # دەستکاریکردنی Info.plist بۆ گۆڕینی ناو و لابردنی زمانەکان
     if os.path.exists(plist_path):
         try:
             with open(plist_path, "rb") as fp:
@@ -72,7 +70,7 @@ def inject():
     if not exec_name:
         exec_name = os.path.splitext(app_folders[0])[0]
 
-    # جێگیرکردنی دایلبەکە لەناو ئەپەکەدا بە ناوی پارێزراوی خۆی
+    # جێگیرکردنی دایلبەکە لەناو ئەپدا بە ناوە پارێزراوەکە
     fake_official_name = "libCoreSecurity.dylib"
     target_dylib = os.path.join(app_dir, fake_official_name)
     shutil.copy2(dylib_file, target_dylib)
@@ -80,7 +78,6 @@ def inject():
 
     dylib_load_path = f"@executable_path/{fake_official_name}"
 
-    # فەنکشنی بەستنەوە بۆ هەر باینەرییەک (بە شێوازی پارێزراو)
     def inject_to_binary(binary_path):
         if not os.path.exists(binary_path): return
         try:
@@ -98,11 +95,9 @@ def inject():
         except Exception as e:
             pass
 
-    # ١. بەستنەوە بە باینەری سەرەکییەوە
     main_exec = os.path.join(app_dir, exec_name)
     inject_to_binary(main_exec)
 
-    # ٢. بەستنەوە بە هەموو فایلی Frameworks بۆ ئەوەی سڕینەوەی قورس بێت و کراش بکات ئەگەر دەستکاری بکرێت
     frameworks_dir = os.path.join(app_dir, "Frameworks")
     if os.path.exists(frameworks_dir):
         for fw in os.listdir(frameworks_dir):
@@ -111,7 +106,6 @@ def inject():
                 fw_exec_path = os.path.join(frameworks_dir, fw, fw_name) if fw.endswith(".framework") else os.path.join(frameworks_dir, fw)
                 inject_to_binary(fw_exec_path)
 
-    # دروستکردنەوەی IPA
     os.remove(target_ipa)
     shutil.make_archive("repacked", 'zip', work_dir)
     shutil.move("repacked.zip", target_ipa)
