@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1985395209,
+            "name": "Castle Rivals",
+            "version": "1.0.14",
+            "size": "168.15 MB",
+            "icon": "img/castlerivals.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/castlerivals.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/castlerivals.ipa",
+            "bundleIdentifier": "com.SaltCastleStudio.CannonCastle3D",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free iAP → in-app purchases unlocked",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/castlerivals.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.0.14",
+                    "date": "2026-10-10T23:03:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/castlerivals.ipa",
+                    "size": 176318054,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1824819766,
             "name": "Home Pin 2: Family Adventure",
             "version": "14.5",
