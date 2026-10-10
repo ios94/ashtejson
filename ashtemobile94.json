@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1688951283,
+            "name": "Crunchyroll: Karate Survivor",
+            "version": "1.0.9",
+            "size": "129.09 MB",
+            "icon": "img/crunchyrollkaratesurvivor.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/crunchyrollkaratesurvivor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/crunchyrollkaratesurvivor.ipa",
+            "bundleIdentifier": "com.crunchyroll.gv.karatesurvivor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Full Game Unlocked → play without membership restrictions",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crunchyrollkaratesurvivor.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.0.9",
+                    "date": "2026-10-10T23:51:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/crunchyrollkaratesurvivor.ipa",
+                    "size": 135360675,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1423239536,
             "name": "Grand Hotel Mania・ My Manager",
             "version": "4.20.10",
