@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1197294123,
+            "name": "ABC Spanish Kids Tracing Games",
+            "version": "12.4",
+            "size": "266.01 MB",
+            "icon": "img/abcspanishkidstracinggames.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/abcspanishkidstracinggames.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/abcspanishkidstracinggames.ipa",
+            "bundleIdentifier": "com.kidslearnalphabets.abcfuntracespanish",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Fully unlock the game",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/abcspanishkidstracinggames.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "12.4",
+                    "date": "2026-10-10T23:52:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/abcspanishkidstracinggames.ipa",
+                    "size": 278931701,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1238988730,
             "name": "Kids Coloring & Puzzle Games",
             "version": "1.3",
