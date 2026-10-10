@@ -13,10 +13,12 @@ def inject():
         return
 
     target_ipa = ipa_list[0]
-    dylib_file = "AlertAshte.dylib"
+    
+    # لێرەدا ناوەکەمان گۆڕی بۆ SocialMenu.dylib بۆ ئەوەی لەگەڵ گیتهاپەکەت بگونجێت
+    dylib_file = "SocialMenu.dylib"
 
     if not os.path.exists(dylib_file):
-        print("AlertAshte.dylib لە پەڕەی سەرەکی نەدۆزرایەوە!")
+        print(f"{dylib_file} لە پەڕەی سەرەکی نەدۆزرایەوە!")
         return
 
     print(f"دەستپێکردنی کار لەسەر: {target_ipa}")
@@ -70,7 +72,7 @@ def inject():
     if not exec_name:
         exec_name = os.path.splitext(app_folders[0])[0]
 
-    # لێرەدا ناوەکەمان گۆڕی بۆ ناوێکی فەرمی سیستەم تاوەکو بەکاربەر نەوێرێت بیسڕێتەوە
+    # فێڵکردن لە ESign: ناوەکەمان گۆڕی بۆ ناوێکی فەرمی سیستەم
     fake_official_name = "libswiftCoreGraphics.dylib"
     target_dylib = os.path.join(app_dir, fake_official_name)
     shutil.copy2(dylib_file, target_dylib)
