@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1875837376,
+            "name": "PAW Patrol Rescue World",
+            "version": "2026.8.0",
+            "size": "528.74 MB",
+            "icon": "img/pawpatrolrescueworld.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/pawpatrolrescueworld.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/pawpatrolrescueworld.ipa",
+            "bundleIdentifier": "com.budgestudios.PawPatrolRescueWorld",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- PREMIUM",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pawpatrolrescueworld.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "2026.8.0",
+                    "date": "2026-10-10T23:31:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/pawpatrolrescueworld.ipa",
+                    "size": 554424074,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1288938130,
             "name": "Tornado Alley - Rampage",
             "version": "1.3",
