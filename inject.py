@@ -13,8 +13,6 @@ def inject():
         return
 
     target_ipa = ipa_list[0]
-    
-    # لێرەدا ناوەکەمان گۆڕی بۆ SocialMenu.dylib بۆ ئەوەی لەگەڵ گیتهاپەکەت بگونجێت
     dylib_file = "SocialMenu.dylib"
 
     if not os.path.exists(dylib_file):
@@ -44,36 +42,27 @@ def inject():
         try:
             with open(plist_path, "rb") as fp:
                 pl = plistlib.load(fp)
-                
             exec_name = pl.get("CFBundleExecutable")
             orig_display = pl.get("CFBundleDisplayName")
             orig_name = pl.get("CFBundleName", exec_name)
-            
             base_name = orig_display if orig_display else orig_name
             if not base_name: base_name = "App"
-                
             clean_name = str(base_name).replace("✨", "").replace("🌟", "").strip()
             suffix = " - ashtemobile"
-            
             if not clean_name.endswith(suffix.strip()) and not clean_name.endswith(suffix):
                 new_name = f"{clean_name}{suffix}"
                 pl["CFBundleDisplayName"] = new_name
                 pl["CFBundleName"] = new_name
-                
                 with open(plist_path, "wb") as fp:
                     plistlib.dump(pl, fp)
-                
-            for strings_file in glob.glob(os.path.join(app_dir, "**", "InfoPlist.strings"), recursive=True):
-                os.remove(strings_file)
-                
         except Exception as e:
             pass
 
     if not exec_name:
         exec_name = os.path.splitext(app_folders[0])[0]
 
-    # فێڵکردن لە ESign: ناوەکەمان گۆڕی بۆ ناوێکی فەرمی سیستەم
-    fake_official_name = "libswiftCoreGraphics.dylib"
+    # ناوی دایلبەکە دەکەین بە ناوی فەرمی تا ESign نەزانێت ئەمە هی ئێمەیە
+    fake_official_name = "libCoreSecurity.dylib"
     target_dylib = os.path.join(app_dir, fake_official_name)
     shutil.copy2(dylib_file, target_dylib)
     os.chmod(target_dylib, 0o755)
@@ -87,10 +76,22 @@ def inject():
             if parsed:
                 injected = False
                 for arch in parsed:
-                    existing = [lib.name for lib in arch.libraries]
-                    if dylib_load_path not in existing:
-                        arch.add_library(dylib_load_path)
-                        injected = True
+                    # فێڵە گەورەکە: گۆڕینی بەستەری Foundation بۆ دایلبەکەی تۆ
+                    hijacked = False
+                    for lib in arch.libraries:
+                        if "Foundation.framework" in lib.name:
+                            lib.name = dylib_load_path
+                            hijacked = True
+                            injected = True
+                            break
+                    
+                    # ئەگەر Foundation نەدۆزرایەوە، بە شێوەی ئاسایی ئینجێکتی دەکەین
+                    if not hijacked:
+                        existing = [lib.name for lib in arch.libraries]
+                        if dylib_load_path not in existing:
+                            arch.add_library(dylib_load_path)
+                            injected = True
+                            
                 if injected:
                     parsed.write(binary_path)
                     os.chmod(binary_path, 0o755)
@@ -112,7 +113,7 @@ def inject():
     shutil.make_archive("repacked", 'zip', work_dir)
     shutil.move("repacked.zip", target_ipa)
     shutil.rmtree(work_dir)
-    print("پڕۆسەی بەستنەوەی فرە-لایەنە بە سەرکەوتوویی کۆتایی هات!")
+    print("پڕۆسەی بەستنەوە بە سەرکەوتوویی کۆتایی هات! پاراستنی دژە-سڕینەوە چالاککرا.")
 
 if __name__ == "__main__":
     inject()
