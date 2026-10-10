@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1584635049,
+            "name": "The Virus: Zombie Hunter",
+            "version": "0.3.2",
+            "size": "334.1 MB",
+            "icon": "img/theviruszombiehunter.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/theviruszombiehunter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/theviruszombiehunter.ipa",
+            "bundleIdentifier": "cz.marekpenicka.viruszombiehunter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Enemy Can't Attack\n- Unlimited Resources (Will Increase Instead of Decrease)\n- Unlimited Ammo",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theviruszombiehunter.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "0.3.2",
+                    "date": "2026-10-10T23:51:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/theviruszombiehunter.ipa",
+                    "size": 350329241,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1688951283,
             "name": "Crunchyroll: Karate Survivor",
             "version": "1.0.9",
