@@ -1,4 +1,4 @@
-name: Auto Build and Inject
+name: Build iOS Dylib
 
 on:
   push:
@@ -15,20 +15,9 @@ jobs:
       - name: Compile Dylib
         run: |
           clang -dynamiclib -isysroot $(xcrun --sdk iphoneos --show-sdk-path) -arch arm64 -miphoneos-version-min=13.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore SocialMenu.m -o SocialMenu.dylib
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: Install lief
-        run: pip install lief
-
-      - name: Run Injection Script
-        run: python inject.py
-
-      - name: Upload Ready IPA
+      
+      - name: Upload Dylib Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: AshteMobile-Ready-Game
-          path: ipas/*.ipa
+          name: SocialMenu-Dylib
+          path: SocialMenu.dylib
