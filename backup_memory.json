@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1241523569,
+            "name": "Project Clean Earth",
+            "version": "1.72",
+            "size": "113.62 MB",
+            "icon": "img/projectcleanearth.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/projectcleanearth.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/projectcleanearth.ipa",
+            "bundleIdentifier": "com.onenone.ecp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto Level Up (Disable when level 21 or last perk to level up or youll be brough up with a blank screen)\n- Add Batteries\n- Add Chips\n- Add Gems\n- Never Die\n- Infinite Batteries\n- Infinite Chips\n- Infinite Gems",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/projectcleanearth.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.72",
+                    "date": "2026-10-10T23:43:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/projectcleanearth.ipa",
+                    "size": 119139205,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1283099085,
             "name": "Legend of Mushroom",
             "version": "2.0.84",
