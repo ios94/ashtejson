@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1938660862,
+            "name": "Crash Cat : Zombie Survivor",
+            "version": "1.0.29",
+            "size": "167.76 MB",
+            "icon": "img/crashcatzombiesurvivor.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/crashcatzombiesurvivor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/crashcatzombiesurvivor.ipa",
+            "bundleIdentifier": "com.cookapps.catsurvivor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Never Die → survive every encounter without fear of failure\n- Damage Multiplier → amplify your ramming and gun damage output\n- Currency Multiplier → earn resources faster for upgrades and progression\n- Freeze Currency → lock your current balance to prevent accidental spending",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crashcatzombiesurvivor.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.0.29",
+                    "date": "2026-10-10T23:45:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/crashcatzombiesurvivor.ipa",
+                    "size": 175909109,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1246884371,
             "name": "Timeline Up!",
             "version": "17.7.0",
