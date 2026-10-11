@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1130452612,
+            "name": "Swiftgram: Telegram mod client",
+            "version": "12.9.4",
+            "size": "79.41 MB",
+            "icon": "img/swiftgramtelegrammodclient.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/swiftgramtelegrammodclient.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/swiftgramtelegrammodclient.ipa",
+            "bundleIdentifier": "app.swiftgram.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Modified Telegram version\n\nto open the tool's settings (press and hold the \"Ask a question\" button in the settings tab)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/swiftgramtelegrammodclient.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "12.9.4",
+                    "date": "2026-10-11T00:04:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/swiftgramtelegrammodclient.ipa",
+                    "size": 83267420,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1824819766,
             "name": "Home Pin 2: Family Adventure",
             "version": "14.5",
@@ -3290,37 +3321,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
                     "size": 220179988,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1130452612,
-            "name": "Swiftgram: Telegram mod client",
-            "version": "12.8",
-            "size": "79.35 MB",
-            "icon": "img/swiftgramtelegrammodclient.jpg",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/swiftgramtelegrammodclient.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/swiftgramtelegrammodclient.ipa",
-            "bundleIdentifier": "app.swiftgram.ios",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Modified Telegram version\n\nto open the tool's settings (press and hold the \"Ask a question\" button in the settings tab)",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/swiftgramtelegrammodclient.jpg",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "12.8",
-                    "date": "2026-10-09T11:02:14+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/swiftgramtelegrammodclient.ipa",
-                    "size": 83204505,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
