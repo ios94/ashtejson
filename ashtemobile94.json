@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1622141748,
+            "name": "Spite & Malice!",
+            "version": "1.6.6",
+            "size": "135.16 MB",
+            "icon": "img/spitemalice.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/spitemalice.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/spitemalice.ipa",
+            "bundleIdentifier": "com.northskygames.SpiteAndMalice",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Currencies → spend freely on themes and game variants",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spitemalice.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.6.6",
+                    "date": "2026-10-11T00:00:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/spitemalice.ipa",
+                    "size": 141725532,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1975402840,
             "name": "Her Comeback: Merge & Story",
             "version": "1.1.110081908",
