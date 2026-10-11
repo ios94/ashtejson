@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1466624213,
+            "name": "Instagram",
+            "version": "440.0.0",
+            "size": "304.76 MB",
+            "icon": "img/instagram.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/instagram.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/instagram.ipa",
+            "bundleIdentifier": "com.burbn.instagram",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Integrated with Rocket:\n\n- Save any photo to your Camera Roll.\n- Save any video to your Camera Roll.\n- Press and hold a photo to view the high-resolution version.\n- Press and hold a video to view the high-resolution version.\n- Hide sponsored posts.\n- View direct messages without notifying the sender.\n- Confirmation alert when you double-tap a post to like it.\n- View stories without marking them as viewed.\n- Download photos and videos from stories.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/instagram.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "440.0.0",
+                    "date": "2026-10-11T00:14:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/instagram.ipa",
+                    "size": 319564021,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1422019810,
             "name": "YTKillerPlus",
             "version": "21.30.5",
