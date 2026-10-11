@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1707431842,
+            "name": "YouTube YTKACE",
+            "version": "21.40.5",
+            "size": "132.57 MB",
+            "icon": "img/youtubeytkace.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubeytkace.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubeytkace.ipa",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Download videos in various qualities.\r\n- Download audio.\r\n- Download Shorts.\r\n- Auto-advance in Shorts.\r\n- Save downloaded media within the YouTube app (in the YTKACE tab) with the option to save to the Photos app.\r\n- Remove all types of ads.\r\n- Background playback.\r\n- Copy text (descriptions, titles, posts, comments).\r\n- Remove recommended videos.\r\n- Open links directly in Safari.\r\n- Auto-replay videos after they finish.\r\n- Download post images.\r\n- Enable Picture-in-Picture mode.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/youtubeytkace.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "21.40.5",
+                    "date": "2026-10-11T00:13:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/youtubeytkace.ipa",
+                    "size": 139009720,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1176074281,
             "name": "YouTube Plus",
             "version": "21.40.5",
@@ -3755,37 +3786,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/tiktoksy.ipa",
                     "size": 439835688,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1707431842,
-            "name": "YouTube YTKACE",
-            "version": "21.40.5",
-            "size": "132.57 MB",
-            "icon": "img/youtubeytkace.png",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubeytkace.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubeytkace.ipa",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Download videos in various qualities.\r\n- Download audio.\r\n- Download Shorts.\r\n- Auto-advance in Shorts.\r\n- Save downloaded media within the YouTube app (in the YTKACE tab) with the option to save to the Photos app.\r\n- Remove all types of ads.\r\n- Background playback.\r\n- Copy text (descriptions, titles, posts, comments).\r\n- Remove recommended videos.\r\n- Open links directly in Safari.\r\n- Auto-replay videos after they finish.\r\n- Download post images.\r\n- Enable Picture-in-Picture mode.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/youtubeytkace.png",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "21.40.5",
-                    "date": "2026-10-09T11:00:26+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/youtubeytkace.ipa",
-                    "size": 139009720,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
