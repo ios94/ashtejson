@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1422019810,
+            "name": "YTKillerPlus",
+            "version": "21.30.5",
+            "size": "129.79 MB",
+            "icon": "img/ytkillerplus.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/ytkillerplus.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/ytkillerplus.ipa",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "YouTube integrated with YTKillerPlus\r\n\r\nNo license required",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ytkillerplus.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "21.30.5",
+                    "date": "2026-10-11T00:13:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/ytkillerplus.ipa",
+                    "size": 136094679,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1707431842,
             "name": "YouTube YTKACE",
             "version": "21.40.5",
