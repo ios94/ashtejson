@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1264064313,
+            "name": "Reddit",
+            "version": "2026.40.0",
+            "size": "141.61 MB",
+            "icon": "img/reddit.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/reddit.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/reddit.ipa",
+            "bundleIdentifier": "com.reddit.Reddit",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Reddit app integrated with the Deluxe tool .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/reddit.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "2026.40.0",
+                    "date": "2026-10-11T00:07:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/reddit.ipa",
+                    "size": 148488847,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1385682005,
             "name": "Instagram Regram",
             "version": "450.1.0",
