@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1968529586,
+            "name": "YouTube Wolf",
+            "version": "21.40.5",
+            "size": "141.45 MB",
+            "icon": "img/youtubewolf.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubewolf.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubewolf.ipa",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Download videos in multiple quality options.\nDownload audio-only for offline listening.\nDownload the video's thumbnail in high quality.\nBuilt-in Downloads Library inside YouTube to manage all downloaded files.\nView the video title, quality, file size, download date, and progress.\nPlay, share, save, or delete downloaded files with ease.\nPicture in Picture (PiP) support for watching videos outside the app.\nContinue audio playback in the background after leaving YouTube.\nStable Playback for improved video compatibility and smoother playback.\nWolfTube button inside regular videos.\nWolfTube button inside Shorts.\nHide the Shorts interface for a clean viewing experience.\nWolfTube button on channel and profile pages.\nDownload profile pictures in the highest available quality.\nCopy the channel name, ID, link, and description.\nCopy the video title and description.\nReduce ads and automatically skip skippable ads.\nIndependent settings to control the visibility of WolfTube buttons.\nAdded support for multiple languages, including Arabic and several international languages.\nVideo playback speed control (0.5x–10x).\nCopy comments with a single tap.\nKeep videos playing in the background.\nAutomatically resume downloaded videos or audio from the last playback position.\nSave playback progress when pausing, locking the device, leaving the app, or seeking through the timeline.\nRestart playback from the beginning only after the media has finished completely.\nControl downloaded media directly from the Lock Screen.\nSkip forward or backward by 15 seconds while playing downloaded media.\nDisplay the channel name and video artwork on the Lock Screen.\nBuilt-in project validation system to detect issues before building a release.\nDedicated diagnostic tools instead of relying on guesswork-based fixes.\nImproved download compatibility with the latest iOS versions.\nSelect and share multiple videos or audio files at once.\nPin videos, audio files, and playlists to the top of the library.\nUndo playlist deletion within 10 seconds.\nExport and import a complete WolfTube library backup.\nBackups include settings, videos, audio files, playlists, and pinned items.\nSearch within the WolfTube library and inside playlists.\nCreate custom playlists from downloaded audio files.\nAdded Sequential Playback, Repeat, and Shuffle modes.\nResume playback of downloaded videos and audio from the last watched position.\nFixed blank spaces that could appear between YouTube search results.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/youtubewolf.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "21.40.5",
+                    "date": "2026-10-11T00:04:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/youtubewolf.ipa",
+                    "size": 148321075,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1130452612,
             "name": "Swiftgram: Telegram mod client",
             "version": "12.9.4",
