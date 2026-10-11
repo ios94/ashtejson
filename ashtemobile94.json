@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1975402840,
+            "name": "Her Comeback: Merge & Story",
+            "version": "1.1.110081908",
+            "size": "212.36 MB",
+            "icon": "img/hercomebackmergestory.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/hercomebackmergestory.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/hercomebackmergestory.ipa",
+            "bundleIdentifier": "com.judian.hercomeback.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Currencies",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hercomebackmergestory.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "1.1.110081908",
+                    "date": "2026-10-10T23:59:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/hercomebackmergestory.ipa",
+                    "size": 222675599,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1533715073,
             "name": "Angry Birds Dream Blast",
             "version": "2.10.0",
