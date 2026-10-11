@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1405537268,
+            "name": "Nicegram: AI for Telegram X",
+            "version": "2.6.3",
+            "size": "136.55 MB",
+            "icon": "img/nicegramaifortelegramx.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/nicegramaifortelegramx.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/nicegramaifortelegramx.ipa",
+            "bundleIdentifier": "app.nicegram",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "It includes the Lead tool",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nicegramaifortelegramx.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "2.6.3",
+                    "date": "2026-10-11T00:06:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/nicegramaifortelegramx.ipa",
+                    "size": 143183052,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1765391160,
             "name": "Telegram Messenger",
             "version": "13.0",
