@@ -10,6 +10,37 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1143600906,
+            "name": "Discord - Talk, Play, Hang Out",
+            "version": "348.0",
+            "size": "110.92 MB",
+            "icon": "img/discordtalkplayhangout.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/discordtalkplayhangout.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/discordtalkplayhangout.ipa",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Ability to install extensions for the app\n- Ability to add themes to the app",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/discordtalkplayhangout.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "348.0",
+                    "date": "2026-10-11T00:10:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/discordtalkplayhangout.ipa",
+                    "size": 116308049,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0"
+                }
+            ]
+        },
+        {
             "id": 1772174657,
             "name": "Twitch: Live Streaming",
             "version": "31.5",
@@ -3755,37 +3786,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/whatsappmessenger.ipa",
                     "size": 167510016,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1143600906,
-            "name": "Discord - Talk, Play, Hang Out",
-            "version": "348.0",
-            "size": "110.92 MB",
-            "icon": "img/discordtalkplayhangout.jpg",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/discordtalkplayhangout.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/discordtalkplayhangout.ipa",
-            "bundleIdentifier": "com.hammerandchisel.discord",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Ability to install extensions for the app\n- Ability to add themes to the app",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/discordtalkplayhangout.jpg",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "348.0",
-                    "date": "2026-10-09T10:55:20+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/discordtalkplayhangout.ipa",
-                    "size": 116308049,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
