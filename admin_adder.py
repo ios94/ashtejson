@@ -6,6 +6,7 @@ import random
 import re
 import urllib.parse
 import base64
+import zipfile
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 
@@ -75,7 +76,7 @@ def find_main_app_in_page(data):
             if res: return res
     return None
 
-ex_name, ex_desc, ex_icon, ex_version, ex_size, ex_bundle = "", "", "", "", "", ""
+ex_name, ex_desc, ex_icon, ex_version, ex_bundle = "", "", "", "", ""
 
 # =========================================================================
 # 1. بەشی سکراپەری گەردوونی (بۆ هەموو وێبسایتەکان)
@@ -95,7 +96,6 @@ if app_input.startswith("http"):
                 ex_name = target_app.get('name', '')
                 ex_desc = target_app.get('description', '')
                 ex_version = target_app.get('version', '')
-                ex_size = target_app.get('size', '')
                 ex_icon = target_app.get('image', target_app.get('icon', ''))
                 ex_bundle = target_app.get('bundle', target_app.get('bundleIdentifier', ''))
         
@@ -111,7 +111,6 @@ if app_input.startswith("http"):
             if ex_name:
                 ex_name = ex_name.split('|')[0].split('-')[0].strip()
             
-            # چارەسەری کێشەی سکیوێرتی Cloudflare
             if ex_name and ("Just a moment" in ex_name or "Cloudflare" in ex_name or "Attention Required" in ex_name):
                 ex_name = ""
 
@@ -129,7 +128,6 @@ if app_input.startswith("http"):
     except Exception as e:
         print(f"Website Scraping Error: {e}")
         
-    # ئەگەر سایتەکە ڕێگری کرد یان نەیدۆزییەوە، ناوەکە بە زیرەکی لە لینکەکە دەردەهێنێت
     if not ex_name:
         url_parts = [p for p in app_input.split('/') if p and p.lower() not in ['download', 'app', 'game', 'ipa', 'file']]
         if url_parts:
@@ -149,7 +147,6 @@ clean_search_name = re.split(r'[\+\-\(\)\[\]\|]', ex_name)[0].strip()
 words_to_remove = ['Premium', 'Hack', 'Mod', 'Pro', 'IPA', 'Download', 'Free', 'Cheats', 'Unlocked']
 
 for w in words_to_remove:
-    # بەکارهێنانی re.escape چارەسەری ئیرۆرەکەی کرد
     clean_search_name = re.sub(rf'\b{re.escape(w)}\b', '', clean_search_name, flags=re.IGNORECASE).strip()
 
 if not clean_search_name:
@@ -159,7 +156,7 @@ if not clean_search_name:
 # 3. گەڕان لەناو App Store
 # =========================================================================
 print(f"🍏 Searching Apple App Store for '{clean_search_name}'...")
-as_name, as_desc, as_icon, as_bundle, as_version, as_size_bytes = None, None, None, None, None, None
+as_name, as_desc, as_icon, as_bundle, as_version = None, None, None, None, None
 app_store_screenshots = []
 
 try:
@@ -175,7 +172,6 @@ try:
             as_desc = app_info.get('description')
             as_bundle = app_info.get('bundleId')
             as_version = app_info.get('version')
-            as_size_bytes = app_info.get('fileSizeBytes')
             print(f"✅ App Store Match Found: {as_name}")
         else:
             print("⚠️ No exact match found on App Store.")
@@ -183,36 +179,53 @@ except Exception as e:
     print("App Store search failed:", e)
 
 # =========================================================================
-# 4. تێکەڵکردنی زانیارییەکان
+# 4. دابەزاندنی فایلە سەرەکییەکە (IPA) یەکەمجار بۆ ئەوەی قەبارەکەی بە وردی بزانین
+# =========================================================================
+slug = "".join(e for e in ex_name if e.isalnum()).lower()
+if not slug: slug = f"app{random.randint(1000, 9999)}"
+
+os.makedirs("ipas", exist_ok=True)
+ipa_filename = f"ipas/{slug}.ipa"
+print("Downloading primary package (IPA)...")
+try:
+    r = requests.get(ipa_link, stream=True, headers=headers, timeout=30)
+    if r.status_code == 200:
+        with open(ipa_filename, "wb") as f:
+            for chunk in r.iter_content(chunk_size=8192):
+                f.write(chunk)
+        
+        if not zipfile.is_zipfile(ipa_filename):
+            print("❌ هەڵە: فایلی IPA داگیراو ڕاستەقینە نییە (Zip نییە).")
+            os.remove(ipa_filename)
+            exit(1)
+        else:
+            print("✅ فایلی IPA بە سەرکەوتوویی داگیرا و پشکنرا.")
+    else:
+        print(f"❌ هەڵە لە دابەزاندندا. کۆدی هەڵە: {r.status_code}")
+        exit(1)
+except Exception as e:
+    print("Error downloading package:", e)
+    exit(1)
+
+# ژماردنی قەبارەی ڕاستەقینەی فایلە داگیراوەکە (بۆ ئەوەی هەرگیز قەبارە بەتاڵ نەبێت)
+file_size_bytes = os.path.getsize(ipa_filename)
+size_mb = round(file_size_bytes / (1024 * 1024), 2)
+final_size_str = f"{size_mb} MB"
+final_size_bytes = file_size_bytes
+
+# =========================================================================
+# 5. تێکەڵکردنی زانیارییەکان
 # =========================================================================
 final_name = ex_name if len(ex_name) < 40 else (as_name or "Unknown App")
 final_desc = ex_desc or as_desc or "Awesome App! Downloaded from AshteMobile."
 
-slug = "".join(e for e in final_name if e.isalnum()).lower()
-if not slug: slug = f"app{random.randint(1000, 9999)}"
 final_bundle = ex_bundle or as_bundle or f"com.ashtemobile.{slug}"
-
 final_version = ex_version if ex_version else (as_version or "1.0")
 
-if ex_size:
-    final_size_str = ex_size
-    try:
-        size_mb = float(re.sub(r'[^\d.]', '', str(final_size_str)))
-        final_size_bytes = int(size_mb * 1024 * 1024)
-    except:
-        final_size_bytes = 150000000
-elif as_size_bytes:
-    final_size_bytes = int(as_size_bytes)
-    size_mb = round(final_size_bytes / (1024 * 1024), 2)
-    final_size_str = f"{size_mb} MB"
-else:
-    final_size_str = "150 MB"
-    final_size_bytes = 150000000
-
-icon_to_download = as_icon or ex_icon
+icon_to_download = as_icon or ""
 
 # =========================================================================
-# 5. دابەزاندنی وێنە و ئایکۆن
+# 6. دابەزاندنی وێنە و ئایکۆن
 # =========================================================================
 os.makedirs("img", exist_ok=True)
 base_github_raw = _d('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lvczk0L2FzaHRlanNvbi9tYWluL2ltZy8=')
@@ -255,22 +268,6 @@ if app_store_screenshots:
                         f.write(chunk)
                 final_screenshot_urls.append(f"{base_github_raw}{screen_filename}")
         except: pass
-
-# =========================================================================
-# 6. دابەزاندنی فایلە سەرەکییەکە (IPA)
-# =========================================================================
-os.makedirs("ipas", exist_ok=True)
-ipa_filename = f"ipas/{slug}.ipa"
-print("Downloading primary package (IPA)...")
-try:
-    r = requests.get(ipa_link, stream=True)
-    if r.status_code == 200:
-        with open(ipa_filename, "wb") as f:
-            for chunk in r.iter_content(chunk_size=8192):
-                f.write(chunk)
-except Exception as e:
-    print("Error downloading package.")
-    exit(1)
 
 # =========================================================================
 # 7. دروستکردنی JSON
