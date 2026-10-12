@@ -66,7 +66,7 @@ headers = {
 
 def find_main_app_in_page(data):
     if isinstance(data, dict):
-        if 'name' in data and 'version' in data and 'size' in data and 'uuid' in data: return data
+        if 'name' in data and 'version' in data and 'uuid' in data: return data
         for value in data.values():
             res = find_main_app_in_page(value)
             if res: return res
@@ -101,7 +101,6 @@ if app_input.startswith("http"):
         
         if not ex_name:
             print("Generic website detected. Extracting metadata...")
-            
             og_title = soup.find('meta', property='og:title')
             if og_title and og_title.get('content'):
                 ex_name = og_title.get('content')
@@ -179,7 +178,7 @@ except Exception as e:
     print("App Store search failed:", e)
 
 # =========================================================================
-# 4. دابەزاندنی فایلە سەرەکییەکە (IPA)
+# 4. دابەزاندنی فایلە سەرەکییەکە (IPA) بۆ ئەژمارکردنی سایزی ڕاستەقینە
 # =========================================================================
 slug = "".join(e for e in ex_name if e.isalnum()).lower()
 if not slug: slug = f"app{random.randint(1000, 9999)}"
@@ -198,9 +197,9 @@ try:
         
         if zipfile.is_zipfile(ipa_filename):
             file_size_bytes = os.path.getsize(ipa_filename)
-            print("✅ فایلی IPA بە سەرکەوتوویی داگیرا و قەبارەکەی ئەژمار کرا.")
+            print("✅ فایلی IPA بە سەرکەوتوویی داگیرا و قەبارە ڕاستەقینەکەی ئەژمار کرا.")
         else:
-            print("⚠️ هشدار: فایلەکە Zip نییە، بەڵام بەردەوام دەبین...")
+            print("⚠️ هشدار: فایلەکە Zip نییە، قەبارەی خەمڵێنراو بەکاردەهێنین...")
     else:
         print(f"⚠️ ئاگاداری: دابەزاندن سەرکەوتوو نەبوو، قەبارەی خەمڵێنراو بەکاردەهێنین.")
 except Exception as e:
@@ -208,7 +207,6 @@ except Exception as e:
 
 size_mb = round(file_size_bytes / (1024 * 1024), 2)
 final_size_str = f"{size_mb} MB"
-final_size_bytes = int(file_size_bytes)
 
 # =========================================================================
 # 5. تێکەڵکردنی زانیارییەکان
@@ -267,18 +265,17 @@ if app_store_screenshots:
         except: pass
 
 # =========================================================================
-# 7. دروستکردنی JSON (گونجاو بۆ Feather و AltStore)
+# 7. دروستکردنی JSON (پاککراوە و گونجاو بۆ Feather)
 # =========================================================================
 github_release_url = f"{_d('aHR0cHM6Ly9naXRodWIuY29tL2lvczk0L2FzaHRlanNvbi9yZWxlYXNlcy9kb3dubG9hZC9WMS8=')}{slug}.ipa"
 current_date_iso = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-full_date_str = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
 app_id = random.randint(1111111111, 1999999999)
 
 new_app = {
     "id": app_id,
     "name": final_name,
     "version": final_version,
-    "size": final_size_str,  # بۆ Feather قەبارە دەبێت بە دەق بێت (وەک "209 MB")
+    "size": final_size_str,  # قەبارە بە شێوازی دەقی ڕوون و پاک (بۆ نموونە "150.25 MB")
     "icon": icon_relative,
     "badge": "",
     "type": app_type,
@@ -298,8 +295,6 @@ new_app = {
         {
             "version": final_version,
             "versionDate": current_date_iso,
-            "fullDate": full_date_str,
-            "size": final_size_bytes,  # لەناو ڤێرژنیشدا بە بایت دەبێت بۆ پشکنین
             "downloadURL": github_release_url,
             "localizedDescription": None,
             "buildVersion": None,
