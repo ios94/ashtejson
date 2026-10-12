@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1932049731,
+            "name": "Car Crash Premium offline",
+            "version": "2.2",
+            "size": "444.14 MB",
+            "icon": "img/carcrashpremiumoffline.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/carcrashpremiumoffline.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/carcrashpremiumoffline.ipa",
+            "bundleIdentifier": "com.psvios.realcarcrash",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Free store (buy then cancel)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carcrashpremiumoffline.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carcrashpremiumoffline_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carcrashpremiumoffline_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carcrashpremiumoffline_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carcrashpremiumoffline_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carcrashpremiumoffline_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carcrashpremiumoffline_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carcrashpremiumoffline_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carcrashpremiumoffline_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.2",
+                    "date": "2026-10-12T22:03:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/carcrashpremiumoffline.ipa",
+                    "size": 465714544,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carcrashpremiumoffline_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carcrashpremiumoffline_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carcrashpremiumoffline_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carcrashpremiumoffline_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1883613062,
             "name": "Car Simulator Multiplayer 2026",
             "version": "1.29",
