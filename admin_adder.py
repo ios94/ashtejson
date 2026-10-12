@@ -59,23 +59,11 @@ if not app_input or not ipa_link:
     print("Error: Missing required input fields.")
     exit(1)
 
-headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-target_app = None
+headers = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}
 
-def find_app_by_name(data, target_name):
-    if isinstance(data, dict):
-        name = data.get('name', '')
-        if isinstance(name, str) and target_name.lower() in name.lower():
-            if 'version' in data and 'size' in data: return data
-        for value in data.values():
-            res = find_app_by_name(value, target_name)
-            if res: return res
-    elif isinstance(data, list):
-        for item in data:
-            res = find_app_by_name(item, target_name)
-            if res: return res
-    return None
-
+# فرمانێک بۆ خوێندنەوەی ئەو سایتانەی وەک پێشوون
 def find_main_app_in_page(data):
     if isinstance(data, dict):
         if 'name' in data and 'version' in data and 'size' in data and 'uuid' in data: return data
@@ -88,70 +76,92 @@ def find_main_app_in_page(data):
             if res: return res
     return None
 
+# زانیارییە سەرەتاییەکان
+ex_name, ex_desc, ex_icon, ex_version, ex_size, ex_bundle = "", "", "", "", "", ""
+
+# =========================================================================
+# 1. بەشی سکراپەری گەردوونی (بۆ هەموو وێبسایتەکان)
+# =========================================================================
 if app_input.startswith("http"):
-    print("Direct link detected. Fetching data...")
+    print("🔗 Universal Link Detected. Scraping website...")
     try:
         res = requests.get(app_input, headers=headers, timeout=15)
         soup = BeautifulSoup(res.text, 'html.parser')
+
+        # ئەگەر سایتەکە Flekstore یان ئەوانەی پێشوو بێت
         app_div = soup.find('div', id='app')
         if app_div and app_div.has_attr('data-page'):
+            print("Flekstore format detected.")
             page_data = json.loads(app_div['data-page'])
             target_app = find_main_app_in_page(page_data)
+            if target_app:
+                ex_name = target_app.get('name', '')
+                ex_desc = target_app.get('description', '')
+                ex_version = target_app.get('version', '')
+                ex_size = target_app.get('size', '')
+                ex_icon = target_app.get('image', target_app.get('icon', ''))
+                ex_bundle = target_app.get('bundle', target_app.get('bundleIdentifier', ''))
+        
+        # ئەگەر هەر وێبسایتێکی تر بێت لە جیهاندا
+        if not ex_name:
+            print("Generic website detected. Extracting metadata...")
+            
+            # دەرهێنانی ناوەکە لە تایتڵی سایتەکە
+            og_title = soup.find('meta', property='og:title')
+            if og_title and og_title.get('content'):
+                ex_name = og_title.get('content')
+            elif soup.title:
+                ex_name = soup.title.string
+            
+            if ex_name:
+                # خاوێنکردنەوەی ناوەکە
+                ex_name = ex_name.split('|')[0].split('-')[0].strip()
+
+            # دەرهێنانی وەسف (Description)
+            og_desc = soup.find('meta', property='og:description')
+            meta_desc = soup.find('meta', attrs={'name': 'description'})
+            if og_desc and og_desc.get('content'):
+                ex_desc = og_desc.get('content')
+            elif meta_desc and meta_desc.get('content'):
+                ex_desc = meta_desc.get('content')
+            
+            # دەرهێنانی ئایکۆنی سایتەکە ئەگەر هەبێت
+            og_image = soup.find('meta', property='og:image')
+            if og_image and og_image.get('content'):
+                ex_icon = og_image.get('content')
+                
     except Exception as e:
-        print(f"Request error: {e}")
+        print(f"Website Scraping Error: {e}")
+        
+    # ئەگەر نەیتوانی بیخوێنێتەوە، ناوەکە لە لینکەکەوە دروست دەکات
+    if not ex_name:
+        ex_name = urllib.parse.unquote(app_input.split('/')[-1].split('.')[0].replace('-', ' '))
 else:
-    print(f"Searching for query: '{app_input}'...")
-    base_search = _d('aHR0cHM6Ly9jaGVjazB2ZXIubmV0L2VuL2lhcHBz')
-    search_params = [
-        f"?filter[search]={urllib.parse.quote(app_input)}",
-        f"?search={urllib.parse.quote(app_input)}"
-    ]
-    for param in search_params:
-        url = f"{base_search}{param}"
-        try:
-            res = requests.get(url, headers=headers, timeout=10)
-            if res.status_code == 200:
-                soup = BeautifulSoup(res.text, 'html.parser')
-                app_div = soup.find('div', id='app')
-                if app_div and app_div.has_attr('data-page'):
-                    page_data = json.loads(app_div['data-page'])
-                    target_app = find_app_by_name(page_data, app_input)
-                    if target_app: break
-        except: pass
+    # ئەگەر لەجیاتی لینک تەنها ناوی یارییەکەت نووسیبوو
+    ex_name = app_input
+
+if not ex_name:
+    ex_name = "Unknown App"
     
-    if not target_app:
-        for page in range(1, 10):
-            url = f"{base_search}?page={page}"
-            try:
-                res = requests.get(url, headers=headers, timeout=10)
-                if res.status_code == 200:
-                    soup = BeautifulSoup(res.text, 'html.parser')
-                    app_div = soup.find('div', id='app')
-                    if app_div and app_div.has_attr('data-page'):
-                        page_data = json.loads(app_div['data-page'])
-                        target_app = find_app_by_name(page_data, app_input)
-                        if target_app: break
-            except: continue
-
-if not target_app:
-    print("Error: Target data could not be found.")
-    exit(1)
-
-app_name_final = target_app.get('name', 'Unknown')
-print(f"Success. Found: {app_name_final} | Category: {app_type}")
-
-slug = "".join(e for e in app_name_final if e.isalnum()).lower()
-if not slug: slug = f"app{random.randint(1000, 9999)}"
+print(f"📝 App Name Detected: {ex_name}")
 
 # =========================================================================
-# === بەشی گەڕان لەناو کۆگای ئەپڵ (App Store) ===
+# 2. خاوێنکردنەوەی ناوەکە بۆ ئەپ ستۆر
 # =========================================================================
-print("Searching Apple App Store for high-quality screenshots and icon...")
+clean_search_name = re.split(r'[\+\-\(\)\[\]\|]', ex_name)[0].strip()
+words_to_remove = ['Premium', 'Hack', 'Mod', 'Pro', 'IPA', 'Download', 'Free', 'Cheats', 'Unlocked', '++']
+for w in words_to_remove:
+    clean_search_name = re.sub(rf'\b{w}\b', '', clean_search_name, flags=re.IGNORECASE).strip()
+
+if not clean_search_name:
+    clean_search_name = ex_name
+
+# =========================================================================
+# 3. گەڕان لەناو App Store
+# =========================================================================
+print(f"🍏 Searching Apple App Store for '{clean_search_name}'...")
+as_name, as_desc, as_icon, as_bundle, as_version, as_size_bytes = None, None, None, None, None, None
 app_store_screenshots = []
-app_store_icon = None
-
-clean_search_name = re.split(r'[\+\-\(\)\[\]]', app_name_final)[0].strip()
-clean_search_name = clean_search_name.replace('Premium', '').replace('Hack', '').replace('Mod', '').replace('Pro', '').strip()
 
 try:
     itunes_url = f"https://itunes.apple.com/search?term={urllib.parse.quote(clean_search_name)}&entity=software&limit=1"
@@ -159,74 +169,100 @@ try:
     if itunes_res.status_code == 200:
         itunes_data = itunes_res.json()
         if itunes_data.get('resultCount', 0) > 0:
-            app_store_info = itunes_data['results'][0]
-            app_store_screenshots = app_store_info.get('screenshotUrls', [])
-            app_store_icon = app_store_info.get('artworkUrl512')
-            print(f"App Store Match Found: {app_store_info.get('trackName')}")
+            app_info = itunes_data['results'][0]
+            as_name = app_info.get('trackName')
+            app_store_screenshots = app_info.get('screenshotUrls', [])
+            as_icon = app_info.get('artworkUrl512')
+            as_desc = app_info.get('description')
+            as_bundle = app_info.get('bundleId')
+            as_version = app_info.get('version')
+            as_size_bytes = app_info.get('fileSizeBytes')
+            print(f"✅ App Store Match Found: {as_name}")
         else:
-            print("No exact match found on App Store.")
+            print("⚠️ No exact match found on App Store.")
 except Exception as e:
     print("App Store search failed:", e)
 
-# === دابەزاندنی ئایکۆن ===
-app_icon_url = app_store_icon or target_app.get('image', target_app.get('icon', target_app.get('iconURL', '')))
+# =========================================================================
+# 4. تێکەڵکردنی زانیارییەکان
+# =========================================================================
+final_name = ex_name if len(ex_name) < 40 else (as_name or "Unknown App")
+final_desc = ex_desc or as_desc or "Awesome App! Downloaded from AshteMobile."
+
+slug = "".join(e for e in final_name if e.isalnum()).lower()
+if not slug: slug = f"app{random.randint(1000, 9999)}"
+final_bundle = ex_bundle or as_bundle or f"com.ashtemobile.{slug}"
+
+final_version = ex_version if ex_version else (as_version or "1.0")
+
+if ex_size:
+    final_size_str = ex_size
+    try:
+        size_mb = float(re.sub(r'[^\d.]', '', str(final_size_str)))
+        final_size_bytes = int(size_mb * 1024 * 1024)
+    except:
+        final_size_bytes = 150000000
+elif as_size_bytes:
+    final_size_bytes = int(as_size_bytes)
+    size_mb = round(final_size_bytes / (1024 * 1024), 2)
+    final_size_str = f"{size_mb} MB"
+else:
+    final_size_str = "150 MB"
+    final_size_bytes = 150000000
+
+icon_to_download = as_icon or ex_icon
+
+# =========================================================================
+# 5. دابەزاندنی وێنە و ئایکۆن
+# =========================================================================
 os.makedirs("img", exist_ok=True)
-ext = ".jpg" if not ".png" in app_icon_url.lower() else ".png"
+base_github_raw = _d('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lvczk0L2FzaHRlanNvbi9tYWluL2ltZy8=')
+
+ext = ".png" if not icon_to_download or ".png" in icon_to_download.lower() else ".jpg"
 downloaded_icon_name = f"{slug}{ext}"
 icon_path = os.path.join("img", downloaded_icon_name)
 
-if app_icon_url and app_icon_url.startswith("http"):
-    print("Downloading icon asset...")
+if icon_to_download and icon_to_download.startswith("http"):
+    print("Downloading App Icon...")
     try:
-        ir = requests.get(app_icon_url, stream=True, headers=headers)
+        ir = requests.get(icon_to_download, stream=True, headers=headers)
         if ir.status_code == 200:
             with open(icon_path, "wb") as f:
                 for chunk in ir.iter_content(1024):
                     f.write(chunk)
-    except Exception as e:
-        pass
+    except: pass
 
 icon_relative = f"img/{downloaded_icon_name}"
-base_github_raw = _d('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lvczk0L2FzaHRlanNvbi9tYWluL2ltZy8=')
 icon_full_url = f"{base_github_raw}{downloaded_icon_name}"
 
-# === دابەزاندنی وێنەکانی شاشە (Screenshots) ===
 final_screenshot_urls = []
 if app_store_screenshots:
     print("Downloading screenshots from App Store...")
+    custom_headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+    }
     for idx, s_url in enumerate(app_store_screenshots[:4]):
-        
         ext_s = ".png" if ".png" in s_url.lower() else ".jpg"
         clean_url = s_url.split('?')[0]
-        
         screen_filename = f"{slug}_screen_{idx+1}{ext_s}"
         screen_path = os.path.join("img", screen_filename)
         
         try:
-            custom_headers = {
-                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
-            }
             sr = requests.get(clean_url, stream=True, headers=custom_headers, timeout=15)
-            
             if sr.status_code == 200:
                 with open(screen_path, "wb") as f:
                     for chunk in sr.iter_content(8192):
                         f.write(chunk)
                 final_screenshot_urls.append(f"{base_github_raw}{screen_filename}")
-                print(f"Screenshot {idx+1} downloaded successfully.")
-            else:
-                print(f"Failed to download screenshot {idx+1}: HTTP {sr.status_code}")
-        except Exception as e:
-            print(f"Error downloading screenshot {idx+1}: {e}")
-else:
-    print("No screenshots found to download.")
+        except: pass
 
 # =========================================================================
-
+# 6. دابەزاندنی فایلە سەرەکییەکە (IPA)
+# =========================================================================
 os.makedirs("ipas", exist_ok=True)
 ipa_filename = f"ipas/{slug}.ipa"
-print("Downloading primary package...")
+print("Downloading primary package (IPA)...")
 try:
     r = requests.get(ipa_link, stream=True)
     if r.status_code == 200:
@@ -234,52 +270,46 @@ try:
             for chunk in r.iter_content(chunk_size=8192):
                 f.write(chunk)
 except Exception as e:
-    print("Error during package download sequence.")
+    print("Error downloading package.")
     exit(1)
 
+# =========================================================================
+# 7. دروستکردنی JSON
+# =========================================================================
 github_release_url = f"{_d('aHR0cHM6Ly9naXRodWIuY29tL2lvczk0L2FzaHRlanNvbi9yZWxlYXNlcy9kb3dubG9hZC9WMS8=')}{slug}.ipa"
 current_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
 app_id = random.randint(1111111111, 1999999999)
 
-app_size_str = target_app.get('size', '100 MB')
-try:
-    size_in_mb = float(re.sub(r'[^\d.]', '', str(app_size_str)))
-    size_in_bytes = int(size_in_mb * 1024 * 1024)
-except:
-    size_in_bytes = 150000000
-
 new_app = {
     "id": app_id,
-    "name": app_name_final,
-    "version": target_app.get('version', '1.0'),
-    "size": str(app_size_str),
+    "name": final_name,
+    "version": final_version,
+    "size": final_size_str,
     "icon": icon_relative,
     "badge": "",
     "type": app_type,
     "install_url": github_release_url,
     "download_url": github_release_url,
-    "bundleIdentifier": target_app.get('bundle', target_app.get('bundleIdentifier', f"{_d('Y29tLmFzaHRlbW9iaWxlLg==')}{slug}")),
+    "bundleIdentifier": final_bundle,
     "marketplaceID": "",
     "developerName": _d('QXNodGVNb2JpbGU='),
     "subtitle": "Awesome App",
-    "localizedDescription": target_app.get('description', _d('RG93bmxvYWRlZCBmcm9tIEFzaHRlTW9iaWxlIFNvdXJjZS4=')),
+    "localizedDescription": final_desc,
     "iconURL": icon_full_url,
     "tintColor": "#04ecfc",
     "category": app_type,
-    
-    # لێرەدا کێشەکە چارەسەر کرا، هەردوو ناوەکەمان دانا
     "screenshotURLs": final_screenshot_urls,
     "screenshots": final_screenshot_urls,
-    
     "versions": [
         {
-            "version": target_app.get('version', '1.0'),
+            "version": final_version,
             "date": current_date,
             "localizedDescription": None,
             "downloadURL": github_release_url,
-            "size": size_in_bytes,
+            "size": final_size_bytes,
             "buildVersion": None,
-            "minOSVersion": "14.0"
+            "minOSVersion": "14.0",
+            "screenshots": final_screenshot_urls 
         }
     ]
 }
@@ -287,4 +317,4 @@ new_app = {
 with open("temp_app.json", "w", encoding="utf-8") as f:
     json.dump(new_app, f, ensure_ascii=False, indent=4)
     
-print("Operations completed. Task queued for processing.")
+print("✅ Operations completed. Task queued for processing.")
