@@ -10,6 +10,53 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1157207991,
+            "name": "Quack Bag: Duck Mafia",
+            "version": "1.282.267",
+            "size": "142.75 MB",
+            "icon": "img/quackbagduckmafia.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/quackbagduckmafia.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/quackbagduckmafia.ipa",
+            "bundleIdentifier": "com.bag.blob",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → amplify your firepower in combat\n- Defence Multiplier → reduce incoming damage from enemies\n- Never Die → become invincible in battle",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quackbagduckmafia.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quackbagduckmafia_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quackbagduckmafia_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quackbagduckmafia_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quackbagduckmafia_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quackbagduckmafia_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quackbagduckmafia_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quackbagduckmafia_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quackbagduckmafia_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.282.267",
+                    "versionDate": "2026-10-12",
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/quackbagduckmafia.ipa",
+                    "localizedDescription": null,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quackbagduckmafia_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quackbagduckmafia_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quackbagduckmafia_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quackbagduckmafia_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1285201090,
             "name": "Block Out! - Color Sort Puzzle",
             "version": "1144",
