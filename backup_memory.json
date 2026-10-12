@@ -10,6 +10,55 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1802688167,
+            "name": "Mob Control",
+            "version": "3.23.4",
+            "size": "184.82 MB",
+            "icon": "img/mobcontrol.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mobcontrol.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mobcontrol.ipa",
+            "bundleIdentifier": "com.vincentb.MobControl",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Coins\n- Unlimited Skip'Its\n- Unlimited Stars -> Earn some.\n- Unlimited Bricks\n- Unlimited Earnt Bricks\n- Unlimited Cards -> Will increase instead of decrease.\n- No Card Requirement",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.23.4",
+                    "versionDate": "2026-10-12",
+                    "fullDate": "20261012210719",
+                    "size": 193794516,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mobcontrol.ipa",
+                    "localizedDescription": null,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1998979567,
             "name": "Puzzle Games for Kids 2-6 year",
             "version": "2.96",
