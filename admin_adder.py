@@ -63,7 +63,6 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
-# فرمانێک بۆ خوێندنەوەی ئەو سایتانەی وەک پێشوون
 def find_main_app_in_page(data):
     if isinstance(data, dict):
         if 'name' in data and 'version' in data and 'size' in data and 'uuid' in data: return data
@@ -76,7 +75,6 @@ def find_main_app_in_page(data):
             if res: return res
     return None
 
-# زانیارییە سەرەتاییەکان
 ex_name, ex_desc, ex_icon, ex_version, ex_size, ex_bundle = "", "", "", "", "", ""
 
 # =========================================================================
@@ -88,7 +86,6 @@ if app_input.startswith("http"):
         res = requests.get(app_input, headers=headers, timeout=15)
         soup = BeautifulSoup(res.text, 'html.parser')
 
-        # ئەگەر سایتەکە Flekstore یان ئەوانەی پێشوو بێت
         app_div = soup.find('div', id='app')
         if app_div and app_div.has_attr('data-page'):
             print("Flekstore format detected.")
@@ -102,11 +99,9 @@ if app_input.startswith("http"):
                 ex_icon = target_app.get('image', target_app.get('icon', ''))
                 ex_bundle = target_app.get('bundle', target_app.get('bundleIdentifier', ''))
         
-        # ئەگەر هەر وێبسایتێکی تر بێت لە جیهاندا
         if not ex_name:
             print("Generic website detected. Extracting metadata...")
             
-            # دەرهێنانی ناوەکە لە تایتڵی سایتەکە
             og_title = soup.find('meta', property='og:title')
             if og_title and og_title.get('content'):
                 ex_name = og_title.get('content')
@@ -114,10 +109,12 @@ if app_input.startswith("http"):
                 ex_name = soup.title.string
             
             if ex_name:
-                # خاوێنکردنەوەی ناوەکە
                 ex_name = ex_name.split('|')[0].split('-')[0].strip()
+            
+            # چارەسەری کێشەی سکیوێرتی Cloudflare
+            if ex_name and ("Just a moment" in ex_name or "Cloudflare" in ex_name or "Attention Required" in ex_name):
+                ex_name = ""
 
-            # دەرهێنانی وەسف (Description)
             og_desc = soup.find('meta', property='og:description')
             meta_desc = soup.find('meta', attrs={'name': 'description'})
             if og_desc and og_desc.get('content'):
@@ -125,7 +122,6 @@ if app_input.startswith("http"):
             elif meta_desc and meta_desc.get('content'):
                 ex_desc = meta_desc.get('content')
             
-            # دەرهێنانی ئایکۆنی سایتەکە ئەگەر هەبێت
             og_image = soup.find('meta', property='og:image')
             if og_image and og_image.get('content'):
                 ex_icon = og_image.get('content')
@@ -133,11 +129,12 @@ if app_input.startswith("http"):
     except Exception as e:
         print(f"Website Scraping Error: {e}")
         
-    # ئەگەر نەیتوانی بیخوێنێتەوە، ناوەکە لە لینکەکەوە دروست دەکات
+    # ئەگەر سایتەکە ڕێگری کرد یان نەیدۆزییەوە، ناوەکە بە زیرەکی لە لینکەکە دەردەهێنێت
     if not ex_name:
-        ex_name = urllib.parse.unquote(app_input.split('/')[-1].split('.')[0].replace('-', ' '))
+        url_parts = [p for p in app_input.split('/') if p and p.lower() not in ['download', 'app', 'game', 'ipa', 'file']]
+        if url_parts:
+            ex_name = urllib.parse.unquote(url_parts[-1].split('.')[0]).replace('-', ' ').title()
 else:
-    # ئەگەر لەجیاتی لینک تەنها ناوی یارییەکەت نووسیبوو
     ex_name = app_input
 
 if not ex_name:
@@ -149,9 +146,11 @@ print(f"📝 App Name Detected: {ex_name}")
 # 2. خاوێنکردنەوەی ناوەکە بۆ ئەپ ستۆر
 # =========================================================================
 clean_search_name = re.split(r'[\+\-\(\)\[\]\|]', ex_name)[0].strip()
-words_to_remove = ['Premium', 'Hack', 'Mod', 'Pro', 'IPA', 'Download', 'Free', 'Cheats', 'Unlocked', '++']
+words_to_remove = ['Premium', 'Hack', 'Mod', 'Pro', 'IPA', 'Download', 'Free', 'Cheats', 'Unlocked']
+
 for w in words_to_remove:
-    clean_search_name = re.sub(rf'\b{w}\b', '', clean_search_name, flags=re.IGNORECASE).strip()
+    # بەکارهێنانی re.escape چارەسەری ئیرۆرەکەی کرد
+    clean_search_name = re.sub(rf'\b{re.escape(w)}\b', '', clean_search_name, flags=re.IGNORECASE).strip()
 
 if not clean_search_name:
     clean_search_name = ex_name
