@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1918631993,
+            "name": "Little Kitty, Big City",
+            "version": "1261008.7592",
+            "size": "573.83 MB",
+            "icon": "img/littlekittybigcity.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/littlekittybigcity.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/littlekittybigcity.ipa",
+            "bundleIdentifier": "com.doubledaggerstudio.littlekittybigcity",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Full Game Unlocked → access all content without in-app purchase",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/littlekittybigcity.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/littlekittybigcity_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/littlekittybigcity_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/littlekittybigcity_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/littlekittybigcity_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/littlekittybigcity_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/littlekittybigcity_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/littlekittybigcity_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/littlekittybigcity_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1261008.7592",
+                    "date": "2026-10-12T21:58:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/littlekittybigcity.ipa",
+                    "size": 601704366,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/littlekittybigcity_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/littlekittybigcity_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/littlekittybigcity_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/littlekittybigcity_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1427665490,
             "name": "Stick War: Saga",
             "version": "2026.5.7224",
