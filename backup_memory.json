@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1653227524,
+            "name": "AmaZeus: Merge & Shoot",
+            "version": "1.4.56",
+            "size": "366.68 MB",
+            "icon": "img/amazeusmergeshoot.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/amazeusmergeshoot.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/amazeusmergeshoot.ipa",
+            "bundleIdentifier": "com.merge.shooter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Energy Max → unlimited action points\n- Always Last Wave → skip to final battle\n- AKF Rewards → auto-collect battle drops\nHero Stats\n- HP Freeze → invulnerable health\n- ATK MAX → maximum attack power\nEnemy Stats\n- ATK 0 → enemies deal no damage",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amazeusmergeshoot.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amazeusmergeshoot_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amazeusmergeshoot_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amazeusmergeshoot_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amazeusmergeshoot_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amazeusmergeshoot_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amazeusmergeshoot_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amazeusmergeshoot_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amazeusmergeshoot_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.56",
+                    "date": "2026-10-12T21:54:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/amazeusmergeshoot.ipa",
+                    "size": 384491847,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amazeusmergeshoot_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amazeusmergeshoot_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amazeusmergeshoot_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amazeusmergeshoot_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1549505397,
             "name": "Guidus One",
             "version": "1.2.5",
