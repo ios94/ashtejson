@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1316133784,
+            "name": "Rogue Legend - Roguelike RPG",
+            "version": "0.610",
+            "size": "683.14 MB",
+            "icon": "img/roguelegendroguelikerpg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/roguelegendroguelikerpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/roguelegendroguelikerpg.ipa",
+            "bundleIdentifier": "com.pockethaven.roguelegend",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defence Multiplier\n- Never Die\n- Skip Battles\n- VIP Enabled",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roguelegendroguelikerpg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roguelegendroguelikerpg_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roguelegendroguelikerpg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roguelegendroguelikerpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roguelegendroguelikerpg_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roguelegendroguelikerpg_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roguelegendroguelikerpg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roguelegendroguelikerpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roguelegendroguelikerpg_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.610",
+                    "date": "2026-10-12T22:00:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/roguelegendroguelikerpg.ipa",
+                    "size": 716324208,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roguelegendroguelikerpg_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roguelegendroguelikerpg_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roguelegendroguelikerpg_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roguelegendroguelikerpg_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1514329909,
             "name": "Idle Frontier: Western Tapper",
             "version": "1.101",
