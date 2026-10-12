@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1514329909,
+            "name": "Idle Frontier: Western Tapper",
+            "version": "1.101",
+            "size": "119.7 MB",
+            "icon": "img/idlefrontierwesterntapper.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/idlefrontierwesterntapper.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/idlefrontierwesterntapper.ipa",
+            "bundleIdentifier": "com.kongregate.mobile.idlefrontier",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free Worker Upgrade\n- 0 Pie Cost\n- Cheap Building Upgrade\n- Free Shop",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlefrontierwesterntapper.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlefrontierwesterntapper_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlefrontierwesterntapper_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlefrontierwesterntapper_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlefrontierwesterntapper_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlefrontierwesterntapper_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlefrontierwesterntapper_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlefrontierwesterntapper_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlefrontierwesterntapper_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.101",
+                    "date": "2026-10-12T22:00:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/idlefrontierwesterntapper.ipa",
+                    "size": 125514547,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlefrontierwesterntapper_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlefrontierwesterntapper_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlefrontierwesterntapper_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlefrontierwesterntapper_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1918631993,
             "name": "Little Kitty, Big City",
             "version": "1261008.7592",
