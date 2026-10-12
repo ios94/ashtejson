@@ -60,6 +60,7 @@ if not app_input or not ipa_link:
 
 headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 target_app = None
+soup = None # دانانی گۆڕاوی soup بۆ ئەوەی دواتر بەکاری بهێنین
 
 def find_app_by_name(data, target_name):
     if isinstance(data, dict):
@@ -142,6 +143,7 @@ print(f"Success. Found: {app_name_final} | Category: {app_type}")
 slug = "".join(e for e in app_name_final if e.isalnum()).lower()
 if not slug: slug = f"app{random.randint(1000, 9999)}"
 
+# === بەشی دابەزاندنی ئایکۆن ===
 app_icon_url = target_app.get('image', target_app.get('icon', target_app.get('iconURL', '')))
 os.makedirs("img", exist_ok=True)
 ext = ".jpg" if not ".png" in app_icon_url.lower() else ".png"
@@ -160,7 +162,54 @@ if app_icon_url and app_icon_url.startswith("http"):
         pass
 
 icon_relative = f"img/{downloaded_icon_name}"
-icon_full_url = f"{_d('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lvczk0L2FzaHRlanNvbi9tYWluL2ltZy8=')}{downloaded_icon_name}"
+base_github_raw = _d('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lvczk0L2FzaHRlanNvbi9tYWluL2ltZy8=')
+icon_full_url = f"{base_github_raw}{downloaded_icon_name}"
+
+# === بەشی نوێ: دابەزاندنی وێنەکانی شاشە (Screenshots) ===
+print("Searching for screenshots...")
+raw_screenshot_urls = []
+
+# ١. هەوڵدەدات لەناو داتای JSON ی پەڕەکەدا بیاندۆزێتەوە
+if 'screenshots' in target_app and isinstance(target_app['screenshots'], list):
+    raw_screenshot_urls = target_app['screenshots']
+elif 'images' in target_app and isinstance(target_app['images'], list):
+    raw_screenshot_urls = target_app['images']
+
+clean_urls = []
+for s in raw_screenshot_urls:
+    if isinstance(s, str): clean_urls.append(s)
+    elif isinstance(s, dict) and 'url' in s: clean_urls.append(s['url'])
+    elif isinstance(s, dict) and 'image' in s: clean_urls.append(s['image'])
+    elif isinstance(s, dict) and 'src' in s: clean_urls.append(s['src'])
+
+# ٢. ئەگەر لە JSON نەبوون، هەوڵدەدات لەناو HTML ی پەڕەکەدا بیانپشکنێت
+if not clean_urls and soup:
+    for img in soup.find_all('img'):
+        src = img.get('src') or img.get('data-src', '')
+        class_str = " ".join(img.get('class', [])).lower()
+        if 'screen' in class_str or 'screenshot' in src.lower():
+            if src and src not in clean_urls:
+                clean_urls.append(src)
+
+# ٣. دابەزاندنی وێنەکان بۆ ناو فۆڵدەری img (زۆرترینی ٤ وێنە)
+final_screenshot_urls = []
+for idx, s_url in enumerate(clean_urls[:4]):
+    if s_url.startswith('//'): s_url = 'https:' + s_url
+    ext = ".png" if ".png" in s_url.lower() else ".jpg"
+    screen_filename = f"{slug}_screen_{idx+1}{ext}"
+    screen_path = os.path.join("img", screen_filename)
+    
+    print(f"Downloading screenshot {idx+1}...")
+    try:
+        sr = requests.get(s_url, stream=True, headers=headers, timeout=10)
+        if sr.status_code == 200:
+            with open(screen_path, "wb") as f:
+                for chunk in sr.iter_content(1024):
+                    f.write(chunk)
+            final_screenshot_urls.append(f"{base_github_raw}{screen_filename}")
+    except Exception as e:
+        print(f"Failed to download screenshot {idx+1}: {e}")
+# =========================================================
 
 os.makedirs("ipas", exist_ok=True)
 ipa_filename = f"ipas/{slug}.ipa"
@@ -204,7 +253,10 @@ new_app = {
     "iconURL": icon_full_url,
     "tintColor": "#04ecfc",
     "category": app_type,
-    "screenshots": [],
+    
+    # لێرەدا لینکەکانی وێنەی شاشە دەخرێنە ناو فایلی جەیسۆنەکەوە
+    "screenshots": final_screenshot_urls,
+    
     "versions": [
         {
             "version": target_app.get('version', '1.0'),
