@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1228830411,
+            "name": "Smash Fest!",
+            "version": "714",
+            "size": "119.68 MB",
+            "icon": "img/smashfest.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
+            "bundleIdentifier": "com.flow.cannon-ball",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Get Max Coin / Booster When Spent → coins and boosters refill instantly after use\n- No Ads → uninterrupted gameplay throughout\n- Infinite Ball → unlimited shots to complete every level",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "714",
+                    "date": "2026-10-12T20:43:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
+                    "size": 125493575,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1782472102,
             "name": "Hole Busters 3D",
             "version": "2.0.2",
@@ -3142,37 +3190,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/littlesingham2worldhero.ipa",
                     "size": 175699394,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1228830411,
-            "name": "Smash Fest!",
-            "version": "677",
-            "size": "104.73 MB",
-            "icon": "img/smashfest.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
-            "bundleIdentifier": "com.flow.cannon-ball",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Get Max Coin / Booster When Spent → coins and boosters refill instantly after use\n- No Ads → uninterrupted gameplay throughout\n- Infinite Ball → unlimited shots to complete every level",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "677",
-                    "date": "2026-10-09T15:00:41+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
-                    "size": 109817364,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
