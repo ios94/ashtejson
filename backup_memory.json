@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1907604937,
+            "name": "Pawn to Don Mafia Crime Story",
+            "version": "2.8.6",
+            "size": "213.22 MB",
+            "icon": "img/pawntodonmafiacrimestory.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/pawntodonmafiacrimestory.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/pawntodonmafiacrimestory.ipa",
+            "bundleIdentifier": "com.funcell.pawndon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Everything -> Earn or spend some.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pawntodonmafiacrimestory.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pawntodonmafiacrimestory_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pawntodonmafiacrimestory_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pawntodonmafiacrimestory_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pawntodonmafiacrimestory_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pawntodonmafiacrimestory_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pawntodonmafiacrimestory_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pawntodonmafiacrimestory_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pawntodonmafiacrimestory_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.8.6",
+                    "date": "2026-10-12T21:55:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/pawntodonmafiacrimestory.ipa",
+                    "size": 223577374,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pawntodonmafiacrimestory_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pawntodonmafiacrimestory_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pawntodonmafiacrimestory_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pawntodonmafiacrimestory_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1653227524,
             "name": "AmaZeus: Merge & Shoot",
             "version": "1.4.56",
