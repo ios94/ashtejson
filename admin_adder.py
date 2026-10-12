@@ -215,7 +215,10 @@ icon_to_download = as_icon or ex_icon
 # 5. دابەزاندنی وێنە و ئایکۆن
 # =========================================================================
 os.makedirs("img", exist_ok=True)
+os.makedirs("imgg", exist_ok=True) # فۆڵدەری نوێ بۆ سکرین شۆتەکان
+
 base_github_raw = _d('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lvczk0L2FzaHRlanNvbi9tYWluL2ltZy8=')
+base_github_raw_imgg = _d('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lvczk0L2FzaHRlanNvbi9tYWluL2ltZ2cv') # لینکی سۆرس بۆ فۆڵدەری imgg
 
 ext = ".png" if not icon_to_download or ".png" in icon_to_download.lower() else ".jpg"
 downloaded_icon_name = f"{slug}{ext}"
@@ -245,7 +248,7 @@ if app_store_screenshots:
         ext_s = ".png" if ".png" in s_url.lower() else ".jpg"
         clean_url = s_url.split('?')[0]
         screen_filename = f"{slug}_screen_{idx+1}{ext_s}"
-        screen_path = os.path.join("img", screen_filename)
+        screen_path = os.path.join("imgg", screen_filename) # سکرین شۆتەکان دەچنە فۆڵدەری imgg
         
         try:
             sr = requests.get(clean_url, stream=True, headers=custom_headers, timeout=15)
@@ -253,7 +256,7 @@ if app_store_screenshots:
                 with open(screen_path, "wb") as f:
                     for chunk in sr.iter_content(8192):
                         f.write(chunk)
-                final_screenshot_urls.append(f"{base_github_raw}{screen_filename}")
+                final_screenshot_urls.append(f"{base_github_raw_imgg}{screen_filename}") # زیادکردنی لینکی نوێی imgg بۆ جەیسۆنەکە
         except: pass
 
 # =========================================================================
