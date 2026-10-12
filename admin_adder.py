@@ -144,13 +144,12 @@ slug = "".join(e for e in app_name_final if e.isalnum()).lower()
 if not slug: slug = f"app{random.randint(1000, 9999)}"
 
 # =========================================================================
-# === بەشی نوێ: گەڕان لەناو کۆگای ئەپڵ (App Store) بۆ وێنە و ئایکۆنی فەرمی ===
+# === بەشی گەڕان لەناو کۆگای ئەپڵ (App Store) ===
 # =========================================================================
 print("Searching Apple App Store for high-quality screenshots and icon...")
 app_store_screenshots = []
 app_store_icon = None
 
-# پاککردنەوەی ناوەکە بۆ ئەوەی App Store بیدۆزێتەوە
 clean_search_name = re.split(r'[\+\-\(\)\[\]]', app_name_final)[0].strip()
 clean_search_name = clean_search_name.replace('Premium', '').replace('Hack', '').replace('Mod', '').replace('Pro', '').strip()
 
@@ -191,14 +190,14 @@ icon_relative = f"img/{downloaded_icon_name}"
 base_github_raw = _d('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lvczk0L2FzaHRlanNvbi9tYWluL2ltZy8=')
 icon_full_url = f"{base_github_raw}{downloaded_icon_name}"
 
-# === دابەزاندنی وێنەکانی شاشە (Screenshots) لە App Store ===
+# === دابەزاندنی وێنەکانی شاشە (Screenshots) ===
 final_screenshot_urls = []
 if app_store_screenshots:
     print("Downloading screenshots from App Store...")
-    for idx, s_url in enumerate(app_store_screenshots[:4]): # تەنها ٤ وێنە دادەگرێت
+    for idx, s_url in enumerate(app_store_screenshots[:4]):
         
         ext_s = ".png" if ".png" in s_url.lower() else ".jpg"
-        clean_url = s_url.split('?')[0] # لابردنی قەبارەی زیادەی ناو لینکەکە
+        clean_url = s_url.split('?')[0]
         
         screen_filename = f"{slug}_screen_{idx+1}{ext_s}"
         screen_path = os.path.join("img", screen_filename)
@@ -267,6 +266,11 @@ new_app = {
     "iconURL": icon_full_url,
     "tintColor": "#04ecfc",
     "category": app_type,
+    
+    # لێرەدا کێشەکە چارەسەر کرا، هەردوو ناوەکەمان دانا
+    "screenshotURLs": final_screenshot_urls,
+    "screenshots": final_screenshot_urls,
+    
     "versions": [
         {
             "version": target_app.get('version', '1.0'),
@@ -275,9 +279,7 @@ new_app = {
             "downloadURL": github_release_url,
             "size": size_in_bytes,
             "buildVersion": None,
-            "minOSVersion": "14.0",
-            # لێرەدا وێنەکان خراونەتە ناو ڤێرژنەکەوە
-            "screenshots": final_screenshot_urls 
+            "minOSVersion": "14.0"
         }
     ]
 }
