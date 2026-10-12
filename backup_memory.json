@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1919182910,
+            "name": "Valkyria Nexus Battle",
+            "version": "0.1.28",
+            "size": "399 MB",
+            "icon": "img/valkyrianexusbattle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/valkyrianexusbattle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/valkyrianexusbattle.ipa",
+            "bundleIdentifier": "com.YsoCorp.ValkyriaNexusBattle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → boost your squad's offensive output\n- Defense Multiplier → strengthen your team's durability\n- Attack Speed → accelerate your Valkyrias' combat rhythm\n- Freeze Currencies → lock your resources in place\n- Currencies Increase When Spend → gain more as you use them\n- Game Speed → adjust battle pacing to your preference\n- No ADS → play uninterrupted",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/valkyrianexusbattle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/valkyrianexusbattle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/valkyrianexusbattle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/valkyrianexusbattle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/valkyrianexusbattle_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/valkyrianexusbattle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/valkyrianexusbattle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/valkyrianexusbattle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/valkyrianexusbattle_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.1.28",
+                    "date": "2026-10-12T21:58:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/valkyrianexusbattle.ipa",
+                    "size": 418381824,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/valkyrianexusbattle_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/valkyrianexusbattle_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/valkyrianexusbattle_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/valkyrianexusbattle_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1975402840,
             "name": "Her Comeback: Merge & Story",
             "version": "1.1.110101749",
