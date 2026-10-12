@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1474586550,
+            "name": "Retro Wings: Sky Combat",
+            "version": "0.1.14",
+            "size": "75.22 MB",
+            "icon": "img/retrowingsskycombat.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/retrowingsskycombat.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/retrowingsskycombat.ipa",
+            "bundleIdentifier": "com.OnecoinClear.RetroWings",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Buy Anything for Free",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.1.14",
+                    "date": "2026-10-12T22:33:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/retrowingsskycombat.ipa",
+                    "size": 78873886,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1771688035,
             "name": "Voidpet Dungeon",
             "version": "5.29.53",
@@ -3603,37 +3651,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/grandhotelmaniamymanager.ipa",
                     "size": 205300695,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1474586550,
-            "name": "Retro Wings: Sky Combat",
-            "version": "0.1.14",
-            "size": "75.22 MB",
-            "icon": "img/retrowingsskycombat.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/retrowingsskycombat.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/retrowingsskycombat.ipa",
-            "bundleIdentifier": "com.OnecoinClear.RetroWings",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Buy Anything for Free",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "0.1.14",
-                    "date": "2026-10-10T23:49:41+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/retrowingsskycombat.ipa",
-                    "size": 78873886,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
