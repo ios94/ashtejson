@@ -10,6 +10,42 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1779364434,
+            "name": "Survival Island: Survivor EVO",
+            "version": "2.46.5",
+            "size": "245.77 MB",
+            "icon": "img/survivalislandsurvivorevo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/survivalislandsurvivorevo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/survivalislandsurvivorevo.ipa",
+            "bundleIdentifier": "com.darkbark.sievolve",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- In-app purchases enabled\n- No ads\n\nNote: Enable the hack from the mod menu.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/survivalislandsurvivorevo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "versions": [
+                {
+                    "version": "2.46.5",
+                    "date": "2026-10-12T20:02:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/survivalislandsurvivorevo.ipa",
+                    "size": 257708523,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/survivalislandsurvivorevo_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/survivalislandsurvivorevo_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/survivalislandsurvivorevo_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/survivalislandsurvivorevo_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1580897078,
             "name": "Travel Town - Merge Adventure",
             "version": "2.12.1782",
