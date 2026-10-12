@@ -188,7 +188,7 @@ os.makedirs("ipas", exist_ok=True)
 ipa_filename = f"ipas/{slug}.ipa"
 print("Downloading primary package (IPA)...")
 
-file_size_bytes = 150000000  # قەبارەی خەمڵێنراو وەک پاڵپشت
+file_size_bytes = 150000000
 try:
     r = requests.get(ipa_link, stream=True, headers=headers, timeout=30)
     if r.status_code == 200:
@@ -202,11 +202,10 @@ try:
         else:
             print("⚠️ هشدار: فایلەکە Zip نییە، بەڵام بەردەوام دەبین...")
     else:
-        print(f"⚠️ ئاگاداری: دابەزاندن سەرکەوتوو نەبوو (کۆدی {r.status_code})، قەبارەی خەمڵێنراو بەکاردەهێنین.")
+        print(f"⚠️ ئاگاداری: دابەزاندن سەرکەوتوو نەبوو، قەبارەی خەمڵێنراو بەکاردەهێنین.")
 except Exception as e:
     print("Error downloading package:", e)
 
-# دڵنیابوونەوە لە قەبارە بە هەردوو شێوازەکە
 size_mb = round(file_size_bytes / (1024 * 1024), 2)
 final_size_str = f"{size_mb} MB"
 final_size_bytes = int(file_size_bytes)
@@ -268,17 +267,18 @@ if app_store_screenshots:
         except: pass
 
 # =========================================================================
-# 7. دروستکردنی JSON (دڵنیابوونەوە لە بوونی size لە هەموو شوێنێک)
+# 7. دروستکردنی JSON (بە شێوازەکەی هاوڕێکەت بۆ ڤێرژنەکان)
 # =========================================================================
 github_release_url = f"{_d('aHR0cHM6Ly9naXRodWIuY29tL2lvczk0L2FzaHRlanNvbi9yZWxlYXNlcy9kb3dubG9hZC9WMS8=')}{slug}.ipa"
-current_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
+current_date_iso = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+full_date_str = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
 app_id = random.randint(1111111111, 1999999999)
 
 new_app = {
     "id": app_id,
     "name": final_name,
     "version": final_version,
-    "size": final_size_str,  # لێرەدا قەبارە بە شێوەی دەق دەنووسرێت (وەک "150 MB")
+    "size": final_size_str,
     "icon": icon_relative,
     "badge": "",
     "type": app_type,
@@ -297,10 +297,11 @@ new_app = {
     "versions": [
         {
             "version": final_version,
-            "date": current_date,
-            "localizedDescription": None,
+            "versionDate": current_date_iso,
+            "fullDate": full_date_str,
+            "size": final_size_bytes,
             "downloadURL": github_release_url,
-            "size": final_size_bytes,  # لێرەدا قەبارە بە بڕی بایت دەدرێت بە ESign بۆ ئەوەی قەبارەکە پیشان بدات
+            "localizedDescription": None,
             "buildVersion": None,
             "minOSVersion": "14.0",
             "screenshots": final_screenshot_urls 
