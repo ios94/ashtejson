@@ -12,6 +12,7 @@ from datetime import datetime, timezone
 def _d(s):
     return base64.b64decode(s).decode('utf-8')
 
+# === بەشی نوێکردنەوەی جەیسۆن ===
 if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     if not os.path.exists("temp_app.json"):
         exit(0)
@@ -49,7 +50,7 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     print("Data successfully updated in the source file.")
     exit(0)
 
-
+# === بەشی هێنانی زانیارییەکان ===
 app_type = os.environ.get("APP_TYPE", "games").strip()
 app_input = os.environ.get("APP_NAME", "").strip()
 ipa_link = os.environ.get("IPA_LINK", "").strip()
@@ -60,7 +61,6 @@ if not app_input or not ipa_link:
 
 headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 target_app = None
-soup = None # دانانی گۆڕاوی soup بۆ ئەوەی دواتر بەکاری بهێنین
 
 def find_app_by_name(data, target_name):
     if isinstance(data, dict):
@@ -143,8 +143,34 @@ print(f"Success. Found: {app_name_final} | Category: {app_type}")
 slug = "".join(e for e in app_name_final if e.isalnum()).lower()
 if not slug: slug = f"app{random.randint(1000, 9999)}"
 
-# === بەشی دابەزاندنی ئایکۆن ===
-app_icon_url = target_app.get('image', target_app.get('icon', target_app.get('iconURL', '')))
+# =========================================================================
+# === بەشی نوێ: گەڕان لەناو کۆگای ئەپڵ (App Store) بۆ وێنە و ئایکۆنی فەرمی ===
+# =========================================================================
+print("Searching Apple App Store for high-quality screenshots and icon...")
+app_store_screenshots = []
+app_store_icon = None
+
+# پاککردنەوەی ناوەکە بۆ ئەوەی App Store بیدۆزێتەوە (لابردنی وشەی وەک ++، Premium، Hack)
+clean_search_name = re.split(r'[\+\-\(\)\[\]]', app_name_final)[0].strip()
+clean_search_name = clean_search_name.replace('Premium', '').replace('Hack', '').replace('Mod', '').replace('Pro', '').strip()
+
+try:
+    itunes_url = f"https://itunes.apple.com/search?term={urllib.parse.quote(clean_search_name)}&entity=software&limit=1"
+    itunes_res = requests.get(itunes_url, timeout=10)
+    if itunes_res.status_code == 200:
+        itunes_data = itunes_res.json()
+        if itunes_data.get('resultCount', 0) > 0:
+            app_store_info = itunes_data['results'][0]
+            app_store_screenshots = app_store_info.get('screenshotUrls', [])
+            app_store_icon = app_store_info.get('artworkUrl512')
+            print(f"App Store Match Found: {app_store_info.get('trackName')}")
+        else:
+            print("No exact match found on App Store.")
+except Exception as e:
+    print("App Store search failed:", e)
+
+# === دابەزاندنی ئایکۆن ===
+app_icon_url = app_store_icon or target_app.get('image', target_app.get('icon', target_app.get('iconURL', '')))
 os.makedirs("img", exist_ok=True)
 ext = ".jpg" if not ".png" in app_icon_url.lower() else ".png"
 downloaded_icon_name = f"{slug}{ext}"
@@ -165,51 +191,28 @@ icon_relative = f"img/{downloaded_icon_name}"
 base_github_raw = _d('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lvczk0L2FzaHRlanNvbi9tYWluL2ltZy8=')
 icon_full_url = f"{base_github_raw}{downloaded_icon_name}"
 
-# === بەشی نوێ: دابەزاندنی وێنەکانی شاشە (Screenshots) ===
-print("Searching for screenshots...")
-raw_screenshot_urls = []
-
-# ١. هەوڵدەدات لەناو داتای JSON ی پەڕەکەدا بیاندۆزێتەوە
-if 'screenshots' in target_app and isinstance(target_app['screenshots'], list):
-    raw_screenshot_urls = target_app['screenshots']
-elif 'images' in target_app and isinstance(target_app['images'], list):
-    raw_screenshot_urls = target_app['images']
-
-clean_urls = []
-for s in raw_screenshot_urls:
-    if isinstance(s, str): clean_urls.append(s)
-    elif isinstance(s, dict) and 'url' in s: clean_urls.append(s['url'])
-    elif isinstance(s, dict) and 'image' in s: clean_urls.append(s['image'])
-    elif isinstance(s, dict) and 'src' in s: clean_urls.append(s['src'])
-
-# ٢. ئەگەر لە JSON نەبوون، هەوڵدەدات لەناو HTML ی پەڕەکەدا بیانپشکنێت
-if not clean_urls and soup:
-    for img in soup.find_all('img'):
-        src = img.get('src') or img.get('data-src', '')
-        class_str = " ".join(img.get('class', [])).lower()
-        if 'screen' in class_str or 'screenshot' in src.lower():
-            if src and src not in clean_urls:
-                clean_urls.append(src)
-
-# ٣. دابەزاندنی وێنەکان بۆ ناو فۆڵدەری img (زۆرترینی ٤ وێنە)
+# === دابەزاندنی وێنەکانی شاشە (Screenshots) لە App Store ===
 final_screenshot_urls = []
-for idx, s_url in enumerate(clean_urls[:4]):
-    if s_url.startswith('//'): s_url = 'https:' + s_url
-    ext = ".png" if ".png" in s_url.lower() else ".jpg"
-    screen_filename = f"{slug}_screen_{idx+1}{ext}"
-    screen_path = os.path.join("img", screen_filename)
-    
-    print(f"Downloading screenshot {idx+1}...")
-    try:
-        sr = requests.get(s_url, stream=True, headers=headers, timeout=10)
-        if sr.status_code == 200:
-            with open(screen_path, "wb") as f:
-                for chunk in sr.iter_content(1024):
-                    f.write(chunk)
-            final_screenshot_urls.append(f"{base_github_raw}{screen_filename}")
-    except Exception as e:
-        print(f"Failed to download screenshot {idx+1}: {e}")
-# =========================================================
+if app_store_screenshots:
+    print("Downloading screenshots from App Store...")
+    for idx, s_url in enumerate(app_store_screenshots[:4]): # تەنها ٤ وێنە دادەگرێت بۆ خێرایی
+        ext_s = ".png" if ".png" in s_url.lower() else ".jpg"
+        screen_filename = f"{slug}_screen_{idx+1}{ext_s}"
+        screen_path = os.path.join("img", screen_filename)
+        
+        try:
+            sr = requests.get(s_url, stream=True, headers=headers, timeout=10)
+            if sr.status_code == 200:
+                with open(screen_path, "wb") as f:
+                    for chunk in sr.iter_content(1024):
+                        f.write(chunk)
+                final_screenshot_urls.append(f"{base_github_raw}{screen_filename}")
+        except Exception as e:
+            print(f"Failed to download screenshot {idx+1}: {e}")
+else:
+    print("No screenshots found to download.")
+
+# =========================================================================
 
 os.makedirs("ipas", exist_ok=True)
 ipa_filename = f"ipas/{slug}.ipa"
@@ -254,7 +257,7 @@ new_app = {
     "tintColor": "#04ecfc",
     "category": app_type,
     
-    # لێرەدا لینکەکانی وێنەی شاشە دەخرێنە ناو فایلی جەیسۆنەکەوە
+    # دانانی لینکەکانی وێنە فەرمییەکانی ئەپ ستۆر لەناو سۆرسەکەت
     "screenshots": final_screenshot_urls,
     
     "versions": [
