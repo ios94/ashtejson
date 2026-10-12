@@ -1,4 +1,4 @@
-name: Admin Panel - Smart Auto Adder
+Name: Admin Panel - Smart Auto Adder
 
 on:
   workflow_dispatch:
@@ -67,7 +67,8 @@ jobs:
           
           for i in {1..20}; do
             echo "هەوڵی ژمارە $i: هێنانی تازەترین ڤێرژنی سۆرسەکە..."
-            git pull origin main --rebase
+            # فەرمانی autostash زیادکرا بۆ چارەسەرکردنی کێشەکە
+            git pull origin main --rebase --autostash
             
             echo "خستنە ناوەوەی یارییە نوێیەکە بۆ ناو سۆرسەکە..."
             python admin_adder.py update_json
