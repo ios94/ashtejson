@@ -1,6 +1,3 @@
-بوم دورست بكه 
-
-
 import sys
 import os
 import json
