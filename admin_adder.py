@@ -150,7 +150,7 @@ print("Searching Apple App Store for high-quality screenshots and icon...")
 app_store_screenshots = []
 app_store_icon = None
 
-# پاککردنەوەی ناوەکە بۆ ئەوەی App Store بیدۆزێتەوە (لابردنی وشەی وەک ++، Premium، Hack)
+# پاککردنەوەی ناوەکە بۆ ئەوەی App Store بیدۆزێتەوە
 clean_search_name = re.split(r'[\+\-\(\)\[\]]', app_name_final)[0].strip()
 clean_search_name = clean_search_name.replace('Premium', '').replace('Hack', '').replace('Mod', '').replace('Pro', '').strip()
 
@@ -195,20 +195,31 @@ icon_full_url = f"{base_github_raw}{downloaded_icon_name}"
 final_screenshot_urls = []
 if app_store_screenshots:
     print("Downloading screenshots from App Store...")
-    for idx, s_url in enumerate(app_store_screenshots[:4]): # تەنها ٤ وێنە دادەگرێت بۆ خێرایی
+    for idx, s_url in enumerate(app_store_screenshots[:4]): # تەنها ٤ وێنە دادەگرێت
+        
         ext_s = ".png" if ".png" in s_url.lower() else ".jpg"
+        clean_url = s_url.split('?')[0] # لابردنی قەبارەی زیادەی ناو لینکەکە
+        
         screen_filename = f"{slug}_screen_{idx+1}{ext_s}"
         screen_path = os.path.join("img", screen_filename)
         
         try:
-            sr = requests.get(s_url, stream=True, headers=headers, timeout=10)
+            custom_headers = {
+                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+            }
+            sr = requests.get(clean_url, stream=True, headers=custom_headers, timeout=15)
+            
             if sr.status_code == 200:
                 with open(screen_path, "wb") as f:
-                    for chunk in sr.iter_content(1024):
+                    for chunk in sr.iter_content(8192):
                         f.write(chunk)
                 final_screenshot_urls.append(f"{base_github_raw}{screen_filename}")
+                print(f"Screenshot {idx+1} downloaded successfully.")
+            else:
+                print(f"Failed to download screenshot {idx+1}: HTTP {sr.status_code}")
         except Exception as e:
-            print(f"Failed to download screenshot {idx+1}: {e}")
+            print(f"Error downloading screenshot {idx+1}: {e}")
 else:
     print("No screenshots found to download.")
 
@@ -256,10 +267,6 @@ new_app = {
     "iconURL": icon_full_url,
     "tintColor": "#04ecfc",
     "category": app_type,
-    
-    # دانانی لینکەکانی وێنە فەرمییەکانی ئەپ ستۆر لەناو سۆرسەکەت
-    "screenshots": final_screenshot_urls,
-    
     "versions": [
         {
             "version": target_app.get('version', '1.0'),
@@ -268,7 +275,9 @@ new_app = {
             "downloadURL": github_release_url,
             "size": size_in_bytes,
             "buildVersion": None,
-            "minOSVersion": "14.0"
+            "minOSVersion": "14.0",
+            # لێرەدا وێنەکان خراونەتە ناو ڤێرژنەکەوە
+            "screenshots": final_screenshot_urls 
         }
     ]
 }
