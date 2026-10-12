@@ -267,7 +267,7 @@ if app_store_screenshots:
         except: pass
 
 # =========================================================================
-# 7. دروستکردنی JSON (بە شێوازەکەی هاوڕێکەت بۆ ڤێرژنەکان)
+# 7. دروستکردنی JSON (گونجاو بۆ Feather و AltStore)
 # =========================================================================
 github_release_url = f"{_d('aHR0cHM6Ly9naXRodWIuY29tL2lvczk0L2FzaHRlanNvbi9yZWxlYXNlcy9kb3dubG9hZC9WMS8=')}{slug}.ipa"
 current_date_iso = datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -278,7 +278,7 @@ new_app = {
     "id": app_id,
     "name": final_name,
     "version": final_version,
-    "size": final_size_str,
+    "size": final_size_str,  # بۆ Feather قەبارە دەبێت بە دەق بێت (وەک "209 MB")
     "icon": icon_relative,
     "badge": "",
     "type": app_type,
@@ -299,7 +299,7 @@ new_app = {
             "version": final_version,
             "versionDate": current_date_iso,
             "fullDate": full_date_str,
-            "size": final_size_bytes,
+            "size": final_size_bytes,  # لەناو ڤێرژنیشدا بە بایت دەبێت بۆ پشکنین
             "downloadURL": github_release_url,
             "localizedDescription": None,
             "buildVersion": None,
