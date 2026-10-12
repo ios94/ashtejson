@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1549505397,
+            "name": "Guidus One",
+            "version": "1.2.5",
+            "size": "191.4 MB",
+            "icon": "img/guidusone.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/guidusone.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/guidusone.ipa",
+            "bundleIdentifier": "com.izzle.go",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → boost your attack power\n- Defense Multiplier → increase your survivability\n- Currency Multiplier → earn resources faster\n- No ADS → uninterrupted gameplay",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guidusone.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guidusone_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guidusone_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guidusone_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guidusone_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guidusone_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guidusone_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guidusone_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guidusone_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.5",
+                    "date": "2026-10-12T21:53:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/guidusone.ipa",
+                    "size": 200697446,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guidusone_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guidusone_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guidusone_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guidusone_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1974962950,
             "name": "Block Blast！",
             "version": "7.5.1",
