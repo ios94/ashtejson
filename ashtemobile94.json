@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1691013024,
+            "name": "Artillery: Fight For America",
+            "version": "1.4.1",
+            "size": "305.08 MB",
+            "icon": "img/artilleryfightforamerica.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/artilleryfightforamerica.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/artilleryfightforamerica.ipa",
+            "bundleIdentifier": "dats.games.artillerymasterffa",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ADS NO → removes in-game advertisements\n- Currency ADD → grants bonus currency\n- Currency Multiplier → increases all currency rewards",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.1",
+                    "date": "2026-10-12T22:05:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/artilleryfightforamerica.ipa",
+                    "size": 319899566,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1503701255,
             "name": "FarmVille 2: Tropic Escape",
             "version": "1.231",
