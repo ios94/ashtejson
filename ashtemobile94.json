@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1716175847,
+            "name": "Idle Bank Tycoon: Money Game",
+            "version": "2.2.0",
+            "size": "149.96 MB",
+            "icon": "img/idlebanktycoonmoneygame.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/idlebanktycoonmoneygame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/idlebanktycoonmoneygame.ipa",
+            "bundleIdentifier": "com.luckyskeletonstudios.idlebanktycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Currencies",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.2.0",
+                    "date": "2026-10-12T21:52:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/idlebanktycoonmoneygame.ipa",
+                    "size": 157244456,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1616989270,
             "name": "Tiny Tower: Tap Idle Evolution",
             "version": "8.2.0",
@@ -3403,37 +3451,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/cityisland5buildingsim.ipa",
                     "size": 132571463,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1716175847,
-            "name": "Idle Bank Tycoon: Money Game",
-            "version": "2.1.0",
-            "size": "140.84 MB",
-            "icon": "img/idlebanktycoonmoneygame.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/idlebanktycoonmoneygame.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/idlebanktycoonmoneygame.ipa",
-            "bundleIdentifier": "com.luckyskeletonstudios.idlebanktycoon",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Free store (click buy then cancel)",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "2.1.0",
-                    "date": "2026-10-09T15:02:20+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/idlebanktycoonmoneygame.ipa",
-                    "size": 147681443,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
