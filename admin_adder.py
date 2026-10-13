@@ -7,15 +7,20 @@ import urllib.parse
 import base64
 import zipfile
 import time
-from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 
-# دڵنیابوونەوە لە بوونی cloudscraper بۆ شکاندنی سکیوێرتی سایتەکە
+# دابەزاندنی ئۆتۆماتیکی کتێبخانە پێویستەکان بۆ شکاندنی سکیوێرتی
 try:
-    import cloudscraper
+    from bs4 import BeautifulSoup
 except ImportError:
-    os.system(f"{sys.executable} -m pip install cloudscraper requests")
-    import cloudscraper
+    os.system(f"{sys.executable} -m pip install beautifulsoup4")
+    from bs4 import BeautifulSoup
+
+try:
+    from curl_cffi import requests
+except ImportError:
+    os.system(f"{sys.executable} -m pip install curl_cffi")
+    from curl_cffi import requests
 
 def _d(s):
     return base64.b64decode(s).decode('utf-8')
@@ -61,14 +66,8 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     print(f"Data successfully updated! Added/Updated {len(new_apps)} apps.")
     exit(0)
 
-# بەکارهێنانی scraper بۆ تێپەڕاندنی Cloudflare بە وێبگەڕی Chrome
-scraper = cloudscraper.create_scraper(
-    browser={
-        'browser': 'chrome',
-        'platform': 'windows',
-        'desktop': True
-    }
-)
+# دروستکردنی سێشنێک کە بە تەواوی خۆی وەک Google Chrome پیشان دەدات
+session = requests.Session(impersonate="chrome110")
 
 def process_app_data(app_info, app_type):
     ex_name = app_info.get('name', '')
@@ -93,7 +92,7 @@ def process_app_data(app_info, app_type):
     app_store_screenshots = []
     try:
         itunes_url = f"https://itunes.apple.com/search?term={urllib.parse.quote(clean_search_name)}&entity=software&limit=1"
-        itunes_res = scraper.get(itunes_url, timeout=10)
+        itunes_res = session.get(itunes_url, timeout=10)
         if itunes_res.status_code == 200:
             data = itunes_res.json()
             if data.get('resultCount', 0) > 0:
@@ -123,10 +122,22 @@ def process_app_data(app_info, app_type):
     file_size_bytes = 0
 
     try:
-        # سەردانکردنی سەرەتایی پەیجەکە بۆ وەرگرتنی کلیلی دابەزاندن
-        scraper.get(f"https://check0ver.net/en/iapps/{uuid_val}", timeout=15)
+        # سەردانکردنی پەڕەی یارییەکە بۆ وەرگرتنی کووکی و باوەڕپێکردنی سایتەکە
+        try:
+            page_res = session.get(f"https://check0ver.net/en/iapps/{uuid_val}", timeout=15)
+            # هەوڵدەدەین لینکی ڕاستەقینە لە پەڕەکە دەربهێنین ئەگەر هەبوو
+            p_soup = BeautifulSoup(page_res.text, 'html.parser')
+            app_div = p_soup.find('div', id='app')
+            if app_div and app_div.has_attr('data-page'):
+                sub_json = json.loads(app_div['data-page'])
+                iapp_detail = sub_json.get('props', {}).get('iapp', {})
+                if iapp_detail.get('downloadURL'):
+                    found_ipa_link = iapp_detail.get('downloadURL')
+        except:
+            pass
         
-        r = scraper.get(found_ipa_link, stream=True, timeout=30, allow_redirects=True)
+        # دابەزاندنی فایلەکە بە بەکارهێنانی curl_cffi کە سکیوێرتی دەشکێنێت
+        r = session.get(found_ipa_link, stream=True, timeout=30, allow_redirects=True)
         if r.status_code == 200:
             with open(ipa_filename, "wb") as f:
                 for chunk in r.iter_content(chunk_size=8192):
@@ -169,7 +180,7 @@ def process_app_data(app_info, app_type):
 
     if icon_to_download and icon_to_download.startswith("http"):
         try:
-            ir = scraper.get(icon_to_download, stream=True, timeout=10)
+            ir = session.get(icon_to_download, stream=True, timeout=10)
             if ir.status_code == 200:
                 with open(icon_path, "wb") as f:
                     for chunk in ir.iter_content(1024): f.write(chunk)
@@ -185,7 +196,7 @@ def process_app_data(app_info, app_type):
             screen_filename = f"{slug}_screen_{idx+1}{ext_s}"
             screen_path = os.path.join("imgg", screen_filename)
             try:
-                sr = scraper.get(s_url.split('?')[0], stream=True, timeout=15)
+                sr = session.get(s_url.split('?')[0], stream=True, timeout=15)
                 if sr.status_code == 200:
                     with open(screen_path, "wb") as f:
                         for chunk in sr.iter_content(8192): f.write(chunk)
@@ -250,7 +261,7 @@ if not app_input:
 generated_apps = []
 
 if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
-    print("📦 سیستەمی زیرەک چالاک کرا (Cloudscraper)...")
+    print("📦 سیستەمی زیرەک چالاک کرا بە تەکنەلۆژیای (curl_cffi بۆ تێپەڕاندنی بلۆک)...")
     
     existing_apps = []
     json_filename = _d('YXNodGVtb2JpbGU5NC5qc29u')
@@ -286,7 +297,7 @@ if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
         current_url = re.sub(r'page=\d*', f'page={page_num}', base_url)
         print(f"\n📄 پشکنینی پەڕەی {page_num}...")
         try:
-            res = scraper.get(current_url, timeout=15)
+            res = session.get(current_url, timeout=15)
             soup = BeautifulSoup(res.text, 'html.parser')
             
             app_div = soup.find('div', id='app')
@@ -344,7 +355,7 @@ if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
     print(f"\n🛑 کارەکە وەستا. {len(generated_apps)} یاری دابەزێنران.")
 else:
     try:
-        res = scraper.get(app_input, timeout=15)
+        res = session.get(app_input, timeout=15)
         soup = BeautifulSoup(res.text, 'html.parser')
         app_div = soup.find('div', id='app')
         if app_div and app_div.has_attr('data-page'):
