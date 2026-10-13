@@ -55,9 +55,19 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     print(f"Data successfully updated! Added/Updated {len(new_apps)} apps.")
     exit(0)
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-}
+# دروستکردنی Session بۆ پاراستنی کووکی و پاشکۆکانی هاتوچۆ
+session = requests.Session()
+session.headers.update({
+    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Referer": "https://check0ver.net/en/iapps",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "same-origin",
+    "Upgrade-Insecure-Requests": "1"
+})
 
 def process_app_data(app_info, app_type):
     ex_name = app_info.get('name', '')
@@ -70,28 +80,13 @@ def process_app_data(app_info, app_type):
     if not ex_name:
         return None
 
-    # وەرگرتنی لینکی ڕاستەقینە لە ڕێگەی پەیوەندی بە پەیجی تایبەتی یارییەکە یان APIـی دابەزاندن
-    # لێرەدا دەبینین ئایا لینکی ڕاستەوخۆ لە داتاکەدا هەیە یان نا
-    found_ipa_link = app_info.get('downloadURL', '')
-    if not found_ipa_link or found_ipa_link == "None":
-        found_ipa_link = f"https://check0ver.net/en/iapps/{uuid_val}"
-        try:
-            # سەردانکردنی پەڕەی یارییەکە بۆ دەرهێنانی لینکی ڕاستەقینەی دابەزاندن (Click to copy link)
-            page_res = requests.get(found_ipa_link, headers=headers, timeout=15)
-            if page_res.status_code == 200:
-                p_soup = BeautifulSoup(page_res.text, 'html.parser')
-                # گەڕان بەدوای لینکی دابەزاندن یان APIـی پەیوەندیدار لەناو پەڕەکەدا
-                app_div = p_soup.find('div', id='app')
-                if app_div and app_div.has_attr('data-page'):
-                    sub_json = json.loads(app_div['data-page'])
-                    # هەوڵدانی دۆزینەوەی لینکی دانلود لەناو داتای پەڕەی تاکەکەسی
-                    iapp_detail = sub_json.get('props', {}).get('iapp', {})
-                    if iapp_detail.get('downloadURL'):
-                        found_ipa_link = iapp_detail.get('downloadURL')
-                    else:
-                        found_ipa_link = f"https://check0ver.net/api/iapps/{uuid_val}/download"
-        except:
-            found_ipa_link = f"https://check0ver.net/api/iapps/{uuid_val}/download"
+    # سەردانکردنی سەرەتایی سایتەکە بۆ وەرگرتنی کووکی ڕاستەقینە و تێپەڕاندنی سکیوێرتی
+    try:
+        session.get("https://check0ver.net/", timeout=10)
+    except:
+        pass
+
+    found_ipa_link = f"https://check0ver.net/api/iapps/{uuid_val}/download"
 
     clean_search_name = re.split(r'[\+\-\(\)\[\]\|]', ex_name)[0].strip()
     words_to_remove = ['Premium', 'Hack', 'Mod', 'Pro', 'IPA', 'Download', 'Free', 'Cheats', 'Unlocked']
@@ -133,11 +128,8 @@ def process_app_data(app_info, app_type):
     file_size_bytes = 0
 
     try:
-        # بەکارهێنانی هیدەری تەواو بۆ قایلکردنی سێرڤەرەکە بەوەی داواکارییەکە ڕاستەقینەیە
-        down_headers = headers.copy()
-        down_headers["Referer"] = f"https://check0ver.net/en/iapps/{uuid_val}"
-        
-        r = requests.get(found_ipa_link, headers=down_headers, stream=True, timeout=30, allow_redirects=True)
+        # بەکارهێنانی سێشن بۆ دابەزاندن بە کووکییەوە
+        r = session.get(found_ipa_link, stream=True, timeout=30, allow_redirects=True)
         if r.status_code == 200:
             with open(ipa_filename, "wb") as f:
                 for chunk in r.iter_content(chunk_size=8192):
@@ -159,7 +151,7 @@ def process_app_data(app_info, app_type):
             else:
                 if os.path.exists(ipa_filename):
                     os.remove(ipa_filename)
-                print(f"⚠️ تێپەڕێنرا: فایلەکە IPA/ZIP ی ڕاستەقینە نییە.")
+                print(f"⚠️ تێپەڕێنرا: فایلەکە IPA/ZIP ی ڕاستەقینە نییە (سایتەکە ڕێگری کرد).")
                 return None
         else:
             print(f"⚠️ سێرڤەر کۆدی هەڵەی دا: {r.status_code}")
@@ -180,7 +172,7 @@ def process_app_data(app_info, app_type):
 
     if icon_to_download and icon_to_download.startswith("http"):
         try:
-            ir = requests.get(icon_to_download, stream=True, headers=headers)
+            ir = session.get(icon_to_download, stream=True, timeout=10)
             if ir.status_code == 200:
                 with open(icon_path, "wb") as f:
                     for chunk in ir.iter_content(1024): f.write(chunk)
@@ -191,13 +183,12 @@ def process_app_data(app_info, app_type):
 
     final_screenshot_urls = []
     if app_store_screenshots:
-        custom_headers = {"User-Agent": "Mozilla/5.0"}
         for idx, s_url in enumerate(app_store_screenshots[:4]):
             ext_s = ".png" if ".png" in s_url.lower() else ".jpg"
             screen_filename = f"{slug}_screen_{idx+1}{ext_s}"
             screen_path = os.path.join("imgg", screen_filename)
             try:
-                sr = requests.get(s_url.split('?')[0], stream=True, headers=custom_headers, timeout=15)
+                sr = session.get(s_url.split('?')[0], stream=True, timeout=15)
                 if sr.status_code == 200:
                     with open(screen_path, "wb") as f:
                         for chunk in sr.iter_content(8192): f.write(chunk)
@@ -298,7 +289,7 @@ if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
         current_url = re.sub(r'page=\d*', f'page={page_num}', base_url)
         print(f"\n📄 پشکنینی پەڕەی {page_num}...")
         try:
-            res = requests.get(current_url, headers=headers, timeout=15)
+            res = session.get(current_url, timeout=15)
             soup = BeautifulSoup(res.text, 'html.parser')
             
             app_div = soup.find('div', id='app')
@@ -341,7 +332,7 @@ if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
                     failed_attempts += 1
                     print(f"❌ ژمارەی هەڵەکان: {failed_attempts}/{MAX_FAILS}")
                 
-                time.sleep(2)
+                time.sleep(3)
             
             last_page = paginator_data.get('meta', {}).get('last_page', 1)
             if page_num >= last_page:
@@ -358,7 +349,7 @@ if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
 
 else:
     try:
-        res = requests.get(app_input, headers=headers, timeout=15)
+        res = session.get(app_input, timeout=15)
         soup = BeautifulSoup(res.text, 'html.parser')
         app_div = soup.find('div', id='app')
         if app_div and app_div.has_attr('data-page'):
