@@ -10,6 +10,45 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1504758857,
+            "name": "All in Hole: Black Hole Games",
+            "version": "9.10.4",
+            "size": 205529076,
+            "icon": "img/allinholeblackholegames.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/allinholeblackholegames.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/allinholeblackholegames.ipa",
+            "bundleIdentifier": "com.homagames.studio.allinhole",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Coins -> Earn some.\n- Unlimited Lives",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/allinholeblackholegames.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allinholeblackholegames_screen_2.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allinholeblackholegames_screen_2.png"
+            ],
+            "versions": [
+                {
+                    "version": "9.10.4",
+                    "date": "2026-10-13T01:06:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/allinholeblackholegames.ipa",
+                    "size": 205529076,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allinholeblackholegames_screen_2.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1660965567,
             "name": "Score! Hero",
             "version": "4.720",
