@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1246104961,
+            "name": "Wizard Tower Defense Idle Game",
+            "version": "1.1.86",
+            "size": 390204912,
+            "icon": "img/wizardtowerdefenseidlegame.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/wizardtowerdefenseidlegame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/wizardtowerdefenseidlegame.ipa",
+            "bundleIdentifier": "com.uldineogames.magic-swipe",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- One Hit Kill (Linked)\n- Enemy Spawn in 1 Place\n- Dumb Enemies\n- Freeze Currencies",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wizardtowerdefenseidlegame.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardtowerdefenseidlegame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardtowerdefenseidlegame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardtowerdefenseidlegame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardtowerdefenseidlegame_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardtowerdefenseidlegame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardtowerdefenseidlegame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardtowerdefenseidlegame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardtowerdefenseidlegame_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.86",
+                    "date": "2026-10-13T13:49:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/wizardtowerdefenseidlegame.ipa",
+                    "size": 390204912,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardtowerdefenseidlegame_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardtowerdefenseidlegame_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardtowerdefenseidlegame_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardtowerdefenseidlegame_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1970356167,
             "name": "BTS Cooking On STOVE: TinyTAN",
             "version": "1.2.4",
