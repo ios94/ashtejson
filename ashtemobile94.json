@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1314653281,
+            "name": "Crowd Express: Boarding Puzzle",
+            "version": "4.9.0",
+            "size": 218420743,
+            "icon": "img/crowdexpressboardingpuzzle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/crowdexpressboardingpuzzle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/crowdexpressboardingpuzzle.ipa",
+            "bundleIdentifier": "com.feelcrafters.buspuzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto Ads No → removes ad interruptions\n- Coins Enough → unlimited in-game currency\n- Lives Freeze → never lose a life\n- Booster Max → all boosters at maximum",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crowdexpressboardingpuzzle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crowdexpressboardingpuzzle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crowdexpressboardingpuzzle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crowdexpressboardingpuzzle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crowdexpressboardingpuzzle_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crowdexpressboardingpuzzle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crowdexpressboardingpuzzle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crowdexpressboardingpuzzle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crowdexpressboardingpuzzle_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.9.0",
+                    "date": "2026-10-13T01:37:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/crowdexpressboardingpuzzle.ipa",
+                    "size": 218420743,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crowdexpressboardingpuzzle_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crowdexpressboardingpuzzle_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crowdexpressboardingpuzzle_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crowdexpressboardingpuzzle_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1771688035,
             "name": "Voidpet Dungeon",
             "version": "5.29.53",
@@ -3824,54 +3872,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1314653281,
-            "name": "Crowd Express: Boarding Puzzle",
-            "version": "4.9.0",
-            "size": "208.3 MB",
-            "icon": "img/crowdexpressboardingpuzzle.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/crowdexpressboardingpuzzle.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/crowdexpressboardingpuzzle.ipa",
-            "bundleIdentifier": "com.feelcrafters.buspuzzle",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Auto Ads No → removes ad interruptions\n- Coins Enough → unlimited in-game currency\n- Lives Freeze → never lose a life\n- Booster Max → all boosters at maximum",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crowdexpressboardingpuzzle.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crowdexpressboardingpuzzle_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crowdexpressboardingpuzzle_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crowdexpressboardingpuzzle_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crowdexpressboardingpuzzle_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crowdexpressboardingpuzzle_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crowdexpressboardingpuzzle_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crowdexpressboardingpuzzle_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crowdexpressboardingpuzzle_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "4.9.0",
-                    "date": "2026-10-12T22:31:38+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/crowdexpressboardingpuzzle.ipa",
-                    "size": 218418380,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crowdexpressboardingpuzzle_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crowdexpressboardingpuzzle_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crowdexpressboardingpuzzle_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crowdexpressboardingpuzzle_screen_4.jpg"
                     ]
                 }
             ]
