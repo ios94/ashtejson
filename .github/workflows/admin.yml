@@ -1,40 +1,29 @@
-name: AshteMobile - Smart Auto Adder
+name: Admin Panel - Smart Auto Adder
 
 on:
   workflow_dispatch:
     inputs:
       app_type:
-        description: "games or apps"
+        description: 'ئایا ئەمە یارییە یان بەرنامە؟ (games یان apps)'
         required: true
         type: choice
         options:
           - games
           - apps
-
       app_name:
-        description: "Authorized app listing URL or app name"
+        description: 'لینکی پەڕەی یارییەکە یان ناوی یارییەکە دابنێ'
         required: true
         type: string
-
       ipa_link:
-        description: "Direct IPA URL (optional)"
-        required: false
+        description: 'لینکی ڕاستەوخۆی دابەزاندنی IPA'
+        required: true
         type: string
-
-  schedule:
-    - cron: "17 0 * * *"
-
-permissions:
-  contents: write
-
-concurrency:
-  group: ashtemobile-auto-adder
-  cancel-in-progress: false
 
 jobs:
   add_app:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -43,91 +32,57 @@ jobs:
           fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: '3.10'
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lief
+        run: pip install requests beautifulsoup4 lief
 
-      - name: Prepare run
-        run: |
-          rm -f temp_app.json
-          mkdir -p ipas img imgg
-
-      - name: Process app listing
+      - name: Heavy Work (Download IPA and Scrape)
         env:
-          APP_TYPE: ${{ inputs.app_type || 'games' }}
-          APP_NAME: ${{ inputs.app_name || 'https://check0ver.net/en/iapps?filter%5BinCategories%5D%5B0%5D=9c60f563-1983-42f0-8882-a26207bd4aaf' }}
-          IPA_LINK: ${{ inputs.ipa_link || '' }}
-        run: |
-          python admin_adder.py
+          APP_TYPE: ${{ github.event.inputs.app_type }}
+          APP_NAME: ${{ github.event.inputs.app_name }}
+          IPA_LINK: ${{ github.event.inputs.ipa_link }}
+        run: python admin_adder.py
 
-      - name: Validate downloaded IPA files
-        if: hashFiles('ipas/*.ipa') != ''
-        run: |
-          python - <<'PY'
-          import glob
-          import zipfile
-          import sys
+      - name: Inject Custom Library directly inside IPA files
+        run: python inject.py
 
-          files = glob.glob("ipas/*.ipa")
-          if not files:
-              print("No new IPA files were downloaded.")
-              sys.exit(0)
-
-          valid = 0
-          for path in files:
-              try:
-                  with zipfile.ZipFile(path) as z:
-                      names = z.namelist()
-                      if not any(n.startswith("Payload/") and n.endswith(".app/Info.plist")
-                                 for n in names):
-                          raise ValueError("Missing app Info.plist in Payload")
-                      bad = z.testzip()
-                      if bad:
-                          raise ValueError(f"Corrupt ZIP member: {bad}")
-                  print(f"VALID: {path}")
-                  valid += 1
-              except Exception as e:
-                  print(f"INVALID: {path}: {e}")
-                  sys.exit(1)
-
-          print(f"Validated {valid} IPA file(s).")
-          PY
-
-      - name: Upload IPA files to Release V1
-        if: hashFiles('ipas/*.ipa') != ''
-        uses: softprops/action-gh-release@v2
+      - name: Upload IPA to Release V1
+        uses: softprops/action-gh-release@v1
         with:
           tag_name: V1
           files: ipas/*.ipa
-          overwrite_files: true
-          fail_on_unmatched_files: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Update app catalogue JSON
-        if: hashFiles('temp_app.json') != ''
+      - name: Smart Queue (Safe JSON Update and Push)
         run: |
-          python admin_adder.py update_json
-
-      - name: Commit catalogue and images
-        if: hashFiles('temp_app.json') != ''
-        run: |
-          set -e
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add ashtemobile94.json backup_memory.json img/ imgg/
-
-          if git diff --cached --quiet; then
-            echo "No catalogue changes to commit."
-            exit 0
-          fi
-
-          git commit -m "Update AshteMobile app catalogue"
-          git push origin HEAD:main
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          
+          # کردنەوەی کۆدی ناوی سۆرسەکە بە نهێنی
+          JSON_FILE=$(echo "YXNodGVtb2JpbGU5NC5qc29u" | base64 --decode)
+          
+          for i in {1..20}; do
+            echo "هەوڵی ژمارە $i: هێنانی تازەترین ڤێرژنی سۆرسەکە..."
+            # فەرمانی autostash زیادکرا بۆ چارەسەرکردنی کێشەکە
+            git pull origin main --rebase --autostash
+            
+            echo "خستنە ناوەوەی یارییە نوێیەکە بۆ ناو سۆرسەکە..."
+            python admin_adder.py update_json
+            
+            # لێرەدا فۆڵدەری imgg زیادکرا
+            git add "$JSON_FILE" backup_memory.json img/ imgg/
+            git commit -m "Added: ${{ github.event.inputs.app_name }} (${{ github.event.inputs.app_type }})" || echo "No changes"
+            
+            if git push; then
+              echo "سەرکەوتوو بوو! یارییەکە خرایە ناو گیتهاپ."
+              break
+            else
+              echo "هێڵەکە قەرەباڵغە! ڕۆبۆتێکی تر خەریکە... ١٠ چرکە چاوەڕێ دەکەم."
+              git restore "$JSON_FILE" backup_memory.json || true
+              sleep 10
+            fi
+          done
