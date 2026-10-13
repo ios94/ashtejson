@@ -9,7 +9,6 @@ import base64
 import zipfile
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
-import time
 
 def _d(s):
     return base64.b64decode(s).decode('utf-8')
@@ -244,49 +243,22 @@ if app_store_screenshots:
 # =========================================================================
 # 6. دابەزاندنی فایلە سەرەکییەکە (IPA) و پێوانی قەبارەکەی
 # =========================================================================
-def download_with_validation(url, dest, headers=None, timeout=30, max_retries=3):
-    headers = headers or {}
-    for attempt in range(1, max_retries + 1):
-        try:
-            print(f"Download attempt {attempt} -> {url}")
-            with requests.get(url, stream=True, headers=headers, timeout=timeout, allow_redirects=True) as r:
-                print("HTTP status:", r.status_code)
-                if r.status_code != 200:
-                    raise RuntimeError(f"HTTP {r.status_code}")
-                content_type = r.headers.get("content-type", "")
-                print("Content-Type:", content_type)
-                os.makedirs(os.path.dirname(dest) or ".", exist_ok=True)
-                with open(dest, "wb") as f:
-                    for chunk in r.iter_content(chunk_size=8192):
-                        if chunk:
-                            f.write(chunk)
-            # quick validation
-            if not zipfile.is_zipfile(dest):
-                with open(dest, "rb") as fh:
-                    head = fh.read(512)
-                print("Downloaded file is NOT a zip. first bytes preview:", head[:200])
-                raise RuntimeError("Downloaded file is not a valid zip/ipa")
-            print("Download and validation succeeded:", dest)
-            return True
-        except Exception as e:
-            print(f"Download attempt {attempt} failed: {e}")
-            if attempt < max_retries:
-                time.sleep(5)
-            else:
-                return False
-    return False
-
 os.makedirs("ipas", exist_ok=True)
 ipa_filename = f"ipas/{slug}.ipa"
 print("Downloading primary package (IPA)...")
 file_size_bytes = 150000000
 
-ok = download_with_validation(ipa_link, ipa_filename, headers=headers, timeout=30, max_retries=3)
-if ok:
-    file_size_bytes = os.path.getsize(ipa_filename)
-else:
-    print("Failed to download a valid IPA. Aborting.")
-    sys.exit(1)
+try:
+    r = requests.get(ipa_link, stream=True)
+    if r.status_code == 200:
+        with open(ipa_filename, "wb") as f:
+            for chunk in r.iter_content(chunk_size=8192):
+                f.write(chunk)
+        
+        if zipfile.is_zipfile(ipa_filename):
+            file_size_bytes = os.path.getsize(ipa_filename)
+except Exception as e:
+    print("Error downloading package:", e)
 
 final_size_bytes = int(file_size_bytes)
 
@@ -301,7 +273,7 @@ new_app = {
     "id": app_id,
     "name": final_name,
     "version": final_version,
-    "size": final_size_bytes,
+    "size": final_size_bytes,  # لێرەدا ژمارەی ڕووتە (بایت) بۆ ئەوەی Feather نەتەقێت
     "icon": icon_relative,
     "badge": "",
     "type": app_type,
@@ -323,7 +295,7 @@ new_app = {
             "date": current_date,
             "localizedDescription": None,
             "downloadURL": github_release_url,
-            "size": final_size_bytes,
+            "size": final_size_bytes,  # لێرەشدا ژمارەی ڕووتە
             "buildVersion": None,
             "minOSVersion": "14.0",
             "screenshots": final_screenshot_urls 
