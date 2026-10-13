@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1495136212,
+            "name": "Car Match - Traffic Puzzle",
+            "version": "0.0.1095",
+            "size": 213888968,
+            "icon": "img/carmatchtrafficpuzzle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/carmatchtrafficpuzzle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/carmatchtrafficpuzzle.ipa",
+            "bundleIdentifier": "com.grandgames.carmatch",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Currencies\n- Unlimited Currencies -> Will increase instead of decrease.\n- Auto Win -> Quit the level.\n- Level Modifier",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carmatchtrafficpuzzle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatchtrafficpuzzle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatchtrafficpuzzle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatchtrafficpuzzle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatchtrafficpuzzle_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatchtrafficpuzzle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatchtrafficpuzzle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatchtrafficpuzzle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatchtrafficpuzzle_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.1095",
+                    "date": "2026-10-13T01:55:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/carmatchtrafficpuzzle.ipa",
+                    "size": 213888968,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatchtrafficpuzzle_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatchtrafficpuzzle_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatchtrafficpuzzle_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatchtrafficpuzzle_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1944033969,
             "name": "Bullet Force",
             "version": "1.121",
