@@ -112,7 +112,6 @@ if app_input.startswith("http"):
             if ex_name:
                 ex_name = ex_name.split('|')[0].split('-')[0].strip()
             
-            # چارەسەری کێشەی سکیوێرتی Cloudflare
             if ex_name and ("Just a moment" in ex_name or "Cloudflare" in ex_name or "Attention Required" in ex_name):
                 ex_name = ""
 
@@ -130,7 +129,6 @@ if app_input.startswith("http"):
     except Exception as e:
         print(f"Website Scraping Error: {e}")
         
-    # ئەگەر سایتەکە ڕێگری کرد یان نەیدۆزییەوە، ناوەکە بە زیرەکی لە لینکەکە دەردەهێنێت
     if not ex_name:
         url_parts = [p for p in app_input.split('/') if p and p.lower() not in ['download', 'app', 'game', 'ipa', 'file']]
         if url_parts:
@@ -150,7 +148,6 @@ clean_search_name = re.split(r'[\+\-\(\)\[\]\|]', ex_name)[0].strip()
 words_to_remove = ['Premium', 'Hack', 'Mod', 'Pro', 'IPA', 'Download', 'Free', 'Cheats', 'Unlocked']
 
 for w in words_to_remove:
-    # بەکارهێنانی re.escape چارەسەری ئیرۆرەکەی کرد
     clean_search_name = re.sub(rf'\b{re.escape(w)}\b', '', clean_search_name, flags=re.IGNORECASE).strip()
 
 if not clean_search_name:
@@ -177,7 +174,7 @@ try:
             as_bundle = app_info.get('bundleId')
             as_version = app_info.get('version')
             as_size_bytes = app_info.get('fileSizeBytes')
-            as_track_id = app_info.get('trackId')  # Apple ID دەرهێنرا لێرەدا
+            as_track_id = app_info.get('trackId')
             print(f"✅ App Store Match Found: {as_name}")
         else:
             print("⚠️ No exact match found on App Store.")
@@ -279,12 +276,10 @@ try:
         if zipfile.is_zipfile(ipa_filename):
             file_size_bytes = os.path.getsize(ipa_filename)
 except Exception as e:
-    print("Error downloading package.")
-    exit(1)
+    print("Error downloading package:", e)
 
 final_size_bytes = int(file_size_bytes)
 
-# دروستکردنی دەقی قەبارەکە بۆ دەرەوە (ئەگەر لە ١٠٢٤ مێگابایت زیاتر بوو دەبێتە GB)
 size_mb = final_size_bytes / (1024 * 1024)
 if size_mb >= 1024:
     size_gb = round(size_mb / 1024, 2)
@@ -293,7 +288,7 @@ else:
     final_size_str = f"{round(size_mb, 2)} MB"
 
 # =========================================================================
-# 7. دروستکردنی JSON
+# 7. دروستکردنی JSON بە هەمان شێوازی داواکراو
 # =========================================================================
 github_release_url = f"{_d('aHR0cHM6Ly9naXRodWIuY29tL2lvczk0L2FzaHRlanNvbi9yZWxlYXNlcy9kb3dubG9hZC9WMS8=')}{slug}.ipa"
 current_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
@@ -302,7 +297,6 @@ app_id = random.randint(1111111111, 1999999999)
 new_app = {
     "id": app_id,
     "name": final_name,
-    "appID": final_bundle, # زۆر گرنگە بۆ Feather
     "version": final_version,
     "size": final_size_str,
     "icon": icon_relative,
@@ -311,7 +305,7 @@ new_app = {
     "install_url": github_release_url,
     "download_url": github_release_url,
     "bundleIdentifier": final_bundle,
-    "marketplaceID": str(as_track_id) if as_track_id else "", # Apple ID لێرە دادەنرێت وەک داوات کرد
+    "marketplaceID": str(as_track_id) if as_track_id else "",
     "developerName": _d('QXNodGVNb2JpbGU='),
     "subtitle": "Awesome App",
     "localizedDescription": final_desc,
@@ -322,11 +316,11 @@ new_app = {
     "screenshots": final_screenshot_urls,
     "versions": [
         {
-            "size": final_size_bytes,  # ئێرە بوو بە یەکەم شت
             "version": final_version,
             "date": current_date,
             "localizedDescription": None,
             "downloadURL": github_release_url,
+            "size": final_size_bytes,
             "buildVersion": None,
             "minOSVersion": "14.0",
             "screenshots": final_screenshot_urls 
