@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1746005130,
+            "name": "WarFriends: PVP Shooter",
+            "version": "6.2.1",
+            "size": "772.7 MB",
+            "icon": "img/warfriendspvpshooter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/warfriendspvpshooter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/warfriendspvpshooter.ipa",
+            "bundleIdentifier": "com.aboutfun.warfriends",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- No Reload - Working online!\n- Free Weapon Deliveries -> Working\n- Unlimited Ammo -> Working",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/warfriendspvpshooter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warfriendspvpshooter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warfriendspvpshooter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warfriendspvpshooter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warfriendspvpshooter_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warfriendspvpshooter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warfriendspvpshooter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warfriendspvpshooter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warfriendspvpshooter_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.2.1",
+                    "date": "2026-10-13T00:16:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/warfriendspvpshooter.ipa",
+                    "size": 810234675,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warfriendspvpshooter_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warfriendspvpshooter_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warfriendspvpshooter_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warfriendspvpshooter_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1944033969,
             "name": "Bullet Force",
             "version": "1.121",
