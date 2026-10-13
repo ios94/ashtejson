@@ -70,7 +70,28 @@ def process_app_data(app_info, app_type):
     if not ex_name:
         return None
 
-    found_ipa_link = f"https://check0ver.net/api/iapps/{uuid_val}/download"
+    # وەرگرتنی لینکی ڕاستەقینە لە ڕێگەی پەیوەندی بە پەیجی تایبەتی یارییەکە یان APIـی دابەزاندن
+    # لێرەدا دەبینین ئایا لینکی ڕاستەوخۆ لە داتاکەدا هەیە یان نا
+    found_ipa_link = app_info.get('downloadURL', '')
+    if not found_ipa_link or found_ipa_link == "None":
+        found_ipa_link = f"https://check0ver.net/en/iapps/{uuid_val}"
+        try:
+            # سەردانکردنی پەڕەی یارییەکە بۆ دەرهێنانی لینکی ڕاستەقینەی دابەزاندن (Click to copy link)
+            page_res = requests.get(found_ipa_link, headers=headers, timeout=15)
+            if page_res.status_code == 200:
+                p_soup = BeautifulSoup(page_res.text, 'html.parser')
+                # گەڕان بەدوای لینکی دابەزاندن یان APIـی پەیوەندیدار لەناو پەڕەکەدا
+                app_div = p_soup.find('div', id='app')
+                if app_div and app_div.has_attr('data-page'):
+                    sub_json = json.loads(app_div['data-page'])
+                    # هەوڵدانی دۆزینەوەی لینکی دانلود لەناو داتای پەڕەی تاکەکەسی
+                    iapp_detail = sub_json.get('props', {}).get('iapp', {})
+                    if iapp_detail.get('downloadURL'):
+                        found_ipa_link = iapp_detail.get('downloadURL')
+                    else:
+                        found_ipa_link = f"https://check0ver.net/api/iapps/{uuid_val}/download"
+        except:
+            found_ipa_link = f"https://check0ver.net/api/iapps/{uuid_val}/download"
 
     clean_search_name = re.split(r'[\+\-\(\)\[\]\|]', ex_name)[0].strip()
     words_to_remove = ['Premium', 'Hack', 'Mod', 'Pro', 'IPA', 'Download', 'Free', 'Cheats', 'Unlocked']
@@ -112,7 +133,11 @@ def process_app_data(app_info, app_type):
     file_size_bytes = 0
 
     try:
-        r = requests.get(found_ipa_link, stream=True, timeout=30)
+        # بەکارهێنانی هیدەری تەواو بۆ قایلکردنی سێرڤەرەکە بەوەی داواکارییەکە ڕاستەقینەیە
+        down_headers = headers.copy()
+        down_headers["Referer"] = f"https://check0ver.net/en/iapps/{uuid_val}"
+        
+        r = requests.get(found_ipa_link, headers=down_headers, stream=True, timeout=30, allow_redirects=True)
         if r.status_code == 200:
             with open(ipa_filename, "wb") as f:
                 for chunk in r.iter_content(chunk_size=8192):
