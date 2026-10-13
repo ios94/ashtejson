@@ -39,20 +39,21 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     else:
         source_data = {"apps": []}
 
+    # دانانی یارییە نوێیەکان و ئاپدەیتکردنی کۆنەکان
     for new_app in new_apps:
         for i, existing_app in enumerate(source_data.get("apps", [])):
             if existing_app.get("name") == new_app["name"]:
                 new_app["id"] = existing_app.get("id", new_app["id"])
-                source_data["apps"].pop(i)
+                source_data["apps"].pop(i) # یارییە کۆنەکە دەسڕێتەوە
                 break
-        source_data["apps"].insert(0, new_app)
+        source_data["apps"].insert(0, new_app) # یارییە نوێ/ئاپدەیتکراوەکە دەخاتە سەرەوە
 
     with open(json_file, "w", encoding="utf-8") as f:
         json.dump(source_data, f, ensure_ascii=False, indent=4)
     with open(backup_file, "w", encoding="utf-8") as f:
         json.dump(source_data, f, ensure_ascii=False, indent=4)
         
-    print(f"Data successfully updated! Added {len(new_apps)} apps.")
+    print(f"Data successfully updated! Added/Updated {len(new_apps)} apps.")
     exit(0)
 
 headers = {
@@ -70,7 +71,6 @@ def process_app_data(app_info, app_type):
     if not ex_name:
         return None
 
-    # لینکی داگرتنی ڕاستەوخۆی IPA لە سایتەکە
     found_ipa_link = f"https://check0ver.net/api/iapps/{uuid_val}/download"
 
     clean_search_name = re.split(r'[\+\-\(\)\[\]\|]', ex_name)[0].strip()
@@ -97,18 +97,15 @@ def process_app_data(app_info, app_type):
     except: pass
 
     final_name = ex_name if len(ex_name) < 40 else (as_name or "Unknown App")
-    final_desc = ex_desc or as_desc or app_desc or "Awesome App! Downloaded from AshteMobile."
+    final_desc = ex_desc or as_desc or "Awesome App! Downloaded from AshteMobile."
     slug = "".join(e for e in final_name if e.isalnum()).lower()
     if not slug: slug = f"app{random.randint(1000, 9999)}"
     final_bundle = ex_bundle or as_bundle or f"com.ashtemobile.{slug}"
     final_version = ex_version if ex_version else (as_version or "1.0")
 
-    # =========================================================================
-    # مەرجی دابەزاندن و پشکنینی قەبارە (< 1.10 GB)
-    # =========================================================================
     os.makedirs("ipas", exist_ok=True)
     ipa_filename = f"ipas/{slug}.ipa"
-    print(f"⬇️ پشکنین و دابەزاندنی: {final_name} ...")
+    print(f"⬇️ دابەزاندنی فایل: {final_name} ...")
     
     limit_bytes = 1.10 * 1024 * 1024 * 1024 # 1.10 GB
     downloaded_bytes = 0
@@ -144,7 +141,6 @@ def process_app_data(app_info, app_type):
         print(f"⚠️ هەڵە لە دابەزاندن: {e}")
         return None
 
-    # دابەزاندنی وێنە و ئایکۆنەکان
     os.makedirs("img", exist_ok=True)
     os.makedirs("imgg", exist_ok=True)
     base_github_raw = _d('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lvczk0L2FzaHRlanNvbi9tYWluL2ltZy8=')
@@ -226,7 +222,7 @@ def process_app_data(app_info, app_type):
     }
 
 # =========================================================================
-# دەستپێکردنی کارکردن لەسەر پەیجەکان
+# بەشی سەرەکی - سیستەمی زیرەکی پشکنین و دابەزاندن
 # =========================================================================
 app_type = os.environ.get("APP_TYPE", "games").strip()
 app_input = os.environ.get("APP_NAME", "").strip()
@@ -239,18 +235,39 @@ if not app_input:
 generated_apps = []
 
 if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
-    print("📦 سیستەمی خوێندنەوەی ڕاستەوخۆی Inertia (JSON) بۆ هەموو پەڕەکان چالاک کرا...")
+    print("📦 سیستەمی زیرەک چالاک کرا (پشکنینی ئاپدەیت و دابەزاندنی ١٠ یاری)...")
     
+    # 1. خوێندنەوەی ئەو یارییانەی پێشتر هەن
+    existing_apps = []
+    json_filename = _d('YXNodGVtb2JpbGU5NC5qc29u')
+    if os.path.exists(json_filename):
+        with open(json_filename, "r", encoding="utf-8") as f:
+            try:
+                data = json.load(f)
+                existing_apps = data.get("apps", [])
+            except: pass
+            
+    # 2. فەنکشنی پشکنین
+    def needs_download(name, version):
+        for ea in existing_apps:
+            if ea.get("name") == name:
+                if ea.get("version") == version:
+                    return False # پێشتر هەیە و ڤێرژنەکەی کۆن نییە
+                else:
+                    return True # پێشتر هەیە بەڵام ئاپدەیت هاتووە
+        return True # یارییەکی تازەیە
+
     base_url = re.sub(r'([?&])page=\d+', r'\g<1>page=', app_input)
     if "page=" not in base_url:
         base_url += "&page=" if "?" in base_url else "?page="
 
     page_num = 1
-    all_apps_data = []
+    processed_count = 0
+    LIMIT_PER_RUN = 10 # ژمارەی ئەو یارییانەی لە یەک جاردا دایدەبەزێنێت
 
-    while True:
+    while processed_count < LIMIT_PER_RUN:
         current_url = re.sub(r'page=\d*', f'page={page_num}', base_url)
-        print(f"\n📄 پشکنینی داتای پەڕەی {page_num}...")
+        print(f"\n📄 پشکنینی پەڕەی {page_num}...")
         try:
             res = requests.get(current_url, headers=headers, timeout=15)
             soup = BeautifulSoup(res.text, 'html.parser')
@@ -268,40 +285,47 @@ if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
                 print("🏁 پەڕەکە خاڵییە، گەڕان کۆتایی هات.")
                 break
                 
-            all_apps_data.extend(items)
-            print(f"✅ {len(items)} یاری لە پەڕەی {page_num} دۆزرایەوە (کۆی گشتی: {len(all_apps_data)}).")
+            for app_info in items:
+                if processed_count >= LIMIT_PER_RUN:
+                    break
+                    
+                a_name = app_info.get("name", "")
+                a_ver = app_info.get("version", "")
+                
+                # ئەگەر یارییەکە پێشتر هەبێت، بە خێرایی تێپەڕ دەبێت بێ کوشتنی کات
+                if not needs_download(a_name, a_ver):
+                    print(f"⏩ تێپەڕێنرا: '{a_name}' (v{a_ver}) - لە سۆرسەکەدایە و نوێیە.")
+                    continue
+                    
+                # ئەگەر یارییەکە نوێ بێت یان ئاپدەیتی هەبێت
+                print(f"\n🌟 یارییەکی نوێ یان ئاپدەیت دۆزرایەوە: {a_name} (v{a_ver})")
+                result = process_app_data(app_info, app_type)
+                if result:
+                    generated_apps.append(result)
+                    processed_count += 1
+                    print(f"📈 تا ئێستا {processed_count}/{LIMIT_PER_RUN} یاری ئامادەیە.")
+                time.sleep(2)
             
-            # پشکنین ئایا پەڕەی تر هەیە یان نەخێر
             last_page = paginator_data.get('meta', {}).get('last_page', 1)
             if page_num >= last_page:
                 print("🏁 گەیشتە کۆتا پەڕەی سایتەکە.")
                 break
                 
             page_num += 1
-            time.sleep(1)
             
         except Exception as e:
             print(f"Error reading page {page_num}: {e}")
             break
 
-    print(f"\n🔍 کۆی گشتی {len(all_apps_data)} یاری هێنران. دەست دەکەین بە دابەزاندن...")
-    
-    for i, app_info in enumerate(all_apps_data):
-        print(f"\n⏳ یاری {i+1} لە کۆی {len(all_apps_data)}")
-        result = process_app_data(app_info, app_type)
-        if result:
-            generated_apps.append(result)
-        time.sleep(2)
+    print(f"\n🛑 کارەکە وەستا. {processed_count} یاری نوێ یان ئاپدەیت کراو دابەزێنران و ئامادەن بۆ گیتهاپ.")
 
 else:
-    # ئەگەر تەنها لینکێکی دیاریکراو بوو
     try:
         res = requests.get(app_input, headers=headers, timeout=15)
         soup = BeautifulSoup(res.text, 'html.parser')
         app_div = soup.find('div', id='app')
         if app_div and app_div.has_attr('data-page'):
             page_json = json.loads(app_div['data-page'])
-            # گەڕان بەدوای زانیاری یارییەکە
             def find_dict(d):
                 if isinstance(d, dict):
                     if 'uuid' in d and 'name' in d and 'bundle' in d: return d
@@ -325,5 +349,5 @@ if generated_apps:
         json.dump(generated_apps, f, ensure_ascii=False, indent=4)
     print(f"\n✅ {len(generated_apps)} یاری بە سەرکەوتوویی زیاد کران!")
 else:
-    print("\n⚠️ هیچ یارییەکی گونجاو نەدۆزرایەوە.")
-    exit(1)
+    print("\n⚠️ هیچ یارییەکی نوێ یان گونجاو نەدۆزرایەوە (هەموویان پێشتر ئاپدەیتن).")
+    exit(0)
