@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1503701255,
+            "name": "FarmVille 2: Tropic Escape",
+            "version": "1.231",
+            "size": 183760031,
+            "icon": "img/farmville2tropicescape.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/farmville2tropicescape.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/farmville2tropicescape.ipa",
+            "bundleIdentifier": "com.zynga.FarmVilleTropicEscape",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Currencies",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmville2tropicescape.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2tropicescape_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2tropicescape_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2tropicescape_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2tropicescape_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2tropicescape_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2tropicescape_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2tropicescape_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2tropicescape_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.231",
+                    "date": "2026-10-13T01:29:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/farmville2tropicescape.ipa",
+                    "size": 183760031,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2tropicescape_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2tropicescape_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2tropicescape_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2tropicescape_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1649224125,
             "name": "On Raft",
             "version": "1.0.0",
@@ -3872,54 +3920,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1503701255,
-            "name": "FarmVille 2: Tropic Escape",
-            "version": "1.231",
-            "size": "175.25 MB",
-            "icon": "img/farmville2tropicescape.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/farmville2tropicescape.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/farmville2tropicescape.ipa",
-            "bundleIdentifier": "com.zynga.FarmVilleTropicEscape",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Freeze Currencies",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmville2tropicescape.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmville2tropicescape_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmville2tropicescape_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmville2tropicescape_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmville2tropicescape_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmville2tropicescape_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmville2tropicescape_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmville2tropicescape_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmville2tropicescape_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1.231",
-                    "date": "2026-10-12T22:05:33+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/farmville2tropicescape.ipa",
-                    "size": 183762944,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmville2tropicescape_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmville2tropicescape_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmville2tropicescape_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmville2tropicescape_screen_4.jpg"
                     ]
                 }
             ]
