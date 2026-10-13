@@ -157,7 +157,7 @@ if not clean_search_name:
 # 3. گەڕان لەناو App Store
 # =========================================================================
 print(f"🍏 Searching Apple App Store for '{clean_search_name}'...")
-as_name, as_desc, as_icon, as_bundle, as_version, as_size_bytes, as_track_id = None, None, None, None, None, None, None
+as_name, as_desc, as_icon, as_bundle, as_version = None, None, None, None, None
 app_store_screenshots = []
 
 try:
@@ -173,8 +173,6 @@ try:
             as_desc = app_info.get('description')
             as_bundle = app_info.get('bundleId')
             as_version = app_info.get('version')
-            as_size_bytes = app_info.get('fileSizeBytes')
-            as_track_id = app_info.get('trackId')
             print(f"✅ App Store Match Found: {as_name}")
         else:
             print("⚠️ No exact match found on App Store.")
@@ -192,21 +190,6 @@ if not slug: slug = f"app{random.randint(1000, 9999)}"
 final_bundle = ex_bundle or as_bundle or f"com.ashtemobile.{slug}"
 
 final_version = ex_version if ex_version else (as_version or "1.0")
-
-if ex_size:
-    final_size_str = ex_size
-    try:
-        size_mb = float(re.sub(r'[^\d.]', '', str(final_size_str)))
-        final_size_bytes = int(size_mb * 1024 * 1024)
-    except:
-        final_size_bytes = 150000000
-elif as_size_bytes:
-    final_size_bytes = int(as_size_bytes)
-    size_mb = round(final_size_bytes / (1024 * 1024), 2)
-    final_size_str = f"{size_mb} MB"
-else:
-    final_size_str = "150 MB"
-    final_size_bytes = 150000000
 
 icon_to_download = as_icon or ex_icon
 
@@ -288,7 +271,7 @@ else:
     final_size_str = f"{round(size_mb, 2)} MB"
 
 # =========================================================================
-# 7. دروستکردنی JSON بە هەمان شێوازی داواکراو
+# 7. دروستکردنی JSON
 # =========================================================================
 github_release_url = f"{_d('aHR0cHM6Ly9naXRodWIuY29tL2lvczk0L2FzaHRlanNvbi9yZWxlYXNlcy9kb3dubG9hZC9WMS8=')}{slug}.ipa"
 current_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
@@ -305,7 +288,7 @@ new_app = {
     "install_url": github_release_url,
     "download_url": github_release_url,
     "bundleIdentifier": final_bundle,
-    "marketplaceID": str(as_track_id) if as_track_id else "",
+    "marketplaceID": "", # بەتاڵمان کردەوە بۆ ئەوەی Feather ئیرۆر نەدات
     "developerName": _d('QXNodGVNb2JpbGU='),
     "subtitle": "Awesome App",
     "localizedDescription": final_desc,
@@ -316,11 +299,11 @@ new_app = {
     "screenshots": final_screenshot_urls,
     "versions": [
         {
+            "size": final_size_bytes,
             "version": final_version,
             "date": current_date,
             "localizedDescription": None,
             "downloadURL": github_release_url,
-            "size": final_size_bytes,
             "buildVersion": None,
             "minOSVersion": "14.0",
             "screenshots": final_screenshot_urls 
