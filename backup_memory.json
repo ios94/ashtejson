@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1716175847,
+            "name": "Idle Bank Tycoon: Money Game",
+            "version": "2.2.0",
+            "size": 157245579,
+            "icon": "img/idlebanktycoonmoneygame.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/idlebanktycoonmoneygame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/idlebanktycoonmoneygame.ipa",
+            "bundleIdentifier": "com.luckyskeletonstudios.idlebanktycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Currencies",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoonmoneygame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoonmoneygame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoonmoneygame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoonmoneygame_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoonmoneygame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoonmoneygame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoonmoneygame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoonmoneygame_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.2.0",
+                    "date": "2026-10-13T01:23:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/idlebanktycoonmoneygame.ipa",
+                    "size": 157245579,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoonmoneygame_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoonmoneygame_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoonmoneygame_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoonmoneygame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1509092633,
             "name": "Matching Story",
             "version": "1.76.01",
@@ -4208,54 +4256,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blockblast_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blockblast_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blockblast_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1716175847,
-            "name": "Idle Bank Tycoon: Money Game",
-            "version": "2.2.0",
-            "size": "149.96 MB",
-            "icon": "img/idlebanktycoonmoneygame.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/idlebanktycoonmoneygame.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/idlebanktycoonmoneygame.ipa",
-            "bundleIdentifier": "com.luckyskeletonstudios.idlebanktycoon",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Freeze Currencies",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "2.2.0",
-                    "date": "2026-10-12T21:52:23+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/idlebanktycoonmoneygame.ipa",
-                    "size": 157244456,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoonmoneygame_screen_4.png"
                     ]
                 }
             ]
