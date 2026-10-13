@@ -48,7 +48,7 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     with open(backup_file, "w", encoding="utf-8") as f:
         json.dump(source_data, f, ensure_ascii=False, indent=4)
         
-    print("Data successfully updated in the source file.")
+    print("✅ Data successfully updated in the source file.")
     exit(0)
 
 # === بەشی هێنانی زانیارییەکان ===
@@ -57,7 +57,7 @@ app_input = os.environ.get("APP_NAME", "").strip()
 ipa_link = os.environ.get("IPA_LINK", "").strip()
 
 if not app_input or not ipa_link:
-    print("Error: Missing required input fields.")
+    print("⚠️ Error: Missing required input fields.")
     exit(1)
 
 headers = {
@@ -89,7 +89,7 @@ if app_input.startswith("http"):
 
         app_div = soup.find('div', id='app')
         if app_div and app_div.has_attr('data-page'):
-            print("Flekstore format detected.")
+            print("📦 Site format detected.")
             page_data = json.loads(app_div['data-page'])
             target_app = find_main_app_in_page(page_data)
             if target_app:
@@ -100,7 +100,7 @@ if app_input.startswith("http"):
                 ex_bundle = target_app.get('bundle', target_app.get('bundleIdentifier', ''))
         
         if not ex_name:
-            print("Generic website detected. Extracting metadata...")
+            print("🔍 Generic website detected. Extracting metadata...")
             
             og_title = soup.find('meta', property='og:title')
             if og_title and og_title.get('content'):
@@ -126,7 +126,7 @@ if app_input.startswith("http"):
                 ex_icon = og_image.get('content')
                 
     except Exception as e:
-        print(f"Website Scraping Error: {e}")
+        print(f"⚠️ Website Scraping Error: {e}")
         
     if not ex_name:
         url_parts = [p for p in app_input.split('/') if p and p.lower() not in ['download', 'app', 'game', 'ipa', 'file']]
@@ -176,7 +176,7 @@ try:
         else:
             print("⚠️ No exact match found on App Store.")
 except Exception as e:
-    print("App Store search failed:", e)
+    print("⚠️ App Store search failed:", e)
 
 # =========================================================================
 # 4. تێکەڵکردنی زانیارییەکان
@@ -190,7 +190,7 @@ final_bundle = ex_bundle or as_bundle or f"com.ashtemobile.{slug}"
 
 final_version = ex_version if ex_version else (as_version or "1.0")
 
-icon_to_download = as_icon or ""
+icon_to_download = as_icon or ex_icon or ""
 
 # =========================================================================
 # 5. دابەزاندنی وێنە و ئایکۆن
@@ -206,9 +206,9 @@ downloaded_icon_name = f"{slug}{ext}"
 icon_path = os.path.join("img", downloaded_icon_name)
 
 if icon_to_download and icon_to_download.startswith("http"):
-    print("Downloading App Icon...")
+    print("🖼️ Downloading App Icon...")
     try:
-        ir = requests.get(icon_to_download, stream=True, headers=headers)
+        ir = requests.get(icon_to_download, stream=True, headers=headers, timeout=15)
         if ir.status_code == 200:
             with open(icon_path, "wb") as f:
                 for chunk in ir.iter_content(1024):
@@ -220,7 +220,7 @@ icon_full_url = f"{base_github_raw}{downloaded_icon_name}"
 
 final_screenshot_urls = []
 if app_store_screenshots:
-    print("Downloading screenshots from App Store...")
+    print("📱 Downloading screenshots from App Store...")
     custom_headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
@@ -245,20 +245,26 @@ if app_store_screenshots:
 # =========================================================================
 os.makedirs("ipas", exist_ok=True)
 ipa_filename = f"ipas/{slug}.ipa"
-print("Downloading primary package (IPA)...")
-file_size_bytes = 150000000
+print("⬇️ Downloading primary package (IPA)...")
+file_size_bytes = 150000000 # قەبارەی بنەڕەتی لە کاتی هەڵەدا
 
 try:
-    r = requests.get(ipa_link, stream=True)
+    r = requests.get(ipa_link, stream=True, headers=headers, timeout=30)
     if r.status_code == 200:
         with open(ipa_filename, "wb") as f:
             for chunk in r.iter_content(chunk_size=8192):
                 f.write(chunk)
         
+        # پشکنین کە ئایا فایلەکە بەڕاستی زیپ/IPA یە
         if zipfile.is_zipfile(ipa_filename):
             file_size_bytes = os.path.getsize(ipa_filename)
+            print(f"✅ Download successful! Size: {file_size_bytes} bytes")
+        else:
+            print("⚠️ Downloaded file is not a valid ZIP/IPA archive.")
+    else:
+        print(f"⚠️ Server returned status code: {r.status_code}")
 except Exception as e:
-    print("Error downloading package:", e)
+    print(f"⚠️ Error downloading package: {e}")
 
 final_size_bytes = int(file_size_bytes)
 
@@ -273,7 +279,7 @@ new_app = {
     "id": app_id,
     "name": final_name,
     "version": final_version,
-    "size": final_size_bytes,  # لێرەدا ژمارەی ڕووتە (بایت) بۆ ئەوەی Feather نەتەقێت
+    "size": final_size_bytes,
     "icon": icon_relative,
     "badge": "",
     "type": app_type,
@@ -295,7 +301,7 @@ new_app = {
             "date": current_date,
             "localizedDescription": None,
             "downloadURL": github_release_url,
-            "size": final_size_bytes,  # لێرەشدا ژمارەی ڕووتە
+            "size": final_size_bytes,
             "buildVersion": None,
             "minOSVersion": "14.0",
             "screenshots": final_screenshot_urls 
