@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1422526878,
+            "name": "Punch TV",
+            "version": "2610.09",
+            "size": 349521073,
+            "icon": "img/punchtv.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/punchtv.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/punchtv.ipa",
+            "bundleIdentifier": "com.fourfats.punchTV",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Coins\n- Damage Multiplier\n- Defence Multiplier\n- Never Die\n- Unlimited Coins -> Earn some.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/punchtv.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punchtv_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punchtv_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punchtv_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punchtv_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punchtv_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punchtv_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punchtv_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punchtv_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2610.09",
+                    "date": "2026-10-13T01:29:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/punchtv.ipa",
+                    "size": 349521073,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punchtv_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punchtv_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punchtv_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punchtv_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1828032003,
             "name": "Skyward: Feel Spike",
             "version": "1.6.0",
@@ -3920,54 +3968,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artilleryfightforamerica_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1422526878,
-            "name": "Punch TV",
-            "version": "2610.09",
-            "size": "333.33 MB",
-            "icon": "img/punchtv.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/punchtv.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/punchtv.ipa",
-            "bundleIdentifier": "com.fourfats.punchTV",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Freeze Coins\n- Damage Multiplier\n- Defence Multiplier\n- Never Die\n- Unlimited Coins -> Earn some.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/punchtv.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/punchtv_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/punchtv_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/punchtv_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/punchtv_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/punchtv_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/punchtv_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/punchtv_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/punchtv_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "2610.09",
-                    "date": "2026-10-12T22:04:49+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/punchtv.ipa",
-                    "size": 349521838,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/punchtv_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/punchtv_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/punchtv_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/punchtv_screen_4.jpg"
                     ]
                 }
             ]
