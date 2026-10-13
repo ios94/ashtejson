@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1626676328,
+            "name": "My Cafe — Restaurant Game",
+            "version": "2026101.1.965",
+            "size": "692.47 MB",
+            "icon": "img/mycaferestaurantgame.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mycaferestaurantgame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mycaferestaurantgame.ipa",
+            "bundleIdentifier": "com.Melesta.MyCafe",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Increase Game Speed\n- No Time to Buy Energy\n- Custom Dice",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mycaferestaurantgame.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2026101.1.965",
+                    "date": "2026-10-13T00:14:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mycaferestaurantgame.ipa",
+                    "size": 726107422,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1617632327,
             "name": "Kid-E-Cats: Building Car Games",
             "version": "3.7.2",
