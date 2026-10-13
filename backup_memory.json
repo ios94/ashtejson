@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1234711351,
+            "name": "Mansion Tale: Merge Secrets",
+            "version": "1.160.0",
+            "size": "158.55 MB",
+            "icon": "img/mansiontalemergesecrets.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mansiontalemergesecrets.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mansiontalemergesecrets.ipa",
+            "bundleIdentifier": "com.tapclap.merge.mansiontale",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free Store (not iAP) → no in-app purchases required\n- Auto Merge → automatically combines items during gameplay\n- PREMIUM → all premium features unlocked",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mansiontalemergesecrets.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mansiontalemergesecrets_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mansiontalemergesecrets_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mansiontalemergesecrets_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mansiontalemergesecrets_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mansiontalemergesecrets_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mansiontalemergesecrets_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mansiontalemergesecrets_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mansiontalemergesecrets_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.160.0",
+                    "date": "2026-10-13T00:12:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mansiontalemergesecrets.ipa",
+                    "size": 166251724,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mansiontalemergesecrets_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mansiontalemergesecrets_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mansiontalemergesecrets_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mansiontalemergesecrets_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1342206700,
             "name": "Twisted Tangle",
             "version": "2.18.2",
@@ -4780,37 +4828,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/christmasmagicmatch3game.ipa",
                     "size": 103452508,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1234711351,
-            "name": "Mansion Tale: Merge Secrets",
-            "version": "1.160.0",
-            "size": "158.55 MB",
-            "icon": "img/mansiontalemergesecrets.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mansiontalemergesecrets.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mansiontalemergesecrets.ipa",
-            "bundleIdentifier": "com.tapclap.merge.mansiontale",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Free Store (not iAP) → no in-app purchases required\n- Auto Merge → automatically combines items during gameplay\n- PREMIUM → all premium features unlocked",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mansiontalemergesecrets.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "1.160.0",
-                    "date": "2026-10-10T23:09:35+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mansiontalemergesecrets.ipa",
-                    "size": 166251724,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
