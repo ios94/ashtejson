@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1893195860,
+            "name": "Mystery Farm: Idle Tycoon Game",
+            "version": "1.0.5",
+            "size": 150871853,
+            "icon": "img/mysteryfarmidletycoongame.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mysteryfarmidletycoongame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mysteryfarmidletycoongame.ipa",
+            "bundleIdentifier": "com.nep.tr.tycoon1.idle.farm",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Gems → spend freely on premium upgrades and accelerations\n- Unlimited Cash → build and expand your farm without resource limits",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mysteryfarmidletycoongame.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryfarmidletycoongame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryfarmidletycoongame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryfarmidletycoongame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryfarmidletycoongame_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryfarmidletycoongame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryfarmidletycoongame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryfarmidletycoongame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryfarmidletycoongame_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.5",
+                    "date": "2026-10-13T01:57:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mysteryfarmidletycoongame.ipa",
+                    "size": 150871853,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryfarmidletycoongame_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryfarmidletycoongame_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryfarmidletycoongame_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryfarmidletycoongame_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1660965567,
             "name": "Score! Hero",
             "version": "4.720",
