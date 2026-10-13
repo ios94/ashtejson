@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1584635049,
+            "name": "The Virus: Zombie Hunter",
+            "version": "0.3.2",
+            "size": 350333074,
+            "icon": "img/theviruszombiehunter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/theviruszombiehunter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/theviruszombiehunter.ipa",
+            "bundleIdentifier": "cz.marekpenicka.viruszombiehunter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Enemy Can't Attack\n- Unlimited Resources (Will Increase Instead of Decrease)\n- Unlimited Ammo",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theviruszombiehunter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theviruszombiehunter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theviruszombiehunter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theviruszombiehunter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theviruszombiehunter_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theviruszombiehunter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theviruszombiehunter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theviruszombiehunter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theviruszombiehunter_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.3.2",
+                    "date": "2026-10-13T01:37:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/theviruszombiehunter.ipa",
+                    "size": 350333074,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theviruszombiehunter_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theviruszombiehunter_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theviruszombiehunter_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theviruszombiehunter_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1423239536,
             "name": "Grand Hotel Mania・ My Manager",
             "version": "4.20.10",
@@ -3728,54 +3776,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mutinypiratesurvivalrpg_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mutinypiratesurvivalrpg_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mutinypiratesurvivalrpg_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1584635049,
-            "name": "The Virus: Zombie Hunter",
-            "version": "0.3.2",
-            "size": "334.1 MB",
-            "icon": "img/theviruszombiehunter.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/theviruszombiehunter.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/theviruszombiehunter.ipa",
-            "bundleIdentifier": "cz.marekpenicka.viruszombiehunter",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Enemy Can't Attack\n- Unlimited Resources (Will Increase Instead of Decrease)\n- Unlimited Ammo",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theviruszombiehunter.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theviruszombiehunter_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theviruszombiehunter_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theviruszombiehunter_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theviruszombiehunter_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theviruszombiehunter_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theviruszombiehunter_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theviruszombiehunter_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theviruszombiehunter_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "0.3.2",
-                    "date": "2026-10-12T23:01:41+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/theviruszombiehunter.ipa",
-                    "size": 350329241,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theviruszombiehunter_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theviruszombiehunter_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theviruszombiehunter_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theviruszombiehunter_screen_4.jpg"
                     ]
                 }
             ]
