@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1580897078,
+            "name": "Travel Town - Merge Adventure",
+            "version": "2.12.1782",
+            "size": 146704604,
+            "icon": "img/traveltownmergeadventure.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/traveltownmergeadventure.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/traveltownmergeadventure.ipa",
+            "bundleIdentifier": "io.randomco.travel",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Energy Adds When Spending\n- Can Merge Any Item to Level Up Other Items\n- Always Drops bubbles + a Coin\n- 1 Diamond to Unlcok Any Chests\n- 1 Diamond to Unlock Bubbles",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/traveltownmergeadventure.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltownmergeadventure_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltownmergeadventure_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltownmergeadventure_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltownmergeadventure_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltownmergeadventure_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltownmergeadventure_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltownmergeadventure_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltownmergeadventure_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.12.1782",
+                    "date": "2026-10-13T01:14:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/traveltownmergeadventure.ipa",
+                    "size": 146704604,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltownmergeadventure_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltownmergeadventure_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltownmergeadventure_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltownmergeadventure_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1782472102,
             "name": "Hole Busters 3D",
             "version": "2.0.2",
@@ -4004,42 +4052,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/pocketchampspvpracinggames.ipa",
                     "size": 198390579,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1580897078,
-            "name": "Travel Town - Merge Adventure",
-            "version": "2.12.1782",
-            "size": "139.91 MB",
-            "icon": "img/traveltownmergeadventure.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/traveltownmergeadventure.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/traveltownmergeadventure.ipa",
-            "bundleIdentifier": "io.randomco.travel",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Energy Adds When Spending\n- Can Merge Any Item to Level Up Other Items\n- Always Drops bubbles + a Coin\n- 1 Diamond to Unlcok Any Chests\n- 1 Diamond to Unlock Bubbles",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/traveltownmergeadventure.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/traveltownmergeadventure_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/traveltownmergeadventure_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/traveltownmergeadventure_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/traveltownmergeadventure_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "2.12.1782",
-                    "date": "2026-10-12T19:50:41+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/traveltownmergeadventure.ipa",
-                    "size": 146706268,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
