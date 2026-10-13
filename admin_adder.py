@@ -9,7 +9,6 @@ import zipfile
 import time
 from datetime import datetime, timezone
 
-# دابەزاندنی ئۆتۆماتیکی کتێبخانە پێویستەکان بۆ شکاندنی سکیوێرتی
 try:
     from bs4 import BeautifulSoup
 except ImportError:
@@ -66,7 +65,7 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     print(f"✅ Data successfully updated! Added/Updated {len(new_apps)} apps.")
     exit(0)
 
-# دروستکردنی سێشنێک کە بە تەواوی خۆی وەک Google Chrome پیشان دەدات
+# دروستکردنی سێشن بە تەکنەلۆژیای کرۆم ١٢٠ بۆ تێپەڕاندنی Cloudflare
 session = requests.Session(impersonate="chrome120")
 
 def process_app_data(app_info, app_type):
@@ -80,8 +79,8 @@ def process_app_data(app_info, app_type):
     if not ex_name:
         return None
 
-    # لینکی یەدەگ
-    found_ipa_link = f"https://check0ver.net/api/iapps/{uuid_val}/download"
+    game_page_url = f"https://check0ver.net/en/iapps/{uuid_val}"
+    found_ipa_link = f"https://check0ver.net/api/iapps/{uuid_val}/download" # یەدەگ
 
     clean_search_name = re.split(r'[\+\-\(\)\[\]\|]', ex_name)[0].strip()
     words_to_remove = ['Premium', 'Hack', 'Mod', 'Pro', 'IPA', 'Download', 'Free', 'Cheats', 'Unlocked']
@@ -123,9 +122,9 @@ def process_app_data(app_info, app_type):
     file_size_bytes = 150000000
 
     try:
-        # هەنگاوی گرنگ: چوونە ناو پەڕەی یارییەکە بۆ دۆزینەوەی لینکی ڕاستەقینە بێ بلۆکبوون
+        # هەنگاوی گرنگ: چوونە ناو پەڕەی یارییەکە بۆ وەرگرتنی کووکی و لینکی شاراوە
         try:
-            page_res = session.get(f"https://check0ver.net/en/iapps/{uuid_val}", timeout=15)
+            page_res = session.get(game_page_url, timeout=15)
             p_soup = BeautifulSoup(page_res.text, 'html.parser')
             app_div = p_soup.find('div', id='app')
             if app_div and app_div.has_attr('data-page'):
@@ -133,19 +132,26 @@ def process_app_data(app_info, app_type):
                 iapp_detail = sub_json.get('props', {}).get('iapp', {})
                 if iapp_detail.get('downloadURL'):
                     found_ipa_link = iapp_detail.get('downloadURL')
-        except:
-            pass
+        except Exception as parse_e:
+            print(f"  [!] تێبینی: نەتوانرا لینکی ناوەکی بدۆزرێتەوە، پشت بە لینکی یەدەگ دەبەستین.")
         
-        # دابەزاندنی فایلی یارییەکە
-        r = session.get(found_ipa_link, stream=True, timeout=30, allow_redirects=True)
+        # زیادکردنی Referer بۆ ئەوەی سایتەکە باوەڕ بکات کە لە پەڕەی یارییەکەوە داگرتنەکە کراوە
+        dl_headers = {
+            "Referer": game_page_url,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
+        }
+        
+        # دابەزاندنی فایلی یارییەکە بە کووکییەکانەوە
+        r = session.get(found_ipa_link, headers=dl_headers, stream=True, timeout=60, allow_redirects=True)
         if r.status_code == 200:
             with open(ipa_filename, "wb") as f:
                 for chunk in r.iter_content(chunk_size=8192):
-                    downloaded_bytes += len(chunk)
-                    if downloaded_bytes > limit_bytes:
-                        is_too_large = True
-                        break
-                    f.write(chunk)
+                    if chunk:
+                        downloaded_bytes += len(chunk)
+                        if downloaded_bytes > limit_bytes:
+                            is_too_large = True
+                            break
+                        f.write(chunk)
             
             if is_too_large:
                 f.close()
@@ -156,6 +162,7 @@ def process_app_data(app_info, app_type):
                 
             if zipfile.is_zipfile(ipa_filename):
                 file_size_bytes = os.path.getsize(ipa_filename)
+                print(f"✅ فایلەکە بە سەرکەوتوویی دابەزی! قەبارە: {file_size_bytes} بایت.")
             else:
                 if os.path.exists(ipa_filename):
                     os.remove(ipa_filename)
@@ -207,7 +214,7 @@ def process_app_data(app_info, app_type):
     github_release_url = f"{_d('aHR0cHM6Ly9naXRodWIuY29tL2lvczk0L2FzaHRlanNvbi9yZWxlYXNlcy9kb3dubG9hZC9WMS8=')}{slug}.ipa"
     current_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
     
-    print(f"✅ یاری '{final_name}' سەرکەوتوو بوو.")
+    print(f"✅ یاری '{final_name}' بۆ جەیسۆن ئامادە کرا.")
 
     return {
         "id": random.randint(1111111111, 1999999999),
