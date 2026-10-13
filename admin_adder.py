@@ -61,12 +61,12 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     print(f"Data successfully updated! Added/Updated {len(new_apps)} apps.")
     exit(0)
 
-# بەکارهێنانی scraper بۆ تێپەڕاندنی Cloudflare
+# بەکارهێنانی scraper بۆ تێپەڕاندنی Cloudflare بە وێبگەڕی Chrome
 scraper = cloudscraper.create_scraper(
     browser={
-        'browser': 'safari',
-        'platform': 'ios',
-        'desktop': False
+        'browser': 'chrome',
+        'platform': 'windows',
+        'desktop': True
     }
 )
 
