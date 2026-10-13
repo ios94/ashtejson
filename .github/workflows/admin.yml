@@ -73,7 +73,8 @@ jobs:
             echo "خستنە ناوەوەی یارییە نوێیەکە بۆ ناو سۆرسەکە..."
             python admin_adder.py update_json
             
-            git add "$JSON_FILE" backup_memory.json img/
+            # لێرەدا فۆڵدەری imgg زیادکرا
+            git add "$JSON_FILE" backup_memory.json img/ imgg/
             git commit -m "Added: ${{ github.event.inputs.app_name }} (${{ github.event.inputs.app_type }})" || echo "No changes"
             
             if git push; then
