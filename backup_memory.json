@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1533715073,
+            "name": "Angry Birds Dream Blast",
+            "version": "2.10.0",
+            "size": 207728353,
+            "icon": "img/angrybirdsdreamblast.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsdreamblast.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsdreamblast.ipa",
+            "bundleIdentifier": "com.rovio.dream",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Moves\n- Infinite Lives\n- Infinite Boosters",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsdreamblast.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsdreamblast_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsdreamblast_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsdreamblast_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsdreamblast_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsdreamblast_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsdreamblast_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsdreamblast_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsdreamblast_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.10.0",
+                    "date": "2026-10-13T01:42:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsdreamblast.ipa",
+                    "size": 207728353,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsdreamblast_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsdreamblast_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsdreamblast_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsdreamblast_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1733718717,
             "name": "Candy Pop Story : Match 3",
             "version": "1.69.1009",
@@ -3590,54 +3638,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spitemalice_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spitemalice_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spitemalice_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1533715073,
-            "name": "Angry Birds Dream Blast",
-            "version": "2.10.0",
-            "size": "198.11 MB",
-            "icon": "img/angrybirdsdreamblast.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsdreamblast.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsdreamblast.ipa",
-            "bundleIdentifier": "com.rovio.dream",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Infinite Moves\n- Infinite Lives\n- Infinite Boosters",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsdreamblast.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsdreamblast_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsdreamblast_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsdreamblast_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsdreamblast_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsdreamblast_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsdreamblast_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsdreamblast_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsdreamblast_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "2.10.0",
-                    "date": "2026-10-12T23:51:37+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsdreamblast.ipa",
-                    "size": 207733391,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsdreamblast_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsdreamblast_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsdreamblast_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsdreamblast_screen_4.png"
                     ]
                 }
             ]
