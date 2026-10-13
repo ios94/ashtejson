@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1237230796,
+            "name": "State.io - Conquer the World",
+            "version": "4.4.1",
+            "size": 146565638,
+            "icon": "img/stateioconquertheworld.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/stateioconquertheworld.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/stateioconquertheworld.ipa",
+            "bundleIdentifier": "io.state.fight",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free Store / Free Upgrade (not iAP)\n- Infinite Troops\n- Free store (buy then cancel)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stateioconquertheworld.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateioconquertheworld_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateioconquertheworld_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateioconquertheworld_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateioconquertheworld_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateioconquertheworld_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateioconquertheworld_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateioconquertheworld_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateioconquertheworld_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.4.1",
+                    "date": "2026-10-13T13:51:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/stateioconquertheworld.ipa",
+                    "size": 146565638,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateioconquertheworld_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateioconquertheworld_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateioconquertheworld_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateioconquertheworld_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1817867386,
             "name": "Block Crush！",
             "version": "4.1.9",
