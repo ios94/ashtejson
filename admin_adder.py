@@ -130,10 +130,14 @@ def process_app_data(app_info, app_type):
                 print(f"⚠️ تێپەڕێنرا: قەبارەی '{final_name}' لە 1.10 GB گەورەترە!")
                 return None
                 
+            # الفحص الذكي: التأكد من أن الملف هو IPA حقيقي قبل المتابعة
             if zipfile.is_zipfile(ipa_filename):
                 file_size_bytes = os.path.getsize(ipa_filename)
             else:
-                file_size_bytes = downloaded_bytes
+                if os.path.exists(ipa_filename):
+                    os.remove(ipa_filename)
+                print(f"⚠️ تێپەڕێنرا: فایلەکە IPA/ZIP ی ڕاستەقینە نییە (الموقع أرسل ملف HTML بدلاً من اللعبة).")
+                return None
         else:
             print(f"⚠️ سێرڤەر کۆدی هەڵەی دا: {r.status_code}")
             return None
