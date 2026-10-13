@@ -66,7 +66,7 @@ headers = {
 
 def find_main_app_in_page(data):
     if isinstance(data, dict):
-        if 'name' in data and 'version' in data and 'size' in data and 'uuid' in data: return data
+        if 'name' in data and 'version' in data and 'uuid' in data: return data
         for value in data.values():
             res = find_main_app_in_page(value)
             if res: return res
@@ -76,7 +76,7 @@ def find_main_app_in_page(data):
             if res: return res
     return None
 
-ex_name, ex_desc, ex_icon, ex_version, ex_size, ex_bundle = "", "", "", "", "", ""
+ex_name, ex_desc, ex_icon, ex_version, ex_bundle = "", "", "", "", ""
 
 # =========================================================================
 # 1. بەشی سکراپەری گەردوونی (بۆ هەموو وێبسایتەکان)
@@ -96,7 +96,6 @@ if app_input.startswith("http"):
                 ex_name = target_app.get('name', '')
                 ex_desc = target_app.get('description', '')
                 ex_version = target_app.get('version', '')
-                ex_size = target_app.get('size', '')
                 ex_icon = target_app.get('image', target_app.get('icon', ''))
                 ex_bundle = target_app.get('bundle', target_app.get('bundleIdentifier', ''))
         
@@ -191,7 +190,7 @@ final_bundle = ex_bundle or as_bundle or f"com.ashtemobile.{slug}"
 
 final_version = ex_version if ex_version else (as_version or "1.0")
 
-icon_to_download = as_icon or ex_icon
+icon_to_download = as_icon or ""
 
 # =========================================================================
 # 5. دابەزاندنی وێنە و ئایکۆن
@@ -263,14 +262,6 @@ except Exception as e:
 
 final_size_bytes = int(file_size_bytes)
 
-# === جێبەجێکردنی ئەو فۆرماتەی کە داوات کردبوو (بۆ نموونە 100.40 MB یان 1.20 GB) ===
-size_mb = final_size_bytes / (1024 * 1024)
-if size_mb >= 1024:
-    size_gb = size_mb / 1024
-    final_size_str = f"{size_gb:.2f} GB"
-else:
-    final_size_str = f"{size_mb:.2f} MB"
-
 # =========================================================================
 # 7. دروستکردنی JSON
 # =========================================================================
@@ -282,7 +273,7 @@ new_app = {
     "id": app_id,
     "name": final_name,
     "version": final_version,
-    "size": final_size_str,
+    "size": final_size_bytes,  # لێرەدا ژمارەی ڕووتە (بایت) بۆ ئەوەی Feather نەتەقێت
     "icon": icon_relative,
     "badge": "",
     "type": app_type,
@@ -304,7 +295,7 @@ new_app = {
             "date": current_date,
             "localizedDescription": None,
             "downloadURL": github_release_url,
-            "size": final_size_bytes,
+            "size": final_size_bytes,  # لێرەشدا ژمارەی ڕووتە
             "buildVersion": None,
             "minOSVersion": "14.0",
             "screenshots": final_screenshot_urls 
