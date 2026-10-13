@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1771688035,
+            "name": "Voidpet Dungeon",
+            "version": "5.29.53",
+            "size": 108585018,
+            "icon": "img/voidpetdungeon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/voidpetdungeon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/voidpetdungeon.ipa",
+            "bundleIdentifier": "com.voidpet.dungeon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Always Crit: your pets always land critical hits\n- Battle Speed Multiplier (1x-10x): speeds up battle animations\n- Debuff Immunity: debuffs don't affect your pets",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/voidpetdungeon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voidpetdungeon_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voidpetdungeon_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voidpetdungeon_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voidpetdungeon_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voidpetdungeon_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voidpetdungeon_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voidpetdungeon_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voidpetdungeon_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.29.53",
+                    "date": "2026-10-13T01:36:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/voidpetdungeon.ipa",
+                    "size": 108585018,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voidpetdungeon_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voidpetdungeon_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voidpetdungeon_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voidpetdungeon_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1875837376,
             "name": "PAW Patrol Rescue World",
             "version": "2026.8.0",
@@ -3776,54 +3824,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1771688035,
-            "name": "Voidpet Dungeon",
-            "version": "5.29.53",
-            "size": "103.55 MB",
-            "icon": "img/voidpetdungeon.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/voidpetdungeon.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/voidpetdungeon.ipa",
-            "bundleIdentifier": "com.voidpet.dungeon",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Always Crit: your pets always land critical hits\n- Battle Speed Multiplier (1x-10x): speeds up battle animations\n- Debuff Immunity: debuffs don't affect your pets",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/voidpetdungeon.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/voidpetdungeon_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/voidpetdungeon_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/voidpetdungeon_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/voidpetdungeon_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/voidpetdungeon_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/voidpetdungeon_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/voidpetdungeon_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/voidpetdungeon_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "5.29.53",
-                    "date": "2026-10-12T22:32:50+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/voidpetdungeon.ipa",
-                    "size": 108580044,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/voidpetdungeon_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/voidpetdungeon_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/voidpetdungeon_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/voidpetdungeon_screen_4.jpg"
                     ]
                 }
             ]
