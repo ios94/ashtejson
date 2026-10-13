@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1509092633,
+            "name": "Matching Story",
+            "version": "1.76.01",
+            "size": 380366029,
+            "icon": "img/matchingstory.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/matchingstory.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/matchingstory.ipa",
+            "bundleIdentifier": "matching.story",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto Win\r\n- Coins\r\n- Diamonds [ Win Match Linked With Moves ]\r\n- Lives\r\n- Booster\r\n- Moves",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/matchingstory.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchingstory_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchingstory_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchingstory_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchingstory_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchingstory_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchingstory_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchingstory_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchingstory_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.76.01",
+                    "date": "2026-10-13T01:23:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/matchingstory.ipa",
+                    "size": 380366029,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchingstory_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchingstory_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchingstory_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchingstory_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1634661399,
             "name": "Idle Iktah",
             "version": "1.0.45",
