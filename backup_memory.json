@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1241183330,
+            "name": "Kick the Buddy",
+            "version": "2.10.0",
+            "size": 150000000,
+            "icon": "img/kickthebuddy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/kickthebuddy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/kickthebuddy.ipa",
+            "bundleIdentifier": "com.chillfleet.buddy",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Golds (Spend some/ Get some)\n- Infinite Bucks (Spend some/ Get some)\n- All Items Owned\n- No Ads\n- Premium",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kickthebuddy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kickthebuddy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kickthebuddy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kickthebuddy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kickthebuddy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kickthebuddy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kickthebuddy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kickthebuddy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kickthebuddy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.10.0",
+                    "date": "2026-10-13T01:16:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/kickthebuddy.ipa",
+                    "size": 150000000,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kickthebuddy_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kickthebuddy_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kickthebuddy_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kickthebuddy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1429120624,
             "name": "Rules of Battlefield: 3D FPS",
             "version": "2.2",
@@ -4100,37 +4148,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/pocketchampspvpracinggames.ipa",
                     "size": 198390579,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1241183330,
-            "name": "Kick the Buddy",
-            "version": "2.10.0",
-            "size": "224.41 MB",
-            "icon": "img/kickthebuddy.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/kickthebuddy.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/kickthebuddy.ipa",
-            "bundleIdentifier": "com.chillfleet.buddy",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Infinite Golds (Spend some/ Get some)\n- Infinite Bucks (Spend some/ Get some)\n- All Items Owned\n- No Ads\n- Premium",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kickthebuddy.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "2.10.0",
-                    "date": "2026-10-12T19:43:59+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/kickthebuddy.ipa",
-                    "size": 235310940,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
