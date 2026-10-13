@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1246780372,
+            "name": "Bounce Dunk - basketball game",
+            "version": "1.1.42",
+            "size": "109.35 MB",
+            "icon": "img/bouncedunkbasketballgame.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bouncedunkbasketballgame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bouncedunkbasketballgame.ipa",
+            "bundleIdentifier": "com.bounce.dunk",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "✅ 9 million coins 💰\n\n📵To cancel ads when entering the game\nMake a purchase and cancel",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bouncedunkbasketballgame.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncedunkbasketballgame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncedunkbasketballgame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncedunkbasketballgame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncedunkbasketballgame_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncedunkbasketballgame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncedunkbasketballgame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncedunkbasketballgame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncedunkbasketballgame_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.42",
+                    "date": "2026-10-13T00:01:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bouncedunkbasketballgame.ipa",
+                    "size": 114661785,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncedunkbasketballgame_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncedunkbasketballgame_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncedunkbasketballgame_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncedunkbasketballgame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1484936724,
             "name": "Sniper 3D: Gun Shooting Games",
             "version": "7.11.2",
@@ -4887,37 +4935,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/forgemasteridlerpg.ipa",
                     "size": 106168320,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1246780372,
-            "name": "Bounce Dunk - basketball game",
-            "version": "1.1.42",
-            "size": "109.35 MB",
-            "icon": "img/bouncedunkbasketballgame.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bouncedunkbasketballgame.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bouncedunkbasketballgame.ipa",
-            "bundleIdentifier": "com.bounce.dunk",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "✅ 9 million coins 💰\n\n📵To cancel ads when entering the game\nMake a purchase and cancel",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bouncedunkbasketballgame.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "1.1.42",
-                    "date": "2026-10-09T21:36:52+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bouncedunkbasketballgame.ipa",
-                    "size": 114661785,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
