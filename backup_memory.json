@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1970356167,
+            "name": "BTS Cooking On STOVE: TinyTAN",
+            "version": "1.2.4",
+            "size": 427213935,
+            "icon": "img/btscookingonstovetinytan.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/btscookingonstovetinytan.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/btscookingonstovetinytan.ipa",
+            "bundleIdentifier": "com.smilegate.bcos2.stove.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Instant Cook Meals\n- Meals Don't Burn",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/btscookingonstovetinytan.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/btscookingonstovetinytan_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/btscookingonstovetinytan_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/btscookingonstovetinytan_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/btscookingonstovetinytan_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/btscookingonstovetinytan_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/btscookingonstovetinytan_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/btscookingonstovetinytan_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/btscookingonstovetinytan_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.4",
+                    "date": "2026-10-13T13:49:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/btscookingonstovetinytan.ipa",
+                    "size": 427213935,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/btscookingonstovetinytan_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/btscookingonstovetinytan_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/btscookingonstovetinytan_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/btscookingonstovetinytan_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1933451996,
             "name": "Klondike Adventures: Farm Game",
             "version": "2.152.1",
