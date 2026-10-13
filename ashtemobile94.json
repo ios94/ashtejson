@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1649224125,
+            "name": "On Raft",
+            "version": "1.0.0",
+            "size": 350084438,
+            "icon": "img/onraft.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
+            "bundleIdentifier": "com.on.raft",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ADS NO / Rewards Free → No interruptions, instant rewards\n- Currency Multiplier → Earn currency faster\n- Resources Multiplier → Gather materials at an accelerated rate\n- Debug Menu → Advanced customization and testing options",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "date": "2026-10-13T01:29:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
+                    "size": 350084438,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1918631993,
             "name": "Little Kitty, Big City",
             "version": "1261008.7592",
@@ -3968,54 +4016,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carsimulatormultiplayer2026_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carsimulatormultiplayer2026_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carsimulatormultiplayer2026_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1649224125,
-            "name": "On Raft",
-            "version": "1.0.0",
-            "size": "333.87 MB",
-            "icon": "img/onraft.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
-            "bundleIdentifier": "com.on.raft",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- ADS NO / Rewards Free → No interruptions, instant rewards\n- Currency Multiplier → Earn currency faster\n- Resources Multiplier → Gather materials at an accelerated rate\n- Debug Menu → Advanced customization and testing options",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.0",
-                    "date": "2026-10-12T22:02:48+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
-                    "size": 350088069,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft_screen_4.png"
                     ]
                 }
             ]
