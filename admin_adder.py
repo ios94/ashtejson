@@ -112,6 +112,7 @@ if app_input.startswith("http"):
             if ex_name:
                 ex_name = ex_name.split('|')[0].split('-')[0].strip()
             
+            # چارەسەری کێشەی سکیوێرتی Cloudflare
             if ex_name and ("Just a moment" in ex_name or "Cloudflare" in ex_name or "Attention Required" in ex_name):
                 ex_name = ""
 
@@ -129,6 +130,7 @@ if app_input.startswith("http"):
     except Exception as e:
         print(f"Website Scraping Error: {e}")
         
+    # ئەگەر سایتەکە ڕێگری کرد یان نەیدۆزییەوە، ناوەکە بە زیرەکی لە لینکەکە دەردەهێنێت
     if not ex_name:
         url_parts = [p for p in app_input.split('/') if p and p.lower() not in ['download', 'app', 'game', 'ipa', 'file']]
         if url_parts:
@@ -148,6 +150,7 @@ clean_search_name = re.split(r'[\+\-\(\)\[\]\|]', ex_name)[0].strip()
 words_to_remove = ['Premium', 'Hack', 'Mod', 'Pro', 'IPA', 'Download', 'Free', 'Cheats', 'Unlocked']
 
 for w in words_to_remove:
+    # بەکارهێنانی re.escape چارەسەری ئیرۆرەکەی کرد
     clean_search_name = re.sub(rf'\b{re.escape(w)}\b', '', clean_search_name, flags=re.IGNORECASE).strip()
 
 if not clean_search_name:
@@ -157,7 +160,7 @@ if not clean_search_name:
 # 3. گەڕان لەناو App Store
 # =========================================================================
 print(f"🍏 Searching Apple App Store for '{clean_search_name}'...")
-as_name, as_desc, as_icon, as_bundle, as_version, as_size_bytes = None, None, None, None, None, None
+as_name, as_desc, as_icon, as_bundle, as_version, as_size_bytes, as_track_id = None, None, None, None, None, None, None
 app_store_screenshots = []
 
 try:
@@ -174,6 +177,7 @@ try:
             as_bundle = app_info.get('bundleId')
             as_version = app_info.get('version')
             as_size_bytes = app_info.get('fileSizeBytes')
+            as_track_id = app_info.get('trackId')  # Apple ID دەرهێنرا لێرەدا
             print(f"✅ App Store Match Found: {as_name}")
         else:
             print("⚠️ No exact match found on App Store.")
@@ -191,6 +195,22 @@ if not slug: slug = f"app{random.randint(1000, 9999)}"
 final_bundle = ex_bundle or as_bundle or f"com.ashtemobile.{slug}"
 
 final_version = ex_version if ex_version else (as_version or "1.0")
+
+if ex_size:
+    final_size_str = ex_size
+    try:
+        size_mb = float(re.sub(r'[^\d.]', '', str(final_size_str)))
+        final_size_bytes = int(size_mb * 1024 * 1024)
+    except:
+        final_size_bytes = 150000000
+elif as_size_bytes:
+    final_size_bytes = int(as_size_bytes)
+    size_mb = round(final_size_bytes / (1024 * 1024), 2)
+    final_size_str = f"{size_mb} MB"
+else:
+    final_size_str = "150 MB"
+    final_size_bytes = 150000000
+
 icon_to_download = as_icon or ex_icon
 
 # =========================================================================
@@ -259,7 +279,8 @@ try:
         if zipfile.is_zipfile(ipa_filename):
             file_size_bytes = os.path.getsize(ipa_filename)
 except Exception as e:
-    print("Error downloading package:", e)
+    print("Error downloading package.")
+    exit(1)
 
 final_size_bytes = int(file_size_bytes)
 
@@ -281,6 +302,7 @@ app_id = random.randint(1111111111, 1999999999)
 new_app = {
     "id": app_id,
     "name": final_name,
+    "appID": final_bundle, # زۆر گرنگە بۆ Feather
     "version": final_version,
     "size": final_size_str,
     "icon": icon_relative,
@@ -289,7 +311,7 @@ new_app = {
     "install_url": github_release_url,
     "download_url": github_release_url,
     "bundleIdentifier": final_bundle,
-    "marketplaceID": "",
+    "marketplaceID": str(as_track_id) if as_track_id else "", # Apple ID لێرە دادەنرێت وەک داوات کرد
     "developerName": _d('QXNodGVNb2JpbGU='),
     "subtitle": "Awesome App",
     "localizedDescription": final_desc,
@@ -300,7 +322,7 @@ new_app = {
     "screenshots": final_screenshot_urls,
     "versions": [
         {
-            "size": final_size_bytes,  # ئێرە بوو بە یەکەم شت ڕێک وەکو داوات کرد
+            "size": final_size_bytes,  # ئێرە بوو بە یەکەم شت
             "version": final_version,
             "date": current_date,
             "localizedDescription": None,
