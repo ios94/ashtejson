@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1544369845,
+            "name": "Stick War: Legacy",
+            "version": "2026.1.1086",
+            "size": 128078393,
+            "icon": "img/stickwarlegacy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/stickwarlegacy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/stickwarlegacy.ipa",
+            "bundleIdentifier": "com.stickpage.stickwar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Gold\r\n- Infinite Gem\r\n- Fast Build",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stickwarlegacy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarlegacy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarlegacy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarlegacy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarlegacy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarlegacy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarlegacy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarlegacy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarlegacy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2026.1.1086",
+                    "date": "2026-10-13T01:20:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/stickwarlegacy.ipa",
+                    "size": 128078393,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarlegacy_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarlegacy_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarlegacy_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarlegacy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1228830411,
             "name": "Smash Fest!",
             "version": "714",
