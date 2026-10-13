@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1332393113,
+            "name": "Junk Hero : Idle",
+            "version": "1.01.06",
+            "size": "197.31 MB",
+            "icon": "img/junkheroidle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/junkheroidle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/junkheroidle.ipa",
+            "bundleIdentifier": "com.superpixel.scrap",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → massively boost your attack power\n- Never Die → become invincible in combat",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/junkheroidle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkheroidle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkheroidle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkheroidle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkheroidle_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkheroidle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkheroidle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkheroidle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkheroidle_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "size": 206898314,
+                    "version": "1.01.06",
+                    "date": "2026-10-13T00:20:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/junkheroidle.ipa",
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkheroidle_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkheroidle_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkheroidle_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkheroidle_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1746005130,
             "name": "WarFriends: PVP Shooter",
             "version": "6.2.1",
