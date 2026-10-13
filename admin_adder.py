@@ -6,6 +6,7 @@ import random
 import re
 import urllib.parse
 import base64
+import zipfile
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 
@@ -111,7 +112,6 @@ if app_input.startswith("http"):
             if ex_name:
                 ex_name = ex_name.split('|')[0].split('-')[0].strip()
             
-            # چارەسەری کێشەی سکیوێرتی Cloudflare
             if ex_name and ("Just a moment" in ex_name or "Cloudflare" in ex_name or "Attention Required" in ex_name):
                 ex_name = ""
 
@@ -129,7 +129,6 @@ if app_input.startswith("http"):
     except Exception as e:
         print(f"Website Scraping Error: {e}")
         
-    # ئەگەر سایتەکە ڕێگری کرد یان نەیدۆزییەوە، ناوەکە بە زیرەکی لە لینکەکە دەردەهێنێت
     if not ex_name:
         url_parts = [p for p in app_input.split('/') if p and p.lower() not in ['download', 'app', 'game', 'ipa', 'file']]
         if url_parts:
@@ -158,7 +157,7 @@ if not clean_search_name:
 # 3. گەڕان لەناو App Store
 # =========================================================================
 print(f"🍏 Searching Apple App Store for '{clean_search_name}'...")
-as_name, as_desc, as_icon, as_bundle, as_version, as_size_bytes = None, None, None, None, None, None
+as_name, as_desc, as_icon, as_bundle, as_version = None, None, None, None, None
 app_store_screenshots = []
 
 try:
@@ -174,7 +173,6 @@ try:
             as_desc = app_info.get('description')
             as_bundle = app_info.get('bundleId')
             as_version = app_info.get('version')
-            as_size_bytes = app_info.get('fileSizeBytes')
             print(f"✅ App Store Match Found: {as_name}")
         else:
             print("⚠️ No exact match found on App Store.")
@@ -193,31 +191,13 @@ final_bundle = ex_bundle or as_bundle or f"com.ashtemobile.{slug}"
 
 final_version = ex_version if ex_version else (as_version or "1.0")
 
-# --- ئێرە بە تەواوی گەڕایەوە بۆ کۆدەکەی خۆت تا Feather کێشەی نەبێت ---
-if ex_size:
-    final_size_str = ex_size
-    try:
-        size_mb = float(re.sub(r'[^\d.]', '', str(final_size_str)))
-        final_size_bytes = int(size_mb * 1024 * 1024)
-        final_size_str = f"{size_mb} MB"
-    except:
-        final_size_bytes = 150000000
-        final_size_str = "150 MB"
-elif as_size_bytes:
-    final_size_bytes = int(as_size_bytes)
-    size_mb = round(final_size_bytes / (1024 * 1024), 2)
-    final_size_str = f"{size_mb} MB" # تەنها MB نەک GB!
-else:
-    final_size_str = "150 MB"
-    final_size_bytes = 150000000
-
 icon_to_download = as_icon or ex_icon
 
 # =========================================================================
 # 5. دابەزاندنی وێنە و ئایکۆن
 # =========================================================================
 os.makedirs("img", exist_ok=True)
-os.makedirs("imgg", exist_ok=True) # فۆڵدەری وێنەکان جیاکراوەتەوە بە تەواوی
+os.makedirs("imgg", exist_ok=True)
 
 base_github_raw = _d('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lvczk0L2FzaHRlanNvbi9tYWluL2ltZy8=')
 base_github_raw_imgg = _d('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lvczk0L2FzaHRlanNvbi9tYWluL2ltZ2cv')
@@ -262,23 +242,37 @@ if app_store_screenshots:
         except: pass
 
 # =========================================================================
-# 6. دابەزاندنی فایلە سەرەکییەکە (IPA)
+# 6. دابەزاندنی فایلە سەرەکییەکە (IPA) و پێوانی قەبارەکەی
 # =========================================================================
 os.makedirs("ipas", exist_ok=True)
 ipa_filename = f"ipas/{slug}.ipa"
 print("Downloading primary package (IPA)...")
+file_size_bytes = 150000000
+
 try:
     r = requests.get(ipa_link, stream=True)
     if r.status_code == 200:
         with open(ipa_filename, "wb") as f:
             for chunk in r.iter_content(chunk_size=8192):
                 f.write(chunk)
+        
+        if zipfile.is_zipfile(ipa_filename):
+            file_size_bytes = os.path.getsize(ipa_filename)
 except Exception as e:
-    print("Error downloading package.")
-    exit(1)
+    print("Error downloading package:", e)
+
+final_size_bytes = int(file_size_bytes)
+
+# === جێبەجێکردنی ئەو فۆرماتەی کە داوات کردبوو (بۆ نموونە 100.40 MB یان 1.20 GB) ===
+size_mb = final_size_bytes / (1024 * 1024)
+if size_mb >= 1024:
+    size_gb = size_mb / 1024
+    final_size_str = f"{size_gb:.2f} GB"
+else:
+    final_size_str = f"{size_mb:.2f} MB"
 
 # =========================================================================
-# 7. دروستکردنی JSON بە ڕێکخستنی ئەسڵی خۆت
+# 7. دروستکردنی JSON
 # =========================================================================
 github_release_url = f"{_d('aHR0cHM6Ly9naXRodWIuY29tL2lvczk0L2FzaHRlanNvbi9yZWxlYXNlcy9kb3dubG9hZC9WMS8=')}{slug}.ipa"
 current_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
