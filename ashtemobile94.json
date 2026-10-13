@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1944033969,
+            "name": "Bullet Force",
+            "version": "1.121",
+            "size": "826.46 MB",
+            "icon": "img/bulletforce.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bulletforce.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bulletforce.ipa",
+            "bundleIdentifier": "com.blayzegames.iosfps",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Aimbot\n- ESP\n- No Recoil\n- No Bullet Spread\n- Set Weapon [0 - 68]\n- Set Weapon Camo [0 - 209]\n- Set Bullet Color [0 - 7]\n- Unlimited Ammo",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bulletforce.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bulletforce_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bulletforce_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bulletforce_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bulletforce_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bulletforce_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bulletforce_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bulletforce_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bulletforce_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.121",
+                    "date": "2026-10-13T00:15:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bulletforce.ipa",
+                    "size": 866606120,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bulletforce_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bulletforce_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bulletforce_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bulletforce_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1626676328,
             "name": "My Cafe — Restaurant Game",
             "version": "2026101.1.965",
@@ -6770,37 +6818,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/coinmaster.ipa",
                     "size": 109104332,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1944033969,
-            "name": "Bullet Force",
-            "version": "1.120",
-            "size": "827.47 MB",
-            "icon": "img/bulletforce.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bulletforce.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bulletforce.ipa",
-            "bundleIdentifier": "com.blayzegames.iosfps",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Aimbot\n- ESP\n- No Recoil\n- No Bullet Spread\n- Set Weapon [0 - 68]\n- Set Weapon Camo [0 - 209]\n- Set Bullet Color [0 - 7]\n- Unlimited Ammo",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bulletforce.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "1.120",
-                    "date": "2026-10-08T20:02:56+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bulletforce.ipa",
-                    "size": 867665182,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
