@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1660667907,
+            "name": "Evolve and Win",
+            "version": "0.3.2",
+            "size": 200587352,
+            "icon": "img/evolveandwin.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/evolveandwin.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/evolveandwin.ipa",
+            "bundleIdentifier": "com.ss.apes.evolve.win",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Debug Menu +10",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evolveandwin.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evolveandwin_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evolveandwin_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evolveandwin_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evolveandwin_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evolveandwin_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evolveandwin_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evolveandwin_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evolveandwin_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.3.2",
+                    "date": "2026-10-13T01:38:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/evolveandwin.ipa",
+                    "size": 200587352,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evolveandwin_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evolveandwin_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evolveandwin_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evolveandwin_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1584635049,
             "name": "The Virus: Zombie Hunter",
             "version": "0.3.2",
@@ -3872,54 +3920,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrowingsskycombat_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1660667907,
-            "name": "Evolve and Win",
-            "version": "0.3.2",
-            "size": "191.3 MB",
-            "icon": "img/evolveandwin.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/evolveandwin.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/evolveandwin.ipa",
-            "bundleIdentifier": "com.ss.apes.evolve.win",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Debug Menu +10",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evolveandwin.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evolveandwin_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evolveandwin_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evolveandwin_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evolveandwin_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evolveandwin_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evolveandwin_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evolveandwin_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evolveandwin_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "0.3.2",
-                    "date": "2026-10-12T22:30:17+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/evolveandwin.ipa",
-                    "size": 200592588,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evolveandwin_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evolveandwin_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evolveandwin_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evolveandwin_screen_4.png"
                     ]
                 }
             ]
