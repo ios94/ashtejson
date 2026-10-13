@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1828032003,
+            "name": "Skyward: Feel Spike",
+            "version": "1.6.0",
+            "size": 106442490,
+            "icon": "img/skywardfeelspike.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/skywardfeelspike.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/skywardfeelspike.ipa",
+            "bundleIdentifier": "com.skyward.feelspike",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Gems → spend freely without depletion\n- Unlimited Coins → no currency limits\n- Unlimited XP → level up without caps\n- Unlimited Lives → climb without fail penalties",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/skywardfeelspike.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skywardfeelspike_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skywardfeelspike_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skywardfeelspike_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skywardfeelspike_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skywardfeelspike_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skywardfeelspike_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skywardfeelspike_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skywardfeelspike_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.0",
+                    "date": "2026-10-13T01:30:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/skywardfeelspike.ipa",
+                    "size": 106442490,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skywardfeelspike_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skywardfeelspike_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skywardfeelspike_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skywardfeelspike_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1503701255,
             "name": "FarmVille 2: Tropic Escape",
             "version": "1.231",
@@ -3824,54 +3872,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jackalsquadclassicshooting_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jackalsquadclassicshooting_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jackalsquadclassicshooting_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1828032003,
-            "name": "Skyward: Feel Spike",
-            "version": "1.6.0",
-            "size": "101.51 MB",
-            "icon": "img/skywardfeelspike.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/skywardfeelspike.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/skywardfeelspike.ipa",
-            "bundleIdentifier": "com.skyward.feelspike",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Gems → spend freely without depletion\n- Unlimited Coins → no currency limits\n- Unlimited XP → level up without caps\n- Unlimited Lives → climb without fail penalties",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/skywardfeelspike.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/skywardfeelspike_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/skywardfeelspike_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/skywardfeelspike_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/skywardfeelspike_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/skywardfeelspike_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/skywardfeelspike_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/skywardfeelspike_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/skywardfeelspike_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.6.0",
-                    "date": "2026-10-12T22:07:03+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/skywardfeelspike.ipa",
-                    "size": 106440949,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/skywardfeelspike_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/skywardfeelspike_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/skywardfeelspike_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/skywardfeelspike_screen_4.png"
                     ]
                 }
             ]
