@@ -6,6 +6,7 @@ import random
 import re
 import urllib.parse
 import base64
+import zipfile
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 
@@ -111,7 +112,6 @@ if app_input.startswith("http"):
             if ex_name:
                 ex_name = ex_name.split('|')[0].split('-')[0].strip()
             
-            # چارەسەری کێشەی سکیوێرتی Cloudflare
             if ex_name and ("Just a moment" in ex_name or "Cloudflare" in ex_name or "Attention Required" in ex_name):
                 ex_name = ""
 
@@ -129,7 +129,6 @@ if app_input.startswith("http"):
     except Exception as e:
         print(f"Website Scraping Error: {e}")
         
-    # ئەگەر سایتەکە ڕێگری کرد یان نەیدۆزییەوە، ناوەکە بە زیرەکی لە لینکەکە دەردەهێنێت
     if not ex_name:
         url_parts = [p for p in app_input.split('/') if p and p.lower() not in ['download', 'app', 'game', 'ipa', 'file']]
         if url_parts:
@@ -149,7 +148,6 @@ clean_search_name = re.split(r'[\+\-\(\)\[\]\|]', ex_name)[0].strip()
 words_to_remove = ['Premium', 'Hack', 'Mod', 'Pro', 'IPA', 'Download', 'Free', 'Cheats', 'Unlocked']
 
 for w in words_to_remove:
-    # بەکارهێنانی re.escape چارەسەری ئیرۆرەکەی کرد
     clean_search_name = re.sub(rf'\b{re.escape(w)}\b', '', clean_search_name, flags=re.IGNORECASE).strip()
 
 if not clean_search_name:
@@ -193,32 +191,16 @@ if not slug: slug = f"app{random.randint(1000, 9999)}"
 final_bundle = ex_bundle or as_bundle or f"com.ashtemobile.{slug}"
 
 final_version = ex_version if ex_version else (as_version or "1.0")
-
-if ex_size:
-    final_size_str = ex_size
-    try:
-        size_mb = float(re.sub(r'[^\d.]', '', str(final_size_str)))
-        final_size_bytes = int(size_mb * 1024 * 1024)
-    except:
-        final_size_bytes = 150000000
-elif as_size_bytes:
-    final_size_bytes = int(as_size_bytes)
-    size_mb = round(final_size_bytes / (1024 * 1024), 2)
-    final_size_str = f"{size_mb} MB"
-else:
-    final_size_str = "150 MB"
-    final_size_bytes = 150000000
-
 icon_to_download = as_icon or ex_icon
 
 # =========================================================================
 # 5. دابەزاندنی وێنە و ئایکۆن
 # =========================================================================
 os.makedirs("img", exist_ok=True)
-os.makedirs("imgg", exist_ok=True) # فۆڵدەری نوێ بۆ سکرین شۆتەکان
+os.makedirs("imgg", exist_ok=True)
 
 base_github_raw = _d('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lvczk0L2FzaHRlanNvbi9tYWluL2ltZy8=')
-base_github_raw_imgg = _d('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lvczk0L2FzaHRlanNvbi9tYWluL2ltZ2cv') # لینکی سۆرس بۆ فۆڵدەری imgg
+base_github_raw_imgg = _d('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2lvczk0L2FzaHRlanNvbi9tYWluL2ltZ2cv')
 
 ext = ".png" if not icon_to_download or ".png" in icon_to_download.lower() else ".jpg"
 downloaded_icon_name = f"{slug}{ext}"
@@ -248,7 +230,7 @@ if app_store_screenshots:
         ext_s = ".png" if ".png" in s_url.lower() else ".jpg"
         clean_url = s_url.split('?')[0]
         screen_filename = f"{slug}_screen_{idx+1}{ext_s}"
-        screen_path = os.path.join("imgg", screen_filename) # سکرین شۆتەکان دەچنە فۆڵدەری imgg
+        screen_path = os.path.join("imgg", screen_filename)
         
         try:
             sr = requests.get(clean_url, stream=True, headers=custom_headers, timeout=15)
@@ -256,24 +238,38 @@ if app_store_screenshots:
                 with open(screen_path, "wb") as f:
                     for chunk in sr.iter_content(8192):
                         f.write(chunk)
-                final_screenshot_urls.append(f"{base_github_raw_imgg}{screen_filename}") # زیادکردنی لینکی نوێی imgg بۆ جەیسۆنەکە
+                final_screenshot_urls.append(f"{base_github_raw_imgg}{screen_filename}")
         except: pass
 
 # =========================================================================
-# 6. دابەزاندنی فایلە سەرەکییەکە (IPA)
+# 6. دابەزاندنی فایلە سەرەکییەکە (IPA) و پێوانی قەبارەکەی
 # =========================================================================
 os.makedirs("ipas", exist_ok=True)
 ipa_filename = f"ipas/{slug}.ipa"
 print("Downloading primary package (IPA)...")
+file_size_bytes = 150000000
+
 try:
     r = requests.get(ipa_link, stream=True)
     if r.status_code == 200:
         with open(ipa_filename, "wb") as f:
             for chunk in r.iter_content(chunk_size=8192):
                 f.write(chunk)
+        
+        if zipfile.is_zipfile(ipa_filename):
+            file_size_bytes = os.path.getsize(ipa_filename)
 except Exception as e:
-    print("Error downloading package.")
-    exit(1)
+    print("Error downloading package:", e)
+
+final_size_bytes = int(file_size_bytes)
+
+# دروستکردنی دەقی قەبارەکە بۆ دەرەوە (ئەگەر لە ١٠٢٤ مێگابایت زیاتر بوو دەبێتە GB)
+size_mb = final_size_bytes / (1024 * 1024)
+if size_mb >= 1024:
+    size_gb = round(size_mb / 1024, 2)
+    final_size_str = f"{size_gb} GB"
+else:
+    final_size_str = f"{round(size_mb, 2)} MB"
 
 # =========================================================================
 # 7. دروستکردنی JSON
@@ -304,11 +300,11 @@ new_app = {
     "screenshots": final_screenshot_urls,
     "versions": [
         {
+            "size": final_size_bytes,  # ئێرە بوو بە یەکەم شت ڕێک وەکو داوات کرد
             "version": final_version,
             "date": current_date,
             "localizedDescription": None,
             "downloadURL": github_release_url,
-            "size": final_size_bytes,
             "buildVersion": None,
             "minOSVersion": "14.0",
             "screenshots": final_screenshot_urls 
