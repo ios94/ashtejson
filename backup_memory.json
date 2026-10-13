@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1391998590,
+            "name": "Survival Island 2. Dino Ark",
+            "version": "3.0",
+            "size": 143549408,
+            "icon": "img/survivalisland2dinoark.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/survivalisland2dinoark.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/survivalisland2dinoark.ipa",
+            "bundleIdentifier": "com.gamefirst.Jurassic.Survival.Island.ARK2.Evolve",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- In-app purchases enabled\n- No ads\n\nNote: Enable the hack from the mod menu.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/survivalisland2dinoark.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivalisland2dinoark_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivalisland2dinoark_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivalisland2dinoark_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivalisland2dinoark_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivalisland2dinoark_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivalisland2dinoark_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivalisland2dinoark_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivalisland2dinoark_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.0",
+                    "date": "2026-10-13T01:13:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/survivalisland2dinoark.ipa",
+                    "size": 143549408,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivalisland2dinoark_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivalisland2dinoark_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivalisland2dinoark_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivalisland2dinoark_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1779364434,
             "name": "Survival Island: Survivor EVO",
             "version": "2.46.5",
