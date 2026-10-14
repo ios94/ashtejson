@@ -1,22 +1,46 @@
-name: Admin Panel - Smart Auto Adder
+name: Admin Panel - Batch Adder (4 Apps)
 
 on:
   workflow_dispatch:
     inputs:
       app_type:
-        description: 'ئایا ئەمە یارییە یان بەرنامە؟ (games یان apps)'
+        description: 'ئایا ئەمە یارییە یان بەرنامە؟'
         required: true
         type: choice
         options:
           - games
           - apps
-      app_name:
-        description: 'لینکی پەڕەی یارییەکە یان ناوی یارییەکە دابنێ'
-        required: true
+      app1_name:
+        description: '١. لینکی پەڕەی یاری یەکەم'
+        required: false
         type: string
-      ipa_link:
-        description: 'لینکی ڕاستەوخۆی دابەزاندنی IPA'
-        required: true
+      app1_ipa:
+        description: '١. لینکی IPA ی یەکەم'
+        required: false
+        type: string
+      app2_name:
+        description: '٢. لینکی پەڕەی یاری دووەم'
+        required: false
+        type: string
+      app2_ipa:
+        description: '٢. لینکی IPA ی دووەم'
+        required: false
+        type: string
+      app3_name:
+        description: '٣. لینکی پەڕەی یاری سێیەم'
+        required: false
+        type: string
+      app3_ipa:
+        description: '٣. لینکی IPA ی سێیەم'
+        required: false
+        type: string
+      app4_name:
+        description: '٤. لینکی پەڕەی یاری چوارەم'
+        required: false
+        type: string
+      app4_ipa:
+        description: '٤. لینکی IPA ی چوارەم'
+        required: false
         type: string
 
 jobs:
@@ -37,19 +61,25 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 lief curl_cffi cloudscraper
+        run: pip install requests beautifulsoup4 lief
 
-      - name: Heavy Work (Download IPA and Scrape)
+      - name: Heavy Work (Download IPAs and Scrape)
         env:
           APP_TYPE: ${{ github.event.inputs.app_type }}
-          APP_NAME: ${{ github.event.inputs.app_name }}
-          IPA_LINK: ${{ github.event.inputs.ipa_link }}
+          APP1_NAME: ${{ github.event.inputs.app1_name }}
+          APP1_IPA: ${{ github.event.inputs.app1_ipa }}
+          APP2_NAME: ${{ github.event.inputs.app2_name }}
+          APP2_IPA: ${{ github.event.inputs.app2_ipa }}
+          APP3_NAME: ${{ github.event.inputs.app3_name }}
+          APP3_IPA: ${{ github.event.inputs.app3_ipa }}
+          APP4_NAME: ${{ github.event.inputs.app4_name }}
+          APP4_IPA: ${{ github.event.inputs.app4_ipa }}
         run: python admin_adder.py
 
       - name: Inject Custom Library directly inside IPA files
-        run: python inject.py
+        run: python inject.py || true
 
-      - name: Upload IPA to Release V1
+      - name: Upload IPAs to Release V1
         uses: softprops/action-gh-release@v1
         with:
           tag_name: V1
@@ -62,26 +92,17 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
-          # کردنەوەی کۆدی ناوی سۆرسەکە بە نهێنی
           JSON_FILE=$(echo "YXNodGVtb2JpbGU5NC5qc29u" | base64 --decode)
           
           for i in {1..20}; do
-            echo "هەوڵی ژمارە $i: هێنانی تازەترین ڤێرژنی سۆرسەکە..."
-            # فەرمانی autostash زیادکرا بۆ چارەسەرکردنی کێشەکە
             git pull origin main --rebase --autostash
-            
-            echo "خستنە ناوەوەی یارییە نوێیەکە بۆ ناو سۆرسەکە..."
             python admin_adder.py update_json
-            
-            # لێرەدا فۆڵدەری imgg زیادکرا
             git add "$JSON_FILE" backup_memory.json img/ imgg/
-            git commit -m "Added: ${{ github.event.inputs.app_name }} (${{ github.event.inputs.app_type }})" || echo "No changes"
+            git commit -m "Batch Added Apps" || echo "No changes"
             
             if git push; then
-              echo "سەرکەوتوو بوو! یارییەکە خرایە ناو گیتهاپ."
               break
             else
-              echo "هێڵەکە قەرەباڵغە! ڕۆبۆتێکی تر خەریکە... ١٠ چرکە چاوەڕێ دەکەم."
               git restore "$JSON_FILE" backup_memory.json || true
               sleep 10
             fi
