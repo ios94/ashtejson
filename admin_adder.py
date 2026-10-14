@@ -16,21 +16,21 @@ except ImportError:
     from bs4 import BeautifulSoup
 
 try:
-    import requests
+    from curl_cffi import requests
 except ImportError:
-    os.system(f"{sys.executable} -m pip install requests")
-    import requests
+    os.system(f"{sys.executable} -m pip install curl_cffi")
+    from curl_cffi import requests
 
 def _d(s):
     return base64.b64decode(s).decode('utf-8')
 
-# تۆکنە نوێیەکەت لێرەدا دانراوە بە شێوازی شاراوە
+# تۆکنە نوێیەکەت بۆ بڕینی سکیوێرتی کاتی دابەزاندنی فایلەکە
 API_TOKEN = _d('NDUwMjh8d2xBZ1JpTWpMYm1UOWZsVjlOV0xka3J2MEEwaDBjUXNGa2tjcXhTTzYzNmE0ZDAw')
 
 api_headers = {
     "Authorization": f"Bearer {API_TOKEN}",
     "Accept": "application/json, text/plain, */*",
-    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1"
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
 # === بەشی نوێکردنەوەی جەیسۆن ===
@@ -74,7 +74,8 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     print(f"✅ Data successfully updated! Added/Updated {len(new_apps)} apps.")
     exit(0)
 
-session = requests.Session()
+# سێشنی کرۆم بۆ هەڵخەڵەتاندنی سایتەکە
+session = requests.Session(impersonate="chrome120")
 
 def process_app_data(app_info, app_type):
     ex_name = app_info.get('name', '')
@@ -83,6 +84,7 @@ def process_app_data(app_info, app_type):
     ex_icon = app_info.get('image', '')
     ex_bundle = app_info.get('bundle', app_info.get('uniqueBundle', ''))
     
+    # وەرگرتنی لینکی ڕاستەقینە لەناو داتای پەڕەکە
     found_ipa_link = app_info.get('downloadURL', '')
 
     if not ex_name or not found_ipa_link:
@@ -120,7 +122,7 @@ def process_app_data(app_info, app_type):
 
     os.makedirs("ipas", exist_ok=True)
     ipa_filename = f"ipas/{slug}.ipa"
-    print(f"⬇️ دابەزاندنی فایل: {final_name} ...")
+    print(f"⬇️ دابەزاندنی فایل: {final_name} لە ڕێگەی تۆکنی API ...")
     
     limit_bytes = 1.10 * 1024 * 1024 * 1024 # 1.10 GB
     downloaded_bytes = 0
@@ -128,6 +130,7 @@ def process_app_data(app_info, app_type):
     file_size_bytes = 150000000
 
     try:
+        # لێرەدا تەنها لە کاتی دابەزاندندا تۆکنەکە بەکاردەهێنین
         r = session.get(found_ipa_link, headers=api_headers, stream=True, timeout=60, allow_redirects=True)
         if r.status_code == 200:
             with open(ipa_filename, "wb") as f:
@@ -184,13 +187,12 @@ def process_app_data(app_info, app_type):
 
     final_screenshot_urls = []
     if app_store_screenshots:
-        custom_img_headers = {"User-Agent": api_headers["User-Agent"]}
         for idx, s_url in enumerate(app_store_screenshots[:4]):
             ext_s = ".png" if ".png" in s_url.lower() else ".jpg"
             screen_filename = f"{slug}_screen_{idx+1}{ext_s}"
             screen_path = os.path.join("imgg", screen_filename)
             try:
-                sr = session.get(s_url.split('?')[0], stream=True, headers=custom_img_headers, timeout=15)
+                sr = session.get(s_url.split('?')[0], stream=True, timeout=15)
                 if sr.status_code == 200:
                     with open(screen_path, "wb") as f:
                         for chunk in sr.iter_content(8192): f.write(chunk)
@@ -234,7 +236,7 @@ def process_app_data(app_info, app_type):
     }
 
 # =========================================================================
-# بەشی سەرەکی - پشکنینی ئۆتۆماتیکی
+# بەشی سەرەکی - سیستەمی یەک بە یەکی ئۆتۆماتیکی
 # =========================================================================
 app_type = os.environ.get("APP_TYPE", "games").strip()
 app_input = os.environ.get("APP_NAME", "").strip()
@@ -247,7 +249,7 @@ if not app_input:
 generated_apps = []
 
 if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
-    print("📦 سیستەمی ئۆتۆماتیکی VIP بە تۆکنی نوێ چالاک کرا...")
+    print("📦 سیستەمی ئۆتۆماتیکی (یەک بە یەک) چالاک کرا...")
     
     existing_apps = []
     json_filename = _d('YXNodGVtb2JpbGU5NC5qc29u')
@@ -273,21 +275,20 @@ if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
 
     page_num = 1
     processed_count = 0
-    failed_attempts = 0
-    LIMIT_PER_RUN = 5 # دانەی ٥ یاری دادەبەزێنێت بۆ ئەوەی خێرا بێت
-    MAX_FAILS = 10
+    LIMIT_PER_RUN = 3 # ژمارەی ئەو یارییانەی لە یەک کاتدا دەیانکات
     stop_execution = False
 
     while processed_count < LIMIT_PER_RUN and not stop_execution:
         current_url = re.sub(r'page=\d*', f'page={page_num}', base_url)
         print(f"\n📄 پشکنینی پەڕەی {page_num}...")
         try:
-            res = session.get(current_url, headers=api_headers, timeout=15)
+            # تێبینی: لێرەدا بە ئەنقەست تۆکن نانێرین بۆ ئەوەی پەڕەکە ڕێگری نەکات
+            res = session.get(current_url, timeout=15)
             soup = BeautifulSoup(res.text, 'html.parser')
             
             app_div = soup.find('div', id='app')
             if not app_div or not app_div.has_attr('data-page'):
-                print("🏁 هیچ داتایەک نەدۆزرایەوە لە پەڕەکەدا.")
+                print("🏁 هیچ داتایەک نەدۆزرایەوە.")
                 break
                 
             page_json = json.loads(app_div['data-page'])
@@ -300,11 +301,6 @@ if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
                 
             for app_info in items:
                 if processed_count >= LIMIT_PER_RUN:
-                    break
-                    
-                if failed_attempts >= MAX_FAILS:
-                    print(f"\n🛑 هەڵەی زۆر ڕوویدا! کارەکە دەوەستێنین.")
-                    stop_execution = True
                     break
 
                 a_name = app_info.get("name", "")
@@ -319,12 +315,13 @@ if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
                 if result:
                     generated_apps.append(result)
                     processed_count += 1
-                    failed_attempts = 0
-                    print(f"📈 تا ئێستا {processed_count}/{LIMIT_PER_RUN} یاری ئامادەیە.")
+                    print(f"📈 سەرکەوتوو بوو! تا ئێستا {processed_count}/{LIMIT_PER_RUN} یاری ئامادەیە.")
+                    
+                    if processed_count < LIMIT_PER_RUN:
+                        print("⏳ پشوو دەدات بۆ ماوەی ١٠ چرکە تا سکیوێرتی بلۆکمان نەکات...")
+                        time.sleep(10)
                 else:
-                    failed_attempts += 1
-                
-                time.sleep(2)
+                    print("❌ دابەزاندنەکە کێشەی تێکەوت، دەچێتە سەر یارییەکی تر.")
             
             last_page = paginator_data.get('meta', {}).get('last_page', 1)
             if page_num >= last_page:
@@ -336,9 +333,9 @@ if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
             break
 
 else:
-    print("📥 سیستەمی یەک بە یەک چالاک کرا...")
+    print("📥 سیستەمی یەک بە یەک (دەستی) چالاک کرا...")
     try:
-        res = session.get(app_input, headers=api_headers, timeout=15)
+        res = session.get(app_input, timeout=15)
         soup = BeautifulSoup(res.text, 'html.parser')
         app_div = soup.find('div', id='app')
         if app_div and app_div.has_attr('data-page'):
