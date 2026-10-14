@@ -37,7 +37,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 lief
+        run: pip install requests beautifulsoup4 lief curl_cffi cloudscraper
 
       - name: Heavy Work (Download IPA and Scrape)
         env:
