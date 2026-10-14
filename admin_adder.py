@@ -24,10 +24,9 @@ except ImportError:
 def _d(s):
     return base64.b64decode(s).decode('utf-8')
 
-# تۆکنە تایبەتەکەی خۆت بە شێوەی شاراوە بۆ کردنەوەی سکیوێرتی
-API_TOKEN = _d('NDUwMjZ8U3VETkRsNXl3Q1NlcWh3SFZiNEJvc1dTVzE5SXAwMzB3S1M1UWRaUmJmODE4MjU5')
+# تۆکنە نوێیەکەت لێرەدا دانراوە بە شێوازی شاراوە
+API_TOKEN = _d('NDUwMjh8d2xBZ1JpTWpMYm1UOWZsVjlOV0xka3J2MEEwaDBjUXNGa2tjcXhTTzYzNmE0ZDAw')
 
-# پاسپۆرتی چوونەژوورەوە بۆ ناو سیستەمی سایتەکە
 api_headers = {
     "Authorization": f"Bearer {API_TOKEN}",
     "Accept": "application/json, text/plain, */*",
@@ -75,7 +74,6 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     print(f"✅ Data successfully updated! Added/Updated {len(new_apps)} apps.")
     exit(0)
 
-# دروستکردنی سێشن بۆ هێشتنەوەی کووکییەکان
 session = requests.Session()
 
 def process_app_data(app_info, app_type):
@@ -85,7 +83,6 @@ def process_app_data(app_info, app_type):
     ex_icon = app_info.get('image', '')
     ex_bundle = app_info.get('bundle', app_info.get('uniqueBundle', ''))
     
-    # دۆزینەوەی لینکی ڕاستەقینەی دابەزاندن
     found_ipa_link = app_info.get('downloadURL', '')
 
     if not ex_name or not found_ipa_link:
@@ -123,7 +120,7 @@ def process_app_data(app_info, app_type):
 
     os.makedirs("ipas", exist_ok=True)
     ipa_filename = f"ipas/{slug}.ipa"
-    print(f"⬇️ دابەزاندنی فایل: {final_name} لە ڕێگەی تۆکنی API ...")
+    print(f"⬇️ دابەزاندنی فایل: {final_name} ...")
     
     limit_bytes = 1.10 * 1024 * 1024 * 1024 # 1.10 GB
     downloaded_bytes = 0
@@ -131,7 +128,6 @@ def process_app_data(app_info, app_type):
     file_size_bytes = 150000000
 
     try:
-        # لێرەدا تۆکنەکەت بەکاردەهێنین بۆ بڕینی سکیوێرتی سایتەکە
         r = session.get(found_ipa_link, headers=api_headers, stream=True, timeout=60, allow_redirects=True)
         if r.status_code == 200:
             with open(ipa_filename, "wb") as f:
@@ -251,7 +247,7 @@ if not app_input:
 generated_apps = []
 
 if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
-    print("📦 سیستەمی ئۆتۆماتیکی VIP بە تۆکن چالاک کرا...")
+    print("📦 سیستەمی ئۆتۆماتیکی VIP بە تۆکنی نوێ چالاک کرا...")
     
     existing_apps = []
     json_filename = _d('YXNodGVtb2JpbGU5NC5qc29u')
@@ -278,7 +274,7 @@ if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
     page_num = 1
     processed_count = 0
     failed_attempts = 0
-    LIMIT_PER_RUN = 5 # دەتوانیت ئەم ژمارەیە زیاد بکەیت
+    LIMIT_PER_RUN = 5 # دانەی ٥ یاری دادەبەزێنێت بۆ ئەوەی خێرا بێت
     MAX_FAILS = 10
     stop_execution = False
 
@@ -291,7 +287,7 @@ if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
             
             app_div = soup.find('div', id='app')
             if not app_div or not app_div.has_attr('data-page'):
-                print("🏁 هیچ داتایەک نەدۆزرایەوە.")
+                print("🏁 هیچ داتایەک نەدۆزرایەوە لە پەڕەکەدا.")
                 break
                 
             page_json = json.loads(app_div['data-page'])
@@ -340,7 +336,6 @@ if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
             break
 
 else:
-    # ئەگەر ویستت دانە دانەش بەکاری بهێنیت وەک جاران کاری پێ دەکرێت
     print("📥 سیستەمی یەک بە یەک چالاک کرا...")
     try:
         res = session.get(app_input, headers=api_headers, timeout=15)
