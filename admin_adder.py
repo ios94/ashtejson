@@ -8,29 +8,17 @@ import base64
 import zipfile
 import time
 from datetime import datetime, timezone
-
-try:
-    from bs4 import BeautifulSoup
-except ImportError:
-    os.system(f"{sys.executable} -m pip install beautifulsoup4")
-    from bs4 import BeautifulSoup
-
-try:
-    from curl_cffi import requests
-except ImportError:
-    os.system(f"{sys.executable} -m pip install curl_cffi")
-    from curl_cffi import requests
+import requests
 
 def _d(s):
     return base64.b64decode(s).decode('utf-8')
 
-# تۆکنە نوێیەکەت بۆ بڕینی سکیوێرتی کاتی دابەزاندنی فایلەکە
+# تۆکنی تایبەتی خۆت کە ناردبووت، لێرەدا دانراوە بە شێوازی شاراوە بۆ پاراستنی ئەکاونتەکەت
 API_TOKEN = _d('NDUwMjh8d2xBZ1JpTWpMYm1UOWZsVjlOV0xka3J2MEEwaDBjUXNGa2tjcXhTTzYzNmE0ZDAw')
 
 api_headers = {
     "Authorization": f"Bearer {API_TOKEN}",
-    "Accept": "application/json, text/plain, */*",
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    "Accept": "application/json"
 }
 
 # === بەشی نوێکردنەوەی جەیسۆن ===
@@ -71,11 +59,9 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     with open(backup_file, "w", encoding="utf-8") as f:
         json.dump(source_data, f, ensure_ascii=False, indent=4)
         
-    print(f"✅ Data successfully updated! Added/Updated {len(new_apps)} apps.")
+    print(f"✅ داتا نوێکرایەوە! ژمارەی ئەپەکان: {len(new_apps)}")
     exit(0)
 
-# سێشنی کرۆم بۆ هەڵخەڵەتاندنی سایتەکە
-session = requests.Session(impersonate="chrome120")
 
 def process_app_data(app_info, app_type):
     ex_name = app_info.get('name', '')
@@ -84,7 +70,6 @@ def process_app_data(app_info, app_type):
     ex_icon = app_info.get('image', '')
     ex_bundle = app_info.get('bundle', app_info.get('uniqueBundle', ''))
     
-    # وەرگرتنی لینکی ڕاستەقینە لەناو داتای پەڕەکە
     found_ipa_link = app_info.get('downloadURL', '')
 
     if not ex_name or not found_ipa_link:
@@ -100,7 +85,7 @@ def process_app_data(app_info, app_type):
     app_store_screenshots = []
     try:
         itunes_url = f"https://itunes.apple.com/search?term={urllib.parse.quote(clean_search_name)}&entity=software&limit=1"
-        itunes_res = session.get(itunes_url, timeout=10)
+        itunes_res = requests.get(itunes_url, timeout=10)
         if itunes_res.status_code == 200:
             data = itunes_res.json()
             if data.get('resultCount', 0) > 0:
@@ -122,7 +107,7 @@ def process_app_data(app_info, app_type):
 
     os.makedirs("ipas", exist_ok=True)
     ipa_filename = f"ipas/{slug}.ipa"
-    print(f"⬇️ دابەزاندنی فایل: {final_name} لە ڕێگەی تۆکنی API ...")
+    print(f"⬇️ دابەزاندنی فایل: {final_name} لە ڕێگەی API...")
     
     limit_bytes = 1.10 * 1024 * 1024 * 1024 # 1.10 GB
     downloaded_bytes = 0
@@ -130,8 +115,7 @@ def process_app_data(app_info, app_type):
     file_size_bytes = 150000000
 
     try:
-        # لێرەدا تەنها لە کاتی دابەزاندندا تۆکنەکە بەکاردەهێنین
-        r = session.get(found_ipa_link, headers=api_headers, stream=True, timeout=60, allow_redirects=True)
+        r = requests.get(found_ipa_link, headers=api_headers, stream=True, timeout=60, allow_redirects=True)
         if r.status_code == 200:
             with open(ipa_filename, "wb") as f:
                 for chunk in r.iter_content(chunk_size=8192):
@@ -176,7 +160,7 @@ def process_app_data(app_info, app_type):
 
     if icon_to_download and icon_to_download.startswith("http"):
         try:
-            ir = session.get(icon_to_download, stream=True, timeout=10)
+            ir = requests.get(icon_to_download, stream=True, timeout=10)
             if ir.status_code == 200:
                 with open(icon_path, "wb") as f:
                     for chunk in ir.iter_content(1024): f.write(chunk)
@@ -192,7 +176,7 @@ def process_app_data(app_info, app_type):
             screen_filename = f"{slug}_screen_{idx+1}{ext_s}"
             screen_path = os.path.join("imgg", screen_filename)
             try:
-                sr = session.get(s_url.split('?')[0], stream=True, timeout=15)
+                sr = requests.get(s_url.split('?')[0], stream=True, timeout=15)
                 if sr.status_code == 200:
                     with open(screen_path, "wb") as f:
                         for chunk in sr.iter_content(8192): f.write(chunk)
@@ -235,12 +219,12 @@ def process_app_data(app_info, app_type):
         }]
     }
 
+
 # =========================================================================
-# بەشی سەرەکی - سیستەمی یەک بە یەکی ئۆتۆماتیکی
+# بەشی سەرەکی - سیستەمی ئۆتۆماتیکی API
 # =========================================================================
 app_type = os.environ.get("APP_TYPE", "games").strip()
 app_input = os.environ.get("APP_NAME", "").strip()
-ipa_input = os.environ.get("IPA_LINK", "").strip()
 
 if not app_input:
     print("Error: Missing required input fields.")
@@ -248,119 +232,86 @@ if not app_input:
 
 generated_apps = []
 
-if ipa_input.lower() == "bulk" or "page=" in app_input or "filter" in app_input:
-    print("📦 سیستەمی ئۆتۆماتیکی (یەک بە یەک) چالاک کرا...")
-    
-    existing_apps = []
-    json_filename = _d('YXNodGVtb2JpbGU5NC5qc29u')
-    if os.path.exists(json_filename):
-        with open(json_filename, "r", encoding="utf-8") as f:
-            try:
-                data = json.load(f)
-                existing_apps = data.get("apps", [])
-            except: pass
-            
-    def needs_download(name, version):
-        for ea in existing_apps:
-            if ea.get("name") == name:
-                if ea.get("version") == version:
-                    return False
-                else:
-                    return True
-        return True
+print("📦 سیستەمی ئۆتۆماتیکی (توماتیک) API چالاک کرا...")
 
-    base_url = re.sub(r'([?&])page=\d+', r'\g<1>page=', app_input)
-    if "page=" not in base_url:
-        base_url += "&page=" if "?" in base_url else "?page="
-
-    page_num = 1
-    processed_count = 0
-    LIMIT_PER_RUN = 3 # ژمارەی ئەو یارییانەی لە یەک کاتدا دەیانکات
-    stop_execution = False
-
-    while processed_count < LIMIT_PER_RUN and not stop_execution:
-        current_url = re.sub(r'page=\d*', f'page={page_num}', base_url)
-        print(f"\n📄 پشکنینی پەڕەی {page_num}...")
+existing_apps = []
+json_filename = _d('YXNodGVtb2JpbGU5NC5qc29u')
+if os.path.exists(json_filename):
+    with open(json_filename, "r", encoding="utf-8") as f:
         try:
-            # تێبینی: لێرەدا بە ئەنقەست تۆکن نانێرین بۆ ئەوەی پەڕەکە ڕێگری نەکات
-            res = session.get(current_url, timeout=15)
-            soup = BeautifulSoup(res.text, 'html.parser')
-            
-            app_div = soup.find('div', id='app')
-            if not app_div or not app_div.has_attr('data-page'):
-                print("🏁 هیچ داتایەک نەدۆزرایەوە.")
-                break
-                
-            page_json = json.loads(app_div['data-page'])
-            paginator_data = page_json.get('props', {}).get('paginator', {})
-            items = paginator_data.get('data', [])
-            
-            if not items:
-                print("🏁 پەڕەکە خاڵییە، گەڕان کۆتایی هات.")
-                break
-                
-            for app_info in items:
-                if processed_count >= LIMIT_PER_RUN:
-                    break
+            data = json.load(f)
+            existing_apps = data.get("apps", [])
+        except: pass
+        
+def needs_download(name, version):
+    for ea in existing_apps:
+        if ea.get("name") == name:
+            if ea.get("version") == version:
+                return False
+            else:
+                return True
+    return True
 
-                a_name = app_info.get("name", "")
-                a_ver = app_info.get("version", "")
-                
-                if not needs_download(a_name, a_ver):
-                    continue
-                    
-                print(f"\n🌟 یارییەکی نوێ دۆزرایەوە: {a_name} (v{a_ver})")
-                result = process_app_data(app_info, app_type)
-                
-                if result:
-                    generated_apps.append(result)
-                    processed_count += 1
-                    print(f"📈 سەرکەوتوو بوو! تا ئێستا {processed_count}/{LIMIT_PER_RUN} یاری ئامادەیە.")
-                    
-                    if processed_count < LIMIT_PER_RUN:
-                        print("⏳ پشوو دەدات بۆ ماوەی ١٠ چرکە تا سکیوێرتی بلۆکمان نەکات...")
-                        time.sleep(10)
-                else:
-                    print("❌ دابەزاندنەکە کێشەی تێکەوت، دەچێتە سەر یارییەکی تر.")
-            
-            last_page = paginator_data.get('meta', {}).get('last_page', 1)
-            if page_num >= last_page:
-                break
-            page_num += 1
-            
-        except Exception as e:
-            print(f"Error reading page: {e}")
-            break
+# گۆڕینی لینکی ئاسایی بۆ لینکی API بە شێوەیەکی زیرەک
+api_base_url = app_input.replace("/en/iapps", "/api/iapps")
+if "page=" not in api_base_url:
+    api_base_url += "&page=" if "?" in api_base_url else "?page="
 
-else:
-    print("📥 سیستەمی یەک بە یەک (دەستی) چالاک کرا...")
+page_num = 1
+processed_count = 0
+LIMIT_PER_RUN = 5 # دەتوانیت ئەمە زیاد بکەیت ئەگەر ویستت زیاتر دابەزێنێت لە یەک جاردا
+
+while processed_count < LIMIT_PER_RUN:
+    current_url = re.sub(r'page=\d*', f'page={page_num}', api_base_url)
+    print(f"\n📄 پشکنینی پەڕەی {page_num} لە API...")
+    
     try:
-        res = session.get(app_input, timeout=15)
-        soup = BeautifulSoup(res.text, 'html.parser')
-        app_div = soup.find('div', id='app')
-        if app_div and app_div.has_attr('data-page'):
-            page_json = json.loads(app_div['data-page'])
+        # ڕاکێشانی داتا ڕاستەوخۆ بە فۆرماتی JSON
+        res = requests.get(current_url, headers=api_headers, timeout=15)
+        
+        if res.status_code != 200:
+            print(f"🏁 کۆتایی هات یان کێشە لە API هەیە (کۆد {res.status_code}).")
+            break
             
-            def find_dict(d):
-                if isinstance(d, dict):
-                    if 'uuid' in d and 'name' in d and 'bundle' in d: return d
-                    for v in d.values():
-                        r = find_dict(v)
-                        if r: return r
-                elif isinstance(d, list):
-                    for item in d:
-                        r = find_dict(item)
-                        if r: return r
-                return None
+        data = res.json()
+        items = data.get('data', [])
+        
+        if not items:
+            print("🏁 هیچ یارییەکی تر نەماوە، گەڕان کۆتایی هات.")
+            break
+            
+        for app_info in items:
+            if processed_count >= LIMIT_PER_RUN:
+                break
+
+            a_name = app_info.get("name", "")
+            a_ver = app_info.get("version", "")
+            
+            if not needs_download(a_name, a_ver):
+                continue
                 
-            target = find_dict(page_json)
-            if target:
-                if ipa_input and "http" in ipa_input:
-                    target['downloadURL'] = ipa_input
-                result = process_app_data(target, app_type)
-                if result: generated_apps.append(result)
+            print(f"\n🌟 یارییەکی نوێ دۆزرایەوە: {a_name} (v{a_ver})")
+            result = process_app_data(app_info, app_type)
+            
+            if result:
+                generated_apps.append(result)
+                processed_count += 1
+                print(f"📈 سەرکەوتوو بوو! تا ئێستا {processed_count}/{LIMIT_PER_RUN} یاری ئامادەیە.")
+                
+                if processed_count < LIMIT_PER_RUN:
+                    time.sleep(3) # کەمێک پشوو دەدات
+            else:
+                print("❌ دابەزاندنەکە کێشەی تێکەوت.")
+        
+        last_page = data.get('meta', {}).get('last_page', 1)
+        if page_num >= last_page:
+            break
+        page_num += 1
+        
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Error reading API: {e}")
+        break
+
 
 if generated_apps:
     with open("temp_app.json", "w", encoding="utf-8") as f:
