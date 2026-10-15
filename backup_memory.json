@@ -10,6 +10,150 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1548794311,
+            "name": "Grand Mountain Adventure 2",
+            "version": "1.082",
+            "size": 311592063,
+            "icon": "img/grandmountainadventure2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/grandmountainadventure2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/grandmountainadventure2.ipa",
+            "bundleIdentifier": "com.toppluva.grandmountain2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free iAP (Press cancel when Buy) -- Turn on cheat option inside iOSGods Menu first",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/grandmountainadventure2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.082",
+                    "date": "2026-10-15T01:10:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/grandmountainadventure2.ipa",
+                    "size": 311592063,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1738576770,
+            "name": "Ragdoll Gladiator",
+            "version": "0.0.16",
+            "size": 81154461,
+            "icon": "img/ragdollgladiator.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/ragdollgladiator.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/ragdollgladiator.ipa",
+            "bundleIdentifier": "com.TornadoBear.RagdollGladiator",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Never Die → survive any battle undefeated\n- One Hit Kill → defeat any enemy instantly\n- Unlimited Currency → unlock all weapons, armor, and upgrades",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ragdollgladiator.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.16",
+                    "date": "2026-10-15T01:09:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/ragdollgladiator.ipa",
+                    "size": 81154461,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1636557126,
+            "name": "Marblebound",
+            "version": "1.0.3",
+            "size": 205052834,
+            "icon": "img/marblebound.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/marblebound.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/marblebound.ipa",
+            "bundleIdentifier": "com.ht.marbleheroes",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Pre Activated\r\n- Never Die\r\n- ATK",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/marblebound.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.3",
+                    "date": "2026-10-15T01:09:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/marblebound.ipa",
+                    "size": 205052834,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1289350922,
             "name": "GunzTower: Pixel Dungeon RPG",
             "version": "1.22",
@@ -42,7 +186,7 @@
             "versions": [
                 {
                     "version": "1.22",
-                    "date": "2026-10-15T01:08:35+00:00",
+                    "date": "2026-10-15T01:09:37+00:00",
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/gunztowerpixeldungeonrpg.ipa",
                     "size": 338965954,
@@ -2246,150 +2390,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zsurvivorbackpackshooter_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zsurvivorbackpackshooter_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zsurvivorbackpackshooter_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1548794311,
-            "name": "Grand Mountain Adventure 2",
-            "version": "1.082",
-            "size": 311592063,
-            "icon": "img/grandmountainadventure2.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/grandmountainadventure2.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/grandmountainadventure2.ipa",
-            "bundleIdentifier": "com.toppluva.grandmountain2",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Free iAP (Press cancel when Buy) -- Turn on cheat option inside iOSGods Menu first",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/grandmountainadventure2.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.082",
-                    "date": "2026-10-15T00:32:39+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/grandmountainadventure2.ipa",
-                    "size": 311592063,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1738576770,
-            "name": "Ragdoll Gladiator",
-            "version": "0.0.16",
-            "size": 81154461,
-            "icon": "img/ragdollgladiator.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/ragdollgladiator.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/ragdollgladiator.ipa",
-            "bundleIdentifier": "com.TornadoBear.RagdollGladiator",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Never Die → survive any battle undefeated\n- One Hit Kill → defeat any enemy instantly\n- Unlimited Currency → unlock all weapons, armor, and upgrades",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ragdollgladiator.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "0.0.16",
-                    "date": "2026-10-15T00:20:00+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/ragdollgladiator.ipa",
-                    "size": 81154461,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollgladiator_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1636557126,
-            "name": "Marblebound",
-            "version": "1.0.3",
-            "size": 205052834,
-            "icon": "img/marblebound.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/marblebound.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/marblebound.ipa",
-            "bundleIdentifier": "com.ht.marbleheroes",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Pre Activated\r\n- Never Die\r\n- ATK",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/marblebound.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.3",
-                    "date": "2026-10-15T00:19:52+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/marblebound.ipa",
-                    "size": 205052834,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_4.png"
                     ]
                 }
             ]
