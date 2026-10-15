@@ -1,0 +1,54 @@
+name: Admin Panel - App Deleter
+
+on:
+  workflow_dispatch:
+    inputs:
+      app_name:
+        description: 'ناوی ئەو یارییە بنووسە کە دەتەوێت بیسڕیتەوە (وەک خۆی بنووسە)'
+        required: true
+        type: string
+
+jobs:
+  delete_app:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run Deleter Script
+        env:
+          DELETE_APP_NAME: ${{ github.event.inputs.app_name }}
+        run: python admin_deleter.py
+
+      - name: Delete IPA from Release V1
+        run: |
+          if [ -n "$IPA_TO_DELETE" ]; then
+            echo "سڕینەوەی فایلی $IPA_TO_DELETE لە ڕیلیز..."
+            gh release delete-asset V1 "$IPA_TO_DELETE" -y || echo "فایلەکە لە ڕیلیز نەدۆزرایەوە"
+          else
+            echo "هیچ فایلێکی IPA نەدۆزرایەوە بۆ سڕینەوە"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push Changes to GitHub
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          
+          JSON_FILE=$(echo "YXNodGVtb2JpbGU5NC5qc29u" | base64 --decode)
+          
+          git pull origin main --rebase --autostash
+          git add "$JSON_FILE" backup_memory.json img/ imgg/
+          git commit -m "Deleted App: ${{ github.event.inputs.app_name }}" || echo "No changes"
+          git push origin main
