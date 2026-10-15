@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1551611195,
+            "name": "MA 3 – President Simulator",
+            "version": "37",
+            "size": 355873056,
+            "icon": "img/ma3presidentsimulator.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/ma3presidentsimulator.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/ma3presidentsimulator.ipa",
+            "bundleIdentifier": "com.oxiwyle.modernage3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Everything -> Will increase instead of decrease.\n-- Premium Enabled\n-- Acceleration Enabled\n-- No Ads Enabled",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ma3presidentsimulator.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ma3presidentsimulator_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ma3presidentsimulator_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ma3presidentsimulator_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ma3presidentsimulator_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ma3presidentsimulator_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ma3presidentsimulator_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ma3presidentsimulator_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ma3presidentsimulator_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "37",
+                    "date": "2026-10-15T16:00:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/ma3presidentsimulator.ipa",
+                    "size": 355873056,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ma3presidentsimulator_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ma3presidentsimulator_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ma3presidentsimulator_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ma3presidentsimulator_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1332451225,
             "name": "Farm Rush: Harvest Tycoon",
             "version": "1.4",
