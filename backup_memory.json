@@ -10,6 +10,183 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1228830411,
+            "name": "Smash Fest!",
+            "version": "717",
+            "size": 125500471,
+            "icon": "img/smashfest.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
+            "bundleIdentifier": "com.flow.cannon-ball",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Get Max Coin / Booster When Spent → coins and boosters refill instantly after use\n- No Ads → uninterrupted gameplay throughout\n- Infinite Ball → unlimited shots to complete every level",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "717",
+                    "date": "2026-10-15T00:41:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
+                    "size": 125500471,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1196556518,
+            "name": "Tropicats: Match 3 Puzzle Game",
+            "version": "2.5.11",
+            "size": 146271754,
+            "icon": "img/tropicatsmatch3puzzlegame.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/tropicatsmatch3puzzlegame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/tropicatsmatch3puzzlegame.ipa",
+            "bundleIdentifier": "net.wooga.tropicats-tropical-cats-puzzle-paradise",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Diamonds (Get/Use Some)\n- Unlimited Coins (Get/Use Some)\n- Infinite Lives\n- Unlimited Boosters\n- XP/Level Hack\n- Auto Win",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tropicatsmatch3puzzlegame.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicatsmatch3puzzlegame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicatsmatch3puzzlegame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicatsmatch3puzzlegame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicatsmatch3puzzlegame_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicatsmatch3puzzlegame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicatsmatch3puzzlegame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicatsmatch3puzzlegame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicatsmatch3puzzlegame_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.5.11",
+                    "date": "2026-10-15T00:41:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/tropicatsmatch3puzzlegame.ipa",
+                    "size": 146271754,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicatsmatch3puzzlegame_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicatsmatch3puzzlegame_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicatsmatch3puzzlegame_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicatsmatch3puzzlegame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1701113665,
+            "name": "Merge Cooking®",
+            "version": "1.61.0",
+            "size": 356352183,
+            "icon": "img/mergecooking.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mergecooking.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mergecooking.ipa",
+            "bundleIdentifier": "com.merge.cooking.theme.restaurant.food",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "✅ Free store",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergecooking.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergecooking_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergecooking_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergecooking_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergecooking_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergecooking_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergecooking_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergecooking_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergecooking_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.61.0",
+                    "date": "2026-10-15T00:41:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mergecooking.ipa",
+                    "size": 356352183,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergecooking_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergecooking_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergecooking_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergecooking_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1146857495,
+            "name": "Candy Crush Jelly Saga",
+            "version": "4.17.2",
+            "size": 132505862,
+            "icon": "img/candycrushjellysaga.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/candycrushjellysaga.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/candycrushjellysaga.ipa",
+            "bundleIdentifier": "com.midasplayer.apps.candycrushjellysaga1",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited number of steps",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/candycrushjellysaga.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [],
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "4.17.2",
+                    "date": "2026-10-15T00:40:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/candycrushjellysaga.ipa",
+                    "size": 132505862,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": []
+                }
+            ]
+        },
+        {
             "id": 1533715073,
             "name": "Angry Birds Dream Blast",
             "version": "2.10.1",
@@ -4949,54 +5126,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarlegacy_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarlegacy_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarlegacy_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1228830411,
-            "name": "Smash Fest!",
-            "version": "714",
-            "size": 125493161,
-            "icon": "img/smashfest.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
-            "bundleIdentifier": "com.flow.cannon-ball",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Get Max Coin / Booster When Spent → coins and boosters refill instantly after use\n- No Ads → uninterrupted gameplay throughout\n- Infinite Ball → unlimited shots to complete every level",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "714",
-                    "date": "2026-10-13T01:19:49+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
-                    "size": 125493161,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_4.jpg"
                     ]
                 }
             ]
