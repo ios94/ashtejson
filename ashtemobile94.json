@@ -10,6 +10,198 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1701181230,
+            "name": "Rush Protocol",
+            "version": "0.0.902",
+            "size": 168383174,
+            "icon": "img/rushprotocol.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/rushprotocol.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/rushprotocol.ipa",
+            "bundleIdentifier": "com.cgdealers.rushprotocol",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto ADS NO → manual aiming control\n- Unlimited Gems → premium currency without limits\n- Unlimited Coins → in-game currency for upgrades\n- Unlimited Weapon Part → craft and upgrade weapons freely",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rushprotocol.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.902",
+                    "date": "2026-10-15T00:35:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/rushprotocol.ipa",
+                    "size": 168383174,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1437169020,
+            "name": "The Lord of Novels",
+            "version": "2.3.7",
+            "size": 170072929,
+            "icon": "img/thelordofnovels.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/thelordofnovels.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/thelordofnovels.ipa",
+            "bundleIdentifier": "com.magiccubegames.LON",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → boost your squad's offensive power\n- Never Die → take no damage in battle\n- No Attack Cooldown → attack continuously without delay\n- Unlimited Gold → earn or spend freely\n- Unlimited Bells → earn or spend freely\n- Unlimited Energy → earn or spend freely",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/thelordofnovels.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thelordofnovels_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thelordofnovels_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thelordofnovels_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thelordofnovels_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thelordofnovels_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thelordofnovels_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thelordofnovels_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thelordofnovels_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.3.7",
+                    "date": "2026-10-15T00:35:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/thelordofnovels.ipa",
+                    "size": 170072929,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thelordofnovels_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thelordofnovels_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thelordofnovels_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thelordofnovels_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1688344226,
+            "name": "Sand Loop",
+            "version": "1.15.0",
+            "size": 195348274,
+            "icon": "img/sandloop.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/sandloop.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/sandloop.ipa",
+            "bundleIdentifier": "com.pc.sand.loop",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "-  Spend to Increase",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sandloop.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloop_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloop_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloop_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloop_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloop_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloop_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloop_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloop_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.15.0",
+                    "date": "2026-10-15T00:34:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/sandloop.ipa",
+                    "size": 195348274,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloop_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloop_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloop_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloop_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1354834223,
+            "name": "Disney Solitaire",
+            "version": "1.26.0",
+            "size": 183409845,
+            "icon": "img/disneysolitaire.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/disneysolitaire.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/disneysolitaire.ipa",
+            "bundleIdentifier": "com.superplaystudios.disneysolitairedreams",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Coins [ Win Match ]\r\n- Task [ No Need Star ]\r\n- Stars\r\n- Undo\r\n- Wild Card\r\n- Free Ticket\r\n- Auto Win",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/disneysolitaire.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneysolitaire_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneysolitaire_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneysolitaire_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneysolitaire_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneysolitaire_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneysolitaire_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneysolitaire_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneysolitaire_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.26.0",
+                    "date": "2026-10-15T00:34:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/disneysolitaire.ipa",
+                    "size": 183409845,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneysolitaire_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneysolitaire_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneysolitaire_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneysolitaire_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1289350922,
             "name": "GunzTower: Pixel Dungeon RPG",
             "version": "1.22",
