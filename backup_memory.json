@@ -10,6 +10,198 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1999730316,
+            "name": "Travel Decor",
+            "version": "2.0.0",
+            "size": 208658258,
+            "icon": "img/traveldecor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/traveldecor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/traveldecor.ipa",
+            "bundleIdentifier": "com.match.fun.free.traveldecor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto ADS OFF\n- Auto Win / Use 1 Move\n- Unlimited Coins / Use & Earn\n- Unlimited Potion / Use & Earn\n- Unlimited Lives / Use & Earn",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/traveldecor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.0",
+                    "date": "2026-10-15T16:38:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/traveldecor.ipa",
+                    "size": 208658258,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1534127536,
+            "name": "Recycle Empire",
+            "version": "0.22",
+            "size": 169684404,
+            "icon": "img/recycleempire.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/recycleempire.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/recycleempire.ipa",
+            "bundleIdentifier": "com.eg.recycleempire",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Cash (Will go negative, but you can still spend!)\n- High move speed",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/recycleempire.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.22",
+                    "date": "2026-10-15T16:38:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/recycleempire.ipa",
+                    "size": 169684404,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1247447735,
+            "name": "Fairyland - Merge & Match",
+            "version": "2.7.2",
+            "size": 172679781,
+            "icon": "img/fairylandmergematch.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/fairylandmergematch.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/fairylandmergematch.ipa",
+            "bundleIdentifier": "com.mergematch.fairyland",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto Win\n- Gems\n- Coins\n- Moves 99",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fairylandmergematch.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.7.2",
+                    "date": "2026-10-15T16:38:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/fairylandmergematch.ipa",
+                    "size": 172679781,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1631805511,
+            "name": "Mystery Inn: Merge Adventure",
+            "version": "2.27.1",
+            "size": 217671310,
+            "icon": "img/mysteryinnmergeadventure.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mysteryinnmergeadventure.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mysteryinnmergeadventure.ipa",
+            "bundleIdentifier": "com.rhinogames.hotel.project",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ADS NO\n- Unlimited Gems\n- Unlimited Coins\n- Unlimited Energy",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mysteryinnmergeadventure.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.27.1",
+                    "date": "2026-10-15T16:37:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mysteryinnmergeadventure.ipa",
+                    "size": 217671310,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1779364434,
             "name": "Survival Island: Survivor EVO",
             "version": "2.46.7",
@@ -919,102 +1111,6 @@
             ]
         },
         {
-            "id": 1999730316,
-            "name": "Travel Decor",
-            "version": "2.0.0",
-            "size": 208658258,
-            "icon": "img/traveldecor.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/traveldecor.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/traveldecor.ipa",
-            "bundleIdentifier": "com.match.fun.free.traveldecor",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Auto ADS OFF\n- Auto Win / Use 1 Move\n- Unlimited Coins / Use & Earn\n- Unlimited Potion / Use & Earn\n- Unlimited Lives / Use & Earn",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/traveldecor.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "2.0.0",
-                    "date": "2026-10-15T03:10:28+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/traveldecor.ipa",
-                    "size": 208658258,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveldecor_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1534127536,
-            "name": "Recycle Empire",
-            "version": "0.22",
-            "size": 169684404,
-            "icon": "img/recycleempire.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/recycleempire.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/recycleempire.ipa",
-            "bundleIdentifier": "com.eg.recycleempire",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Infinite Cash (Will go negative, but you can still spend!)\n- High move speed",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/recycleempire.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "0.22",
-                    "date": "2026-10-15T03:10:03+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/recycleempire.ipa",
-                    "size": 169684404,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1286298517,
             "name": "Roadside Empire: Gas station",
             "version": "1.38.1",
@@ -1058,102 +1154,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roadsideempiregasstation_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roadsideempiregasstation_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roadsideempiregasstation_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1247447735,
-            "name": "Fairyland - Merge & Match",
-            "version": "2.7.2",
-            "size": 172679781,
-            "icon": "img/fairylandmergematch.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/fairylandmergematch.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/fairylandmergematch.ipa",
-            "bundleIdentifier": "com.mergematch.fairyland",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Auto Win\n- Gems\n- Coins\n- Moves 99",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fairylandmergematch.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "2.7.2",
-                    "date": "2026-10-15T03:08:53+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/fairylandmergematch.ipa",
-                    "size": 172679781,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairylandmergematch_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1631805511,
-            "name": "Mystery Inn: Merge Adventure",
-            "version": "2.27.1",
-            "size": 217671310,
-            "icon": "img/mysteryinnmergeadventure.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mysteryinnmergeadventure.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mysteryinnmergeadventure.ipa",
-            "bundleIdentifier": "com.rhinogames.hotel.project",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- ADS NO\n- Unlimited Gems\n- Unlimited Coins\n- Unlimited Energy",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mysteryinnmergeadventure.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "2.27.1",
-                    "date": "2026-10-15T03:08:34+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mysteryinnmergeadventure.ipa",
-                    "size": 217671310,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysteryinnmergeadventure_screen_4.jpg"
                     ]
                 }
             ]
