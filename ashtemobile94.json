@@ -10,6 +10,195 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1887760579,
+            "name": "Privateers: Pirate Wars",
+            "version": "1.0.3",
+            "size": 101461772,
+            "icon": "img/privateerspiratewars.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/privateerspiratewars.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/privateerspiratewars.ipa",
+            "bundleIdentifier": "com.madfatcat.privateers",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → amplify your firepower in combat\n- Defense Multiplier → strengthen your ship's resilience\n- Add Gems → generate premium currency freely\n- Add Coins → accumulate in-game currency instantly\n- No ADS → play uninterrupted by advertisements",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/privateerspiratewars.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/privateerspiratewars_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/privateerspiratewars_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/privateerspiratewars_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/privateerspiratewars_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/privateerspiratewars_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/privateerspiratewars_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.3",
+                    "date": "2026-10-15T02:43:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/privateerspiratewars.ipa",
+                    "size": 101461772,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/privateerspiratewars_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/privateerspiratewars_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/privateerspiratewars_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1491885879,
+            "name": "Levelup RPG",
+            "version": "4.3.4",
+            "size": 377859040,
+            "icon": "img/leveluprpg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/leveluprpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/leveluprpg.ipa",
+            "bundleIdentifier": "com.YSK.LVUP",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Never Die\n- Drop Multiplier\n- Add Gems \n- Add Gold \n- Add Exp \n- Add Everything",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/leveluprpg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveluprpg_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveluprpg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveluprpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveluprpg_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveluprpg_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveluprpg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveluprpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveluprpg_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.3.4",
+                    "date": "2026-10-15T02:43:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/leveluprpg.ipa",
+                    "size": 377859040,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveluprpg_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveluprpg_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveluprpg_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveluprpg_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1768743852,
+            "name": "Coin Master",
+            "version": "3.5.2740",
+            "size": 108546111,
+            "icon": "img/coinmaster.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/coinmaster.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/coinmaster.ipa",
+            "bundleIdentifier": "com.mobile-softing.coinmaster",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "This app has iGameGod Jailed enabled so you can use the iOS Cheat Engine, Speed Hack Manager or Auto Touch Recorder to your liking",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/coinmaster.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinmaster_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinmaster_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinmaster_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinmaster_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinmaster_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinmaster_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinmaster_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinmaster_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.5.2740",
+                    "date": "2026-10-15T02:42:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/coinmaster.ipa",
+                    "size": 108546111,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinmaster_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinmaster_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinmaster_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinmaster_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1183021476,
+            "name": "ULTRAMAN Puzzle Shuwatch!!",
+            "version": "1.26.91",
+            "size": 137039482,
+            "icon": "img/ultramanpuzzleshuwatch.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/ultramanpuzzleshuwatch.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/ultramanpuzzleshuwatch.ipa",
+            "bundleIdentifier": "com.ultraman.puzzshuwa",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Always Our Turn\n- No ADS",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ultramanpuzzleshuwatch.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultramanpuzzleshuwatch_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultramanpuzzleshuwatch_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultramanpuzzleshuwatch_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultramanpuzzleshuwatch_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultramanpuzzleshuwatch_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultramanpuzzleshuwatch_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultramanpuzzleshuwatch_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultramanpuzzleshuwatch_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.26.91",
+                    "date": "2026-10-15T02:42:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/ultramanpuzzleshuwatch.ipa",
+                    "size": 137039482,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultramanpuzzleshuwatch_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultramanpuzzleshuwatch_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultramanpuzzleshuwatch_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultramanpuzzleshuwatch_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1873199580,
             "name": "Good Coffee, Great Coffee",
             "version": "1.25.1",
@@ -10034,37 +10223,6 @@
             ]
         },
         {
-            "id": 1491885879,
-            "name": "Levelup RPG",
-            "version": "4.3.3",
-            "size": "359.18 MB",
-            "icon": "img/leveluprpg.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/leveluprpg.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/leveluprpg.ipa",
-            "bundleIdentifier": "com.YSK.LVUP",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Damage Multiplier\n- Never Die\n- Drop Multiplier\n- Add Gems \n- Add Gold \n- Add Exp \n- Add Everything",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/leveluprpg.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "4.3.3",
-                    "date": "2026-10-08T21:23:38+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/leveluprpg.ipa",
-                    "size": 376627527,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
             "id": 1942557203,
             "name": "Among Us!",
             "version": "2026.9.29",
@@ -10338,37 +10496,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/highwaydrifterhajwalaonline.ipa",
                     "size": 402013552,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1768743852,
-            "name": "Coin Master",
-            "version": "3.5.2731",
-            "size": "104.05 MB",
-            "icon": "img/coinmaster.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/coinmaster.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/coinmaster.ipa",
-            "bundleIdentifier": "com.mobile-softing.coinmaster",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "This app has iGameGod Jailed enabled so you can use the iOS Cheat Engine, Speed Hack Manager or Auto Touch Recorder to your liking",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/coinmaster.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "3.5.2731",
-                    "date": "2026-10-08T20:10:46+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/coinmaster.ipa",
-                    "size": 109104332,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
