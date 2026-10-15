@@ -10,6 +10,13 @@ on:
         options:
           - games
           - apps
+      inject_dylib:
+        description: 'ئایا AlertAshte.dylib بخرێتە ناو یارییەکان؟'
+        required: true
+        type: choice
+        options:
+          - 'Yes'
+          - 'No'
       app1_name:
         description: '١. لینکی پەڕەی یاری یەکەم'
         required: false
@@ -77,6 +84,7 @@ jobs:
         run: python admin_adder.py
 
       - name: Inject Custom Library directly inside IPA files
+        if: ${{ github.event.inputs.inject_dylib == 'Yes' }}
         run: python inject.py || true
 
       - name: Upload IPAs to Release V1
