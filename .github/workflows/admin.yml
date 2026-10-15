@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       app_type:
-        description: 'ئایا ئەمە یارییە یان بەرنامە؟'
+        description: 'ئایا ئەمە یارییە یان بەرنامە؟ (games یان apps)'
         required: true
         type: choice
         options:
@@ -15,7 +15,7 @@ on:
         required: false
         type: string
       app1_ipa:
-        description: '١. لینکی IPA ی یەکەم'
+        description: '١. لینکی ڕاستەوخۆی IPA یەکەم'
         required: false
         type: string
       app2_name:
@@ -23,7 +23,7 @@ on:
         required: false
         type: string
       app2_ipa:
-        description: '٢. لینکی IPA ی دووەم'
+        description: '٢. لینکی ڕاستەوخۆی IPA دووەم'
         required: false
         type: string
       app3_name:
@@ -31,7 +31,7 @@ on:
         required: false
         type: string
       app3_ipa:
-        description: '٣. لینکی IPA ی سێیەم'
+        description: '٣. لینکی ڕاستەوخۆی IPA سێیەم'
         required: false
         type: string
       app4_name:
@@ -39,7 +39,7 @@ on:
         required: false
         type: string
       app4_ipa:
-        description: '٤. لینکی IPA ی چوارەم'
+        description: '٤. لینکی ڕاستەوخۆی IPA چوارەم'
         required: false
         type: string
 
@@ -95,14 +95,20 @@ jobs:
           JSON_FILE=$(echo "YXNodGVtb2JpbGU5NC5qc29u" | base64 --decode)
           
           for i in {1..20}; do
+            echo "هەوڵی ژمارە $i: هێنانی تازەترین ڤێرژنی سۆرسەکە..."
             git pull origin main --rebase --autostash
+            
+            echo "خستنە ناوەوەی یارییەکان بۆ ناو سۆرسەکە..."
             python admin_adder.py update_json
+            
             git add "$JSON_FILE" backup_memory.json img/ imgg/
-            git commit -m "Batch Added Apps" || echo "No changes"
+            git commit -m "Batch Added 4 Apps" || echo "No changes"
             
             if git push; then
+              echo "سەرکەوتوو بوو! یارییەکان خرانە ناو گیتهاپ."
               break
             else
+              echo "هێڵەکە قەرەباڵغە! ١٠ چرکە چاوەڕێ دەکەم."
               git restore "$JSON_FILE" backup_memory.json || true
               sleep 10
             fi
