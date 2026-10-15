@@ -10,6 +10,198 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1195711932,
+            "name": "Aqua Rush!",
+            "version": "3.19.0",
+            "size": 167962573,
+            "icon": "img/aquarush.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/aquarush.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/aquarush.ipa",
+            "bundleIdentifier": "com.dalakgames.aquajam",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Click, match, and move similar-colored characters!\n\n- Free Store",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aquarush.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquarush_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquarush_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquarush_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquarush_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquarush_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquarush_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquarush_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquarush_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.19.0",
+                    "date": "2026-10-15T17:06:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/aquarush.ipa",
+                    "size": 167962573,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquarush_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquarush_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquarush_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquarush_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1802688167,
+            "name": "Mob Control",
+            "version": "3.24.0",
+            "size": 190176740,
+            "icon": "img/mobcontrol.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mobcontrol.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mobcontrol.ipa",
+            "bundleIdentifier": "com.vincentb.MobControl",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Coins\n- Unlimited Skip'Its\n- Unlimited Stars -> Earn some.\n- Unlimited Bricks\n- Unlimited Earnt Bricks\n- Unlimited Cards -> Will increase instead of decrease.\n- No Card Requirement",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.24.0",
+                    "date": "2026-10-15T17:06:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mobcontrol.ipa",
+                    "size": 190176740,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1819048965,
+            "name": "Merge Gardens",
+            "version": "1.57.0",
+            "size": 463797340,
+            "icon": "img/mergegardens.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mergegardens.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mergegardens.ipa",
+            "bundleIdentifier": "com.futureplay.mergematch",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Currencies",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergegardens.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergegardens_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergegardens_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergegardens_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergegardens_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergegardens_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergegardens_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergegardens_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergegardens_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.57.0",
+                    "date": "2026-10-15T17:05:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mergegardens.ipa",
+                    "size": 463797340,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergegardens_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergegardens_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergegardens_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergegardens_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1795713635,
+            "name": "AeroMayhem PvP: Air Combat Ace",
+            "version": "2.086",
+            "size": 88722559,
+            "icon": "img/aeromayhempvpaircombatace.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/aeromayhempvpaircombatace.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/aeromayhempvpaircombatace.ipa",
+            "bundleIdentifier": "com.teapotgames.aeromayhem",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlock All Planes → access every fighter jet from the start\n- Never Die → survive every engagement undefeated\n- Gun No Heat → fire without cooldown restrictions\n- Rocket Max → unlimited rocket capacity and power",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aeromayhempvpaircombatace.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aeromayhempvpaircombatace_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aeromayhempvpaircombatace_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aeromayhempvpaircombatace_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aeromayhempvpaircombatace_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aeromayhempvpaircombatace_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aeromayhempvpaircombatace_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aeromayhempvpaircombatace_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aeromayhempvpaircombatace_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.086",
+                    "date": "2026-10-15T17:04:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/aeromayhempvpaircombatace.ipa",
+                    "size": 88722559,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aeromayhempvpaircombatace_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aeromayhempvpaircombatace_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aeromayhempvpaircombatace_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aeromayhempvpaircombatace_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1887760579,
             "name": "Privateers: Pirate Wars",
             "version": "1.0.3",
@@ -9404,54 +9596,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockoutcolorsortpuzzle_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockoutcolorsortpuzzle_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockoutcolorsortpuzzle_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1802688167,
-            "name": "Mob Control",
-            "version": "3.23.4",
-            "size": 193794516,
-            "icon": "img/mobcontrol.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mobcontrol.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mobcontrol.ipa",
-            "bundleIdentifier": "com.vincentb.MobControl",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Coins\n- Unlimited Skip'Its\n- Unlimited Stars -> Earn some.\n- Unlimited Bricks\n- Unlimited Earnt Bricks\n- Unlimited Cards -> Will increase instead of decrease.\n- No Card Requirement",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "3.23.4",
-                    "date": "2026-10-13T01:22:08+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mobcontrol.ipa",
-                    "size": 193794516,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_4.jpg"
                     ]
                 }
             ]
