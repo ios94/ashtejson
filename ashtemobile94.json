@@ -10,6 +10,198 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1327964897,
+            "name": "Hegemon: War Strategy",
+            "version": "1.12",
+            "size": 172292354,
+            "icon": "img/hegemonwarstrategy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/hegemonwarstrategy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/hegemonwarstrategy.ipa",
+            "bundleIdentifier": "com.viono.WarStrategyiOS",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free store (buy then cancel)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hegemonwarstrategy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hegemonwarstrategy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hegemonwarstrategy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hegemonwarstrategy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hegemonwarstrategy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hegemonwarstrategy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hegemonwarstrategy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hegemonwarstrategy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hegemonwarstrategy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.12",
+                    "date": "2026-10-15T16:44:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/hegemonwarstrategy.ipa",
+                    "size": 172292354,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hegemonwarstrategy_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hegemonwarstrategy_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hegemonwarstrategy_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hegemonwarstrategy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1767039258,
+            "name": "Car Driving Multiplayer",
+            "version": "2.1.4",
+            "size": 1516776945,
+            "icon": "img/cardrivingmultiplayer.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/cardrivingmultiplayer.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/cardrivingmultiplayer.ipa",
+            "bundleIdentifier": "com.appsoleut.car.driving.multiplayer",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Currency Multiplier (Will go negative - turn off when buying)\n- Unlock All Cars (Shop)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cardrivingmultiplayer.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardrivingmultiplayer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardrivingmultiplayer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardrivingmultiplayer_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardrivingmultiplayer_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardrivingmultiplayer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardrivingmultiplayer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardrivingmultiplayer_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardrivingmultiplayer_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.4",
+                    "date": "2026-10-15T16:43:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/cardrivingmultiplayer.ipa",
+                    "size": 1516776945,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardrivingmultiplayer_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardrivingmultiplayer_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardrivingmultiplayer_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardrivingmultiplayer_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1721228824,
+            "name": "Lost Prison - Shelter Survival",
+            "version": "1.20.5",
+            "size": 200320180,
+            "icon": "img/lostprisonsheltersurvival.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/lostprisonsheltersurvival.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/lostprisonsheltersurvival.ipa",
+            "bundleIdentifier": "com.finetosurvive.master",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Activating the fake purchase\r\n- Speed ​​up the game\r\n- No ads\r\n\r\nNote: Activate the hack from the mod menu",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lostprisonsheltersurvival.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.20.5",
+                    "date": "2026-10-15T16:40:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/lostprisonsheltersurvival.ipa",
+                    "size": 200320180,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1224004734,
+            "name": "MONOPOLY Match",
+            "version": "0.3.15297",
+            "size": 330094245,
+            "icon": "img/monopolymatch.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/monopolymatch.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/monopolymatch.ipa",
+            "bundleIdentifier": "com.beematchltd.monopolymatch",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Lives INF\r\n- Dice [ Roll & Get Disable After Get ]\r\n- Cash [ First Enter The Match Then Enable Don't Use Booster When Match Finsh Game Frezze Just Close Reopen Then Hacked Cash ]\r\n- Booster [ First Enter The Match Then Enable Use Booster Game Freeze Just Close Reopen Then Hacked ]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monopolymatch.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.3.15297",
+                    "date": "2026-10-15T16:40:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/monopolymatch.ipa",
+                    "size": 330094245,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1999730316,
             "name": "Travel Decor",
             "version": "2.0.0",
@@ -1010,102 +1202,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/solitairetruckdeluxe_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/solitairetruckdeluxe_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/solitairetruckdeluxe_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1721228824,
-            "name": "Lost Prison - Shelter Survival",
-            "version": "1.20.5",
-            "size": 200320180,
-            "icon": "img/lostprisonsheltersurvival.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/lostprisonsheltersurvival.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/lostprisonsheltersurvival.ipa",
-            "bundleIdentifier": "com.finetosurvive.master",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Activating the fake purchase\r\n- Speed ​​up the game\r\n- No ads\r\n\r\nNote: Activate the hack from the mod menu",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lostprisonsheltersurvival.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.20.5",
-                    "date": "2026-10-15T03:11:02+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/lostprisonsheltersurvival.ipa",
-                    "size": 200320180,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostprisonsheltersurvival_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1224004734,
-            "name": "MONOPOLY Match",
-            "version": "0.3.15297",
-            "size": 330094245,
-            "icon": "img/monopolymatch.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/monopolymatch.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/monopolymatch.ipa",
-            "bundleIdentifier": "com.beematchltd.monopolymatch",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Lives INF\r\n- Dice [ Roll & Get Disable After Get ]\r\n- Cash [ First Enter The Match Then Enable Don't Use Booster When Match Finsh Game Frezze Just Close Reopen Then Hacked Cash ]\r\n- Booster [ First Enter The Match Then Enable Use Booster Game Freeze Just Close Reopen Then Hacked ]",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monopolymatch.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "0.3.15297",
-                    "date": "2026-10-15T03:10:55+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/monopolymatch.ipa",
-                    "size": 330094245,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monopolymatch_screen_4.jpg"
                     ]
                 }
             ]
