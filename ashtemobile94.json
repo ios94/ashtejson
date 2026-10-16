@@ -10,6 +10,189 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1396425723,
+            "name": "YouTube Sy",
+            "version": "21.24.3",
+            "size": 123190089,
+            "icon": "img/youtubesy.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubesy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubesy.ipa",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Completely bypass logins, whether duplicate or original.\r\n\r\n1- Download videos in various high qualities and resolutions.\r\n2- Extract audio from video clips and download it.\r\n3- Save thumbnails.\r\n4- Download Shorts in various high qualities and resolutions.\r\n4- Completely remove ads from the app.\r\n5- Play videos in the background.\r\n\r\nAnd more...",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/youtubesy.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubesy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubesy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubesy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubesy_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubesy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubesy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubesy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubesy_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "21.24.3",
+                    "date": "2026-10-16T14:25:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/youtubesy.ipa",
+                    "size": 123190089,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubesy_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubesy_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubesy_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubesy_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1848314154,
+            "name": "‎WA BusinessSy",
+            "version": "26.34.72",
+            "size": 163211987,
+            "icon": "img/wabusinesssy.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/wabusinesssy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/wabusinesssy.ipa",
+            "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "WhatsApp Business Features\r\n\r\n1- Setting a passcode\r\n2- Deleting the passcode\r\n3- When the other party deletes a message, the message will remain with a checkmark to indicate the deleted message.\r\n4- When the other party deletes a message, the app will send you a notification alerting you to delete the message.\r\n5- Blocking calls within WhatsApp; you will not receive a notification when the other party calls.\r\n\r\nAnd more...",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wabusinesssy.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wabusinesssy.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wabusinesssy.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "26.34.72",
+                    "date": "2026-10-16T14:24:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/wabusinesssy.ipa",
+                    "size": 163211987,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wabusinesssy.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1167234300,
+            "name": "NGL: ask me anything",
+            "version": "6.2.114",
+            "size": 111941635,
+            "icon": "img/nglaskmeanything.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/nglaskmeanything.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/nglaskmeanything.ipa",
+            "bundleIdentifier": "fun.ask",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "How to use NGL:\n1. Share your NGL link\n2. Your friends will respond directly to your story\n3. Get responses on NGL\n\nUnlocked features (if it doesn't work for you, log out of the app and log back in)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nglaskmeanything.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.2.114",
+                    "date": "2026-10-16T14:24:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/nglaskmeanything.ipa",
+                    "size": 111941635,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1631067057,
+            "name": "Twitter DL",
+            "version": "12.29",
+            "size": 257693323,
+            "icon": "img/twitterdl.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/twitterdl.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/twitterdl.ipa",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Download videos from public and private accounts in different qualities\r\n\r\nDownload voice tweets as videos\r\n\r\nConfirm follow/like/unlike actions\r\n\r\nBrowse accounts that have blocked you\r\n\r\nRemove ads\r\n\r\nControl audio in previews\r\n\r\nPrevent video from repeating after it ends\r\n\r\nDisable typing indicator in direct messages\r\n\r\nOpen links directly in Safari\r\n\r\nLock the app with fingerprint and passcode\r\n\r\nEnable hidden features like Tip Jar and voice messages in direct messages",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/twitterdl.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "12.29",
+                    "date": "2026-10-16T14:24:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/twitterdl.ipa",
+                    "size": 257693323,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1804895570,
             "name": "X NeoFreeBird",
             "version": "12.31.2",
@@ -1817,51 +2000,6 @@
                     "screenshots": [
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starbrewcafemysticalmerge_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starbrewcafemysticalmerge_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1631067057,
-            "name": "Twitter DL",
-            "version": "12.29",
-            "size": 257693323,
-            "icon": "img/twitterdl.png",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/twitterdl.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/twitterdl.ipa",
-            "bundleIdentifier": "com.atebits.Tweetie2",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Download videos from public and private accounts in different qualities\r\n\r\nDownload voice tweets as videos\r\n\r\nConfirm follow/like/unlike actions\r\n\r\nBrowse accounts that have blocked you\r\n\r\nRemove ads\r\n\r\nControl audio in previews\r\n\r\nPrevent video from repeating after it ends\r\n\r\nDisable typing indicator in direct messages\r\n\r\nOpen links directly in Safari\r\n\r\nLock the app with fingerprint and passcode\r\n\r\nEnable hidden features like Tip Jar and voice messages in direct messages",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/twitterdl.png",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_3.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_3.png"
-            ],
-            "versions": [
-                {
-                    "version": "12.29",
-                    "date": "2026-10-16T11:43:06+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/twitterdl.ipa",
-                    "size": 257693323,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_3.png"
                     ]
                 }
             ]
@@ -4211,54 +4349,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagram_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagram_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagram_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1167234300,
-            "name": "NGL: ask me anything",
-            "version": "6.2.114",
-            "size": 111941635,
-            "icon": "img/nglaskmeanything.jpg",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/nglaskmeanything.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/nglaskmeanything.ipa",
-            "bundleIdentifier": "fun.ask",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "How to use NGL:\n1. Share your NGL link\n2. Your friends will respond directly to your story\n3. Get responses on NGL\n\nUnlocked features (if it doesn't work for you, log out of the app and log back in)",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nglaskmeanything.jpg",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "6.2.114",
-                    "date": "2026-10-16T11:08:32+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/nglaskmeanything.ipa",
-                    "size": 111941635,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nglaskmeanything_screen_4.png"
                     ]
                 }
             ]
