@@ -10,6 +10,198 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1310638534,
+            "name": "Formula Ride",
+            "version": "1.0.4",
+            "size": 327122046,
+            "icon": "img/formularide.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/formularide.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/formularide.ipa",
+            "bundleIdentifier": "com.sevenseas.formularide",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Money Modifier → earn currency freely\n- Token Modifier → earn tokens freely\n- Unlock All Maps → access every track immediately\n- No Ads → uninterrupted racing",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/formularide.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.4",
+                    "date": "2026-10-16T11:15:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/formularide.ipa",
+                    "size": 327122046,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1915936576,
+            "name": "Gecko Out",
+            "version": "28.0.1",
+            "size": 274833378,
+            "icon": "img/geckoout.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/geckoout.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/geckoout.ipa",
+            "bundleIdentifier": "com.dalakgames.slitherrush",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Activate the fake purchase.\n\nNote: Activate the hack from the mod menu.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/geckoout.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geckoout_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geckoout_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geckoout_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geckoout_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geckoout_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geckoout_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geckoout_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geckoout_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "28.0.1",
+                    "date": "2026-10-16T11:14:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/geckoout.ipa",
+                    "size": 274833378,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geckoout_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geckoout_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geckoout_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geckoout_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1802688167,
+            "name": "Mob Control",
+            "version": "3.24.1",
+            "size": 190190074,
+            "icon": "img/mobcontrol.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mobcontrol.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mobcontrol.ipa",
+            "bundleIdentifier": "com.vincentb.MobControl",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Coins\n- Unlimited Skip'Its\n- Unlimited Stars -> Earn some.\n- Unlimited Bricks\n- Unlimited Earnt Bricks\n- Unlimited Cards -> Will increase instead of decrease.\n- No Card Requirement",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.24.1",
+                    "date": "2026-10-16T11:13:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mobcontrol.ipa",
+                    "size": 190190074,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1974962950,
+            "name": "Block Blast！",
+            "version": "7.5.3",
+            "size": 89863240,
+            "icon": "img/blockblast.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/blockblast.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/blockblast.ipa",
+            "bundleIdentifier": "com.blockpuzzle.us.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Revive → never run out of attempts\n- Score Multiplier → boost your points earned\n- Auto Win → complete levels instantly\n- PREMIUM → access all premium content",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blockblast.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.5.3",
+                    "date": "2026-10-16T11:13:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/blockblast.ipa",
+                    "size": 89863240,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1167018092,
             "name": "Hard Time III",
             "version": "1.1.8",
@@ -1820,54 +2012,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/privateerspiratewars_screen_1.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/privateerspiratewars_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/privateerspiratewars_screen_3.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1802688167,
-            "name": "Mob Control",
-            "version": "3.24.0",
-            "size": 190176740,
-            "icon": "img/mobcontrol.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mobcontrol.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mobcontrol.ipa",
-            "bundleIdentifier": "com.vincentb.MobControl",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Coins\n- Unlimited Skip'Its\n- Unlimited Stars -> Earn some.\n- Unlimited Bricks\n- Unlimited Earnt Bricks\n- Unlimited Cards -> Will increase instead of decrease.\n- No Card Requirement",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobcontrol.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "3.24.0",
-                    "date": "2026-10-15T17:06:35+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mobcontrol.ipa",
-                    "size": 190176740,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobcontrol_screen_4.jpg"
                     ]
                 }
             ]
@@ -5654,54 +5798,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollmachine_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollmachine_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollmachine_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1974962950,
-            "name": "Block Blast！",
-            "version": "7.5.2",
-            "size": 89859720,
-            "icon": "img/blockblast.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/blockblast.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/blockblast.ipa",
-            "bundleIdentifier": "com.blockpuzzle.us.ios",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Infinite Revive → never run out of attempts\n- Score Multiplier → boost your points earned\n- Auto Win → complete levels instantly\n- PREMIUM → access all premium content",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blockblast.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "7.5.2",
-                    "date": "2026-10-15T02:40:22+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/blockblast.ipa",
-                    "size": 89859720,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockblast_screen_4.png"
                     ]
                 }
             ]
