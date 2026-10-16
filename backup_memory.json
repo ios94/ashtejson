@@ -10,6 +10,198 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1524170019,
+            "name": "YouTube DL",
+            "version": "21.16.2",
+            "size": 146143840,
+            "icon": "img/youtubedl.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubedl.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubedl.ipa",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Download videos in multiple quality options\r\n\r\nDownload audio\r\n\r\nDownload stories (Stories)\r\n\r\nSave all downloaded media in YouTube under the DLTube tab with the option to save them to the Photos app\r\n\r\nRemove all types of ads\r\n\r\nBackground playback\r\n\r\nCopy texts (description, title, posts, comments)\r\n\r\nRemove recommended videos\r\n\r\nOpen links directly in Safari\r\n\r\nAuto-restart video after it ends\r\n\r\nDownload post images\r\n\r\nDisplay song lyrics\r\n\r\nEnable Picture-in-Picture (PiP) mode\r\n\r\nHide the \"Create Video\" button\r\n\r\nDownload video thumbnail image",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/youtubedl.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "21.16.2",
+                    "date": "2026-10-16T14:33:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/youtubedl.ipa",
+                    "size": 146143840,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1125448761,
+            "name": "Instagram DL",
+            "version": "426.0.0",
+            "size": 321284733,
+            "icon": "img/instagramdl.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/instagramdl.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/instagramdl.ipa",
+            "bundleIdentifier": "com.burbn.instagram",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Download images and videos from the homepage, stories, direct messages, and Reels\r\n\r\nView stories without the other party knowing\r\n\r\nPrevent automatic transition to the next story\r\n\r\nView and download profile picture\r\n\r\nKeep deleted messages\r\n\r\nView direct messages without the other party knowing\r\n\r\nHide \"typing\" indicator in direct messages\r\n\r\nCopy texts (description, comments, bio, username)\r\n\r\nKnow whether someone follows you or not\r\n\r\nShow view and like counts\r\n\r\nPrevent video from repeating after it ends\r\n\r\nRemove ads\r\n\r\nOpen links directly in Safari\r\n\r\nLock the app with fingerprint and passcode\r\n\r\nOption to download in the highest available quality automatically\r\n\r\nWatch live streams in stealth mode\r\n\r\nDownload multiple stories from the same user at once and merge them into a single video\r\n\r\nDownload cover photo from story highlights",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/instagramdl.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramdl_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramdl_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramdl_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramdl_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramdl_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramdl_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramdl_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramdl_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "426.0.0",
+                    "date": "2026-10-16T14:33:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/instagramdl.ipa",
+                    "size": 321284733,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramdl_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramdl_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramdl_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramdl_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1884160092,
+            "name": "Check Down",
+            "version": "21.0.0",
+            "size": 33522803,
+            "icon": "img/checkdown.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/checkdown.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/checkdown.ipa",
+            "bundleIdentifier": "net.checkover.snap",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Download Snapchat snaps and Instagram stories\r\n\r\nActivation code required",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/checkdown.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/checkdown_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/checkdown_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/checkdown_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/checkdown_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/checkdown_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/checkdown_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/checkdown_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/checkdown_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "21.0.0",
+                    "date": "2026-10-16T14:33:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/checkdown.ipa",
+                    "size": 33522803,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/checkdown_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/checkdown_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/checkdown_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/checkdown_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1352250628,
+            "name": "BHTikTok",
+            "version": "44.9.0",
+            "size": 399948346,
+            "icon": "img/bhtiktok.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- No Ads\r\n- Download Videos\r\n- Download Musics\r\n- Show/Hide UI button\r\n- Copy video decription\r\n- Copy video link\r\n- Copy Music link\r\n- Auto Play Next Video\r\n- Show progress bar\r\n- Confirm like\r\n- Confirm comment like\r\n- Confirm comment dislike\r\n- Confirm follow\r\n- Save profile image\r\n- Copy profile information\r\n- Extend bio\r\n- Extend comment\r\n- Always open in Safari\r\n- Changing region\r\n- Fake verify blue mark\r\n- Fake Follower count\r\n- Fake Following count\r\n- Padlock",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bhtiktok.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "44.9.0",
+                    "date": "2026-10-16T14:33:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
+                    "size": 399948346,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1772174657,
             "name": "Twitch: Live Streaming",
             "version": "29.5",
@@ -1868,54 +2060,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/discordtalkplayhangout_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/discordtalkplayhangout_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/discordtalkplayhangout_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1352250628,
-            "name": "BHTikTok",
-            "version": "44.9.0",
-            "size": 399948346,
-            "icon": "img/bhtiktok.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
-            "bundleIdentifier": "com.zhiliaoapp.musically",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- No Ads\r\n- Download Videos\r\n- Download Musics\r\n- Show/Hide UI button\r\n- Copy video decription\r\n- Copy video link\r\n- Copy Music link\r\n- Auto Play Next Video\r\n- Show progress bar\r\n- Confirm like\r\n- Confirm comment like\r\n- Confirm comment dislike\r\n- Confirm follow\r\n- Save profile image\r\n- Copy profile information\r\n- Extend bio\r\n- Extend comment\r\n- Always open in Safari\r\n- Changing region\r\n- Fake verify blue mark\r\n- Fake Follower count\r\n- Fake Following count\r\n- Padlock",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bhtiktok.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "44.9.0",
-                    "date": "2026-10-16T13:59:25+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
-                    "size": 399948346,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
                     ]
                 }
             ]
