@@ -10,6 +10,198 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1772174657,
+            "name": "Twitch: Live Streaming",
+            "version": "29.5",
+            "size": 147449402,
+            "icon": "img/twitchlivestreaming.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/twitchlivestreaming.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/twitchlivestreaming.ipa",
+            "bundleIdentifier": "tv.twitch",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Added full support for Twitch version 29.5 and the new Composable Skyline UI.\r\n- Implemented advanced Recap stories, autopost cards, and grids suppression.\r\n- Added Zero-Latency stream playlist loading, allowing streams to launch under 1-2 seconds.\r\n- Integrated an in-memory Stateful Ad-Break scanner to prevent endless black screens.\r\n- Added a dual-layer Telemetry Shield using network blocking and runtime class swizzling.\r\n- improved background recovery connections and optimized local transport sockets.\r\n- Enabled TCP Keep-Alive and implemented UI pipeline hardening to ensure zero interface lag.\r\n\r\nTo access the settings menu, press the screen with three fingers for 4 seconds.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/twitchlivestreaming.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "29.5",
+                    "date": "2026-10-16T14:31:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/twitchlivestreaming.ipa",
+                    "size": 147449402,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1640406510,
+            "name": "YouTube LRD",
+            "version": "21.22.4",
+            "size": 130659003,
+            "icon": "img/youtubelrd.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubelrd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubelrd.ipa",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Download videos and save them to the camera roll\r\n\r\nPlay the video in the background\r\n\r\nRemove annoying YouTube ads\r\n\r\nRemove suggested videos",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/youtubelrd.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "21.22.4",
+                    "date": "2026-10-16T14:31:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/youtubelrd.ipa",
+                    "size": 130659003,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1682775104,
+            "name": "TikTok LRD",
+            "version": "45.5.0",
+            "size": 418919679,
+            "icon": "img/tiktoklrd.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/tiktoklrd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/tiktoklrd.ipa",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Save videos without a watermark\r\n\r\nHide the user interface\r\n\r\nAuto-play the next video\r\n\r\nAutomatically skip live broadcasts during viewing\r\n\r\nUpload videos in high quality\r\n\r\nShow country code for the video\r\n\r\nChange location\r\n\r\nRead hidden or closed comments\r\n\r\nWatch videos under review\r\n\r\nAdd auto-clicking feature",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tiktoklrd.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "45.5.0",
+                    "date": "2026-10-16T14:31:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/tiktoklrd.ipa",
+                    "size": 418919679,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1319508161,
+            "name": "Facebook Glow",
+            "version": "566.1.0",
+            "size": 220182027,
+            "icon": "img/facebookglow.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Remove ads\r\nRemove people you may know\r\nRemove Reels from the homepage\r\nConfirm likes\r\nSave videos\r\nSave Reels videos\r\nHide buttons\r\nConfirm likes\r\nSave by long-press\r\nSave stories\r\nWatch stories incognito\r\nDisable auto-progression\r\nClear cache when starting the app",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/facebookglow.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "566.1.0",
+                    "date": "2026-10-16T14:30:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
+                    "size": 220182027,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1763607208,
             "name": "Messenger Flow",
             "version": "566.0.0",
@@ -1676,102 +1868,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/discordtalkplayhangout_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/discordtalkplayhangout_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/discordtalkplayhangout_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1772174657,
-            "name": "Twitch: Live Streaming",
-            "version": "31.6.2",
-            "size": 210047633,
-            "icon": "img/twitchlivestreaming.jpg",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/twitchlivestreaming.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/twitchlivestreaming.ipa",
-            "bundleIdentifier": "tv.twitch",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Long press to download.\n- Download clips.\n- Download broadcast (you can specify the download time from the tool settings).\n- Download videos (you can specify the download time from the tool settings).\n- Save profile picture.\n- No ads.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/twitchlivestreaming.jpg",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "31.6.2",
-                    "date": "2026-10-16T14:15:55+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/twitchlivestreaming.ipa",
-                    "size": 210047633,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1319508161,
-            "name": "Facebook Glow",
-            "version": "566.1.0",
-            "size": 220182027,
-            "icon": "img/facebookglow.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
-            "bundleIdentifier": "com.facebook.Facebook",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Remove ads\r\nRemove people you may know\r\nRemove Reels from the homepage\r\nConfirm likes\r\nSave videos\r\nSave Reels videos\r\nHide buttons\r\nConfirm likes\r\nSave by long-press\r\nSave stories\r\nWatch stories incognito\r\nDisable auto-progression\r\nClear cache when starting the app",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/facebookglow.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "566.1.0",
-                    "date": "2026-10-16T14:05:48+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
-                    "size": 220182027,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_4.png"
                     ]
                 }
             ]
@@ -4589,102 +4685,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makedramamad_screen_1.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makedramamad_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makedramamad_screen_3.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1640406510,
-            "name": "YouTube LRD",
-            "version": "21.22.4",
-            "size": 130659003,
-            "icon": "img/youtubelrd.png",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubelrd.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubelrd.ipa",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Download videos and save them to the camera roll\r\n\r\nPlay the video in the background\r\n\r\nRemove annoying YouTube ads\r\n\r\nRemove suggested videos",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/youtubelrd.png",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "21.22.4",
-                    "date": "2026-10-16T11:11:21+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/youtubelrd.ipa",
-                    "size": 130659003,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1682775104,
-            "name": "TikTok LRD",
-            "version": "45.5.0",
-            "size": 418919679,
-            "icon": "img/tiktoklrd.png",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/tiktoklrd.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/tiktoklrd.ipa",
-            "bundleIdentifier": "com.zhiliaoapp.musically",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Save videos without a watermark\r\n\r\nHide the user interface\r\n\r\nAuto-play the next video\r\n\r\nAutomatically skip live broadcasts during viewing\r\n\r\nUpload videos in high quality\r\n\r\nShow country code for the video\r\n\r\nChange location\r\n\r\nRead hidden or closed comments\r\n\r\nWatch videos under review\r\n\r\nAdd auto-clicking feature",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tiktoklrd.png",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "45.5.0",
-                    "date": "2026-10-16T11:11:04+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/tiktoklrd.ipa",
-                    "size": 418919679,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_4.png"
                     ]
                 }
             ]
