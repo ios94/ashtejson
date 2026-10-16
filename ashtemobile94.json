@@ -10,6 +10,150 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1640406510,
+            "name": "YouTube LRD",
+            "version": "21.22.4",
+            "size": 130659003,
+            "icon": "img/youtubelrd.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubelrd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubelrd.ipa",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Download videos and save them to the camera roll\r\n\r\nPlay the video in the background\r\n\r\nRemove annoying YouTube ads\r\n\r\nRemove suggested videos",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/youtubelrd.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "21.22.4",
+                    "date": "2026-10-16T11:11:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/youtubelrd.ipa",
+                    "size": 130659003,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubelrd_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1682775104,
+            "name": "TikTok LRD",
+            "version": "45.5.0",
+            "size": 418919679,
+            "icon": "img/tiktoklrd.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/tiktoklrd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/tiktoklrd.ipa",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Save videos without a watermark\r\n\r\nHide the user interface\r\n\r\nAuto-play the next video\r\n\r\nAutomatically skip live broadcasts during viewing\r\n\r\nUpload videos in high quality\r\n\r\nShow country code for the video\r\n\r\nChange location\r\n\r\nRead hidden or closed comments\r\n\r\nWatch videos under review\r\n\r\nAdd auto-clicking feature",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tiktoklrd.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "45.5.0",
+                    "date": "2026-10-16T11:11:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/tiktoklrd.ipa",
+                    "size": 418919679,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1763607208,
+            "name": "Messenger Flow",
+            "version": "566.0.0",
+            "size": 104663273,
+            "icon": "img/messengerflow.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/messengerflow.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/messengerflow.ipa",
+            "bundleIdentifier": "com.facebook.Messenger",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Remove ads\r\nRemove the Stories banner\r\nRemove the \"People You May Know\" section\r\nDisable the typing indicator\r\nRead messages incognito\r\nWatch stories incognito\r\nRepeat stories\r\nDownload stories\r\nRemove the \"Stories\" tab\r\nRemove the \"Friends\" tab\r\nRemove the AI ​​circle\r\nRequire confirmation before making calls",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/messengerflow.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "566.0.0",
+                    "date": "2026-10-16T11:10:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/messengerflow.ipa",
+                    "size": 104663273,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1217568641,
             "name": "TikTok Sy",
             "version": "46.1.0",
@@ -1018,54 +1162,6 @@
             ]
         },
         {
-            "id": 1682775104,
-            "name": "TikTok LRD",
-            "version": "45.5.0",
-            "size": 418919679,
-            "icon": "img/tiktoklrd.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/tiktoklrd.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/tiktoklrd.ipa",
-            "bundleIdentifier": "com.zhiliaoapp.musically",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Save videos without a watermark\r\n\r\nHide the user interface\r\n\r\nAuto-play the next video\r\n\r\nAutomatically skip live broadcasts during viewing\r\n\r\nUpload videos in high quality\r\n\r\nShow country code for the video\r\n\r\nChange location\r\n\r\nRead hidden or closed comments\r\n\r\nWatch videos under review\r\n\r\nAdd auto-clicking feature",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tiktoklrd.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "45.5.0",
-                    "date": "2026-10-15T19:47:38+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/tiktoklrd.ipa",
-                    "size": 418919679,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1319508161,
             "name": "Facebook Glow",
             "version": "566.1.0",
@@ -1109,54 +1205,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1763607208,
-            "name": "Messenger Flow",
-            "version": "566.0.0",
-            "size": 104663273,
-            "icon": "img/messengerflow.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/messengerflow.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/messengerflow.ipa",
-            "bundleIdentifier": "com.facebook.Messenger",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Remove ads\r\nRemove the Stories banner\r\nRemove the \"People You May Know\" section\r\nDisable the typing indicator\r\nRead messages incognito\r\nWatch stories incognito\r\nRepeat stories\r\nDownload stories\r\nRemove the \"Stories\" tab\r\nRemove the \"Friends\" tab\r\nRemove the AI ​​circle\r\nRequire confirmation before making calls",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/messengerflow.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "566.0.0",
-                    "date": "2026-10-15T19:46:46+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/messengerflow.ipa",
-                    "size": 104663273,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/messengerflow_screen_4.png"
                     ]
                 }
             ]
