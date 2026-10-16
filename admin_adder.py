@@ -7,7 +7,6 @@ import re
 import urllib.parse
 import base64
 import zipfile
-import time
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 
@@ -118,8 +117,20 @@ def process_single_app(app_input, ipa_link, app_type):
     
     print(f"📝 App Name Detected: {ex_name}")
 
-    clean_search_name = re.split(r'[\+\-\(\)\[\]\|]', ex_name)[0].strip()
-    words_to_remove = ['Premium', 'Hack', 'Mod', 'Pro', 'IPA', 'Download', 'Free', 'Cheats', 'Unlocked']
+    # =========================================================
+    # بەشی زیرەک: بۆ ئەوەی وێنە و ناوی هەڵە نەهێنێت
+    # =========================================================
+    search_name = ex_name
+    lower_name = ex_name.lower()
+    popular_apps = ["tiktok", "youtube", "facebook", "instagram", "twitter", "whatsapp", "snapchat", "spotify", "twitch", "discord", "reddit", "telegram", "messenger", "capcut", "picsart", "pubg", "roblox", "minecraft", "clash"]
+    
+    for app in popular_apps:
+        if app in lower_name:
+            search_name = app
+            break
+
+    clean_search_name = re.split(r'[\+\-\(\)\[\]\|]', search_name)[0].strip()
+    words_to_remove = ['Premium', 'Hack', 'Mod', 'Pro', 'IPA', 'Download', 'Free', 'Cheats', 'Unlocked', 'BH', 'Wolf', 'Glow', 'DL', 'Plus', 'Business', 'Lrd']
 
     for w in words_to_remove:
         clean_search_name = re.sub(rf'\b{re.escape(w)}\b', '', clean_search_name, flags=re.IGNORECASE).strip()
@@ -128,7 +139,7 @@ def process_single_app(app_input, ipa_link, app_type):
         clean_search_name = ex_name
 
     print(f"🍏 Searching Apple App Store for '{clean_search_name}'...")
-    as_name, as_desc, as_icon, as_bundle, as_version = None, None, None, None, None
+    as_bundle, as_version, as_icon = None, None, None
     app_store_screenshots = []
 
     try:
@@ -138,26 +149,27 @@ def process_single_app(app_input, ipa_link, app_type):
             itunes_data = itunes_res.json()
             if itunes_data.get('resultCount', 0) > 0:
                 app_info = itunes_data['results'][0]
-                as_name = app_info.get('trackName')
                 app_store_screenshots = app_info.get('screenshotUrls', [])
                 as_icon = app_info.get('artworkUrl512')
-                as_desc = app_info.get('description')
                 as_bundle = app_info.get('bundleId')
                 as_version = app_info.get('version')
-                print(f"✅ App Store Match Found: {as_name}")
+                print(f"✅ App Store Match Found for Screenshots.")
             else:
                 print("⚠️ No exact match found on App Store.")
     except Exception as e:
         print("App Store search failed:", e)
 
-    final_name = ex_name if len(ex_name) < 40 else (as_name or "Unknown App")
-    final_desc = ex_desc or as_desc or "Awesome App! Downloaded from AshteMobile."
+    # لێرەدا ڕێگریمان کردووە ناوی ڕاستەقینە بڕوات
+    final_name = ex_name
+    final_desc = ex_desc or "Awesome App! Downloaded from AshteMobile."
 
     slug = "".join(e for e in final_name if e.isalnum()).lower()
     if not slug: slug = f"app{random.randint(1000, 9999)}"
     final_bundle = ex_bundle or as_bundle or f"com.ashtemobile.{slug}"
     final_version = ex_version if ex_version else (as_version or "1.0")
-    icon_to_download = as_icon or ex_icon or ""
+    
+    # گرنگ: وێنە سەرەکییەکە تەنها ئەگەر هی خۆی نەبوو ئینجا هی ئەپستۆر بەکاردەهێنێت
+    icon_to_download = ex_icon if ex_icon else (as_icon if as_icon else "")
 
     os.makedirs("img", exist_ok=True)
     os.makedirs("imgg", exist_ok=True)
@@ -200,6 +212,10 @@ def process_single_app(app_input, ipa_link, app_type):
                         for chunk in sr.iter_content(8192): f.write(chunk)
                     final_screenshot_urls.append(f"{base_github_raw_imgg}{screen_filename}")
             except: pass
+
+    # ئەگەر سکرینشۆت هەر نەبوو با ئایکۆنەکە دابنێت
+    if not final_screenshot_urls and icon_full_url:
+        final_screenshot_urls = [icon_full_url]
 
     os.makedirs("ipas", exist_ok=True)
     ipa_filename = f"ipas/{slug}.ipa"
