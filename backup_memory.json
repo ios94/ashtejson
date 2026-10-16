@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1352250628,
+            "name": "BHTikTok",
+            "version": "44.9.0",
+            "size": 399948346,
+            "icon": "img/bhtiktok.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- No Ads\r\n- Download Videos\r\n- Download Musics\r\n- Show/Hide UI button\r\n- Copy video decription\r\n- Copy video link\r\n- Copy Music link\r\n- Auto Play Next Video\r\n- Show progress bar\r\n- Confirm like\r\n- Confirm comment like\r\n- Confirm comment dislike\r\n- Confirm follow\r\n- Save profile image\r\n- Copy profile information\r\n- Extend bio\r\n- Extend comment\r\n- Always open in Safari\r\n- Changing region\r\n- Fake verify blue mark\r\n- Fake Follower count\r\n- Fake Following count\r\n- Padlock",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bhtiktok.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "44.9.0",
+                    "date": "2026-10-16T13:59:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
+                    "size": 399948346,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1281626074,
             "name": "Infantry Attack: Battle 3D FPS",
             "version": "1.28.4",
@@ -665,51 +713,6 @@
                     "screenshots": [
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starbrewcafemysticalmerge_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starbrewcafemysticalmerge_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1352250628,
-            "name": "BHTikTok",
-            "version": "44.9.0",
-            "size": 399948346,
-            "icon": "img/bhtiktok.png",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
-            "bundleIdentifier": "com.zhiliaoapp.musically",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- No Ads\r\n- Download Videos\r\n- Download Musics\r\n- Show/Hide UI button\r\n- Copy video decription\r\n- Copy video link\r\n- Copy Music link\r\n- Auto Play Next Video\r\n- Show progress bar\r\n- Confirm like\r\n- Confirm comment like\r\n- Confirm comment dislike\r\n- Confirm follow\r\n- Save profile image\r\n- Copy profile information\r\n- Extend bio\r\n- Extend comment\r\n- Always open in Safari\r\n- Changing region\r\n- Fake verify blue mark\r\n- Fake Follower count\r\n- Fake Following count\r\n- Padlock",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bhtiktok.png",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "44.9.0",
-                    "date": "2026-10-16T11:50:18+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
-                    "size": 399948346,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
                     ]
                 }
             ]
