@@ -10,6 +10,180 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1352250628,
+            "name": "BHTikTok",
+            "version": "44.9.0",
+            "size": 399948346,
+            "icon": "img/bhtiktok.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- No Ads\r\n- Download Videos\r\n- Download Musics\r\n- Show/Hide UI button\r\n- Copy video decription\r\n- Copy video link\r\n- Copy Music link\r\n- Auto Play Next Video\r\n- Show progress bar\r\n- Confirm like\r\n- Confirm comment like\r\n- Confirm comment dislike\r\n- Confirm follow\r\n- Save profile image\r\n- Copy profile information\r\n- Extend bio\r\n- Extend comment\r\n- Always open in Safari\r\n- Changing region\r\n- Fake verify blue mark\r\n- Fake Follower count\r\n- Fake Following count\r\n- Padlock",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bhtiktok.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "44.9.0",
+                    "date": "2026-10-16T11:50:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
+                    "size": 399948346,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1319508161,
+            "name": "Facebook Glow",
+            "version": "566.1.0",
+            "size": 220182027,
+            "icon": "img/facebookglow.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Remove ads\r\nRemove people you may know\r\nRemove Reels from the homepage\r\nConfirm likes\r\nSave videos\r\nSave Reels videos\r\nHide buttons\r\nConfirm likes\r\nSave by long-press\r\nSave stories\r\nWatch stories incognito\r\nDisable auto-progression\r\nClear cache when starting the app",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/facebookglow.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [],
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "566.1.0",
+                    "date": "2026-10-16T11:38:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
+                    "size": 220182027,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": []
+                }
+            ]
+        },
+        {
+            "id": 1966590023,
+            "name": "WhatsApp Business",
+            "version": "26.38.74",
+            "size": 174257519,
+            "icon": "img/whatsappbusiness.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/whatsappbusiness.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/whatsappbusiness.ipa",
+            "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Watusi3 Tool:\n⁃ Hide online now.\n⁃ Hide typing.\n⁃ Hide last seen.\n⁃ Hide recording a voice note.\n⁃ Hide reading the message.\n⁃ Set a password for the application.\n⁃ Set a password for chats.\n⁃ Keep deleted messages.\n⁃ Keep deleted statuses.\n⁃ Split long videos.\n⁃ Hide chats.\n⁃ More in the tool settings...\n\n\n- Supports backup through the files application.\n- Supports notifications if it is open in the background.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/whatsappbusiness.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "26.38.74",
+                    "date": "2026-10-16T11:38:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/whatsappbusiness.ipa",
+                    "size": 174257519,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1554274589,
+            "name": "Easy Lens by Snap Inc.",
+            "version": "3.3.0",
+            "size": 79218496,
+            "icon": "img/easylensbysnapinc.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/easylensbysnapinc.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/easylensbysnapinc.ipa",
+            "bundleIdentifier": "com.snapchat.secret.LensMaker",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Raw copy for duplication only",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/easylensbysnapinc.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.3.0",
+                    "date": "2026-10-16T11:38:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/easylensbysnapinc.ipa",
+                    "size": 79218496,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1631067057,
             "name": "Twitter DL",
             "version": "12.29",
@@ -146,54 +320,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtube_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtube_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtube_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1319508161,
-            "name": "Facebook Glow",
-            "version": "566.1.0",
-            "size": 220182027,
-            "icon": "img/facebookglow.png",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
-            "bundleIdentifier": "com.facebook.Facebook",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Remove ads\r\nRemove people you may know\r\nRemove Reels from the homepage\r\nConfirm likes\r\nSave videos\r\nSave Reels videos\r\nHide buttons\r\nConfirm likes\r\nSave by long-press\r\nSave stories\r\nWatch stories incognito\r\nDisable auto-progression\r\nClear cache when starting the app",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/facebookglow.png",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "566.1.0",
-                    "date": "2026-10-16T11:41:05+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
-                    "size": 220182027,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_4.png"
                     ]
                 }
             ]
@@ -3407,150 +3533,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitchlivestreaming_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1352250628,
-            "name": "BHTikTok",
-            "version": "44.9.0",
-            "size": 399948346,
-            "icon": "img/bhtiktok.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
-            "bundleIdentifier": "com.zhiliaoapp.musically",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- No Ads\r\n- Download Videos\r\n- Download Musics\r\n- Show/Hide UI button\r\n- Copy video decription\r\n- Copy video link\r\n- Copy Music link\r\n- Auto Play Next Video\r\n- Show progress bar\r\n- Confirm like\r\n- Confirm comment like\r\n- Confirm comment dislike\r\n- Confirm follow\r\n- Save profile image\r\n- Copy profile information\r\n- Extend bio\r\n- Extend comment\r\n- Always open in Safari\r\n- Changing region\r\n- Fake verify blue mark\r\n- Fake Follower count\r\n- Fake Following count\r\n- Padlock",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bhtiktok.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "44.9.0",
-                    "date": "2026-10-15T19:48:46+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bhtiktok.ipa",
-                    "size": 399948346,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bhtiktok_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1966590023,
-            "name": "WhatsApp Business",
-            "version": "26.38.74",
-            "size": 174257519,
-            "icon": "img/whatsappbusiness.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/whatsappbusiness.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/whatsappbusiness.ipa",
-            "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Watusi3 Tool:\n⁃ Hide online now.\n⁃ Hide typing.\n⁃ Hide last seen.\n⁃ Hide recording a voice note.\n⁃ Hide reading the message.\n⁃ Set a password for the application.\n⁃ Set a password for chats.\n⁃ Keep deleted messages.\n⁃ Keep deleted statuses.\n⁃ Split long videos.\n⁃ Hide chats.\n⁃ More in the tool settings...\n\n\n- Supports backup through the files application.\n- Supports notifications if it is open in the background.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/whatsappbusiness.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "26.38.74",
-                    "date": "2026-10-15T19:42:54+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/whatsappbusiness.ipa",
-                    "size": 174257519,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappbusiness_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1554274589,
-            "name": "Easy Lens by Snap Inc.",
-            "version": "3.3.0",
-            "size": 79218496,
-            "icon": "img/easylensbysnapinc.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/easylensbysnapinc.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/easylensbysnapinc.ipa",
-            "bundleIdentifier": "com.snapchat.secret.LensMaker",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Raw copy for duplication only",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/easylensbysnapinc.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "3.3.0",
-                    "date": "2026-10-15T19:42:05+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/easylensbysnapinc.ipa",
-                    "size": 79218496,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_4.jpg"
                     ]
                 }
             ]
