@@ -10,6 +10,177 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1391074315,
+            "name": "The Tower - Idle Tower Defense",
+            "version": "29.1.0",
+            "size": 207068210,
+            "icon": "img/thetoweridletowerdefense.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/thetoweridletowerdefense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/thetoweridletowerdefense.ipa",
+            "bundleIdentifier": "com.TechTreeGames.TheTower",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free iAP ( Press cancel when buy ) (Turn on from iOSGods Menu first if needed )\n- iGameGod Cheat Engine Enabled ( modify in-game currency and speed up stage )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/thetoweridletowerdefense.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetoweridletowerdefense_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetoweridletowerdefense_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetoweridletowerdefense_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetoweridletowerdefense_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetoweridletowerdefense_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetoweridletowerdefense_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetoweridletowerdefense_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetoweridletowerdefense_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "29.1.0",
+                    "date": "2026-10-16T12:06:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/thetoweridletowerdefense.ipa",
+                    "size": 207068210,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetoweridletowerdefense_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetoweridletowerdefense_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetoweridletowerdefense_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetoweridletowerdefense_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1162592013,
+            "name": "Everybody's RPG",
+            "version": "6.03",
+            "size": 118962618,
+            "icon": "img/everybodysrpg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/everybodysrpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/everybodysrpg.ipa",
+            "bundleIdentifier": "com.nomadgames.everybodyrpgpay",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Currency Max\n- DMG\n- ATK Speed\n- ATK Range\n- Skill\n- Enemy Freeze\n- Enemy NO [ Stage Mod ] Easy Skip Stage\n\nDon't Abuse The Hack Incase Banned",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/everybodysrpg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everybodysrpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everybodysrpg_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everybodysrpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everybodysrpg_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.03",
+                    "date": "2026-10-16T12:05:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/everybodysrpg.ipa",
+                    "size": 118962618,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everybodysrpg_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everybodysrpg_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1883636758,
+            "name": "Underdark:Defense",
+            "version": "3.4.2",
+            "size": 209079228,
+            "icon": "img/underdarkdefense.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/underdarkdefense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/underdarkdefense.ipa",
+            "bundleIdentifier": "com.FreeDust.UnderDark",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defense Multiplier\n- Reward Mutliplier → Turn Off When You Get Enough\n- Always Last Wave\n- No Ads",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/underdarkdefense.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [],
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "3.4.2",
+                    "date": "2026-10-16T11:54:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/underdarkdefense.ipa",
+                    "size": 209079228,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": []
+                }
+            ]
+        },
+        {
+            "id": 1649224125,
+            "name": "On Raft",
+            "version": "1.0.1",
+            "size": 251242375,
+            "icon": "img/onraft.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
+            "bundleIdentifier": "com.on.raft",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ADS NO / Rewards Free → No interruptions, instant rewards\n- Currency Multiplier → Earn currency faster\n- Resources Multiplier → Gather materials at an accelerated rate\n- Debug Menu → Advanced customization and testing options",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.1",
+                    "date": "2026-10-16T11:40:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
+                    "size": 251242375,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1504758857,
             "name": "All in Hole: Black Hole Games",
             "version": "9.11.2",
@@ -12440,54 +12611,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2tropicescape_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2tropicescape_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2tropicescape_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1649224125,
-            "name": "On Raft",
-            "version": "1.0.0",
-            "size": 350084438,
-            "icon": "img/onraft.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
-            "bundleIdentifier": "com.on.raft",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- ADS NO / Rewards Free → No interruptions, instant rewards\n- Currency Multiplier → Earn currency faster\n- Resources Multiplier → Gather materials at an accelerated rate\n- Debug Menu → Advanced customization and testing options",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.0",
-                    "date": "2026-10-13T01:29:03+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
-                    "size": 350084438,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_4.png"
                     ]
                 }
             ]
