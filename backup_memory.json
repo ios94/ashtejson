@@ -10,6 +10,198 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1765391160,
+            "name": "Telegram Messenger",
+            "version": "13.0",
+            "size": 115904602,
+            "icon": "img/telegrammessenger.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/telegrammessenger.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/telegrammessenger.ipa",
+            "bundleIdentifier": "ph.telegra.Telegraph",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "It includes the Lead tool, which has many features.\n\nTo activate the features, go to Settings and select \"Ask a Question\".",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/telegrammessenger.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "13.0",
+                    "date": "2026-10-16T11:06:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/telegrammessenger.ipa",
+                    "size": 115904602,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1130452612,
+            "name": "Swiftgram: Telegram mod client",
+            "version": "12.9.4",
+            "size": 83266812,
+            "icon": "img/swiftgramtelegrammodclient.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/swiftgramtelegrammodclient.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/swiftgramtelegrammodclient.ipa",
+            "bundleIdentifier": "app.swiftgram.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Modified Telegram version\n\nto open the tool's settings (press and hold the \"Ask a question\" button in the settings tab)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/swiftgramtelegrammodclient.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftgramtelegrammodclient_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftgramtelegrammodclient_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftgramtelegrammodclient_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftgramtelegrammodclient_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftgramtelegrammodclient_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftgramtelegrammodclient_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftgramtelegrammodclient_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftgramtelegrammodclient_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "12.9.4",
+                    "date": "2026-10-16T11:06:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/swiftgramtelegrammodclient.ipa",
+                    "size": 83266812,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftgramtelegrammodclient_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftgramtelegrammodclient_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftgramtelegrammodclient_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftgramtelegrammodclient_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1362197386,
+            "name": "WhatsApp All",
+            "version": "26.40.10",
+            "size": 168146942,
+            "icon": "img/whatsappall.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/whatsappall.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/whatsappall.ipa",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "The WhatsApp app comes with the following built-in tools:\r\n\r\n- Watusi\r\n- Stalky\r\n- ContactSync\r\n- OnlineNotify\r\n\r\nLog in with any account to activate features",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/whatsappall.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "26.40.10",
+                    "date": "2026-10-16T11:06:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/whatsappall.ipa",
+                    "size": 168146942,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1235940305,
+            "name": "‎WA Business All",
+            "version": "26.40.10",
+            "size": 175122994,
+            "icon": "img/wabusinessall.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/wabusinessall.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/wabusinessall.ipa",
+            "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "The WhatsApp app comes with the following built-in tools:\r\n\r\n- Watusi\r\n- Stalky\r\n- ContactSync\r\n- OnlineNotify\r\n\r\nLog in with any account to activate features",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wabusinessall.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "26.40.10",
+                    "date": "2026-10-16T11:05:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/wabusinessall.ipa",
+                    "size": 175122994,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1742140980,
             "name": "SC Memories Importer",
             "version": "4.0",
@@ -1063,54 +1255,6 @@
             ]
         },
         {
-            "id": 1765391160,
-            "name": "Telegram Messenger",
-            "version": "13.0",
-            "size": 115904602,
-            "icon": "img/telegrammessenger.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/telegrammessenger.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/telegrammessenger.ipa",
-            "bundleIdentifier": "ph.telegra.Telegraph",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "It includes the Lead tool, which has many features.\n\nTo activate the features, go to Settings and select \"Ask a Question\".",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/telegrammessenger.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "13.0",
-                    "date": "2026-10-15T19:40:12+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/telegrammessenger.ipa",
-                    "size": 115904602,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegrammessenger_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1968529586,
             "name": "YouTube Wolf",
             "version": "21.40.5",
@@ -1154,102 +1298,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1362197386,
-            "name": "WhatsApp All",
-            "version": "26.40.10",
-            "size": 168146942,
-            "icon": "img/whatsappall.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/whatsappall.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/whatsappall.ipa",
-            "bundleIdentifier": "net.whatsapp.WhatsApp",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "The WhatsApp app comes with the following built-in tools:\r\n\r\n- Watusi\r\n- Stalky\r\n- ContactSync\r\n- OnlineNotify\r\n\r\nLog in with any account to activate features",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/whatsappall.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "26.40.10",
-                    "date": "2026-10-15T19:38:54+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/whatsappall.ipa",
-                    "size": 168146942,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappall_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1235940305,
-            "name": "‎WA Business All",
-            "version": "26.40.10",
-            "size": 175122994,
-            "icon": "img/wabusinessall.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/wabusinessall.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/wabusinessall.ipa",
-            "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "The WhatsApp app comes with the following built-in tools:\r\n\r\n- Watusi\r\n- Stalky\r\n- ContactSync\r\n- OnlineNotify\r\n\r\nLog in with any account to activate features",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wabusinessall.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "26.40.10",
-                    "date": "2026-10-15T19:38:44+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/wabusinessall.ipa",
-                    "size": 175122994,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wabusinessall_screen_4.png"
                     ]
                 }
             ]
@@ -12525,37 +12573,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/ytkillerplus.ipa",
                     "size": 136094679,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1130452612,
-            "name": "Swiftgram: Telegram mod client",
-            "version": "12.9.4",
-            "size": "79.41 MB",
-            "icon": "img/swiftgramtelegrammodclient.jpg",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/swiftgramtelegrammodclient.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/swiftgramtelegrammodclient.ipa",
-            "bundleIdentifier": "app.swiftgram.ios",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Modified Telegram version\n\nto open the tool's settings (press and hold the \"Ask a question\" button in the settings tab)",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/swiftgramtelegrammodclient.jpg",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "12.9.4",
-                    "date": "2026-10-11T00:04:03+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/swiftgramtelegrammodclient.ipa",
-                    "size": 83267420,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
