@@ -10,6 +10,195 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1631067057,
+            "name": "Twitter DL",
+            "version": "12.29",
+            "size": 257693323,
+            "icon": "img/twitterdl.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/twitterdl.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/twitterdl.ipa",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Download videos from public and private accounts in different qualities\r\n\r\nDownload voice tweets as videos\r\n\r\nConfirm follow/like/unlike actions\r\n\r\nBrowse accounts that have blocked you\r\n\r\nRemove ads\r\n\r\nControl audio in previews\r\n\r\nPrevent video from repeating after it ends\r\n\r\nDisable typing indicator in direct messages\r\n\r\nOpen links directly in Safari\r\n\r\nLock the app with fingerprint and passcode\r\n\r\nEnable hidden features like Tip Jar and voice messages in direct messages",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/twitterdl.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "12.29",
+                    "date": "2026-10-16T11:43:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/twitterdl.ipa",
+                    "size": 257693323,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1968529586,
+            "name": "YouTube Wolf",
+            "version": "21.40.5",
+            "size": 148320906,
+            "icon": "img/youtubewolf.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubewolf.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubewolf.ipa",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Download videos in multiple quality options.\nDownload audio-only for offline listening.\nDownload the video's thumbnail in high quality.\nBuilt-in Downloads Library inside YouTube to manage all downloaded files.\nView the video title, quality, file size, download date, and progress.\nPlay, share, save, or delete downloaded files with ease.\nPicture in Picture (PiP) support for watching videos outside the app.\nContinue audio playback in the background after leaving YouTube.\nStable Playback for improved video compatibility and smoother playback.\nWolfTube button inside regular videos.\nWolfTube button inside Shorts.\nHide the Shorts interface for a clean viewing experience.\nWolfTube button on channel and profile pages.\nDownload profile pictures in the highest available quality.\nCopy the channel name, ID, link, and description.\nCopy the video title and description.\nReduce ads and automatically skip skippable ads.\nIndependent settings to control the visibility of WolfTube buttons.\nAdded support for multiple languages, including Arabic and several international languages.\nVideo playback speed control (0.5x–10x).\nCopy comments with a single tap.\nKeep videos playing in the background.\nAutomatically resume downloaded videos or audio from the last playback position.\nSave playback progress when pausing, locking the device, leaving the app, or seeking through the timeline.\nRestart playback from the beginning only after the media has finished completely.\nControl downloaded media directly from the Lock Screen.\nSkip forward or backward by 15 seconds while playing downloaded media.\nDisplay the channel name and video artwork on the Lock Screen.\nBuilt-in project validation system to detect issues before building a release.\nDedicated diagnostic tools instead of relying on guesswork-based fixes.\nImproved download compatibility with the latest iOS versions.\nSelect and share multiple videos or audio files at once.\nPin videos, audio files, and playlists to the top of the library.\nUndo playlist deletion within 10 seconds.\nExport and import a complete WolfTube library backup.\nBackups include settings, videos, audio files, playlists, and pinned items.\nSearch within the WolfTube library and inside playlists.\nCreate custom playlists from downloaded audio files.\nAdded Sequential Playback, Repeat, and Shuffle modes.\nResume playback of downloaded videos and audio from the last watched position.\nFixed blank spaces that could appear between YouTube search results.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/youtubewolf.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "21.40.5",
+                    "date": "2026-10-16T11:42:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/youtubewolf.ipa",
+                    "size": 148320906,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1376842149,
+            "name": "YouTube",
+            "version": "20.44.2",
+            "size": 140048728,
+            "icon": "img/youtube.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtube.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtube.ipa",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "uYou tool (no license required, free)\n\nAd removal tool\n\nuYou tool for downloading videos and audio\n\nTool to unlock the highest video resolution\n\nPiP tool for playing video outside of YouTube\n\nTool to bring back the dislike button",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/youtube.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtube_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtube_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtube_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtube_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtube_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtube_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtube_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtube_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "20.44.2",
+                    "date": "2026-10-16T11:42:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/youtube.ipa",
+                    "size": 140048728,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtube_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtube_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtube_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtube_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1319508161,
+            "name": "Facebook Glow",
+            "version": "566.1.0",
+            "size": 220182027,
+            "icon": "img/facebookglow.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Remove ads\r\nRemove people you may know\r\nRemove Reels from the homepage\r\nConfirm likes\r\nSave videos\r\nSave Reels videos\r\nHide buttons\r\nConfirm likes\r\nSave by long-press\r\nSave stories\r\nWatch stories incognito\r\nDisable auto-progression\r\nClear cache when starting the app",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/facebookglow.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "566.1.0",
+                    "date": "2026-10-16T11:41:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
+                    "size": 220182027,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1618293974,
             "name": "Legend of Gladiator・Epic Quest",
             "version": "1.9.2",
@@ -3271,99 +3460,6 @@
             ]
         },
         {
-            "id": 1319508161,
-            "name": "Facebook Glow",
-            "version": "566.1.0",
-            "size": 220182027,
-            "icon": "img/facebookglow.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
-            "bundleIdentifier": "com.facebook.Facebook",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Remove ads\r\nRemove people you may know\r\nRemove Reels from the homepage\r\nConfirm likes\r\nSave videos\r\nSave Reels videos\r\nHide buttons\r\nConfirm likes\r\nSave by long-press\r\nSave stories\r\nWatch stories incognito\r\nDisable auto-progression\r\nClear cache when starting the app",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/facebookglow.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "566.1.0",
-                    "date": "2026-10-15T19:47:08+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/facebookglow.ipa",
-                    "size": 220182027,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookglow_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1631067057,
-            "name": "Twitter DL",
-            "version": "12.29",
-            "size": 257693323,
-            "icon": "img/twitterdl.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/twitterdl.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/twitterdl.ipa",
-            "bundleIdentifier": "com.atebits.Tweetie2",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Download videos from public and private accounts in different qualities\r\n\r\nDownload voice tweets as videos\r\n\r\nConfirm follow/like/unlike actions\r\n\r\nBrowse accounts that have blocked you\r\n\r\nRemove ads\r\n\r\nControl audio in previews\r\n\r\nPrevent video from repeating after it ends\r\n\r\nDisable typing indicator in direct messages\r\n\r\nOpen links directly in Safari\r\n\r\nLock the app with fingerprint and passcode\r\n\r\nEnable hidden features like Tip Jar and voice messages in direct messages",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/twitterdl.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_3.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_3.png"
-            ],
-            "versions": [
-                {
-                    "version": "12.29",
-                    "date": "2026-10-15T19:44:38+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/twitterdl.ipa",
-                    "size": 257693323,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twitterdl_screen_3.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1966590023,
             "name": "WhatsApp Business",
             "version": "26.38.74",
@@ -3455,54 +3551,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easylensbysnapinc_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1968529586,
-            "name": "YouTube Wolf",
-            "version": "21.40.5",
-            "size": 148320906,
-            "icon": "img/youtubewolf.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubewolf.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubewolf.ipa",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Download videos in multiple quality options.\nDownload audio-only for offline listening.\nDownload the video's thumbnail in high quality.\nBuilt-in Downloads Library inside YouTube to manage all downloaded files.\nView the video title, quality, file size, download date, and progress.\nPlay, share, save, or delete downloaded files with ease.\nPicture in Picture (PiP) support for watching videos outside the app.\nContinue audio playback in the background after leaving YouTube.\nStable Playback for improved video compatibility and smoother playback.\nWolfTube button inside regular videos.\nWolfTube button inside Shorts.\nHide the Shorts interface for a clean viewing experience.\nWolfTube button on channel and profile pages.\nDownload profile pictures in the highest available quality.\nCopy the channel name, ID, link, and description.\nCopy the video title and description.\nReduce ads and automatically skip skippable ads.\nIndependent settings to control the visibility of WolfTube buttons.\nAdded support for multiple languages, including Arabic and several international languages.\nVideo playback speed control (0.5x–10x).\nCopy comments with a single tap.\nKeep videos playing in the background.\nAutomatically resume downloaded videos or audio from the last playback position.\nSave playback progress when pausing, locking the device, leaving the app, or seeking through the timeline.\nRestart playback from the beginning only after the media has finished completely.\nControl downloaded media directly from the Lock Screen.\nSkip forward or backward by 15 seconds while playing downloaded media.\nDisplay the channel name and video artwork on the Lock Screen.\nBuilt-in project validation system to detect issues before building a release.\nDedicated diagnostic tools instead of relying on guesswork-based fixes.\nImproved download compatibility with the latest iOS versions.\nSelect and share multiple videos or audio files at once.\nPin videos, audio files, and playlists to the top of the library.\nUndo playlist deletion within 10 seconds.\nExport and import a complete WolfTube library backup.\nBackups include settings, videos, audio files, playlists, and pinned items.\nSearch within the WolfTube library and inside playlists.\nCreate custom playlists from downloaded audio files.\nAdded Sequential Playback, Repeat, and Shuffle modes.\nResume playback of downloaded videos and audio from the last watched position.\nFixed blank spaces that could appear between YouTube search results.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/youtubewolf.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "21.40.5",
-                    "date": "2026-10-15T19:40:02+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/youtubewolf.ipa",
-                    "size": 148320906,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubewolf_screen_4.jpg"
                     ]
                 }
             ]
