@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1427665490,
+            "name": "Stick War: Saga",
+            "version": "2026.5.7576",
+            "size": 359185366,
+            "icon": "img/stickwarsaga.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/stickwarsaga.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/stickwarsaga.ipa",
+            "bundleIdentifier": "com.maxgames.stickwar3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Instant Win → Battle Setting → Resign\n- Battle Gold → Spend/Gain\n- Unlimited Mana → Spend/Gain\n- Everything Unlocked\n- No Skills Cooldown",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stickwarsaga.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2026.5.7576",
+                    "date": "2026-10-25T18:32:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/stickwarsaga.ipa",
+                    "size": 359185366,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1626676328,
             "name": "My Cafe — Restaurant Game",
             "version": "2026110.4.971",
@@ -17825,54 +17873,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carcrashpremiumoffline_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carcrashpremiumoffline_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carcrashpremiumoffline_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1427665490,
-            "name": "Stick War: Saga",
-            "version": "2026.5.7224",
-            "size": 357635509,
-            "icon": "img/stickwarsaga.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/stickwarsaga.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/stickwarsaga.ipa",
-            "bundleIdentifier": "com.maxgames.stickwar3",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Instant Win → Battle Setting → Resign\n- Battle Gold → Spend/Gain\n- Unlimited Mana → Spend/Gain\n- Everything Unlocked\n- No Skills Cooldown",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stickwarsaga.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "2026.5.7224",
-                    "date": "2026-10-13T01:27:00+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/stickwarsaga.ipa",
-                    "size": 357635509,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwarsaga_screen_4.png"
                     ]
                 }
             ]
