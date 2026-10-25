@@ -26,6 +26,7 @@ apps = data.get("apps", [])
 found = False
 files_to_delete = []
 ipa_name_for_release = ""
+release_tag_for_deletion = "V1"
 
 for i, app in enumerate(apps):
     # بەراوردکردنی ناوەکان بە بێ گوێدانە پیتی گەورە و بچووک
@@ -44,7 +45,13 @@ for i, app in enumerate(apps):
         # دۆزینەوەی ناوی فایلی IPA بۆ سڕینەوەی لە ڕیلیز
         install_url = app.get("install_url", "")
         if install_url:
-            ipa_name_for_release = urllib.parse.unquote(install_url.split("/")[-1])
+            url_parts = install_url.split("/")
+            ipa_name_for_release = urllib.parse.unquote(url_parts[-1])
+            # install_url شێوازی .../releases/download/<TAG>/<file>.ipa یە
+            if len(url_parts) >= 2 and "download" in url_parts:
+                download_idx = url_parts.index("download")
+                if len(url_parts) > download_idx + 1:
+                    release_tag_for_deletion = url_parts[download_idx + 1] or "V1"
 
         # سڕینەوەی یارییەکە لە جەیسۆن
         apps.pop(i)
@@ -69,10 +76,11 @@ for file_path in files_to_delete:
     else:
         print(f"⚠️ وێنەکە نەدۆزرایەوە بۆ سڕینەوە: {file_path}")
 
-# ناردنی ناوی IPA بۆ GitHub Actions تا لەوێ بیسڕێتەوە
+# ناردنی ناوی IPA و تاگی ریلیز بۆ GitHub Actions تا لەوێ بیسڕێتەوە
 env_file = os.getenv('GITHUB_ENV')
 if env_file and ipa_name_for_release:
     with open(env_file, "a") as f:
         f.write(f"IPA_TO_DELETE={ipa_name_for_release}\n")
+        f.write(f"RELEASE_TAG_TO_DELETE={release_tag_for_deletion}\n")
 
 print(f"✅ یاری '{app_to_delete}' بە تەواوی سڕایەوە و پاک کرایەوە!")
