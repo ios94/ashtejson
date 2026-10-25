@@ -30,11 +30,12 @@ jobs:
           DELETE_APP_NAME: ${{ github.event.inputs.app_name }}
         run: python admin_deleter.py
 
-      - name: Delete IPA from Release V1
+      - name: Delete IPA from Release
         run: |
+          TAG="${RELEASE_TAG_TO_DELETE:-V1}"
           if [ -n "$IPA_TO_DELETE" ]; then
-            echo "سڕینەوەی فایلی $IPA_TO_DELETE لە ڕیلیز..."
-            gh release delete-asset V1 "$IPA_TO_DELETE" -y || echo "فایلەکە لە ڕیلیز نەدۆزرایەوە"
+            echo "سڕینەوەی فایلی $IPA_TO_DELETE لە ڕیلیزی $TAG..."
+            gh release delete-asset "$TAG" "$IPA_TO_DELETE" -y || echo "فایلەکە لە ڕیلیزی $TAG نەدۆزرایەوە"
           else
             echo "هیچ فایلێکی IPA نەدۆزرایەوە بۆ سڕینەوە"
           fi
