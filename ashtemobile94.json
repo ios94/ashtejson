@@ -10,6 +10,186 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1475080818,
+            "name": "Drift Car Racing Rally 3D",
+            "version": "9",
+            "size": 51318127,
+            "icon": "img/driftcarracingrally3d.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/driftcarracingrally3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/driftcarracingrally3d.ipa",
+            "bundleIdentifier": "DriftRacingRally",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Fake purchase activation\n- Game speed boost\n- No ads\n\nNote: Enable the hack from the mod menu",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/driftcarracingrally3d.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/driftcarracingrally3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/driftcarracingrally3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/driftcarracingrally3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/driftcarracingrally3d_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/driftcarracingrally3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/driftcarracingrally3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/driftcarracingrally3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/driftcarracingrally3d_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "9",
+                    "date": "2026-10-25T11:52:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/driftcarracingrally3d.ipa",
+                    "size": 51318127,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/driftcarracingrally3d_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/driftcarracingrally3d_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/driftcarracingrally3d_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/driftcarracingrally3d_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1336596447,
+            "name": "No Limit Drag Racing 2",
+            "version": "2.30.10",
+            "size": 952816822,
+            "icon": "img/nolimitdragracing2.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/nolimitdragracing2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/nolimitdragracing2.ipa",
+            "bundleIdentifier": "com.battlecreek.nolimit2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Gold\n- Unlimited Money\n- VIP Enabled",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nolimitdragracing2.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nolimitdragracing2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nolimitdragracing2_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nolimitdragracing2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nolimitdragracing2_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.30.10",
+                    "date": "2026-10-25T11:52:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/nolimitdragracing2.ipa",
+                    "size": 952816822,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nolimitdragracing2_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nolimitdragracing2_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1342206700,
+            "name": "Twisted Tangle",
+            "version": "2.21.1",
+            "size": 262998713,
+            "icon": "img/twistedtangle.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/twistedtangle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/twistedtangle.ipa",
+            "bundleIdentifier": "com.crescivegames.twistedtangle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited everything\n- Game acceleration\n- No ads\n\nNote: Activate the hack from the mod menu, exit the game, and then log in again.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/twistedtangle.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.21.1",
+                    "date": "2026-10-25T11:46:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/twistedtangle.ipa",
+                    "size": 262998713,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1403311650,
+            "name": "Bridge Race",
+            "version": "4.2",
+            "size": 296019276,
+            "icon": "img/bridgerace.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bridgerace.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bridgerace.ipa",
+            "bundleIdentifier": "com.Garawell.BridgeRace",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited money\n- No ads",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bridgerace.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridgerace_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridgerace_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridgerace_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridgerace_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.2",
+                    "date": "2026-10-25T11:45:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bridgerace.ipa",
+                    "size": 296019276,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridgerace_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridgerace_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1607464590,
             "name": "Pirate Raid: Caribbean Battle",
             "version": "1.51.14",
@@ -15833,54 +16013,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mansiontalemergesecrets_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mansiontalemergesecrets_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mansiontalemergesecrets_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1342206700,
-            "name": "Twisted Tangle",
-            "version": "2.18.2",
-            "size": 258493557,
-            "icon": "img/twistedtangle.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/twistedtangle.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/twistedtangle.ipa",
-            "bundleIdentifier": "com.crescivegames.twistedtangle",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited everything\n- Game acceleration\n- No ads\n\nNote: Activate the hack from the mod menu, exit the game, and then log in again.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/twistedtangle.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "2.18.2",
-                    "date": "2026-10-13T01:49:25+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/twistedtangle.ipa",
-                    "size": 258493557,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_4.png"
                     ]
                 }
             ]
