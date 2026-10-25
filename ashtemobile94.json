@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1607464590,
+            "name": "Pirate Raid: Caribbean Battle",
+            "version": "1.51.14",
+            "size": 129970166,
+            "icon": "img/pirateraidcaribbeanbattle.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/pirateraidcaribbeanbattle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/pirateraidcaribbeanbattle.ipa",
+            "bundleIdentifier": "com.whalergames.pirateraid",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- No Ads\n- God Mode\n- Movement Speed Slider \n- No shot cooldown\n- Unlock All ships\n- Inf cargo storage\n- Currency Freeze and +9999 on spend\n- Inf Currency\n- Unlock ships tab\n- All ships max stars\n- Free Premium",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pirateraidcaribbeanbattle.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pirateraidcaribbeanbattle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pirateraidcaribbeanbattle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pirateraidcaribbeanbattle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pirateraidcaribbeanbattle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pirateraidcaribbeanbattle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pirateraidcaribbeanbattle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pirateraidcaribbeanbattle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pirateraidcaribbeanbattle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.51.14",
+                    "date": "2026-10-25T11:54:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/pirateraidcaribbeanbattle.ipa",
+                    "size": 129970166,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pirateraidcaribbeanbattle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pirateraidcaribbeanbattle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pirateraidcaribbeanbattle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pirateraidcaribbeanbattle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1417887544,
             "name": "Hempire - Weed Growing Game",
             "version": "2.49.1",
