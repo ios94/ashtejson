@@ -10,6 +10,192 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1703754176,
+            "name": "Warbox Sandbox",
+            "version": "1.91.7",
+            "size": 569259846,
+            "icon": "img/warboxsandbox.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/warboxsandbox.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/warboxsandbox.ipa",
+            "bundleIdentifier": "com.MadarGames.WarboxSandbox",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Premium → full access to all features",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/warboxsandbox.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warboxsandbox_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warboxsandbox_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warboxsandbox_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warboxsandbox_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warboxsandbox_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warboxsandbox_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warboxsandbox_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warboxsandbox_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.91.7",
+                    "date": "2026-10-25T11:41:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/warboxsandbox.ipa",
+                    "size": 569259846,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warboxsandbox_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warboxsandbox_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warboxsandbox_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warboxsandbox_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1871733363,
+            "name": "Good Pizza, Great Pizza",
+            "version": "5.59.2",
+            "size": 392617426,
+            "icon": "img/goodpizzagreatpizza.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/goodpizzagreatpizza.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/goodpizzagreatpizza.ipa",
+            "bundleIdentifier": "com.tapblaze.pizzabusiness",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Cash .\n- Unlimited Diamonds .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/goodpizzagreatpizza.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.59.2",
+                    "date": "2026-10-25T11:40:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/goodpizzagreatpizza.ipa",
+                    "size": 392617426,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1250896101,
+            "name": "Galaxy Attack: Alien Shooter",
+            "version": "76.6",
+            "size": 314816834,
+            "icon": "img/galaxyattackalienshooter.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyattackalienshooter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyattackalienshooter.ipa",
+            "bundleIdentifier": "com.alien.shooter.galaxy.attack",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Max Bullet .\n- Max Life .\n- DMG .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/galaxyattackalienshooter.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "76.6",
+                    "date": "2026-10-25T11:40:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyattackalienshooter.ipa",
+                    "size": 314816834,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1218156194,
+            "name": "Hair Challenge",
+            "version": "43.7.6",
+            "size": 241328318,
+            "icon": "img/hairchallenge.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/hairchallenge.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/hairchallenge.ipa",
+            "bundleIdentifier": "com.Upperpik.HairChallenge",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Are you ready for a big hair challenge?\n\nThis adventure will give you long, luscious hair! This popular hair runner game is perfect for you!\n\n- Free store (buy then cancel)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hairchallenge.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_2.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_2.png"
+            ],
+            "versions": [
+                {
+                    "version": "43.7.6",
+                    "date": "2026-10-25T11:39:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/hairchallenge.ipa",
+                    "size": 241328318,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_2.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1703883326,
             "name": "Drone Strike Military War 3D",
             "version": "1.86.4",
@@ -2909,54 +3095,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1871733363,
-            "name": "Good Pizza, Great Pizza",
-            "version": "5.59.1",
-            "size": 392524111,
-            "icon": "img/goodpizzagreatpizza.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/goodpizzagreatpizza.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/goodpizzagreatpizza.ipa",
-            "bundleIdentifier": "com.tapblaze.pizzabusiness",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Cash .\n- Unlimited Diamonds .",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/goodpizzagreatpizza.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "5.59.1",
-                    "date": "2026-10-21T23:45:39+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/goodpizzagreatpizza.ipa",
-                    "size": 392524111,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_4.jpg"
                     ]
                 }
             ]
@@ -15599,54 +15737,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/driveandpark_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/driveandpark_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/driveandpark_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1250896101,
-            "name": "Galaxy Attack: Alien Shooter",
-            "version": "76.3",
-            "size": 335811408,
-            "icon": "img/galaxyattackalienshooter.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyattackalienshooter.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyattackalienshooter.ipa",
-            "bundleIdentifier": "com.alien.shooter.galaxy.attack",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Max Bullet .\n- Max Life .\n- DMG .",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/galaxyattackalienshooter.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "76.3",
-                    "date": "2026-10-13T01:43:56+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyattackalienshooter.ipa",
-                    "size": 335811408,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_4.jpg"
                     ]
                 }
             ]
