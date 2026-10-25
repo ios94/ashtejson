@@ -221,32 +221,16 @@ def process_single_app(app_input, ipa_link, app_type):
     ipa_filename = f"ipas/{slug}.ipa"
     print("Downloading primary package (IPA)...")
     file_size_bytes = 150000000
-    ipa_download_ok = False
 
     try:
-        r = requests.get(ipa_link, headers=headers, stream=True, allow_redirects=True, timeout=60)
-        print(f"IPA download status code: {r.status_code}")
+        r = requests.get(ipa_link, stream=True)
         if r.status_code == 200:
             with open(ipa_filename, "wb") as f:
-                for chunk in r.iter_content(chunk_size=8192):
-                    if chunk:
-                        f.write(chunk)
-            downloaded_size = os.path.getsize(ipa_filename) if os.path.exists(ipa_filename) else 0
-            if downloaded_size > 0 and zipfile.is_zipfile(ipa_filename):
-                file_size_bytes = downloaded_size
-                ipa_download_ok = True
-                print(f"✅ IPA downloaded successfully ({downloaded_size} bytes).")
-            else:
-                print(f"❌ Downloaded file is not a valid IPA/zip (size: {downloaded_size} bytes). It may be an error page or a redirect that wasn't followed.")
-        else:
-            print(f"❌ Server returned status {r.status_code} instead of 200. The IPA link may be wrong, expired, or blocked.")
+                for chunk in r.iter_content(chunk_size=8192): f.write(chunk)
+            if zipfile.is_zipfile(ipa_filename):
+                file_size_bytes = os.path.getsize(ipa_filename)
     except Exception as e:
-        print("❌ Error downloading package:", e)
-
-    if not ipa_download_ok:
-        print("🛑 STOPPING: IPA file was not downloaded correctly, so there is nothing valid to upload.")
-        print(f"Please double check this link works in a browser and points directly to a .ipa file: {ipa_link}")
-        exit(1)
+        print("Error downloading package:", e)
 
     final_size_bytes = int(file_size_bytes)
     release_tag = os.environ.get("RELEASE_TAG", "V1").strip() or "V1"
