@@ -10,6 +10,198 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1743877711,
+            "name": "Tower War - Tactical Conquest",
+            "version": "1.30.0",
+            "size": 176512567,
+            "icon": "img/towerwartacticalconquest.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/towerwartacticalconquest.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/towerwartacticalconquest.ipa",
+            "bundleIdentifier": "games.vaveda.militaryoverturn",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free store (buy then cancel) .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/towerwartacticalconquest.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.30.0",
+                    "date": "2026-10-25T16:56:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/towerwartacticalconquest.ipa",
+                    "size": 176512567,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1608262223,
+            "name": "Meowdoku!",
+            "version": "1.22.0",
+            "size": 176873367,
+            "icon": "img/meowdoku.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/meowdoku.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/meowdoku.ipa",
+            "bundleIdentifier": "com.oakever.meowdoku",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto Win → instantly complete any level\n- Jump to Custom Level → skip ahead to your chosen puzzle\n- Unlimited Tools → use hints and aids without limit\n- Infinite Lives → play without running out of attempts\n- Premium / No Ads → enjoy uninterrupted gameplay",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/meowdoku.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.22.0",
+                    "date": "2026-10-25T16:55:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/meowdoku.ipa",
+                    "size": 176873367,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1620943072,
+            "name": "Rolling Sky",
+            "version": "5.6.4",
+            "size": 342130167,
+            "icon": "img/rollingsky.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/rollingsky.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/rollingsky.ipa",
+            "bundleIdentifier": "com.turbochilli.rollingsky",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free iAP\n- Never Die → become invulnerable\n- Never Fall → stay on the track always",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rollingsky.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.6.4",
+                    "date": "2026-10-25T16:55:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/rollingsky.ipa",
+                    "size": 342130167,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1845978297,
+            "name": "Tic Tac Toe 2 Player: XO Game",
+            "version": "17",
+            "size": 59902477,
+            "icon": "img/tictactoe2playerxogame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/tictactoe2playerxogame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/tictactoe2playerxogame.ipa",
+            "bundleIdentifier": "onetap.game.tictactoe",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- No ads",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tictactoe2playerxogame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tictactoe2playerxogame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tictactoe2playerxogame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tictactoe2playerxogame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tictactoe2playerxogame_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tictactoe2playerxogame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tictactoe2playerxogame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tictactoe2playerxogame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tictactoe2playerxogame_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "17",
+                    "date": "2026-10-25T16:55:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/tictactoe2playerxogame.ipa",
+                    "size": 59902477,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tictactoe2playerxogame_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tictactoe2playerxogame_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tictactoe2playerxogame_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tictactoe2playerxogame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1224004734,
             "name": "MONOPOLY Match",
             "version": "0.3.15603",
@@ -12257,54 +12449,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydrifterhajwalaonline_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydrifterhajwalaonline_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydrifterhajwalaonline_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1743877711,
-            "name": "Tower War - Tactical Conquest",
-            "version": "1.29.3",
-            "size": 178039293,
-            "icon": "img/towerwartacticalconquest.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/towerwartacticalconquest.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/towerwartacticalconquest.ipa",
-            "bundleIdentifier": "games.vaveda.militaryoverturn",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Free store (buy then cancel) .",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/towerwartacticalconquest.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.29.3",
-                    "date": "2026-10-15T02:56:01+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/towerwartacticalconquest.ipa",
-                    "size": 178039293,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_4.png"
                     ]
                 }
             ]
