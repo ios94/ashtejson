@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1626676328,
+            "name": "My Cafe — Restaurant Game",
+            "version": "2026110.4.971",
+            "size": 736773830,
+            "icon": "img/mycaferestaurantgame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mycaferestaurantgame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mycaferestaurantgame.ipa",
+            "bundleIdentifier": "com.Melesta.MyCafe",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Increase Game Speed\n- No Time to Buy Energy\n- Custom Dice",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mycaferestaurantgame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2026110.4.971",
+                    "date": "2026-10-25T16:57:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mycaferestaurantgame.ipa",
+                    "size": 736773830,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1743877711,
             "name": "Tower War - Tactical Conquest",
             "version": "1.30.0",
@@ -13457,54 +13505,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toonblast_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toonblast_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toonblast_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1626676328,
-            "name": "My Cafe — Restaurant Game",
-            "version": "2026110.0.968",
-            "size": 736402138,
-            "icon": "img/mycaferestaurantgame.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mycaferestaurantgame.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mycaferestaurantgame.ipa",
-            "bundleIdentifier": "com.Melesta.MyCafe",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Increase Game Speed\n- No Time to Buy Energy\n- Custom Dice",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mycaferestaurantgame.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "2026110.0.968",
-                    "date": "2026-10-15T02:39:29+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mycaferestaurantgame.ipa",
-                    "size": 736402138,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycaferestaurantgame_screen_4.jpg"
                     ]
                 }
             ]
