@@ -17,6 +17,17 @@ on:
         options:
           - 'Yes'
           - 'No'
+      release_tag:
+        description: ' '
+        required: true
+        type: choice
+        default: 'V1'
+        options:
+          - 'V1'
+          - 'V2'
+          - 'V3'
+          - 'V4'
+          - 'V5'
       app1_name:
         description: '١. لینکی پەڕەی یاری یەکەم'
         required: false
@@ -73,6 +84,7 @@ jobs:
       - name: Heavy Work (Download IPAs and Scrape)
         env:
           APP_TYPE: ${{ github.event.inputs.app_type }}
+          RELEASE_TAG: ${{ github.event.inputs.release_tag }}
           APP1_NAME: ${{ github.event.inputs.app1_name }}
           APP1_IPA: ${{ github.event.inputs.app1_ipa }}
           APP2_NAME: ${{ github.event.inputs.app2_name }}
@@ -87,10 +99,10 @@ jobs:
         if: ${{ github.event.inputs.inject_dylib == 'Yes' }}
         run: python inject.py || true
 
-      - name: Upload IPAs to Release V1
+      - name: Upload IPAs to Release ${{ github.event.inputs.release_tag }}
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: V1
+          tag_name: ${{ github.event.inputs.release_tag }}
           files: ipas/*.ipa
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
