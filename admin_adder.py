@@ -233,7 +233,9 @@ def process_single_app(app_input, ipa_link, app_type):
         print("Error downloading package:", e)
 
     final_size_bytes = int(file_size_bytes)
-    github_release_url = f"{_d('aHR0cHM6Ly9naXRodWIuY29tL2lvczk0L2FzaHRlanNvbi9yZWxlYXNlcy9kb3dubG9hZC9WMS8=')}{slug}.ipa"
+    release_tag = os.environ.get("RELEASE_TAG", "V1").strip() or "V1"
+    release_base = _d('aHR0cHM6Ly9naXRodWIuY29tL2lvczk0L2FzaHRlanNvbi9yZWxlYXNlcy9kb3dubG9hZC8=')
+    github_release_url = f"{release_base}{release_tag}/{slug}.ipa"
     current_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
     app_id = random.randint(1111111111, 1999999999)
 
