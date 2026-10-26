@@ -8,6 +8,7 @@ import urllib.parse
 import base64
 import zipfile
 import shutil
+import subprocess
 import struct
 import zlib
 import plistlib
@@ -77,6 +78,22 @@ def resolve_local_ipa(value):
         if os.path.isfile(c):
             return c
     return None
+
+def fetch_chunked_ipa(value, dest):
+    """IPA ی پارچەپارچەکراو لە لقی کاتی (upload:BRANCH) کە upload.html دروستی کردووە، دەیانگەڕێنێتەوە بۆ یەک فایل"""
+    branch = value.split(":", 1)[1].strip()
+    print(f"📦 Chunked upload detected on branch: {branch}")
+    subprocess.run(["git", "fetch", "--depth=1", "origin", f"refs/heads/{branch}"], check=True)
+    names = subprocess.run(["git", "ls-tree", "-r", "--name-only", "FETCH_HEAD"],
+                           capture_output=True, text=True, check=True).stdout.split("\n")
+    parts = sorted(n for n in names if n.startswith("chunks/"))
+    if not parts:
+        raise RuntimeError("no chunks found on branch " + branch)
+    with open(dest, "wb") as out:
+        for n in parts:
+            out.write(subprocess.run(["git", "show", f"FETCH_HEAD:{n}"], capture_output=True, check=True).stdout)
+    with open("uploads_consumed_branches.txt", "a", encoding="utf-8") as bf:
+        bf.write(branch + "\n")
 
 def decgbi(data):
     """ئایکۆنی IPA بە فۆرماتی CgBI ی ئەپڵە — دەیگۆڕێت بۆ PNG ی ئاسایی"""
@@ -192,7 +209,12 @@ def process_single_app(app_input, ipa_link, app_type):
     os.makedirs("ipas", exist_ok=True)
     tmp_ipa = f"ipas/_tmp_{random.randint(100000, 999999)}.ipa"
     local_src = resolve_local_ipa(ipa_link)
-    if local_src:
+    if ipa_link.startswith("upload:"):
+        try:
+            fetch_chunked_ipa(ipa_link, tmp_ipa)
+        except Exception as e:
+            print("Chunked upload read failed:", e)
+    elif local_src:
         print(f"📦 IPA file detected in repo: {local_src}")
         shutil.copy2(local_src, tmp_ipa)
         with open(CONSUMED_FILE, "a", encoding="utf-8") as cf:
