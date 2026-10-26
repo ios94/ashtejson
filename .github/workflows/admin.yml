@@ -140,3 +140,14 @@ jobs:
               sleep 10
             fi
           done
+
+      - name: Cleanup temporary uploads (release tag "uploads")
+        if: ${{ always() }}
+        run: |
+          if [ -f uploads_consumed_assets.txt ]; then
+            while read -r a; do
+              [ -n "$a" ] && gh release delete-asset uploads "$a" -y || true
+            done < uploads_consumed_assets.txt
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
