@@ -10,6 +10,192 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1250896101,
+            "name": "Galaxy Attack: Alien Shooter",
+            "version": "76.6",
+            "size": 314816834,
+            "icon": "img/galaxyattackalienshooter.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyattackalienshooter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyattackalienshooter.ipa",
+            "bundleIdentifier": "com.alien.shooter.galaxy.attack",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Max Bullet .\n- Max Life .\n- DMG .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/galaxyattackalienshooter.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "76.6",
+                    "date": "2026-10-26T16:52:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyattackalienshooter.ipa",
+                    "size": 314816834,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1218156194,
+            "name": "Hair Challenge",
+            "version": "43.7.6",
+            "size": 241328318,
+            "icon": "img/hairchallenge.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/hairchallenge.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/hairchallenge.ipa",
+            "bundleIdentifier": "com.Upperpik.HairChallenge",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Are you ready for a big hair challenge?\n\nThis adventure will give you long, luscious hair! This popular hair runner game is perfect for you!\n\n- Free store (buy then cancel)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hairchallenge.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_2.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_2.png"
+            ],
+            "versions": [
+                {
+                    "version": "43.7.6",
+                    "date": "2026-10-26T16:52:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/hairchallenge.ipa",
+                    "size": 241328318,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1976316870,
+            "name": "Serenity's Spa: Beauty Salon",
+            "version": "2.9.6",
+            "size": 294293687,
+            "icon": "img/serenitysspabeautysalon.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/serenitysspabeautysalon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/serenitysspabeautysalon.ipa",
+            "bundleIdentifier": "co.gxgames.spa",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- No Ads\n- Freeze Currency\n- Freeze Boosters/Lives\n- Freeze Patience\n- Instant Checkout\n- Instant Service",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/serenitysspabeautysalon.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.9.6",
+                    "date": "2026-10-26T16:51:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/serenitysspabeautysalon.ipa",
+                    "size": 294293687,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1568605724,
+            "name": "Icy Village: Survival Idle",
+            "version": "5.6.1",
+            "size": 630682227,
+            "icon": "img/icyvillagesurvivalidle.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/icyvillagesurvivalidle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/icyvillagesurvivalidle.ipa",
+            "bundleIdentifier": "com.unimob.icy.village",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Currencies -> Will increase instead of decrease.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/icyvillagesurvivalidle.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.6.1",
+                    "date": "2026-10-26T16:51:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/icyvillagesurvivalidle.ipa",
+                    "size": 630682227,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1386803597,
             "name": "Idle Restaurant Tycoon: Empire",
             "version": "1.55.0",
@@ -2050,102 +2236,6 @@
             ]
         },
         {
-            "id": 1976316870,
-            "name": "Serenity's Spa: Beauty Salon",
-            "version": "2.9.6",
-            "size": 294293687,
-            "icon": "img/serenitysspabeautysalon.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/serenitysspabeautysalon.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/serenitysspabeautysalon.ipa",
-            "bundleIdentifier": "co.gxgames.spa",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- No Ads\n- Freeze Currency\n- Freeze Boosters/Lives\n- Freeze Patience\n- Instant Checkout\n- Instant Service",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/serenitysspabeautysalon.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "2.9.6",
-                    "date": "2026-10-25T11:41:27+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/serenitysspabeautysalon.ipa",
-                    "size": 294293687,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/serenitysspabeautysalon_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1568605724,
-            "name": "Icy Village: Survival Idle",
-            "version": "5.6.1",
-            "size": 630682227,
-            "icon": "img/icyvillagesurvivalidle.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/icyvillagesurvivalidle.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/icyvillagesurvivalidle.ipa",
-            "bundleIdentifier": "com.unimob.icy.village",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Currencies -> Will increase instead of decrease.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/icyvillagesurvivalidle.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "5.6.1",
-                    "date": "2026-10-25T11:40:52+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/icyvillagesurvivalidle.ipa",
-                    "size": 630682227,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icyvillagesurvivalidle_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1495136212,
             "name": "Car Match - Traffic Puzzle",
             "version": "0.0.1117",
@@ -2285,96 +2375,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodpizzagreatpizza_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1250896101,
-            "name": "Galaxy Attack: Alien Shooter",
-            "version": "76.6",
-            "size": 314816834,
-            "icon": "img/galaxyattackalienshooter.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyattackalienshooter.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyattackalienshooter.ipa",
-            "bundleIdentifier": "com.alien.shooter.galaxy.attack",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Max Bullet .\n- Max Life .\n- DMG .",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/galaxyattackalienshooter.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "76.6",
-                    "date": "2026-10-25T11:40:20+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyattackalienshooter.ipa",
-                    "size": 314816834,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyattackalienshooter_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1218156194,
-            "name": "Hair Challenge",
-            "version": "43.7.6",
-            "size": 241328318,
-            "icon": "img/hairchallenge.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/hairchallenge.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/hairchallenge.ipa",
-            "bundleIdentifier": "com.Upperpik.HairChallenge",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Are you ready for a big hair challenge?\n\nThis adventure will give you long, luscious hair! This popular hair runner game is perfect for you!\n\n- Free store (buy then cancel)",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hairchallenge.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_2.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_2.png"
-            ],
-            "versions": [
-                {
-                    "version": "43.7.6",
-                    "date": "2026-10-25T11:39:54+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/hairchallenge.ipa",
-                    "size": 241328318,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_2.png"
                     ]
                 }
             ]
