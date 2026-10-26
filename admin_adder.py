@@ -7,6 +7,7 @@ import re
 import urllib.parse
 import base64
 import zipfile
+import time
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 
@@ -54,13 +55,18 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     print("Data successfully updated in the source file.")
     exit(0)
 
-# هێدەری بەهێزکراو بۆ تێپەڕاندنی پاراستنی سایتەکان
+# هێدەری زۆر بەهێزکراو بۆ تێپەڕاندنی Cloudflare و 403
 headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.5",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
     "Connection": "keep-alive",
-    "Upgrade-Insecure-Requests": "1"
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1"
 }
 
 def find_main_app_in_page(data):
@@ -224,9 +230,11 @@ def process_single_app(app_input, ipa_link, app_type):
         # فێڵکردن بۆ ئەوەی سایتەکە وابزانێت لینکەکەمان لە ناو سایتی خۆیانەوە کردووەتەوە
         download_headers = headers.copy()
         if "ipaomtk" in ipa_link.lower():
+            # ئەم بەشە زۆر گرنگە بۆ تێپەڕاندنی سایتی ipaomtk
             download_headers["Referer"] = "https://ipaomtk.com/"
+            download_headers["Origin"] = "https://ipaomtk.com"
+            download_headers["Accept"] = "application/octet-stream, application/zip, application/x-itunes-ipa, */*"
             
-        # لێرەدا هێدەرەکەمان زیاد کرد کە پێشتر نەماننووسیبوو
         r = requests.get(ipa_link, stream=True, headers=download_headers, timeout=120)
         if r.status_code == 200:
             with open(ipa_filename, "wb") as f:
@@ -236,6 +244,8 @@ def process_single_app(app_input, ipa_link, app_type):
                 print(f"✅ IPA Downloaded Successfully: {file_size_bytes} bytes")
             else:
                 print("⚠️ Downloaded file is not a valid zip/ipa.")
+                if os.path.exists(ipa_filename):
+                    os.remove(ipa_filename) # سڕینەوەی فایلی تێکچوو بۆ ئەوەی کێشە دروست نەکات
         else:
             print(f"⚠️ Failed to download IPA. Server returned status code: {r.status_code}")
     except Exception as e:
@@ -248,37 +258,41 @@ def process_single_app(app_input, ipa_link, app_type):
     current_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
     app_id = random.randint(1111111111, 1999999999)
 
-    return {
-        "id": app_id,
-        "name": final_name,
-        "version": final_version,
-        "size": final_size_bytes,
-        "icon": icon_relative,
-        "badge": "",
-        "type": app_type,
-        "install_url": github_release_url,
-        "download_url": github_release_url,
-        "bundleIdentifier": final_bundle,
-        "marketplaceID": "",
-        "developerName": _d('QXNodGVNb2JpbGU='),
-        "subtitle": "Awesome App",
-        "localizedDescription": final_desc,
-        "iconURL": icon_full_url,
-        "tintColor": "#04ecfc",
-        "category": app_type,
-        "screenshotURLs": final_screenshot_urls,
-        "screenshots": final_screenshot_urls,
-        "versions": [{
+    # تەنها ئەگەر فایلەکە بە سەرکەوتوویی دابەزیبوو ئینجا با زانیارییەکانی بنێرێت بۆ جەیسۆن
+    if os.path.exists(ipa_filename) and zipfile.is_zipfile(ipa_filename):
+        return {
+            "id": app_id,
+            "name": final_name,
             "version": final_version,
-            "date": current_date,
-            "localizedDescription": None,
-            "downloadURL": github_release_url,
             "size": final_size_bytes,
-            "buildVersion": None,
-            "minOSVersion": "14.0",
-            "screenshots": final_screenshot_urls 
-        }]
-    }
+            "icon": icon_relative,
+            "badge": "",
+            "type": app_type,
+            "install_url": github_release_url,
+            "download_url": github_release_url,
+            "bundleIdentifier": final_bundle,
+            "marketplaceID": "",
+            "developerName": _d('QXNodGVNb2JpbGU='),
+            "subtitle": "Awesome App",
+            "localizedDescription": final_desc,
+            "iconURL": icon_full_url,
+            "tintColor": "#04ecfc",
+            "category": app_type,
+            "screenshotURLs": final_screenshot_urls,
+            "screenshots": final_screenshot_urls,
+            "versions": [{
+                "version": final_version,
+                "date": current_date,
+                "localizedDescription": None,
+                "downloadURL": github_release_url,
+                "size": final_size_bytes,
+                "buildVersion": None,
+                "minOSVersion": "14.0",
+                "screenshots": final_screenshot_urls 
+            }]
+        }
+    else:
+        return None
 
 # =========================================================================
 # بەشی سەرەکی - وەرگرتنی ٤ یاری پێکەوە
@@ -306,5 +320,5 @@ if generated_apps:
         json.dump(generated_apps, f, ensure_ascii=False, indent=4)
     print("✅ All apps processed successfully.")
 else:
-    print("Error: No apps processed.")
+    print("Error: No apps processed or downloaded.")
     exit(1)
