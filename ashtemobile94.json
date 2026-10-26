@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1406958905,
+            "name": "Roblox",
+            "version": "2.737.1581",
+            "size": 138850118,
+            "icon": "img/roblox.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V2/roblox.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V2/roblox.ipa",
+            "bundleIdentifier": "com.gloop.deltamobile",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roblox.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.737.1581",
+                    "date": "2026-10-26T20:29:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V2/roblox.ipa",
+                    "size": 138850118,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1949440212,
             "name": "Unknown App",
             "version": "1.2",
