@@ -55,18 +55,8 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     print("Data successfully updated in the source file.")
     exit(0)
 
-# هێدەری زۆر بەهێزکراو بۆ تێپەڕاندنی Cloudflare و 403
 headers = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Connection": "keep-alive",
-    "Upgrade-Insecure-Requests": "1",
-    "Sec-Fetch-Dest": "document",
-    "Sec-Fetch-Mode": "navigate",
-    "Sec-Fetch-Site": "none",
-    "Sec-Fetch-User": "?1"
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
 def find_main_app_in_page(data):
@@ -81,7 +71,7 @@ def find_main_app_in_page(data):
             if res: return res
     return None
 
-def process_single_app(app_input, ipa_link, app_type):
+def process_single_app(app_input, ipa_link, app_type, release_tag):
     ex_name, ex_desc, ex_icon, ex_version, ex_bundle = "", "", "", "", ""
 
     if app_input.startswith("http"):
@@ -111,7 +101,7 @@ def process_single_app(app_input, ipa_link, app_type):
                     ex_name = soup.title.string
                 if ex_name:
                     ex_name = ex_name.split('|')[0].split('-')[0].strip()
-                if ex_name and ("Just a moment" in ex_name or "Cloudflare" in ex_name or "Attention Required" in ex_name):
+                if ex_name and ("Just a moment" in ex_name or "Cloudflare" in ex_name):
                     ex_name = ""
         except Exception as e:
             print(f"Website Scraping Error: {e}")
@@ -128,12 +118,9 @@ def process_single_app(app_input, ipa_link, app_type):
     
     print(f"📝 App Name Detected: {ex_name}")
 
-    # =========================================================
-    # بەشی زیرەک: بۆ ئەوەی وێنە و ناوی هەڵە نەهێنێت
-    # =========================================================
     search_name = ex_name
     lower_name = ex_name.lower()
-    popular_apps = ["tiktok", "youtube", "facebook", "instagram", "twitter", "whatsapp", "snapchat", "spotify", "twitch", "discord", "reddit", "telegram", "messenger", "capcut", "picsart", "pubg", "roblox", "minecraft", "clash", "8 ball pool"]
+    popular_apps = ["tiktok", "youtube", "facebook", "instagram", "twitter", "whatsapp", "snapchat", "spotify", "twitch", "discord", "reddit", "telegram", "messenger", "capcut", "picsart", "pubg", "roblox", "minecraft", "clash"]
     
     for app in popular_apps:
         if app in lower_name:
@@ -205,13 +192,17 @@ def process_single_app(app_input, ipa_link, app_type):
     final_screenshot_urls = []
     if app_store_screenshots:
         print("Downloading screenshots from App Store...")
+        custom_headers = {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+        }
         for idx, s_url in enumerate(app_store_screenshots[:4]):
             ext_s = ".png" if ".png" in s_url.lower() else ".jpg"
             clean_url = s_url.split('?')[0]
             screen_filename = f"{slug}_screen_{idx+1}{ext_s}"
             screen_path = os.path.join("imgg", screen_filename)
             try:
-                sr = requests.get(clean_url, stream=True, headers=headers, timeout=15)
+                sr = requests.get(clean_url, stream=True, headers=custom_headers, timeout=15)
                 if sr.status_code == 200:
                     with open(screen_path, "wb") as f:
                         for chunk in sr.iter_content(8192): f.write(chunk)
@@ -227,77 +218,60 @@ def process_single_app(app_input, ipa_link, app_type):
     file_size_bytes = 150000000
 
     try:
-        # فێڵکردن بۆ ئەوەی سایتەکە وابزانێت لینکەکەمان لە ناو سایتی خۆیانەوە کردووەتەوە
-        download_headers = headers.copy()
-        if "ipaomtk" in ipa_link.lower():
-            # ئەم بەشە زۆر گرنگە بۆ تێپەڕاندنی سایتی ipaomtk
-            download_headers["Referer"] = "https://ipaomtk.com/"
-            download_headers["Origin"] = "https://ipaomtk.com"
-            download_headers["Accept"] = "application/octet-stream, application/zip, application/x-itunes-ipa, */*"
-            
-        r = requests.get(ipa_link, stream=True, headers=download_headers, timeout=120)
+        r = requests.get(ipa_link, stream=True, timeout=120)
         if r.status_code == 200:
             with open(ipa_filename, "wb") as f:
                 for chunk in r.iter_content(chunk_size=8192): f.write(chunk)
             if zipfile.is_zipfile(ipa_filename):
                 file_size_bytes = os.path.getsize(ipa_filename)
-                print(f"✅ IPA Downloaded Successfully: {file_size_bytes} bytes")
-            else:
-                print("⚠️ Downloaded file is not a valid zip/ipa.")
-                if os.path.exists(ipa_filename):
-                    os.remove(ipa_filename) # سڕینەوەی فایلی تێکچوو بۆ ئەوەی کێشە دروست نەکات
-        else:
-            print(f"⚠️ Failed to download IPA. Server returned status code: {r.status_code}")
     except Exception as e:
         print("Error downloading package:", e)
 
     final_size_bytes = int(file_size_bytes)
-    release_tag = os.environ.get("RELEASE_TAG", "V1").strip() or "V1"
+    
     release_base = _d('aHR0cHM6Ly9naXRodWIuY29tL2lvczk0L2FzaHRlanNvbi9yZWxlYXNlcy9kb3dubG9hZC8=')
     github_release_url = f"{release_base}{release_tag}/{slug}.ipa"
+    
     current_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
     app_id = random.randint(1111111111, 1999999999)
 
-    # تەنها ئەگەر فایلەکە بە سەرکەوتوویی دابەزیبوو ئینجا با زانیارییەکانی بنێرێت بۆ جەیسۆن
-    if os.path.exists(ipa_filename) and zipfile.is_zipfile(ipa_filename):
-        return {
-            "id": app_id,
-            "name": final_name,
+    return {
+        "id": app_id,
+        "name": final_name,
+        "version": final_version,
+        "size": final_size_bytes,
+        "icon": icon_relative,
+        "badge": "",
+        "type": app_type,
+        "install_url": github_release_url,
+        "download_url": github_release_url,
+        "bundleIdentifier": final_bundle,
+        "marketplaceID": "",
+        "developerName": _d('QXNodGVNb2JpbGU='),
+        "subtitle": "Awesome App",
+        "localizedDescription": final_desc,
+        "iconURL": icon_full_url,
+        "tintColor": "#04ecfc",
+        "category": app_type,
+        "screenshotURLs": final_screenshot_urls,
+        "screenshots": final_screenshot_urls,
+        "versions": [{
             "version": final_version,
+            "date": current_date,
+            "localizedDescription": None,
+            "downloadURL": github_release_url,
             "size": final_size_bytes,
-            "icon": icon_relative,
-            "badge": "",
-            "type": app_type,
-            "install_url": github_release_url,
-            "download_url": github_release_url,
-            "bundleIdentifier": final_bundle,
-            "marketplaceID": "",
-            "developerName": _d('QXNodGVNb2JpbGU='),
-            "subtitle": "Awesome App",
-            "localizedDescription": final_desc,
-            "iconURL": icon_full_url,
-            "tintColor": "#04ecfc",
-            "category": app_type,
-            "screenshotURLs": final_screenshot_urls,
-            "screenshots": final_screenshot_urls,
-            "versions": [{
-                "version": final_version,
-                "date": current_date,
-                "localizedDescription": None,
-                "downloadURL": github_release_url,
-                "size": final_size_bytes,
-                "buildVersion": None,
-                "minOSVersion": "14.0",
-                "screenshots": final_screenshot_urls 
-            }]
-        }
-    else:
-        return None
+            "buildVersion": None,
+            "minOSVersion": "14.0",
+            "screenshots": final_screenshot_urls 
+        }]
+    }
 
 # =========================================================================
 # بەشی سەرەکی - وەرگرتنی ٤ یاری پێکەوە
 # =========================================================================
 app_type = os.environ.get("APP_TYPE", "games").strip()
+release_tag = os.environ.get("RELEASE_TAG", "V1").strip()
 
 pairs = [
     (os.environ.get("APP1_NAME", "").strip(), os.environ.get("APP1_IPA", "").strip()),
@@ -310,15 +284,18 @@ generated_apps = []
 
 for idx, (url, ipa) in enumerate(pairs, 1):
     if url and ipa:
-        print(f"\n--- Processing App {idx} ---")
-        res = process_single_app(url, ipa, app_type)
+        print(f"\n======================================")
+        print(f"📦 دەستپێکردنی یاری ژمارە {idx}")
+        print(f"======================================")
+        res = process_single_app(url, ipa, app_type, release_tag)
         if res:
             generated_apps.append(res)
+        time.sleep(1)
 
 if generated_apps:
     with open("temp_app.json", "w", encoding="utf-8") as f:
         json.dump(generated_apps, f, ensure_ascii=False, indent=4)
-    print("✅ All apps processed successfully.")
+    print(f"\n✅ پڕۆسەکە تەواو بوو! {len(generated_apps)} یاری ئامادە کران.")
 else:
-    print("Error: No apps processed or downloaded.")
+    print("Error: No apps processed.")
     exit(1)
