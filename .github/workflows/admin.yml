@@ -149,5 +149,10 @@ jobs:
               [ -n "$a" ] && gh release delete-asset uploads "$a" -y || true
             done < uploads_consumed_assets.txt
           fi
+          if [ -f uploads_consumed_branches.txt ]; then
+            while read -r b; do
+              [ -n "$b" ] && git push origin --delete "$b" || true
+            done < uploads_consumed_branches.txt
+          fi
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
