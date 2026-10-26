@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1577450581,
+            "name": "Music Wars Rockstar: Rap Life",
+            "version": "1.7.6",
+            "size": 265768318,
+            "icon": "img/musicwarsrockstarraplife.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/musicwarsrockstarraplife.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/musicwarsrockstarraplife.ipa",
+            "bundleIdentifier": "com.mwcompany.MusicWarsRockstar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited money (buy something in shop)\n- Unlimited creativity\n- Unlimited health\n- Unlimited happiness",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/musicwarsrockstarraplife.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.6",
+                    "date": "2026-10-26T17:13:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/musicwarsrockstarraplife.ipa",
+                    "size": 265768318,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1893749511,
             "name": "Color Block Jam",
             "version": "10.5.0",
