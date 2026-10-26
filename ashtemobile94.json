@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1427940544,
+            "name": "dropcult",
+            "version": "1.1.7",
+            "size": 816165521,
+            "icon": "img/dropcult.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/dropcult.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/dropcult.ipa",
+            "bundleIdentifier": "com.SmokeSpotGames.SkreetFigherzGame",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Never Die\n- One-Hit Kill",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dropcult.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dropcult_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dropcult_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dropcult_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dropcult_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dropcult_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dropcult_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dropcult_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dropcult_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.7",
+                    "date": "2026-10-26T21:11:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/dropcult.ipa",
+                    "size": 816165521,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dropcult_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dropcult_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dropcult_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dropcult_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1653227524,
             "name": "AmaZeus: Merge & Shoot",
             "version": "1.4.58",
