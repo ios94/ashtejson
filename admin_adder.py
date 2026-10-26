@@ -54,8 +54,13 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
     print("Data successfully updated in the source file.")
     exit(0)
 
+# هێدەری بەهێزکراو بۆ تێپەڕاندنی پاراستنی سایتەکان
 headers = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1"
 }
 
 def find_main_app_in_page(data):
@@ -122,7 +127,7 @@ def process_single_app(app_input, ipa_link, app_type):
     # =========================================================
     search_name = ex_name
     lower_name = ex_name.lower()
-    popular_apps = ["tiktok", "youtube", "facebook", "instagram", "twitter", "whatsapp", "snapchat", "spotify", "twitch", "discord", "reddit", "telegram", "messenger", "capcut", "picsart", "pubg", "roblox", "minecraft", "clash"]
+    popular_apps = ["tiktok", "youtube", "facebook", "instagram", "twitter", "whatsapp", "snapchat", "spotify", "twitch", "discord", "reddit", "telegram", "messenger", "capcut", "picsart", "pubg", "roblox", "minecraft", "clash", "8 ball pool"]
     
     for app in popular_apps:
         if app in lower_name:
@@ -159,7 +164,6 @@ def process_single_app(app_input, ipa_link, app_type):
     except Exception as e:
         print("App Store search failed:", e)
 
-    # لێرەدا ڕێگریمان کردووە ناوی ڕاستەقینە بڕوات
     final_name = ex_name
     final_desc = ex_desc or "Awesome App! Downloaded from AshteMobile."
 
@@ -168,7 +172,6 @@ def process_single_app(app_input, ipa_link, app_type):
     final_bundle = ex_bundle or as_bundle or f"com.ashtemobile.{slug}"
     final_version = ex_version if ex_version else (as_version or "1.0")
     
-    # گرنگ: وێنە سەرەکییەکە تەنها ئەگەر هی خۆی نەبوو ئینجا هی ئەپستۆر بەکاردەهێنێت
     icon_to_download = ex_icon if ex_icon else (as_icon if as_icon else "")
 
     os.makedirs("img", exist_ok=True)
@@ -196,24 +199,19 @@ def process_single_app(app_input, ipa_link, app_type):
     final_screenshot_urls = []
     if app_store_screenshots:
         print("Downloading screenshots from App Store...")
-        custom_headers = {
-            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
-        }
         for idx, s_url in enumerate(app_store_screenshots[:4]):
             ext_s = ".png" if ".png" in s_url.lower() else ".jpg"
             clean_url = s_url.split('?')[0]
             screen_filename = f"{slug}_screen_{idx+1}{ext_s}"
             screen_path = os.path.join("imgg", screen_filename)
             try:
-                sr = requests.get(clean_url, stream=True, headers=custom_headers, timeout=15)
+                sr = requests.get(clean_url, stream=True, headers=headers, timeout=15)
                 if sr.status_code == 200:
                     with open(screen_path, "wb") as f:
                         for chunk in sr.iter_content(8192): f.write(chunk)
                     final_screenshot_urls.append(f"{base_github_raw_imgg}{screen_filename}")
             except: pass
 
-    # ئەگەر سکرینشۆت هەر نەبوو با ئایکۆنەکە دابنێت
     if not final_screenshot_urls and icon_full_url:
         final_screenshot_urls = [icon_full_url]
 
@@ -223,12 +221,23 @@ def process_single_app(app_input, ipa_link, app_type):
     file_size_bytes = 150000000
 
     try:
-        r = requests.get(ipa_link, stream=True)
+        # فێڵکردن بۆ ئەوەی سایتەکە وابزانێت لینکەکەمان لە ناو سایتی خۆیانەوە کردووەتەوە
+        download_headers = headers.copy()
+        if "ipaomtk" in ipa_link.lower():
+            download_headers["Referer"] = "https://ipaomtk.com/"
+            
+        # لێرەدا هێدەرەکەمان زیاد کرد کە پێشتر نەماننووسیبوو
+        r = requests.get(ipa_link, stream=True, headers=download_headers, timeout=120)
         if r.status_code == 200:
             with open(ipa_filename, "wb") as f:
                 for chunk in r.iter_content(chunk_size=8192): f.write(chunk)
             if zipfile.is_zipfile(ipa_filename):
                 file_size_bytes = os.path.getsize(ipa_filename)
+                print(f"✅ IPA Downloaded Successfully: {file_size_bytes} bytes")
+            else:
+                print("⚠️ Downloaded file is not a valid zip/ipa.")
+        else:
+            print(f"⚠️ Failed to download IPA. Server returned status code: {r.status_code}")
     except Exception as e:
         print("Error downloading package:", e)
 
