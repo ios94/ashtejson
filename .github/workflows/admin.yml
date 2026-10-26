@@ -29,35 +29,35 @@ on:
           - 'V4'
           - 'V5'
       app1_name:
-        description: '1. ناو یان لینکی پەڕەی یاری یەکەم (بەتاڵ بێت ئەگەر IPA فایلە)'
+        description: '1. ناو یان لینکی پەڕەی یاری یەکەم'
         required: false
         type: string
       app1_ipa:
-        description: '1. لینکی IPA یەکەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
+        description: '1. لینکی IPA یەکەم یان ناوی فایلی  game.ipa)'
         required: false
         type: string
       app2_name:
-        description: '2. ناو یان لینکی پەڕەی یاری دووەم (بەتاڵ بێت ئەگەر IPA فایلە)'
+        description: '2. ناو یان لینکی پەڕەی یاری دووەم'
         required: false
         type: string
       app2_ipa:
-        description: '2. لینکی IPA دووەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
+        description: '2. لینکی IPA دووەم یان ناوی فایلی ناو game.ipa'
         required: false
         type: string
       app3_name:
-        description: '3. ناو یان لینکی پەڕەی یاری سێیەم (بەتاڵ بێت ئەگەر IPA فایلە)'
+        description: '3. ناو یان لینکی پەڕەی یاری سێیەم'
         required: false
         type: string
       app3_ipa:
-        description: '3. لینکی IPA سێیەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
+        description: '3. لینکی IPA سێیەم یان ناوی فایلی ناو game.ipa'
         required: false
         type: string
       app4_name:
-        description: '4. ناو یان لینکی پەڕەی یاری چوارەم (بەتاڵ بێت ئەگەر IPA فایلە)'
+        description: '4. ناو یان لینکی پەڕەی یاری چوارەم'
         required: false
         type: string
       app4_ipa:
-        description: '4. لینکی IPA چوارەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
+        description: '4. لینکی IPA چوارەم یان ناوی فایلی ناو  game.ipa'
         required: false
         type: string
 
