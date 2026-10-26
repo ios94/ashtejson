@@ -7,7 +7,6 @@ import re
 import urllib.parse
 import base64
 import zipfile
-import time
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 
@@ -71,7 +70,7 @@ def find_main_app_in_page(data):
             if res: return res
     return None
 
-def process_single_app(app_input, ipa_link, app_type, release_tag):
+def process_single_app(app_input, ipa_link, app_type):
     ex_name, ex_desc, ex_icon, ex_version, ex_bundle = "", "", "", "", ""
 
     if app_input.startswith("http"):
@@ -101,7 +100,7 @@ def process_single_app(app_input, ipa_link, app_type, release_tag):
                     ex_name = soup.title.string
                 if ex_name:
                     ex_name = ex_name.split('|')[0].split('-')[0].strip()
-                if ex_name and ("Just a moment" in ex_name or "Cloudflare" in ex_name):
+                if ex_name and ("Just a moment" in ex_name or "Cloudflare" in ex_name or "Attention Required" in ex_name):
                     ex_name = ""
         except Exception as e:
             print(f"Website Scraping Error: {e}")
@@ -118,6 +117,9 @@ def process_single_app(app_input, ipa_link, app_type, release_tag):
     
     print(f"📝 App Name Detected: {ex_name}")
 
+    # =========================================================
+    # بەشی زیرەک: بۆ ئەوەی وێنە و ناوی هەڵە نەهێنێت
+    # =========================================================
     search_name = ex_name
     lower_name = ex_name.lower()
     popular_apps = ["tiktok", "youtube", "facebook", "instagram", "twitter", "whatsapp", "snapchat", "spotify", "twitch", "discord", "reddit", "telegram", "messenger", "capcut", "picsart", "pubg", "roblox", "minecraft", "clash"]
@@ -157,6 +159,7 @@ def process_single_app(app_input, ipa_link, app_type, release_tag):
     except Exception as e:
         print("App Store search failed:", e)
 
+    # لێرەدا ڕێگریمان کردووە ناوی ڕاستەقینە بڕوات
     final_name = ex_name
     final_desc = ex_desc or "Awesome App! Downloaded from AshteMobile."
 
@@ -165,6 +168,7 @@ def process_single_app(app_input, ipa_link, app_type, release_tag):
     final_bundle = ex_bundle or as_bundle or f"com.ashtemobile.{slug}"
     final_version = ex_version if ex_version else (as_version or "1.0")
     
+    # گرنگ: وێنە سەرەکییەکە تەنها ئەگەر هی خۆی نەبوو ئینجا هی ئەپستۆر بەکاردەهێنێت
     icon_to_download = ex_icon if ex_icon else (as_icon if as_icon else "")
 
     os.makedirs("img", exist_ok=True)
@@ -209,6 +213,7 @@ def process_single_app(app_input, ipa_link, app_type, release_tag):
                     final_screenshot_urls.append(f"{base_github_raw_imgg}{screen_filename}")
             except: pass
 
+    # ئەگەر سکرینشۆت هەر نەبوو با ئایکۆنەکە دابنێت
     if not final_screenshot_urls and icon_full_url:
         final_screenshot_urls = [icon_full_url]
 
@@ -218,7 +223,7 @@ def process_single_app(app_input, ipa_link, app_type, release_tag):
     file_size_bytes = 150000000
 
     try:
-        r = requests.get(ipa_link, stream=True, timeout=120)
+        r = requests.get(ipa_link, stream=True)
         if r.status_code == 200:
             with open(ipa_filename, "wb") as f:
                 for chunk in r.iter_content(chunk_size=8192): f.write(chunk)
@@ -228,10 +233,9 @@ def process_single_app(app_input, ipa_link, app_type, release_tag):
         print("Error downloading package:", e)
 
     final_size_bytes = int(file_size_bytes)
-    
+    release_tag = os.environ.get("RELEASE_TAG", "V1").strip() or "V1"
     release_base = _d('aHR0cHM6Ly9naXRodWIuY29tL2lvczk0L2FzaHRlanNvbi9yZWxlYXNlcy9kb3dubG9hZC8=')
     github_release_url = f"{release_base}{release_tag}/{slug}.ipa"
-    
     current_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
     app_id = random.randint(1111111111, 1999999999)
 
@@ -271,7 +275,6 @@ def process_single_app(app_input, ipa_link, app_type, release_tag):
 # بەشی سەرەکی - وەرگرتنی ٤ یاری پێکەوە
 # =========================================================================
 app_type = os.environ.get("APP_TYPE", "games").strip()
-release_tag = os.environ.get("RELEASE_TAG", "V1").strip()
 
 pairs = [
     (os.environ.get("APP1_NAME", "").strip(), os.environ.get("APP1_IPA", "").strip()),
@@ -284,18 +287,15 @@ generated_apps = []
 
 for idx, (url, ipa) in enumerate(pairs, 1):
     if url and ipa:
-        print(f"\n======================================")
-        print(f"📦 دەستپێکردنی یاری ژمارە {idx}")
-        print(f"======================================")
-        res = process_single_app(url, ipa, app_type, release_tag)
+        print(f"\n--- Processing App {idx} ---")
+        res = process_single_app(url, ipa, app_type)
         if res:
             generated_apps.append(res)
-        time.sleep(1)
 
 if generated_apps:
     with open("temp_app.json", "w", encoding="utf-8") as f:
         json.dump(generated_apps, f, ensure_ascii=False, indent=4)
-    print(f"\n✅ پڕۆسەکە تەواو بوو! {len(generated_apps)} یاری ئامادە کران.")
+    print("✅ All apps processed successfully.")
 else:
     print("Error: No apps processed.")
     exit(1)
