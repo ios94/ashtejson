@@ -29,35 +29,35 @@ on:
           - 'V4'
           - 'V5'
       app1_name:
-        description: '١. لینکی پەڕەی یاری یەکەم'
+        description: '1. ناو یان لینکی پەڕەی یاری یەکەم (بەتاڵ بێت ئەگەر IPA فایلە)'
         required: false
         type: string
       app1_ipa:
-        description: '١. لینکی ڕاستەوخۆی IPA یەکەم'
+        description: '1. لینکی IPA یەکەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
         required: false
         type: string
       app2_name:
-        description: '٢. لینکی پەڕەی یاری دووەم'
+        description: '2. ناو یان لینکی پەڕەی یاری دووەم (بەتاڵ بێت ئەگەر IPA فایلە)'
         required: false
         type: string
       app2_ipa:
-        description: '٢. لینکی ڕاستەوخۆی IPA دووەم'
+        description: '2. لینکی IPA دووەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
         required: false
         type: string
       app3_name:
-        description: '٣. لینکی پەڕەی یاری سێیەم'
+        description: '3. ناو یان لینکی پەڕەی یاری سێیەم (بەتاڵ بێت ئەگەر IPA فایلە)'
         required: false
         type: string
       app3_ipa:
-        description: '٣. لینکی ڕاستەوخۆی IPA سێیەم'
+        description: '3. لینکی IPA سێیەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
         required: false
         type: string
       app4_name:
-        description: '٤. لینکی پەڕەی یاری چوارەم'
+        description: '4. ناو یان لینکی پەڕەی یاری چوارەم (بەتاڵ بێت ئەگەر IPA فایلە)'
         required: false
         type: string
       app4_ipa:
-        description: '٤. لینکی ڕاستەوخۆی IPA چوارەم'
+        description: '4. لینکی IPA چوارەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
         required: false
         type: string
 
@@ -121,6 +121,13 @@ jobs:
             echo "خستنە ناوەوەی یارییەکان بۆ ناو سۆرسەکە..."
             python admin_adder.py update_json
             
+            # سڕینەوەی IPA ی ناو uploads/ دوای ئەوەی چووە ناو ڕیلیز (بۆ ئەوەی ڕیپۆ قورس نەبێت)
+            if [ -f uploads_consumed.txt ]; then
+              while read -r f; do
+                [ -n "$f" ] && git rm -f --ignore-unmatch "$f" || true
+              done < uploads_consumed.txt
+            fi
+
             git add "$JSON_FILE" backup_memory.json img/ imgg/
             git commit -m "Batch Added 4 Apps" || echo "No changes"
             
