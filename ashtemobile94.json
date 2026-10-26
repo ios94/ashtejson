@@ -10,6 +10,195 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1893749511,
+            "name": "Color Block Jam",
+            "version": "10.5.0",
+            "size": 300239518,
+            "icon": "img/colorblockjam.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/colorblockjam.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/colorblockjam.ipa",
+            "bundleIdentifier": "com.GybeGames.ColorBlockJam",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free Store (Buy then Cancel)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/colorblockjam.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "10.5.0",
+                    "date": "2026-10-26T17:09:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/colorblockjam.ipa",
+                    "size": 300239518,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1398439141,
+            "name": "Knit Out",
+            "version": "1.35.1",
+            "size": 273169299,
+            "icon": "img/knitout.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/knitout.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/knitout.ipa",
+            "bundleIdentifier": "com.sbg.knitout",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- 9 million coins\n- Unlimited time\n- Activate fake purchases\n\nNote: Activate the mission from the mod menu, exit the game, and then re-enter it.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/knitout.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.35.1",
+                    "date": "2026-10-26T17:08:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/knitout.ipa",
+                    "size": 273169299,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1342770690,
+            "name": "Kitten Match",
+            "version": "6.8.0",
+            "size": 759508723,
+            "icon": "img/kittenmatch.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/kittenmatch.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/kittenmatch.ipa",
+            "bundleIdentifier": "com.skymoons.kittenmatch",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Lives -> Will not decrease. Do not use with Auto Win.\n- Unlimited Moves\n- Auto Win -> Quit the level.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kittenmatch.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kittenmatch_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kittenmatch_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kittenmatch_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kittenmatch_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kittenmatch_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kittenmatch_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kittenmatch_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kittenmatch_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "6.8.0",
+                    "date": "2026-10-26T17:08:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/kittenmatch.ipa",
+                    "size": 759508723,
+                    "buildVersion": null,
+                    "minOSVersion": "13.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kittenmatch_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kittenmatch_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kittenmatch_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kittenmatch_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1559836527,
+            "name": "Brave Merge - Battle & Defense",
+            "version": "1.6.18",
+            "size": 110747346,
+            "icon": "img/bravemergebattledefense.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bravemergebattledefense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bravemergebattledefense.ipa",
+            "bundleIdentifier": "com.brave.merge",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Cash 9 million\n- Ticket 9 million\n- Jewels 9 million",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bravemergebattledefense.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bravemergebattledefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bravemergebattledefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bravemergebattledefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bravemergebattledefense_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bravemergebattledefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bravemergebattledefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bravemergebattledefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bravemergebattledefense_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.18",
+                    "date": "2026-10-26T17:06:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bravemergebattledefense.ipa",
+                    "size": 110747346,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bravemergebattledefense_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bravemergebattledefense_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bravemergebattledefense_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bravemergebattledefense_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1412547930,
             "name": "FarmVille 2: Country Escape",
             "version": "31.1",
@@ -16781,54 +16970,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carlotmanagement_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carlotmanagement_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carlotmanagement_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1398439141,
-            "name": "Knit Out",
-            "version": "1.33.2",
-            "size": 270687527,
-            "icon": "img/knitout.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/knitout.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/knitout.ipa",
-            "bundleIdentifier": "com.sbg.knitout",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- 9 million coins\n- Unlimited time\n- Activate fake purchases\n\nNote: Activate the mission from the mod menu, exit the game, and then re-enter it.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/knitout.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.33.2",
-                    "date": "2026-10-13T13:52:26+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/knitout.ipa",
-                    "size": 270687527,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitout_screen_4.png"
                     ]
                 }
             ]
