@@ -199,6 +199,10 @@ def process_single_app(app_input, ipa_link, app_type):
             cf.write(local_src + "\n")
     else:
         print("Downloading primary package (IPA)...")
+        # فایلی کاتی کە لە upload.html بۆ تاگی "uploads" بەرزکراوەتەوە — دوای کار دەسڕدرێتەوە
+        if "/releases/download/uploads/" in ipa_link:
+            with open("uploads_consumed_assets.txt", "a", encoding="utf-8") as af:
+                af.write(urllib.parse.unquote(ipa_link.split("/releases/download/uploads/")[1].split("?")[0]) + "\n")
         try:
             r = requests.get(ipa_link, stream=True)
             if r.status_code == 200:
