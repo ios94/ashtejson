@@ -10,54 +10,6 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
-            "id": 1118829230,
-            "name": "Grand Theft Auto: San Andreas",
-            "version": "2.2.21",
-            "size": 150000000,
-            "icon": "img/grandtheftautosanandreas.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/grandtheftautosanandreas.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/grandtheftautosanandreas.ipa",
-            "bundleIdentifier": "com.rockstargames.gta3sa",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/grandtheftautosanandreas.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandtheftautosanandreas_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandtheftautosanandreas_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandtheftautosanandreas_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandtheftautosanandreas_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandtheftautosanandreas_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandtheftautosanandreas_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandtheftautosanandreas_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandtheftautosanandreas_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "2.2.21",
-                    "date": "2026-10-27T14:24:26+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/grandtheftautosanandreas.ipa",
-                    "size": 150000000,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandtheftautosanandreas_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandtheftautosanandreas_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandtheftautosanandreas_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandtheftautosanandreas_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1383424797,
             "name": "The Chase - World Tour",
             "version": "1.15.0",
