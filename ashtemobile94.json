@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1746652464,
+            "name": "Lava Survival",
+            "version": "1.6.8",
+            "size": 150000000,
+            "icon": "img/lavasurvival.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/lavasurvival.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/lavasurvival.ipa",
+            "bundleIdentifier": "com.gamelegendstudio.lavasurvival",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defense Multiplier",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lavasurvival.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lavasurvival_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lavasurvival_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lavasurvival_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lavasurvival_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lavasurvival_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lavasurvival_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lavasurvival_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lavasurvival_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.8",
+                    "date": "2026-10-27T02:48:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/lavasurvival.ipa",
+                    "size": 150000000,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lavasurvival_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lavasurvival_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lavasurvival_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lavasurvival_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1507246438,
             "name": "Demon Sword: Idle RPG",
             "version": "1.1.71",
