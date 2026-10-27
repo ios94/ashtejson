@@ -10,6 +10,198 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1558305372,
+            "name": "Dead Ahead: Roadside",
+            "version": "0.8.3010",
+            "size": 118890666,
+            "icon": "img/deadaheadroadside.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/deadaheadroadside.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/deadaheadroadside.ipa",
+            "bundleIdentifier": "com.mobirate.deadaheadgo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → boost your weapon output\n- Defence Multiplier → strengthen your defenses\n- Never Die → become invulnerable\n- Gold Multiplier → earn currency faster\n- XP Multiplier → level up quicker",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/deadaheadroadside.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadaheadroadside_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadaheadroadside_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadaheadroadside_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadaheadroadside_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadaheadroadside_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadaheadroadside_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadaheadroadside_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadaheadroadside_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.8.3010",
+                    "date": "2026-10-27T00:04:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/deadaheadroadside.ipa",
+                    "size": 118890666,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadaheadroadside_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadaheadroadside_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadaheadroadside_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadaheadroadside_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1892468334,
+            "name": "Eyes - The Horror Game",
+            "version": "8.2.0",
+            "size": 103331193,
+            "icon": "img/eyesthehorrorgame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/eyesthehorrorgame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/eyesthehorrorgame.ipa",
+            "bundleIdentifier": "com.eyesthegame.lite",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- FreeStore",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/eyesthehorrorgame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyesthehorrorgame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyesthehorrorgame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyesthehorrorgame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyesthehorrorgame_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyesthehorrorgame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyesthehorrorgame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyesthehorrorgame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyesthehorrorgame_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "8.2.0",
+                    "date": "2026-10-27T00:04:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/eyesthehorrorgame.ipa",
+                    "size": 103331193,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyesthehorrorgame_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyesthehorrorgame_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyesthehorrorgame_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyesthehorrorgame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1727358008,
+            "name": "PGA TOUR Golf Shootout",
+            "version": "5.24.0",
+            "size": 158631673,
+            "icon": "img/pgatourgolfshootout.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/pgatourgolfshootout.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/pgatourgolfshootout.ipa",
+            "bundleIdentifier": "com.concretesoftware.golf",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Always Perfect Shot\n- No Wind\n- Freeze Currencies\n- Multiply Rewards",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pgatourgolfshootout.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatourgolfshootout_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatourgolfshootout_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatourgolfshootout_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatourgolfshootout_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatourgolfshootout_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatourgolfshootout_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatourgolfshootout_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatourgolfshootout_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.24.0",
+                    "date": "2026-10-27T00:04:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/pgatourgolfshootout.ipa",
+                    "size": 158631673,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatourgolfshootout_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatourgolfshootout_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatourgolfshootout_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatourgolfshootout_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1527464566,
+            "name": "Bus Simulator : Ultimate",
+            "version": "254",
+            "size": 1228045341,
+            "icon": "img/bussimulatorultimate.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bussimulatorultimate.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bussimulatorultimate.ipa",
+            "bundleIdentifier": "com.zuuks.bus.simulator.ultimate",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Currencies (Get some)\n- PREMIUM (Multiplayer, No Ads, Rewards, etc ...)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bussimulatorultimate.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bussimulatorultimate_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bussimulatorultimate_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bussimulatorultimate_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bussimulatorultimate_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bussimulatorultimate_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bussimulatorultimate_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bussimulatorultimate_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bussimulatorultimate_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "254",
+                    "date": "2026-10-27T00:04:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bussimulatorultimate.ipa",
+                    "size": 1228045341,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bussimulatorultimate_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bussimulatorultimate_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bussimulatorultimate_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bussimulatorultimate_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1653227524,
             "name": "AmaZeus: Merge & Shoot",
             "version": "1.4.58",
