@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1545132314,
+            "name": "Tile Story: Triple Match",
+            "version": "3.9.1",
+            "size": 244227146,
+            "icon": "img/tilestorytriplematch.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/tilestorytriplematch.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/tilestorytriplematch.ipa",
+            "bundleIdentifier": "linkdesks.tile.match.story",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free store (buy then cancel)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tilestorytriplematch.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilestorytriplematch_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilestorytriplematch_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilestorytriplematch_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilestorytriplematch_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilestorytriplematch_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilestorytriplematch_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilestorytriplematch_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilestorytriplematch_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.9.1",
+                    "date": "2026-10-27T01:05:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/tilestorytriplematch.ipa",
+                    "size": 244227146,
+                    "buildVersion": null,
+                    "minOSVersion": "13.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilestorytriplematch_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilestorytriplematch_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilestorytriplematch_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilestorytriplematch_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1192443439,
             "name": "Archer Castle : AFK Idle RPG",
             "version": "1.14.23",
