@@ -29,35 +29,83 @@ on:
           - 'V4'
           - 'V5'
       app1_name:
-        description: '1. ناو یان لینکی پەڕەی یاری یەکەم'
+        description: '1. ناو یان لینکی پەڕەی یاری یەکەم (بەتاڵ بێت ئەگەر IPA فایلە)'
         required: false
         type: string
       app1_ipa:
-        description: '1. لینکی IPA یەکەم یان ناوی فایلی  game.ipa)'
+        description: '1. لینکی IPA یەکەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
         required: false
         type: string
       app2_name:
-        description: '2. ناو یان لینکی پەڕەی یاری دووەم'
+        description: '2. ناو یان لینکی پەڕەی یاری دووەم (بەتاڵ بێت ئەگەر IPA فایلە)'
         required: false
         type: string
       app2_ipa:
-        description: '2. لینکی IPA دووەم یان ناوی فایلی ناو game.ipa'
+        description: '2. لینکی IPA دووەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
         required: false
         type: string
       app3_name:
-        description: '3. ناو یان لینکی پەڕەی یاری سێیەم'
+        description: '3. ناو یان لینکی پەڕەی یاری سێیەم (بەتاڵ بێت ئەگەر IPA فایلە)'
         required: false
         type: string
       app3_ipa:
-        description: '3. لینکی IPA سێیەم یان ناوی فایلی ناو game.ipa'
+        description: '3. لینکی IPA سێیەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
         required: false
         type: string
       app4_name:
-        description: '4. ناو یان لینکی پەڕەی یاری چوارەم'
+        description: '4. ناو یان لینکی پەڕەی یاری چوارەم (بەتاڵ بێت ئەگەر IPA فایلە)'
         required: false
         type: string
       app4_ipa:
-        description: '4. لینکی IPA چوارەم یان ناوی فایلی ناو  game.ipa'
+        description: '4. لینکی IPA چوارەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
+        required: false
+        type: string
+      app5_name:
+        description: '5. ناو یان لینکی پەڕەی یاری پێنجەم (بەتاڵ بێت ئەگەر IPA فایلە)'
+        required: false
+        type: string
+      app5_ipa:
+        description: '5. لینکی IPA پێنجەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
+        required: false
+        type: string
+      app6_name:
+        description: '6. ناو یان لینکی پەڕەی یاری شەشەم (بەتاڵ بێت ئەگەر IPA فایلە)'
+        required: false
+        type: string
+      app6_ipa:
+        description: '6. لینکی IPA شەشەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
+        required: false
+        type: string
+      app7_name:
+        description: '7. ناو یان لینکی پەڕەی یاری حەوتەم (بەتاڵ بێت ئەگەر IPA فایلە)'
+        required: false
+        type: string
+      app7_ipa:
+        description: '7. لینکی IPA حەوتەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
+        required: false
+        type: string
+      app8_name:
+        description: '8. ناو یان لینکی پەڕەی یاری هەشتەم (بەتاڵ بێت ئەگەر IPA فایلە)'
+        required: false
+        type: string
+      app8_ipa:
+        description: '8. لینکی IPA هەشتەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
+        required: false
+        type: string
+      app9_name:
+        description: '9. ناو یان لینکی پەڕەی یاری نۆیەم (بەتاڵ بێت ئەگەر IPA فایلە)'
+        required: false
+        type: string
+      app9_ipa:
+        description: '9. لینکی IPA نۆیەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
+        required: false
+        type: string
+      app10_name:
+        description: '10. ناو یان لینکی پەڕەی یاری دەیەم (بەتاڵ بێت ئەگەر IPA فایلە)'
+        required: false
+        type: string
+      app10_ipa:
+        description: '10. لینکی IPA دەیەم یان ناوی فایلی ناو uploads/ (وەک game.ipa)'
         required: false
         type: string
 
@@ -93,6 +141,18 @@ jobs:
           APP3_IPA: ${{ github.event.inputs.app3_ipa }}
           APP4_NAME: ${{ github.event.inputs.app4_name }}
           APP4_IPA: ${{ github.event.inputs.app4_ipa }}
+          APP5_NAME: ${{ github.event.inputs.app5_name }}
+          APP5_IPA: ${{ github.event.inputs.app5_ipa }}
+          APP6_NAME: ${{ github.event.inputs.app6_name }}
+          APP6_IPA: ${{ github.event.inputs.app6_ipa }}
+          APP7_NAME: ${{ github.event.inputs.app7_name }}
+          APP7_IPA: ${{ github.event.inputs.app7_ipa }}
+          APP8_NAME: ${{ github.event.inputs.app8_name }}
+          APP8_IPA: ${{ github.event.inputs.app8_ipa }}
+          APP9_NAME: ${{ github.event.inputs.app9_name }}
+          APP9_IPA: ${{ github.event.inputs.app9_ipa }}
+          APP10_NAME: ${{ github.event.inputs.app10_name }}
+          APP10_IPA: ${{ github.event.inputs.app10_ipa }}
         run: python admin_adder.py
 
       - name: Inject Custom Library directly inside IPA files
