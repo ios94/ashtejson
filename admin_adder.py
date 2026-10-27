@@ -442,15 +442,14 @@ def process_single_app(app_input, ipa_link, app_type):
     }
 
 # =========================================================================
-# بەشی سەرەکی - وەرگرتنی ٤ یاری پێکەوە
+# بەشی سەرەکی - وەرگرتنی ١٠ یاری پێکەوە
 # =========================================================================
 app_type = os.environ.get("APP_TYPE", "games").strip()
 
+MAX_APPS = 10
 pairs = [
-    (os.environ.get("APP1_NAME", "").strip(), os.environ.get("APP1_IPA", "").strip()),
-    (os.environ.get("APP2_NAME", "").strip(), os.environ.get("APP2_IPA", "").strip()),
-    (os.environ.get("APP3_NAME", "").strip(), os.environ.get("APP3_IPA", "").strip()),
-    (os.environ.get("APP4_NAME", "").strip(), os.environ.get("APP4_IPA", "").strip())
+    (os.environ.get(f"APP{i}_NAME", "").strip(), os.environ.get(f"APP{i}_IPA", "").strip())
+    for i in range(1, MAX_APPS + 1)
 ]
 
 generated_apps = []
