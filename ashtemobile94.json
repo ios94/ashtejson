@@ -10,6 +10,102 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1950927124,
+            "name": "Hole Em All: Collect Master",
+            "version": "2.16.8",
+            "size": 497693209,
+            "icon": "img/holeemallcollectmaster.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/holeemallcollectmaster.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/holeemallcollectmaster.ipa",
+            "bundleIdentifier": "com.brainworks.holeemall",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Level Timer (Freeze Level Timer just needs to be enabled once, before any level) → pause time to plan your moves\r\n- Bombs Have No Effect → eliminate hazard interference\r\n- Free iAP → unlock all in-app purchases",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/holeemallcollectmaster.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.16.8",
+                    "date": "2026-10-27T18:17:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/holeemallcollectmaster.ipa",
+                    "size": 497693209,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1633939023,
+            "name": "Tasty Travels: Merge Game",
+            "version": "67.0",
+            "size": 580489543,
+            "icon": "img/tastytravelsmergegame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/tastytravelsmergegame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/tastytravelsmergegame.ipa",
+            "bundleIdentifier": "com.fatmerge.global",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Currencies -> Will increase instead of decrease.\n- Unlimited Energy -> Will increase instead of decrease.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tastytravelsmergegame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "67.0",
+                    "date": "2026-10-27T18:17:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/tastytravelsmergegame.ipa",
+                    "size": 580489543,
+                    "buildVersion": null,
+                    "minOSVersion": "13.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1387838528,
             "name": "Virtual Villagers 7",
             "version": "1.5.9",
@@ -1205,54 +1301,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlethemeparktycoongame_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlethemeparktycoongame_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlethemeparktycoongame_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1950927124,
-            "name": "Hole Em All: Collect Master",
-            "version": "2.16.8",
-            "size": 494998106,
-            "icon": "img/holeemallcollectmaster.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/holeemallcollectmaster.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/holeemallcollectmaster.ipa",
-            "bundleIdentifier": "com.brainworks.holeemall",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "🛒 Enable Fake Purchase\r\n🚫 No Ads\r\n\r\n📝 Note: Activate the hack from the mod menu.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/holeemallcollectmaster.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "2.16.8",
-                    "date": "2026-10-27T11:50:45+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/holeemallcollectmaster.ipa",
-                    "size": 494998106,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holeemallcollectmaster_screen_4.jpg"
                     ]
                 }
             ]
@@ -16910,54 +16958,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/citytopiabuildyourowncity_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/citytopiabuildyourowncity_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/citytopiabuildyourowncity_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1633939023,
-            "name": "Tasty Travels: Merge Game",
-            "version": "65.0",
-            "size": 540325185,
-            "icon": "img/tastytravelsmergegame.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/tastytravelsmergegame.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/tastytravelsmergegame.ipa",
-            "bundleIdentifier": "com.fatmerge.global",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Currencies -> Will increase instead of decrease.\n- Unlimited Energy -> Will increase instead of decrease.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tastytravelsmergegame.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "65.0",
-                    "date": "2026-10-15T03:04:48+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/tastytravelsmergegame.ipa",
-                    "size": 540325185,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tastytravelsmergegame_screen_4.jpg"
                     ]
                 }
             ]
