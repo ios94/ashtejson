@@ -10,6 +10,339 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1899473450,
+            "name": "Bloons TD 6 NETFLIX",
+            "version": "57.4",
+            "size": 149604971,
+            "icon": "img/bloonstd6netflix.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bloonstd6netflix.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bloonstd6netflix.ipa",
+            "bundleIdentifier": "com.netflix.NGP.BloonsTDSix",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- God Mode\n- Money \n- Monkey Money\n- Consumes\n- Unlocked All Towers\n- Unlocked All Heroes",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bloonstd6netflix.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "57.4",
+                    "date": "2026-10-27T11:48:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bloonstd6netflix.ipa",
+                    "size": 149604971,
+                    "buildVersion": null,
+                    "minOSVersion": "17.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1554059156,
+            "name": "Home Design Makeover",
+            "version": "6.9.6",
+            "size": 250300904,
+            "icon": "img/homedesignmakeover.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/homedesignmakeover.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/homedesignmakeover.ipa",
+            "bundleIdentifier": "in.loop.hdmakeover",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Coins (Get some)\n- Infinite Energy\n- Infinite Moves",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/homedesignmakeover.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.9.6",
+                    "date": "2026-10-27T11:47:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/homedesignmakeover.ipa",
+                    "size": 250300904,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1344461994,
+            "name": "Pocket Love!",
+            "version": "4.8.1",
+            "size": 260978178,
+            "icon": "img/pocketlove.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/pocketlove.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/pocketlove.ipa",
+            "bundleIdentifier": "com.hyperbeard.pocketlove",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Currencies\n- Free iAP ( Turn on inside iOSGods Mod Menu first )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pocketlove.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.8.1",
+                    "date": "2026-10-27T11:46:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/pocketlove.ipa",
+                    "size": 260978178,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1279826542,
+            "name": "Attack Hole - Black Hole Games",
+            "version": "1.30.1",
+            "size": 148990444,
+            "icon": "img/attackholeblackholegames.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/attackholeblackholegames.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/attackholeblackholegames.ipa",
+            "bundleIdentifier": "com.redlinegames.attackhole",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Add Gold Coins (100k) → boost your in-game currency\n- Add Tickets (100k) → unlock more plays and levels",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/attackholeblackholegames.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackholeblackholegames_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackholeblackholegames_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackholeblackholegames_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackholeblackholegames_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackholeblackholegames_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackholeblackholegames_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackholeblackholegames_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackholeblackholegames_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.30.1",
+                    "date": "2026-10-27T11:46:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/attackholeblackholegames.ipa",
+                    "size": 148990444,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackholeblackholegames_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackholeblackholegames_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackholeblackholegames_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackholeblackholegames_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1977300874,
+            "name": "Hero’s Underground Shift",
+            "version": "1.0.2",
+            "size": 155031328,
+            "icon": "img/herosundergroundshift.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/herosundergroundshift.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/herosundergroundshift.ipa",
+            "bundleIdentifier": "net.gameduo.lb",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → increases attack power against enemies",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/herosundergroundshift.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herosundergroundshift_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herosundergroundshift_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herosundergroundshift_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herosundergroundshift_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herosundergroundshift_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herosundergroundshift_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herosundergroundshift_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herosundergroundshift_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.2",
+                    "date": "2026-10-27T11:45:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/herosundergroundshift.ipa",
+                    "size": 155031328,
+                    "buildVersion": null,
+                    "minOSVersion": "16.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herosundergroundshift_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herosundergroundshift_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herosundergroundshift_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herosundergroundshift_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1608262223,
+            "name": "Meowdoku!",
+            "version": "1.22.1",
+            "size": 176873363,
+            "icon": "img/meowdoku.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/meowdoku.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/meowdoku.ipa",
+            "bundleIdentifier": "com.oakever.meowdoku",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto Win → instantly complete any level\n- Jump to Custom Level → skip ahead to your chosen puzzle\n- Unlimited Tools → use hints and aids without limit\n- Infinite Lives → play without running out of attempts\n- Premium / No Ads → enjoy uninterrupted gameplay",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/meowdoku.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.22.1",
+                    "date": "2026-10-27T11:45:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/meowdoku.ipa",
+                    "size": 176873363,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1359417004,
+            "name": "Guild of Heroes: Legendary War",
+            "version": "1.196.3",
+            "size": 285451142,
+            "icon": "img/guildofheroeslegendarywar.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/guildofheroeslegendarywar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/guildofheroeslegendarywar.ipa",
+            "bundleIdentifier": "com.goplaytoday.guildofheroes",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- x Player Damage - x1 - 10 (must be used with God Mode)\n- God Mode\n- Anti-Ban -> Although we have anti-ban but don't play suspiciously or abuse\n- Enemies Automatically Suicide\n- Unlock AutoPlay\n- Custom Sell Price\n- Premium Activate\n- Freeze Resources\n- Free Potion Make\n- Free Slot Expand\n- No Revive Cost\n- Instant Skill",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guildofheroeslegendarywar.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guildofheroeslegendarywar_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guildofheroeslegendarywar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guildofheroeslegendarywar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guildofheroeslegendarywar_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guildofheroeslegendarywar_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guildofheroeslegendarywar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guildofheroeslegendarywar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guildofheroeslegendarywar_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.196.3",
+                    "date": "2026-10-27T11:45:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/guildofheroeslegendarywar.ipa",
+                    "size": 285451142,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guildofheroeslegendarywar_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guildofheroeslegendarywar_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guildofheroeslegendarywar_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guildofheroeslegendarywar_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1746652464,
             "name": "Lava Survival",
             "version": "1.6.8",
@@ -4600,54 +4933,6 @@
             ]
         },
         {
-            "id": 1608262223,
-            "name": "Meowdoku!",
-            "version": "1.22.0",
-            "size": 176873367,
-            "icon": "img/meowdoku.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/meowdoku.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/meowdoku.ipa",
-            "bundleIdentifier": "com.oakever.meowdoku",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Auto Win → instantly complete any level\n- Jump to Custom Level → skip ahead to your chosen puzzle\n- Unlimited Tools → use hints and aids without limit\n- Infinite Lives → play without running out of attempts\n- Premium / No Ads → enjoy uninterrupted gameplay",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/meowdoku.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.22.0",
-                    "date": "2026-10-25T16:55:55+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/meowdoku.ipa",
-                    "size": 176873367,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1620943072,
             "name": "Rolling Sky",
             "version": "5.6.4",
@@ -8495,54 +8780,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamtiletriplematchgames_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamtiletriplematchgames_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamtiletriplematchgames_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1554059156,
-            "name": "Home Design Makeover",
-            "version": "6.9.5",
-            "size": 250718371,
-            "icon": "img/homedesignmakeover.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/homedesignmakeover.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/homedesignmakeover.ipa",
-            "bundleIdentifier": "in.loop.hdmakeover",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Infinite Coins (Get some)\n- Infinite Energy\n- Infinite Moves",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/homedesignmakeover.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "6.9.5",
-                    "date": "2026-10-21T23:45:56+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/homedesignmakeover.ipa",
-                    "size": 250718371,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesignmakeover_screen_4.png"
                     ]
                 }
             ]
@@ -17633,54 +17870,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungrysharkworld_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungrysharkworld_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungrysharkworld_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1899473450,
-            "name": "Bloons TD 6 NETFLIX",
-            "version": "57.1",
-            "size": 153647971,
-            "icon": "img/bloonstd6netflix.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bloonstd6netflix.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bloonstd6netflix.ipa",
-            "bundleIdentifier": "com.netflix.NGP.BloonsTDSix",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- God Mode\n- Money \n- Monkey Money\n- Consumes\n- Unlocked All Towers\n- Unlocked All Heroes",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bloonstd6netflix.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "57.1",
-                    "date": "2026-10-15T02:30:57+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bloonstd6netflix.ipa",
-                    "size": 153647971,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6netflix_screen_4.jpg"
                     ]
                 }
             ]
