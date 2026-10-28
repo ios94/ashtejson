@@ -10,6 +10,336 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1309354675,
+            "name": "Duck War",
+            "version": "2.2.2",
+            "size": 150486240,
+            "icon": "img/duckwar.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V2/duckwar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V2/duckwar.ipa",
+            "bundleIdentifier": "com.duck.war",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Game Cheat Panel +70 → Over 70 cheats for enhanced gameplay control",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/duckwar.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duckwar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duckwar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duckwar_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duckwar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duckwar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duckwar_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.2.2",
+                    "date": "2026-10-28T23:19:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V2/duckwar.ipa",
+                    "size": 150486240,
+                    "buildVersion": null,
+                    "minOSVersion": "13.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duckwar_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duckwar_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duckwar_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1845588462,
+            "name": "Fortress Merge",
+            "version": "1.1.2",
+            "size": 187995217,
+            "icon": "img/fortressmerge.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V2/fortressmerge.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V2/fortressmerge.ipa",
+            "bundleIdentifier": "com.ttt.fortressmerge",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unit Damage Multiplier → Increase offensive power per attack\n- Unit Defence Multiplier → Strengthen defensive resilience\n- Unit Never Die → Make units invulnerable in battle\n- Unit Speed Multiplier → Accelerate unit movement and action speed\n- Unlimited Currencies → Will increase instead of decrease",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fortressmerge.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.2",
+                    "date": "2026-10-28T23:17:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V2/fortressmerge.ipa",
+                    "size": 187995217,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1420955087,
+            "name": "Lily’s Garden: Match & Design",
+            "version": "3.87.0",
+            "size": 184609688,
+            "icon": "img/lilysgardenmatchdesign.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V2/lilysgardenmatchdesign.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V2/lilysgardenmatchdesign.ipa",
+            "bundleIdentifier": "dk.tactile.lilysgarden",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Enable dummy purchases\n- Speed ​​up the game\n- No ads\n\nNote: Activate the hack from the mod menu",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lilysgardenmatchdesign.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.87.0",
+                    "date": "2026-10-28T23:17:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V2/lilysgardenmatchdesign.ipa",
+                    "size": 184609688,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1924968742,
+            "name": "Swamp Attack",
+            "version": "4.8.9",
+            "size": 162809771,
+            "icon": "img/swampattack.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V2/swampattack.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V2/swampattack.ipa",
+            "bundleIdentifier": "com.outfit7.movingeye.swampattack",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Coins → spend freely without depletion\n- Unlimited Explosives → deploy without running out\n- Unlimited Special Items → use every power-up as needed\n- Unlimited Ammo → fire continuously without reloading",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/swampattack.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swampattack_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swampattack_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swampattack_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swampattack_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swampattack_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swampattack_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swampattack_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swampattack_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.8.9",
+                    "date": "2026-10-28T23:16:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V2/swampattack.ipa",
+                    "size": 162809771,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swampattack_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swampattack_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swampattack_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swampattack_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1350577964,
+            "name": "Hoop Land",
+            "version": "1.12",
+            "size": 84152277,
+            "icon": "img/hoopland.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V2/hoopland.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V2/hoopland.ipa",
+            "bundleIdentifier": "com.koalitygame.hoopland",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free In-App Purchases",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hoopland.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopland_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopland_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopland_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopland_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopland_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopland_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopland_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopland_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.12",
+                    "date": "2026-10-28T23:16:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V2/hoopland.ipa",
+                    "size": 84152277,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopland_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopland_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopland_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopland_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1895935238,
+            "name": "Bunker TapTap Defense",
+            "version": "0.7.2",
+            "size": 176486124,
+            "icon": "img/bunkertaptapdefense.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V2/bunkertaptapdefense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V2/bunkertaptapdefense.ipa",
+            "bundleIdentifier": "com.TeamSparta.brd",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → boost your unit and skill damage output\n- Defense Multiplier → strengthen your bunker's resistance to incoming attacks\n- Gems/Gold Increase → accelerate resource farming for upgrades and merges\n- Game Speed Multiplier → speed up battles and progression\n- No ADS → play uninterrupted without advertisements",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bunkertaptapdefense.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunkertaptapdefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunkertaptapdefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunkertaptapdefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunkertaptapdefense_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunkertaptapdefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunkertaptapdefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunkertaptapdefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunkertaptapdefense_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.7.2",
+                    "date": "2026-10-28T23:16:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V2/bunkertaptapdefense.ipa",
+                    "size": 176486124,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunkertaptapdefense_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunkertaptapdefense_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunkertaptapdefense_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunkertaptapdefense_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1375315394,
+            "name": "State of Survival: Zombie War",
+            "version": "1.27.200",
+            "size": 721731848,
+            "icon": "img/stateofsurvivalzombiewar.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V2/stateofsurvivalzombiewar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V2/stateofsurvivalzombiewar.ipa",
+            "bundleIdentifier": "com.kingsgroup.ss",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defense Multiplier",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stateofsurvivalzombiewar.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateofsurvivalzombiewar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateofsurvivalzombiewar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateofsurvivalzombiewar_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateofsurvivalzombiewar_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateofsurvivalzombiewar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateofsurvivalzombiewar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateofsurvivalzombiewar_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateofsurvivalzombiewar_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.27.200",
+                    "date": "2026-10-28T23:15:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V2/stateofsurvivalzombiewar.ipa",
+                    "size": 721731848,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateofsurvivalzombiewar_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateofsurvivalzombiewar_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateofsurvivalzombiewar_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stateofsurvivalzombiewar_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1861887025,
             "name": "TheoTown",
             "version": "1.12.97",
@@ -14588,54 +14918,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsimulatormultiplayer2026_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsimulatormultiplayer2026_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsimulatormultiplayer2026_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1420955087,
-            "name": "Lily’s Garden: Match & Design",
-            "version": "3.86.0",
-            "size": 192332011,
-            "icon": "img/lilysgardenmatchdesign.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/lilysgardenmatchdesign.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/lilysgardenmatchdesign.ipa",
-            "bundleIdentifier": "dk.tactile.lilysgarden",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Enable dummy purchases\n- Speed ​​up the game\n- No ads\n\nNote: Activate the hack from the mod menu",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lilysgardenmatchdesign.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "3.86.0",
-                    "date": "2026-10-21T23:46:28+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/lilysgardenmatchdesign.ipa",
-                    "size": 192332011,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_4.jpg"
                     ]
                 }
             ]
