@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1282123866,
+            "name": "Metro 2055 - last day survival",
+            "version": "0.0.097",
+            "size": 1540907644,
+            "icon": "img/metro2055lastdaysurvival.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/metro2055lastdaysurvival.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/metro2055lastdaysurvival.ipa",
+            "bundleIdentifier": "com.gdv.subway2055",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- OHK\n- Never Die\n- Can Always Craft\n- Freeze Weapon Durability\n- Unlimited Skill Points\n- Experience Multiplier\n- High Level Gain\n- High Reputation\n- Disable Hunger -> Will Show 0\n- Disable Thirst -> Will Show 0",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/metro2055lastdaysurvival.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/metro2055lastdaysurvival_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/metro2055lastdaysurvival_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/metro2055lastdaysurvival_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/metro2055lastdaysurvival_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/metro2055lastdaysurvival_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/metro2055lastdaysurvival_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/metro2055lastdaysurvival_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/metro2055lastdaysurvival_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.097",
+                    "date": "2026-10-28T12:48:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/metro2055lastdaysurvival.ipa",
+                    "size": 1540907644,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/metro2055lastdaysurvival_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/metro2055lastdaysurvival_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/metro2055lastdaysurvival_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/metro2055lastdaysurvival_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1462135419,
             "name": "RELLION: NPC Survival",
             "version": "1.55.4",
