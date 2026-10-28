@@ -10,6 +10,150 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1702114484,
+            "name": "Forest Island",
+            "version": "3.22.0",
+            "size": 291843079,
+            "icon": "img/forestisland.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/forestisland.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/forestisland.ipa",
+            "bundleIdentifier": "com.Nanali.ForestIsland.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Currencies -> Will increase instead of decrease.\n-- No Ads",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/forestisland.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.22.0",
+                    "date": "2026-10-28T20:06:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/forestisland.ipa",
+                    "size": 291843079,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1888649770,
+            "name": "Arrows – Puzzle Escape",
+            "version": "0.24.0",
+            "size": 93913777,
+            "icon": "img/arrowspuzzleescape.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/arrowspuzzleescape.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/arrowspuzzleescape.ipa",
+            "bundleIdentifier": "com.ecffri.arrows",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Max Lives",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/arrowspuzzleescape.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.24.0",
+                    "date": "2026-10-28T20:05:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/arrowspuzzleescape.ipa",
+                    "size": 93913777,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1778621916,
+            "name": "Midnight Dreamers | Novels",
+            "version": "1.6.11",
+            "size": 93840787,
+            "icon": "img/midnightdreamersnovels.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/midnightdreamersnovels.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/midnightdreamersnovels.ipa",
+            "bundleIdentifier": "com.ArcaneChronicles.MidnightDreamers",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Gems -> Earn some.\n- Unlimited Keys -> Spend some.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/midnightdreamersnovels.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamersnovels_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamersnovels_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamersnovels_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamersnovels_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamersnovels_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamersnovels_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamersnovels_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamersnovels_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.11",
+                    "date": "2026-10-28T20:05:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/midnightdreamersnovels.ipa",
+                    "size": 93840787,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamersnovels_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamersnovels_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamersnovels_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamersnovels_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1802688167,
             "name": "Mob Control",
             "version": "3.24.5",
