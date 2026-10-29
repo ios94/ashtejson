@@ -10,6 +10,102 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1182005301,
+            "name": "Tile Match Story",
+            "version": "4.10.1",
+            "size": 162524828,
+            "icon": "img/tilematchstory.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/tilematchstory.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/tilematchstory.ipa",
+            "bundleIdentifier": "linkdesks.tile.match.fun",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Enable fake purchase\n- No ads\n\nNote: Activate the hack from the mod menu.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tilematchstory.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilematchstory_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilematchstory_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilematchstory_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilematchstory_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilematchstory_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilematchstory_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilematchstory_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilematchstory_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.10.1",
+                    "date": "2026-10-29T21:22:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/tilematchstory.ipa",
+                    "size": 162524828,
+                    "buildVersion": null,
+                    "minOSVersion": "13.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilematchstory_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilematchstory_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilematchstory_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilematchstory_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1648439349,
+            "name": "Tile Home: Triple Match",
+            "version": "2.5.3",
+            "size": 208354558,
+            "icon": "img/tilehometriplematch.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/tilehometriplematch.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/tilehometriplematch.ipa",
+            "bundleIdentifier": "com.tile.travel.triple.match",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited coins\n- Unlimited help\n- Unlimited stars\n- No ads",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tilehometriplematch.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilehometriplematch_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilehometriplematch_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilehometriplematch_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilehometriplematch_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilehometriplematch_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilehometriplematch_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilehometriplematch_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilehometriplematch_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.5.3",
+                    "date": "2026-10-29T21:22:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/tilehometriplematch.ipa",
+                    "size": 208354558,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilehometriplematch_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilehometriplematch_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilehometriplematch_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilehometriplematch_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1546609095,
             "name": "Found It! Hidden Object Game",
             "version": "1.78.101",
@@ -17246,45 +17342,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsimulatormultiplayer2026_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsimulatormultiplayer2026_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsimulatormultiplayer2026_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1648439349,
-            "name": "Tile Home: Triple Match",
-            "version": "2.5.3",
-            "size": 208273995,
-            "icon": "img/tilehometriplematch.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/tilehometriplematch.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/tilehometriplematch.ipa",
-            "bundleIdentifier": "com.tile.travel.triple.match",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited coins\n- Unlimited help\n- Unlimited stars\n- No ads",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tilehometriplematch.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilehometriplematch_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilehometriplematch_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "2.5.3",
-                    "date": "2026-10-21T23:46:15+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/tilehometriplematch.ipa",
-                    "size": 208273995,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilehometriplematch_screen_4.png"
                     ]
                 }
             ]
