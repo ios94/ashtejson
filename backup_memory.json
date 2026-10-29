@@ -10,54 +10,6 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
-            "id": 1288464222,
-            "name": "Disney Emoji Blitz Game",
-            "version": "80.0.1",
-            "size": 150000000,
-            "icon": "img/disneyemojiblitzgame.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/disneyemojiblitzgame.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/disneyemojiblitzgame.ipa",
-            "bundleIdentifier": "com.disney.emojimatch",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Currencies -> Earn some .",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/disneyemojiblitzgame.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneyemojiblitzgame_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneyemojiblitzgame_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneyemojiblitzgame_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneyemojiblitzgame_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneyemojiblitzgame_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneyemojiblitzgame_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneyemojiblitzgame_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneyemojiblitzgame_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "80.0.1",
-                    "date": "2026-10-29T14:21:17+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/disneyemojiblitzgame.ipa",
-                    "size": 150000000,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneyemojiblitzgame_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneyemojiblitzgame_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneyemojiblitzgame_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/disneyemojiblitzgame_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1546609095,
             "name": "Found It! Hidden Object Game",
             "version": "1.78.101",
