@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1294753304,
+            "name": "Eggoo: Roguelike Adventure",
+            "version": "2.5.0",
+            "size": 325486375,
+            "icon": "img/eggooroguelikeadventure.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/eggooroguelikeadventure.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/eggooroguelikeadventure.ipa",
+            "bundleIdentifier": "com.silvertiger.eggoo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ADS NO / Rewards Free → Play uninterrupted without advertisements\n- Unlimited Gems → Spend freely on premium currency\n- Unlimited Gold → Endless in-game currency for upgrades\n- Unlimited Energy → Play without energy restrictions\n- Unlimited Keys → Access all locked content and chests\n- Unlimited Upgrade Items → Enhance your hero without limits\n- Freeze Gems → Lock your gem count at a set value\n- Freeze Gold → Maintain your gold balance unchanged\n- Freeze Keys → Keep your key count stable\n- Freeze Upgrade Items → Preserve your upgrade item total",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/eggooroguelikeadventure.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eggooroguelikeadventure_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eggooroguelikeadventure_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eggooroguelikeadventure_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eggooroguelikeadventure_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eggooroguelikeadventure_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eggooroguelikeadventure_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eggooroguelikeadventure_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eggooroguelikeadventure_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.5.0",
+                    "date": "2026-10-29T14:11:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/eggooroguelikeadventure.ipa",
+                    "size": 325486375,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eggooroguelikeadventure_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eggooroguelikeadventure_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eggooroguelikeadventure_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eggooroguelikeadventure_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1653891378,
+            "name": "Switching Heroes",
+            "version": "5.70",
+            "size": 150000000,
+            "icon": "img/switchingheroes.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/switchingheroes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/switchingheroes.ipa",
+            "bundleIdentifier": "com.zilliongames.collectionidle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\r\n- Defense Multiplier\r\n- Loot/Reward Multiplier → Turn Off When Spending\r\n- No ADS",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/switchingheroes.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/switchingheroes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/switchingheroes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/switchingheroes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/switchingheroes_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/switchingheroes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/switchingheroes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/switchingheroes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/switchingheroes_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.70",
+                    "date": "2026-10-29T14:10:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/switchingheroes.ipa",
+                    "size": 150000000,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/switchingheroes_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/switchingheroes_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/switchingheroes_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/switchingheroes_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1737013670,
+            "name": "Dead God Land: Survival games",
+            "version": "0.215",
+            "size": 853381957,
+            "icon": "img/deadgodlandsurvivalgames.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/deadgodlandsurvivalgames.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/deadgodlandsurvivalgames.ipa",
+            "bundleIdentifier": "com.devvisiongames.deadisland",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Never Die\n- Unlimited Durability\n- Unlimited Items From Mail\n- Freeze Skill Points\n- Premium",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/deadgodlandsurvivalgames.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.215",
+                    "date": "2026-10-29T14:05:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/deadgodlandsurvivalgames.ipa",
+                    "size": 853381957,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1693220898,
+            "name": "Infinite Defense: Idle TD Game",
+            "version": "0.1.5",
+            "size": 207129862,
+            "icon": "img/infinitedefenseidletdgame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/infinitedefenseidletdgame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/infinitedefenseidletdgame.ipa",
+            "bundleIdentifier": "com.horusent.infinite.defense",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Dev Tool → advanced customization and control",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/infinitedefenseidletdgame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.1.5",
+                    "date": "2026-10-29T14:00:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/infinitedefenseidletdgame.ipa",
+                    "size": 207129862,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1753619790,
+            "name": "Die Again: Troll Game Ever",
+            "version": "1.2.12",
+            "size": 111717153,
+            "icon": "img/dieagaintrollgameever.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/dieagaintrollgameever.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/dieagaintrollgameever.ipa",
+            "bundleIdentifier": "com.dieagain.trollgame",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Without ads",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dieagaintrollgameever.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.12",
+                    "date": "2026-10-29T13:58:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/dieagaintrollgameever.ipa",
+                    "size": 111717153,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1621448898,
+            "name": "CaptainTsubasa:MyGoldenXI MG11",
+            "version": "1.5.0",
+            "size": 150867519,
+            "icon": "img/captaintsubasamygoldenximg11.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/captaintsubasamygoldenximg11.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/captaintsubasamygoldenximg11.ipa",
+            "bundleIdentifier": "com.alpsestudio.pjct",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Always Win → guaranteed victory in every match",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/captaintsubasamygoldenximg11.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/captaintsubasamygoldenximg11_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/captaintsubasamygoldenximg11_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/captaintsubasamygoldenximg11_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/captaintsubasamygoldenximg11_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/captaintsubasamygoldenximg11_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/captaintsubasamygoldenximg11_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/captaintsubasamygoldenximg11_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/captaintsubasamygoldenximg11_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.0",
+                    "date": "2026-10-29T13:57:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/captaintsubasamygoldenximg11.ipa",
+                    "size": 150867519,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/captaintsubasamygoldenximg11_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/captaintsubasamygoldenximg11_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/captaintsubasamygoldenximg11_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/captaintsubasamygoldenximg11_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1553274213,
+            "name": "Burger Simulator!",
+            "version": "22.4.0",
+            "size": 98929260,
+            "icon": "img/burgersimulator.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/burgersimulator.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/burgersimulator.ipa",
+            "bundleIdentifier": "io.supercent.burgersimulator",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Activate the fake purchase",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/burgersimulator.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burgersimulator_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burgersimulator_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burgersimulator_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burgersimulator_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burgersimulator_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burgersimulator_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burgersimulator_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burgersimulator_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "22.4.0",
+                    "date": "2026-10-29T13:57:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/burgersimulator.ipa",
+                    "size": 98929260,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burgersimulator_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burgersimulator_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burgersimulator_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burgersimulator_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1149150760,
+            "name": "Last Extract",
+            "version": "0.0.39",
+            "size": 329081252,
+            "icon": "img/lastextract.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/lastextract.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/lastextract.ipa",
+            "bundleIdentifier": "com.xiaomo.lootz",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free iAP → unlock premium purchases instantly",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lastextract.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastextract_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastextract_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastextract_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastextract_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastextract_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastextract_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastextract_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastextract_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.39",
+                    "date": "2026-10-29T13:57:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/lastextract.ipa",
+                    "size": 329081252,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastextract_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastextract_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastextract_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastextract_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1122218639,
+            "name": "Happy Citizens - Mayor Sim",
+            "version": "2.6.2",
+            "size": 377301965,
+            "icon": "img/happycitizensmayorsim.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/happycitizensmayorsim.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/happycitizensmayorsim.ipa",
+            "bundleIdentifier": "com.miyagames.happycitizen.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Gems\n- Cash\n- Energy\n- Water",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/happycitizensmayorsim.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happycitizensmayorsim_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happycitizensmayorsim_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happycitizensmayorsim_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happycitizensmayorsim_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happycitizensmayorsim_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happycitizensmayorsim_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happycitizensmayorsim_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happycitizensmayorsim_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.6.2",
+                    "date": "2026-10-29T13:56:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/happycitizensmayorsim.ipa",
+                    "size": 377301965,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happycitizensmayorsim_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happycitizensmayorsim_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happycitizensmayorsim_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happycitizensmayorsim_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1925933078,
+            "name": "Rising Super Chef 2 - Cooking",
+            "version": "10.10.3",
+            "size": 127381199,
+            "icon": "img/risingsuperchef2cooking.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/risingsuperchef2cooking.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/risingsuperchef2cooking.ipa",
+            "bundleIdentifier": "com.ministone.game.risingsuperchef2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Currencies → preserve your coins and cash indefinitely\n- Freeze Boosters → keep power-ups and helpers active without consumption",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/risingsuperchef2cooking.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/risingsuperchef2cooking_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/risingsuperchef2cooking_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/risingsuperchef2cooking_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/risingsuperchef2cooking_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/risingsuperchef2cooking_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/risingsuperchef2cooking_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/risingsuperchef2cooking_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/risingsuperchef2cooking_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "10.10.3",
+                    "date": "2026-10-29T13:56:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/risingsuperchef2cooking.ipa",
+                    "size": 127381199,
+                    "buildVersion": null,
+                    "minOSVersion": "15.6",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/risingsuperchef2cooking_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/risingsuperchef2cooking_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/risingsuperchef2cooking_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/risingsuperchef2cooking_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1220061343,
             "name": "Water Out Puzzle®",
             "version": "9.2.0",
@@ -15394,54 +15874,6 @@
             ]
         },
         {
-            "id": 1737013670,
-            "name": "Dead God Land: Survival games",
-            "version": "0.214",
-            "size": 853108345,
-            "icon": "img/deadgodlandsurvivalgames.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/deadgodlandsurvivalgames.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/deadgodlandsurvivalgames.ipa",
-            "bundleIdentifier": "com.devvisiongames.deadisland",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Never Die\n- Unlimited Durability\n- Unlimited Items From Mail\n- Freeze Skill Points\n- Premium",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/deadgodlandsurvivalgames.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "0.214",
-                    "date": "2026-10-22T00:08:21+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/deadgodlandsurvivalgames.ipa",
-                    "size": 853108345,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadgodlandsurvivalgames_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1195328246,
             "name": "Candy Crush Saga",
             "version": "1.339.0",
@@ -21116,54 +21548,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hardtimeiii_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hardtimeiii_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hardtimeiii_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1753619790,
-            "name": "Die Again: Troll Game Ever",
-            "version": "1.2.10",
-            "size": 109684824,
-            "icon": "img/dieagaintrollgameever.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/dieagaintrollgameever.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/dieagaintrollgameever.ipa",
-            "bundleIdentifier": "com.dieagain.trollgame",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Without ads",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dieagaintrollgameever.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.2.10",
-                    "date": "2026-10-16T11:15:11+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/dieagaintrollgameever.ipa",
-                    "size": 109684824,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagaintrollgameever_screen_4.png"
                     ]
                 }
             ]
@@ -29115,37 +29499,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/christmasmagicmatch3game.ipa",
                     "size": 103452508,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1925933078,
-            "name": "Rising Super Chef 2 - Cooking",
-            "version": "10.10.0",
-            "size": "120.24 MB",
-            "icon": "img/risingsuperchef2cooking.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/risingsuperchef2cooking.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/risingsuperchef2cooking.ipa",
-            "bundleIdentifier": "com.ministone.game.risingsuperchef2",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Freeze Currencies → preserve your coins and cash indefinitely\n- Freeze Boosters → keep power-ups and helpers active without consumption",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/risingsuperchef2cooking.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "10.10.0",
-                    "date": "2026-10-10T03:09:50+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/risingsuperchef2cooking.ipa",
-                    "size": 126080778,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
