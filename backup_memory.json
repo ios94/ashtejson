@@ -10,6 +10,294 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1682921975,
+            "name": "Bouncy Ball Remastered",
+            "version": "5.5.0",
+            "size": 45338190,
+            "icon": "img/bouncyballremastered.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bouncyballremastered.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bouncyballremastered.ipa",
+            "bundleIdentifier": "com.raongames.bouneball",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Never Die → survive any obstacle\n- Unlock all level → access every map instantly",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bouncyballremastered.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncyballremastered_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncyballremastered_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncyballremastered_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncyballremastered_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncyballremastered_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncyballremastered_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncyballremastered_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncyballremastered_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.5.0",
+                    "date": "2026-10-29T00:48:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bouncyballremastered.ipa",
+                    "size": 45338190,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncyballremastered_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncyballremastered_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncyballremastered_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bouncyballremastered_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1264677284,
+            "name": "Sand Loop: Color Sort Puzzle",
+            "version": "1.16.0",
+            "size": 201979482,
+            "icon": "img/sandloopcolorsortpuzzle.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/sandloopcolorsortpuzzle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/sandloopcolorsortpuzzle.ipa",
+            "bundleIdentifier": "com.pc.sand.loop",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "-  Spend to Increase",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sandloopcolorsortpuzzle.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloopcolorsortpuzzle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloopcolorsortpuzzle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloopcolorsortpuzzle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloopcolorsortpuzzle_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloopcolorsortpuzzle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloopcolorsortpuzzle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloopcolorsortpuzzle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloopcolorsortpuzzle_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.16.0",
+                    "date": "2026-10-29T00:48:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/sandloopcolorsortpuzzle.ipa",
+                    "size": 201979482,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloopcolorsortpuzzle_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloopcolorsortpuzzle_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloopcolorsortpuzzle_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sandloopcolorsortpuzzle_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1394649707,
+            "name": "Proteccoon : Tower Defense",
+            "version": "0.0.40",
+            "size": 199128305,
+            "icon": "img/proteccoontowerdefense.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/proteccoontowerdefense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/proteccoontowerdefense.ipa",
+            "bundleIdentifier": "com.TeamSparta.Proteccoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Never Die → survive any assault\n- One Hit Kill → eliminate enemies instantly\n- Free Spend → unlimited currency for upgrades",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/proteccoontowerdefense.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proteccoontowerdefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proteccoontowerdefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proteccoontowerdefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proteccoontowerdefense_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proteccoontowerdefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proteccoontowerdefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proteccoontowerdefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proteccoontowerdefense_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.40",
+                    "date": "2026-10-29T00:48:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/proteccoontowerdefense.ipa",
+                    "size": 199128305,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proteccoontowerdefense_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proteccoontowerdefense_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proteccoontowerdefense_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proteccoontowerdefense_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1334360752,
+            "name": "Rap Star Rapper Simulator",
+            "version": "1.0.98",
+            "size": 68913870,
+            "icon": "img/rapstarrappersimulator.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/rapstarrappersimulator.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/rapstarrappersimulator.ipa",
+            "bundleIdentifier": "chimpanzee.2025.RapperStar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free iAP (Turn on inside iOSGods Menu first)\n- iGameGod Added",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rapstarrappersimulator.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rapstarrappersimulator_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rapstarrappersimulator_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rapstarrappersimulator_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rapstarrappersimulator_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rapstarrappersimulator_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rapstarrappersimulator_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rapstarrappersimulator_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rapstarrappersimulator_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.98",
+                    "date": "2026-10-29T00:48:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/rapstarrappersimulator.ipa",
+                    "size": 68913870,
+                    "buildVersion": null,
+                    "minOSVersion": "13.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rapstarrappersimulator_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rapstarrappersimulator_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rapstarrappersimulator_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rapstarrappersimulator_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1420955087,
+            "name": "Lily’s Garden: Match & Design",
+            "version": "3.87.0",
+            "size": 189482983,
+            "icon": "img/lilysgardenmatchdesign.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/lilysgardenmatchdesign.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/lilysgardenmatchdesign.ipa",
+            "bundleIdentifier": "dk.tactile.lilysgarden",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Moves\n- Freeze Life\n- Freeze Boosters\n- Freeze Coins and Stars",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lilysgardenmatchdesign.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.87.0",
+                    "date": "2026-10-29T00:48:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/lilysgardenmatchdesign.ipa",
+                    "size": 189482983,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1577450581,
+            "name": "Music Wars Rockstar: Rap Life",
+            "version": "1.7.9",
+            "size": 266453788,
+            "icon": "img/musicwarsrockstarraplife.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/musicwarsrockstarraplife.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/musicwarsrockstarraplife.ipa",
+            "bundleIdentifier": "com.mwcompany.MusicWarsRockstar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited money (buy something in shop)\n- Unlimited creativity\n- Unlimited health\n- Unlimited happiness",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/musicwarsrockstarraplife.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.9",
+                    "date": "2026-10-29T00:47:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/musicwarsrockstarraplife.ipa",
+                    "size": 266453788,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1176094315,
             "name": "B93Ef81Aacbc479E0241564Be4Eb5624",
             "version": "2.0.3",
@@ -620,51 +908,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1420955087,
-            "name": "Lily’s Garden: Match & Design",
-            "version": "3.87.0",
-            "size": 184609688,
-            "icon": "img/lilysgardenmatchdesign.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V2/lilysgardenmatchdesign.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V2/lilysgardenmatchdesign.ipa",
-            "bundleIdentifier": "dk.tactile.lilysgarden",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Enable dummy purchases\n- Speed ​​up the game\n- No ads\n\nNote: Activate the hack from the mod menu",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lilysgardenmatchdesign.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "3.87.0",
-                    "date": "2026-10-28T23:17:47+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V2/lilysgardenmatchdesign.ipa",
-                    "size": 184609688,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lilysgardenmatchdesign_screen_4.jpg"
                     ]
                 }
             ]
@@ -3395,54 +3638,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/joseonexorcistidlerpg_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/joseonexorcistidlerpg_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/joseonexorcistidlerpg_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1577450581,
-            "name": "Music Wars Rockstar: Rap Life",
-            "version": "1.7.7",
-            "size": 266445423,
-            "icon": "img/musicwarsrockstarraplife.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/musicwarsrockstarraplife.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/musicwarsrockstarraplife.ipa",
-            "bundleIdentifier": "com.mwcompany.MusicWarsRockstar",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited money (buy something in shop)\n- Unlimited creativity\n- Unlimited health\n- Unlimited happiness",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/musicwarsrockstarraplife.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.7.7",
-                    "date": "2026-10-28T12:43:34+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/musicwarsrockstarraplife.ipa",
-                    "size": 266445423,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicwarsrockstarraplife_screen_4.png"
                     ]
                 }
             ]
