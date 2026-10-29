@@ -10,6 +10,45 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1720547907,
+            "name": "Bus Simulator : EVO",
+            "version": "4.30.46",
+            "size": 1158690626,
+            "icon": "img/bussimulatorevo.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bussimulatorevo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bussimulatorevo.ipa",
+            "bundleIdentifier": "bussimulator2015",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Gold\n- Unlimited Cash\n- ViP\n- Auto ADS OFF",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bussimulatorevo.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bussimulatorevo_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bussimulatorevo_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.30.46",
+                    "date": "2026-10-29T00:50:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bussimulatorevo.ipa",
+                    "size": 1158690626,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bussimulatorevo_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1682921975,
             "name": "Bouncy Ball Remastered",
             "version": "5.5.0",
