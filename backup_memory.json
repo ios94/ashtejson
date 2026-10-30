@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1939437160,
+            "name": "Galaxy Shooter - Falcon Squad",
+            "version": "101.08",
+            "size": 438654584,
+            "icon": "img/galaxyshooterfalconsquad.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyshooterfalconsquad.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyshooterfalconsquad.ipa",
+            "bundleIdentifier": "invaders.falcon.galaxy.space.shooter.attack.classic",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/galaxyshooterfalconsquad.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyshooterfalconsquad_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyshooterfalconsquad_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyshooterfalconsquad_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyshooterfalconsquad_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyshooterfalconsquad_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyshooterfalconsquad_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyshooterfalconsquad_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyshooterfalconsquad_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "101.08",
+                    "date": "2026-10-30T20:48:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyshooterfalconsquad.ipa",
+                    "size": 438654584,
+                    "buildVersion": null,
+                    "minOSVersion": "13.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyshooterfalconsquad_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyshooterfalconsquad_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyshooterfalconsquad_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/galaxyshooterfalconsquad_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1206578121,
             "name": "Resource War: multiplayer rpg",
             "version": "3.9.1",
