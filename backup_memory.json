@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1977039815,
+            "name": "Onnect – Pair Matching Puzzle",
+            "version": "75.14.2",
+            "size": 501150579,
+            "icon": "img/onnectpairmatchingpuzzle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/onnectpairmatchingpuzzle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/onnectpairmatchingpuzzle.ipa",
+            "bundleIdentifier": "com.gamebility.onet",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onnectpairmatchingpuzzle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectpairmatchingpuzzle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectpairmatchingpuzzle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectpairmatchingpuzzle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectpairmatchingpuzzle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectpairmatchingpuzzle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectpairmatchingpuzzle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectpairmatchingpuzzle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectpairmatchingpuzzle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "75.14.2",
+                    "date": "2026-10-30T21:19:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/onnectpairmatchingpuzzle.ipa",
+                    "size": 501150579,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectpairmatchingpuzzle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectpairmatchingpuzzle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectpairmatchingpuzzle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectpairmatchingpuzzle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1750368495,
             "name": "Firefighter: pixel shooter",
             "version": "0.0.7",
