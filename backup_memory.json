@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1535357968,
+            "name": "Dino King: Survival Idle",
+            "version": "1.6.0",
+            "size": 291732908,
+            "icon": "img/dinokingsurvivalidle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/dinokingsurvivalidle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/dinokingsurvivalidle.ipa",
+            "bundleIdentifier": "com.TornadoBear.DinoKing",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dinokingsurvivalidle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinokingsurvivalidle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinokingsurvivalidle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinokingsurvivalidle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinokingsurvivalidle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinokingsurvivalidle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinokingsurvivalidle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinokingsurvivalidle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinokingsurvivalidle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.0",
+                    "date": "2026-10-30T21:25:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/dinokingsurvivalidle.ipa",
+                    "size": 291732908,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinokingsurvivalidle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinokingsurvivalidle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinokingsurvivalidle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinokingsurvivalidle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1218156194,
             "name": "Hair Challenge",
             "version": "43.7.7",
