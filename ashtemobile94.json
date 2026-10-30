@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1702114484,
+            "name": "Forest Island",
+            "version": "13.7",
+            "size": 1181665954,
+            "icon": "img/forestisland.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/forestisland.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/forestisland.ipa",
+            "bundleIdentifier": "puzzle.yarn.fever.unravel.puzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/forestisland.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "13.7",
+                    "date": "2026-10-30T21:29:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/forestisland.ipa",
+                    "size": 1181665954,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1246884371,
             "name": "Timeline Up!",
             "version": "17.9.0",
@@ -7679,54 +7727,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcanabladeidlerpg_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcanabladeidlerpg_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcanabladeidlerpg_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1702114484,
-            "name": "Forest Island",
-            "version": "3.22.0",
-            "size": 291843079,
-            "icon": "img/forestisland.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/forestisland.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/forestisland.ipa",
-            "bundleIdentifier": "com.Nanali.ForestIsland.ios",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Currencies -> Will increase instead of decrease.\n-- No Ads",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/forestisland.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "3.22.0",
-                    "date": "2026-10-28T20:06:01+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/forestisland.ipa",
-                    "size": 291843079,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestisland_screen_4.png"
                     ]
                 }
             ]
