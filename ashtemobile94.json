@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1246884371,
+            "name": "Timeline Up!",
+            "version": "17.9.0",
+            "size": 608480505,
+            "icon": "img/timelineup.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/timelineup.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/timelineup.ipa",
+            "bundleIdentifier": "com.MojoGames.EraEvolution",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/timelineup.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "17.9.0",
+                    "date": "2026-10-30T21:26:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/timelineup.ipa",
+                    "size": 608480505,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1535357968,
             "name": "Dino King: Survival Idle",
             "version": "1.6.0",
@@ -1574,54 +1622,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterlegendsbattlegame_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterlegendsbattlegame_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterlegendsbattlegame_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1246884371,
-            "name": "Timeline Up!",
-            "version": "17.9.0",
-            "size": 220362105,
-            "icon": "img/timelineup.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/timelineup.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/timelineup.ipa",
-            "bundleIdentifier": "com.MojoGames.EraEvolution",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "✅ Free store (click buy then cancel)",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/timelineup.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "17.9.0",
-                    "date": "2026-10-30T13:55:17+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/timelineup.ipa",
-                    "size": 220362105,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_4.png"
                     ]
                 }
             ]
