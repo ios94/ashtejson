@@ -10,6 +10,429 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1620943072,
+            "name": "Rolling Sky",
+            "version": "5.6.5",
+            "size": 351707153,
+            "icon": "img/rollingsky.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/rollingsky.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/rollingsky.ipa",
+            "bundleIdentifier": "com.turbochilli.rollingsky",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free iAP\n- Never Die → become invulnerable\n- Never Fall → stay on the track always",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rollingsky.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.6.5",
+                    "date": "2026-10-30T13:58:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/rollingsky.ipa",
+                    "size": 351707153,
+                    "buildVersion": null,
+                    "minOSVersion": "15.6",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1706212565,
+            "name": "CarX Rally",
+            "version": "29506",
+            "size": 746456590,
+            "icon": "img/carxrally.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/carxrally.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/carxrally.ipa",
+            "bundleIdentifier": "com.carxtech.rally",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free store (buy then cancel)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carxrally.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carxrally_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carxrally_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carxrally_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carxrally_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carxrally_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carxrally_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carxrally_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carxrally_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "29506",
+                    "date": "2026-10-30T13:57:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/carxrally.ipa",
+                    "size": 746456590,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carxrally_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carxrally_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carxrally_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carxrally_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1633049597,
+            "name": "Otherworld Mercenary Corps",
+            "version": "3.0.0",
+            "size": 448984804,
+            "icon": "img/otherworldmercenarycorps.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/otherworldmercenarycorps.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/otherworldmercenarycorps.ipa",
+            "bundleIdentifier": "com.blb.ios.Mercenary",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Never Die",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/otherworldmercenarycorps.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.0.0",
+                    "date": "2026-10-30T13:56:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/otherworldmercenarycorps.ipa",
+                    "size": 448984804,
+                    "buildVersion": null,
+                    "minOSVersion": "13.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1792967933,
+            "name": "Crozzle - Crossword Puzzles",
+            "version": "2.5.0",
+            "size": 147551381,
+            "icon": "img/crozzlecrosswordpuzzles.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/crozzlecrosswordpuzzles.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/crozzlecrosswordpuzzles.ipa",
+            "bundleIdentifier": "se.maginteractive.crozzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto ADS OFF\n- Unlimited Currency / Visual But Works\n- Unlimited Resources / Visual But Works",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crozzlecrosswordpuzzles.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crozzlecrosswordpuzzles_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crozzlecrosswordpuzzles_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crozzlecrosswordpuzzles_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crozzlecrosswordpuzzles_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crozzlecrosswordpuzzles_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crozzlecrosswordpuzzles_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crozzlecrosswordpuzzles_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crozzlecrosswordpuzzles_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.5.0",
+                    "date": "2026-10-30T13:55:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/crozzlecrosswordpuzzles.ipa",
+                    "size": 147551381,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crozzlecrosswordpuzzles_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crozzlecrosswordpuzzles_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crozzlecrosswordpuzzles_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crozzlecrosswordpuzzles_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1649370332,
+            "name": "DATE A LIVE: Love Limit Break",
+            "version": "1.7.0",
+            "size": 126277951,
+            "icon": "img/datealivelovelimitbreak.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/datealivelovelimitbreak.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/datealivelovelimitbreak.ipa",
+            "bundleIdentifier": "jp.clyre.pjda",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\r\n- Defense Multiplier",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/datealivelovelimitbreak.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/datealivelovelimitbreak.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/datealivelovelimitbreak.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.0",
+                    "date": "2026-10-30T13:55:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/datealivelovelimitbreak.ipa",
+                    "size": 126277951,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/datealivelovelimitbreak.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1745456352,
+            "name": "Angry Birds Match",
+            "version": "0.19.1",
+            "size": 199392798,
+            "icon": "img/angrybirdsmatch.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsmatch.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsmatch.ipa",
+            "bundleIdentifier": "com.rovio.abm3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Everything\n- Unlimited Everything -> Will increase instead of decrease.\n- Auto Win -> Quit the level.\n- Freeze Moves",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsmatch.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.19.1",
+                    "date": "2026-10-30T13:55:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsmatch.ipa",
+                    "size": 199392798,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1342206700,
+            "name": "Twisted Tangle",
+            "version": "2.21.2",
+            "size": 264015419,
+            "icon": "img/twistedtangle.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/twistedtangle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/twistedtangle.ipa",
+            "bundleIdentifier": "com.crescivegames.twistedtangle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited everything\n- Game acceleration\n- No ads\n\nNote: Activate the hack from the mod menu, exit the game, and then log in again.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/twistedtangle.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.21.2",
+                    "date": "2026-10-30T13:54:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/twistedtangle.ipa",
+                    "size": 264015419,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1517839996,
+            "name": "Training Hero Remastered",
+            "version": "1.4.4",
+            "size": 162048018,
+            "icon": "img/trainingheroremastered.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/trainingheroremastered.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/trainingheroremastered.ipa",
+            "bundleIdentifier": "com.daerigame.scarecrow",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → amplify your strike power\n- Defense Multiplier → reduce incoming harm\n- Attack Speed Multiplier → strike faster in combat\n- Debug Cheat Menu → access advanced tweaks\n- Pass Unlocked → access all premium content\n- No ADS → uninterrupted gameplay",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/trainingheroremastered.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.4",
+                    "date": "2026-10-30T13:54:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/trainingheroremastered.ipa",
+                    "size": 162048018,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1929893091,
+            "name": "Chef Friends: Cooking Game",
+            "version": "1.50.0",
+            "size": 471890639,
+            "icon": "img/cheffriendscookinggame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/cheffriendscookinggame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/cheffriendscookinggame.ipa",
+            "bundleIdentifier": "com.mytona.cheftales",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Currencies (Hats, Coins, Gems)\n\nNOTE: May bug out the game so better try on throw away account first",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cheffriendscookinggame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cheffriendscookinggame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cheffriendscookinggame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cheffriendscookinggame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cheffriendscookinggame_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cheffriendscookinggame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cheffriendscookinggame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cheffriendscookinggame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cheffriendscookinggame_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.50.0",
+                    "date": "2026-10-30T13:54:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/cheffriendscookinggame.ipa",
+                    "size": 471890639,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cheffriendscookinggame_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cheffriendscookinggame_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cheffriendscookinggame_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cheffriendscookinggame_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1361943955,
             "name": "Monster Legends - Battle Game",
             "version": "20.4.4",
@@ -10621,54 +11044,6 @@
             ]
         },
         {
-            "id": 1517839996,
-            "name": "Training Hero Remastered",
-            "version": "1.3.3",
-            "size": 161955395,
-            "icon": "img/trainingheroremastered.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/trainingheroremastered.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/trainingheroremastered.ipa",
-            "bundleIdentifier": "com.daerigame.scarecrow",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Damage Multiplier → amplify your strike power\n- Defense Multiplier → reduce incoming harm\n- Attack Speed Multiplier → strike faster in combat\n- Debug Cheat Menu → access advanced tweaks\n- Pass Unlocked → access all premium content\n- No ADS → uninterrupted gameplay",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/trainingheroremastered.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1.3.3",
-                    "date": "2026-10-27T18:36:58+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/trainingheroremastered.ipa",
-                    "size": 161955395,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trainingheroremastered_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1719063017,
             "name": "Millionaire Quiz: Trivia Game",
             "version": "68.0.1",
@@ -15262,54 +15637,6 @@
             ]
         },
         {
-            "id": 1342206700,
-            "name": "Twisted Tangle",
-            "version": "2.21.1",
-            "size": 262998713,
-            "icon": "img/twistedtangle.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/twistedtangle.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/twistedtangle.ipa",
-            "bundleIdentifier": "com.crescivegames.twistedtangle",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited everything\n- Game acceleration\n- No ads\n\nNote: Activate the hack from the mod menu, exit the game, and then log in again.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/twistedtangle.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "2.21.1",
-                    "date": "2026-10-26T17:01:31+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/twistedtangle.ipa",
-                    "size": 262998713,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedtangle_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1403311650,
             "name": "Bridge Race",
             "version": "4.2",
@@ -16307,54 +16634,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerwartacticalconquest_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1620943072,
-            "name": "Rolling Sky",
-            "version": "5.6.4",
-            "size": 342130167,
-            "icon": "img/rollingsky.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/rollingsky.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/rollingsky.ipa",
-            "bundleIdentifier": "com.turbochilli.rollingsky",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Free iAP\n- Never Die → become invulnerable\n- Never Fall → stay on the track always",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rollingsky.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "5.6.4",
-                    "date": "2026-10-25T16:55:33+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/rollingsky.ipa",
-                    "size": 342130167,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollingsky_screen_4.png"
                     ]
                 }
             ]
@@ -23227,54 +23506,6 @@
             ]
         },
         {
-            "id": 1745456352,
-            "name": "Angry Birds Match",
-            "version": "0.18.0",
-            "size": 196722417,
-            "icon": "img/angrybirdsmatch.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsmatch.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsmatch.ipa",
-            "bundleIdentifier": "com.rovio.abm3",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Freeze Everything\n- Unlimited Everything -> Will increase instead of decrease.\n- Auto Win -> Quit the level.\n- Freeze Moves",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirdsmatch.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "0.18.0",
-                    "date": "2026-10-16T11:30:28+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/angrybirdsmatch.ipa",
-                    "size": 196722417,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirdsmatch_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1684095782,
             "name": "MagiLotl: Idle Wizard Tycoon",
             "version": "1.4.8",
@@ -23318,54 +23549,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magilotlidlewizardtycoon_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magilotlidlewizardtycoon_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magilotlidlewizardtycoon_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1633049597,
-            "name": "Otherworld Mercenary Corps",
-            "version": "2.9.8",
-            "size": 445431447,
-            "icon": "img/otherworldmercenarycorps.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/otherworldmercenarycorps.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/otherworldmercenarycorps.ipa",
-            "bundleIdentifier": "com.blb.ios.Mercenary",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Damage Multiplier\n- Never Die",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/otherworldmercenarycorps.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "2.9.8",
-                    "date": "2026-10-16T11:29:44+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/otherworldmercenarycorps.ipa",
-                    "size": 445431447,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/otherworldmercenarycorps_screen_4.png"
                     ]
                 }
             ]
