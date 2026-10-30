@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1206578121,
+            "name": "Resource War: multiplayer rpg",
+            "version": "3.9.1",
+            "size": 664218371,
+            "icon": "img/resourcewarmultiplayerrpg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/resourcewarmultiplayerrpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/resourcewarmultiplayerrpg.ipa",
+            "bundleIdentifier": "com.ivanpanasenko.resourcewar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/resourcewarmultiplayerrpg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resourcewarmultiplayerrpg_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resourcewarmultiplayerrpg_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resourcewarmultiplayerrpg_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resourcewarmultiplayerrpg_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resourcewarmultiplayerrpg_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resourcewarmultiplayerrpg_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resourcewarmultiplayerrpg_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resourcewarmultiplayerrpg_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.9.1",
+                    "date": "2026-10-30T20:34:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/resourcewarmultiplayerrpg.ipa",
+                    "size": 664218371,
+                    "buildVersion": null,
+                    "minOSVersion": "17.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resourcewarmultiplayerrpg_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resourcewarmultiplayerrpg_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resourcewarmultiplayerrpg_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resourcewarmultiplayerrpg_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1189740746,
             "name": "PetrolHead Open World Car Game",
             "version": "7.6.0",
