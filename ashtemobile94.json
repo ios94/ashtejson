@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1967644621,
+            "name": "Court Six: Volleyball Game",
+            "version": "1.0.0",
+            "size": 548165758,
+            "icon": "img/courtsixvolleyballgame.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/courtsixvolleyballgame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/courtsixvolleyballgame.ipa",
+            "bundleIdentifier": "com.ideas67.courtsix",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/courtsixvolleyballgame.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/courtsixvolleyballgame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/courtsixvolleyballgame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/courtsixvolleyballgame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/courtsixvolleyballgame_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/courtsixvolleyballgame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/courtsixvolleyballgame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/courtsixvolleyballgame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/courtsixvolleyballgame_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "date": "2026-10-30T20:59:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/courtsixvolleyballgame.ipa",
+                    "size": 548165758,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/courtsixvolleyballgame_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/courtsixvolleyballgame_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/courtsixvolleyballgame_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/courtsixvolleyballgame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1148703633,
             "name": "Tap Away 3D",
             "version": "169.5.7",
