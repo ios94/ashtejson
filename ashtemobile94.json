@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1189740746,
+            "name": "PetrolHead Open World Car Game",
+            "version": "7.6.0",
+            "size": 1998010175,
+            "icon": "img/petrolheadopenworldcargame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/petrolheadopenworldcargame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/petrolheadopenworldcargame.ipa",
+            "bundleIdentifier": "com.lethe.petrolhead",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free store (click buy then cancel)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/petrolheadopenworldcargame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrolheadopenworldcargame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrolheadopenworldcargame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrolheadopenworldcargame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrolheadopenworldcargame_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrolheadopenworldcargame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrolheadopenworldcargame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrolheadopenworldcargame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrolheadopenworldcargame_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.6.0",
+                    "date": "2026-10-30T14:01:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/petrolheadopenworldcargame.ipa",
+                    "size": 1998010175,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrolheadopenworldcargame_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrolheadopenworldcargame_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrolheadopenworldcargame_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrolheadopenworldcargame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1354834223,
             "name": "Disney Solitaire",
             "version": "1.27.0",
