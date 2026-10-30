@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1750368495,
+            "name": "Firefighter: pixel shooter",
+            "version": "0.0.7",
+            "size": 183095751,
+            "icon": "img/firefighterpixelshooter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/firefighterpixelshooter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/firefighterpixelshooter.ipa",
+            "bundleIdentifier": "net.alexplay.firefighter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/firefighterpixelshooter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/firefighterpixelshooter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/firefighterpixelshooter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/firefighterpixelshooter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/firefighterpixelshooter_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/firefighterpixelshooter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/firefighterpixelshooter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/firefighterpixelshooter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/firefighterpixelshooter_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.7",
+                    "date": "2026-10-30T21:17:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/firefighterpixelshooter.ipa",
+                    "size": 183095751,
+                    "buildVersion": null,
+                    "minOSVersion": "11.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/firefighterpixelshooter_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/firefighterpixelshooter_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/firefighterpixelshooter_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/firefighterpixelshooter_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1302259890,
             "name": "Whispers of the Forest: Idle",
             "version": "1.1.5",
