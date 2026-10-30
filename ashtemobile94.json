@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1426846326,
+            "name": "Holy Mackerel",
+            "version": "2.0.2",
+            "size": 210857256,
+            "icon": "img/holymackerel.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/holymackerel.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/holymackerel.ipa",
+            "bundleIdentifier": "com.TinyTree.HolyMackerel",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/holymackerel.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holymackerel_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holymackerel_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holymackerel_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holymackerel_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holymackerel_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holymackerel_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holymackerel_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holymackerel_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.2",
+                    "date": "2026-10-30T20:50:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/holymackerel.ipa",
+                    "size": 210857256,
+                    "buildVersion": null,
+                    "minOSVersion": "13.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holymackerel_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holymackerel_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holymackerel_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holymackerel_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1939437160,
             "name": "Galaxy Shooter - Falcon Squad",
             "version": "101.08",
@@ -42,7 +90,7 @@
             "versions": [
                 {
                     "version": "101.08",
-                    "date": "2026-10-30T20:48:08+00:00",
+                    "date": "2026-10-30T20:50:29+00:00",
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/galaxyshooterfalconsquad.ipa",
                     "size": 438654584,
