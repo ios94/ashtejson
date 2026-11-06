@@ -10,6 +10,435 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1675337895,
+            "name": "Age of Aterra",
+            "version": "1.1.0",
+            "size": 209493071,
+            "icon": "img/ageofaterra.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/ageofaterra.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/ageofaterra.ipa",
+            "bundleIdentifier": "games.greenbee.aterra",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عدم الموت → أبطالك ينجون من أي ضربة\n- الضرر الأقصى → تسبب أقصى ضرر مع كل هجوم\n- تجميد الذكاء الاصطناعي → قفل تحركات العدو في مكانها",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ageofaterra.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ageofaterra_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ageofaterra_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ageofaterra_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ageofaterra_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ageofaterra_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ageofaterra_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ageofaterra_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ageofaterra_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.0",
+                    "date": "2026-11-06T23:33:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/ageofaterra.ipa",
+                    "size": 209493071,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ageofaterra_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ageofaterra_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ageofaterra_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ageofaterra_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1905474470,
+            "name": "Stella Connect",
+            "version": "1.5.0",
+            "size": 356184644,
+            "icon": "img/stellaconnect.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/stellaconnect.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/stellaconnect.ipa",
+            "bundleIdentifier": "com.StellarCraft.StellarConnect",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر → زيادة إخراج هجوم بطلك\r\n- مضاعف الدفاع → تعزيز إحصائيات دفاعك\r\n- لاعب لا يتضرر → أصبح محصناً في المعركة\r\n- عملات غير محدودة → أنفق بحرية دون استنزاف",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stellaconnect.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellaconnect_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellaconnect_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellaconnect_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellaconnect_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellaconnect_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellaconnect_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellaconnect_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellaconnect_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.0",
+                    "date": "2026-11-06T23:33:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/stellaconnect.ipa",
+                    "size": 356184644,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellaconnect_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellaconnect_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellaconnect_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellaconnect_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1821662028,
+            "name": "ADHD SQUAD",
+            "version": "0.1.24",
+            "size": 582886287,
+            "icon": "img/adhdsquad.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/adhdsquad.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/adhdsquad.ipa",
+            "bundleIdentifier": "com.skybull.danger.dungeon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تفعيل ViP → فتح الميزات والمزايا المميزة\n- بدون إعلانات / مكافآت مجانية → استمتع بلعب خالي من الإعلانات مع مكافآت مجانية\n- تفعيل 2x السرعة → ضاعف سرعة تقدمك\n- تفعيل وضع القتال التلقائي → يقاتل الأبطال تلقائياً بدون إدخال\n- ذهب غير محدود → أنفق بحرية على الترقيات والمشتريات\n- غبار غير محدود ; اصنع وحسّن بدون حدود\n- خردة غير محدودة ; اجمع المواد بلا نهاية\n- استكشاف غير محدود ; جند الأبطال بدون قيود\n- تجميد الطاقة ; أزل حواجز استهلاك الطاقة\nالإحصائيات\n- الهجوم بالحد الأقصى ; زيادة قوة الهجوم إلى الحد الأقصى\n- نقاط الصحة بالحد الأقصى  زيادة نقاط الصحة إلى الحد الأقصى\n-  عزز إحصائيات الدفاع\n- هجوم خاص  حسّن قدرات الهجوم الخاصة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/adhdsquad.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adhdsquad_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adhdsquad_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adhdsquad_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adhdsquad_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adhdsquad_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adhdsquad_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adhdsquad_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adhdsquad_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.1.24",
+                    "date": "2026-11-06T23:32:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/adhdsquad.ipa",
+                    "size": 582886287,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adhdsquad_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adhdsquad_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adhdsquad_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adhdsquad_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1715202853,
+            "name": "I&#39;M Dead",
+            "version": "0.1.234",
+            "size": 516013987,
+            "icon": "img/i39mdead.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/i39mdead.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/i39mdead.ipa",
+            "bundleIdentifier": "com.naddic.iamdead",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر\r\n- مضاعف الدفاع\r\n- مضاعف العملات\r\n- مضاعف الخبرة\r\n- مضاعف سرعة الحركة\r\n- بدون إعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/i39mdead.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/i39mdead_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/i39mdead_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/i39mdead_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/i39mdead_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/i39mdead_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/i39mdead_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.1.234",
+                    "date": "2026-11-06T23:32:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/i39mdead.ipa",
+                    "size": 516013987,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/i39mdead_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/i39mdead_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/i39mdead_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1782759865,
+            "name": "Kingdom Reborn: Life Simulator",
+            "version": "1.4.3",
+            "size": 436440722,
+            "icon": "img/kingdomrebornlifesimulator.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/kingdomrebornlifesimulator.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/kingdomrebornlifesimulator.ipa",
+            "bundleIdentifier": "com.kingdomreborn.app",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "-  تنفق العملات بحرية بلا حدود\n-  فتح امتيازات ومزايا متميزة لكبار الشخصيات\n-  باقات — الوصول إلى باقات الأصناف الحصرية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kingdomrebornlifesimulator.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomrebornlifesimulator_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomrebornlifesimulator_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomrebornlifesimulator_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomrebornlifesimulator_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomrebornlifesimulator_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomrebornlifesimulator_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomrebornlifesimulator_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomrebornlifesimulator_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.3",
+                    "date": "2026-11-06T23:31:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/kingdomrebornlifesimulator.ipa",
+                    "size": 436440722,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomrebornlifesimulator_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomrebornlifesimulator_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomrebornlifesimulator_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomrebornlifesimulator_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1662882935,
+            "name": "The Traitors: Interactive Game",
+            "version": "5.0.4",
+            "size": 214174948,
+            "icon": "img/thetraitorsinteractivegame.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/thetraitorsinteractivegame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/thetraitorsinteractivegame.ipa",
+            "bundleIdentifier": "com.fuseboxgames.traitors",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- أحجار كريمة غير محدودة → أنفق بحرية على الترقيات والتقدم\r\n- تذاكر غير محدودة → العب المهام بدون انتظار أو حدود\r\n- بدون إعلانات مفروضة → استمتع بلعب بدون انقطاع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/thetraitorsinteractivegame.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetraitorsinteractivegame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetraitorsinteractivegame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetraitorsinteractivegame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetraitorsinteractivegame_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetraitorsinteractivegame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetraitorsinteractivegame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetraitorsinteractivegame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetraitorsinteractivegame_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.0.4",
+                    "date": "2026-11-06T23:30:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/thetraitorsinteractivegame.ipa",
+                    "size": 214174948,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetraitorsinteractivegame_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetraitorsinteractivegame_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetraitorsinteractivegame_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetraitorsinteractivegame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1747718275,
+            "name": "SAT X",
+            "version": "12.38.1",
+            "size": 610874847,
+            "icon": "img/satx.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/satx.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/satx.ipa",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تنزيل الفيديوهات .\r\n- اخفاء مواضيع التغريد . \r\n- اخفاء من تتابع .\r\n- تعطيل تحذيرات التغريدات الحساسة .\r\n- تعطيل التغريدات الصوتية .\r\n- تعطيل فيديو الطبقة التوضيحية .\r\n- تحويل الى تصميم جديد لرسائل DM .\r\n- تحميل الصور باعلى جودة .\r\n- فتح الروابط في سفاري .\r\n- تعطيل الاعلانات .\r\n- اخفاء اقتراحات المتابعة .\r\n- تاكيد الاعجاب .\r\n- تاكيد المتابعة .\r\n- تاكيد عند ارسال تغريدة .\r\n- نسخ بيانات الحساب .\r\n- إخفاء شريط المساحات.\r\n- ترجمة السيرة الذاتية . \r\n- قفل التطبيق بالبصمة او بكلمة المرور .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/satx.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satx_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satx_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satx_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satx_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satx_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satx_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satx_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satx_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "12.38.1",
+                    "date": "2026-11-06T23:30:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/satx.ipa",
+                    "size": 610874847,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satx_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satx_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satx_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satx_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1240622966,
+            "name": "Fish Tycoon 3 Virtual Aquarium",
+            "version": "1.0.16",
+            "size": 351527401,
+            "icon": "img/fishtycoon3virtualaquarium.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/fishtycoon3virtualaquarium.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/fishtycoon3virtualaquarium.ipa",
+            "bundleIdentifier": "com.ldw.fishtycoon3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- قائمة الغش → الوصول إلى أدوات الغش والاختصارات داخل اللعبة\r\n\r\n\r\n- Cheat list → Access to cheat tools and in-game shortcuts",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fishtycoon3virtualaquarium.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishtycoon3virtualaquarium_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishtycoon3virtualaquarium_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishtycoon3virtualaquarium_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishtycoon3virtualaquarium_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishtycoon3virtualaquarium_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishtycoon3virtualaquarium_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishtycoon3virtualaquarium_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishtycoon3virtualaquarium_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.16",
+                    "date": "2026-11-06T23:29:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/fishtycoon3virtualaquarium.ipa",
+                    "size": 351527401,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishtycoon3virtualaquarium_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishtycoon3virtualaquarium_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishtycoon3virtualaquarium_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishtycoon3virtualaquarium_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1942401997,
+            "name": "Elementra: The Boy's Adventure",
+            "version": "1004",
+            "size": 522701357,
+            "icon": "img/elementratheboysadventure.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/elementratheboysadventure.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/elementratheboysadventure.ipa",
+            "bundleIdentifier": "com.longgammagames.elementra.journy",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "✨ يعمل مضاعف الضرر على — تضخيم ناتج الهجوم\n✨ يقلل مضاعف الدفاع من الأضرار الواردة\n✨ مضاعف العملة — يكسب الموارد بشكل أسرع\n✨ مضاعف المكافأة — يعزز جميع مكاسب الغنائم\n🏆 تجربة — رفع مستوى المضاعف بشكل أسرع\n⚡ ضرب مضاعف سرعة — الهجوم بشكل متكرر\n⚡ تحريك مضاعف السرعة — الجري والمراوغة بشكل أسرع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/elementratheboysadventure.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementratheboysadventure_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementratheboysadventure_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementratheboysadventure_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementratheboysadventure_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementratheboysadventure_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementratheboysadventure_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementratheboysadventure_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementratheboysadventure_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1004",
+                    "date": "2026-11-06T23:29:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/elementratheboysadventure.ipa",
+                    "size": 522701357,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementratheboysadventure_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementratheboysadventure_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementratheboysadventure_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementratheboysadventure_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1112566472,
             "name": "Sport Star - Team Manager Idle",
             "version": "1.9.1",
