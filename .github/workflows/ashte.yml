@@ -1,0 +1,145 @@
+name: Ashte - Auto Import ALL Games From Website
+
+on:
+  workflow_dispatch:
+    inputs:
+      site_url:
+        description: 'لینکی ماڵپەڕەکە'
+        required: true
+        default: 'https://ashtemobile.tututweak.com/index.html'
+        type: string
+      release_tags:
+        description: 'ڕیلیزەکان بە ڕیز (کە یەکێک پڕ بوو دەچێتە ئەوەی دواتر)'
+        required: true
+        default: 'V6,V7,V8,V9,V10'
+        type: string
+      inject_dylib:
+        description: 'ئایا AlertAshte.dylib بخرێتە ناو یارییەکان؟'
+        required: true
+        default: 'Yes'
+        type: choice
+        options:
+          - 'Yes'
+          - 'No'
+      app_type:
+        description: 'games یان apps'
+        required: true
+        default: 'games'
+        type: choice
+        options:
+          - games
+          - apps
+      data_url:
+        description: 'لینکی JSON (تەنها ئەگەر خۆی نەیدۆزییەوە)'
+        required: false
+        type: string
+      max_games:
+        description: 'سنووری یاری بۆ تاقیکردنەوە (٠ = هەموویان)'
+        required: false
+        default: '0'
+        type: string
+
+jobs:
+  import_games:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    permissions:
+      contents: write
+      actions: write
+
+    env:
+      SITE_URL: ${{ github.event.inputs.site_url }}
+      DATA_URL: ${{ github.event.inputs.data_url }}
+      LIMIT: ${{ github.event.inputs.max_games }}
+      APP_TYPE: ${{ github.event.inputs.app_type }}
+      RELEASE_TAGS: ${{ github.event.inputs.release_tags }}
+      INJECT: ${{ github.event.inputs.inject_dylib }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lief
+
+      - name: Find games that are not in the source yet
+        id: prep
+        run: python ashte_sync.py prepare
+
+      - name: Download → Release → JSON (automatic, 10 per batch)
+        if: ${{ steps.prep.outputs.count != '0' }}
+        env:
+          BATCHES: ${{ steps.prep.outputs.batches }}
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          JSON_FILE=$(echo "YXNodGVtb2JpbGU5NC5qc29u" | base64 --decode)
+          START=$(date +%s)
+          MAX_SECONDS=19000   # نزیکەی ٥ کاتژمێر و ١٥ خولەک، پاشان خۆی دووبارە دەست پێدەکاتەوە
+          TIMEBREAK=0
+          NOROOM=0
+          PUSHED_ANY=0
+
+          # یەکەم ڕیلیز کە شوێنی تێدا ماوە (سنووری GitHub: ١٠٠٠ فایل بۆ هەر ڕیلیزێک)
+          pick_tag() {
+            for t in $(echo "$RELEASE_TAGS" | tr ',' ' '); do
+              gh release view "$t" >/dev/null 2>&1 || gh release create "$t" --title "$t" --notes "" >/dev/null
+              rid=$(gh api "repos/$GITHUB_REPOSITORY/releases/tags/$t" --jq .id)
+              n=$(gh api --paginate "repos/$GITHUB_REPOSITORY/releases/$rid/assets" --jq '.[].id' | wc -l)
+              echo "ڕیلیز $t: $n فایل" >&2
+              if [ "$n" -le 990 ]; then echo "$t"; return 0; fi
+            done
+            return 1
+          }
+
+          for ((b=0; b<BATCHES; b++)); do
+            if [ $(( $(date +%s) - START )) -gt $MAX_SECONDS ]; then
+              TIMEBREAK=1; break
+            fi
+
+            if ! TAG=$(pick_tag); then
+              NOROOM=1; break
+            fi
+            export RELEASE_TAG="$TAG"
+            echo "================ پارچەی $((b+1)) لە $BATCHES → $RELEASE_TAG ================"
+
+            rm -rf ipas uploads_consumed*.txt
+            python ashte_sync.py batch $b || { echo "پارچەکە بەتاڵ بوو، تێپەڕێنرا"; git add ashte_failed.txt 2>/dev/null || true; continue; }
+
+            if [ "$INJECT" = "Yes" ]; then
+              python inject.py || true
+            fi
+
+            gh release upload "$RELEASE_TAG" ipas/*.ipa --clobber
+
+            for i in {1..20}; do
+              git pull origin main --rebase --autostash
+              python admin_adder.py update_json
+              git add "$JSON_FILE" backup_memory.json img/ imgg/ ashte_failed.txt 2>/dev/null || true
+              git commit -m "Ashte import: batch $((b+1))/$BATCHES ($RELEASE_TAG)" || echo "No changes"
+              if git push; then PUSHED_ANY=1; break; fi
+              git restore "$JSON_FILE" backup_memory.json || true
+              sleep 10
+            done
+            rm -rf ipas
+          done
+
+          if [ "$NOROOM" = "1" ]; then
+            echo "⛔ هەموو ڕیلیزەکان ($RELEASE_TAGS) پڕ بوون. ڕیلیزی نوێ (وەک V11) زیاد بکە لە release_tags و دووبارە Run بکە."
+          elif [ "$TIMEBREAK" = "1" ] && [ "$PUSHED_ANY" = "1" ]; then
+            echo "⏱️ کات تەواو بوو، خۆی دووبارە دەست پێدەکاتەوە بۆ ماوەی یارییەکان..."
+            gh workflow run ashte.yml --ref main \
+              -f site_url="$SITE_URL" -f release_tags="$RELEASE_TAGS" \
+              -f inject_dylib="$INJECT" -f app_type="$APP_TYPE" \
+              -f data_url="$DATA_URL" -f max_games="${LIMIT:-0}"
+          else
+            echo "✅ تەواو بوو."
+          fi
