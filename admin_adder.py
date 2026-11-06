@@ -66,6 +66,10 @@ if len(sys.argv) > 1 and sys.argv[1] == "update_json":
 UPLOADS_DIR = "uploads"
 CONSUMED_FILE = "uploads_consumed.txt"
 
+# سنووری GitHub بۆ هەر فایلێکی ڕیلیز: 2GiB (2147483648). ئەوەی لەمە گەورەترە ناگاتە ڕیلیز
+MAX_IPA_BYTES = 2147483648 - 1024 * 1024  # 1MB مارجین
+FAILED_FILE = "ashte_failed.txt"
+
 def resolve_local_ipa(value):
     """ئەگەر بەهاکە لینک نەبوو و فایلێکی IPA بوو (لە repo یان uploads/) ڕێڕەوەکەی دەگەڕێنێتەوە"""
     if not value or value.lower().startswith("http"):
@@ -208,6 +212,7 @@ def process_single_app(app_input, ipa_link, app_type):
     # ---- هەنگاوی ١: وەرگرتنی IPA (فایلی ناوخۆیی یان لینک) ----
     os.makedirs("ipas", exist_ok=True)
     tmp_ipa = f"ipas/_tmp_{random.randint(100000, 999999)}.ipa"
+    oversize = False
     local_src = resolve_local_ipa(ipa_link)
     if ipa_link.startswith("upload:"):
         try:
@@ -228,10 +233,34 @@ def process_single_app(app_input, ipa_link, app_type):
         try:
             r = requests.get(ipa_link, stream=True)
             if r.status_code == 200:
-                with open(tmp_ipa, "wb") as f:
-                    for chunk in r.iter_content(chunk_size=8192): f.write(chunk)
+                cl = int(r.headers.get("Content-Length") or 0)
+                if cl >= MAX_IPA_BYTES:
+                    # پێش دابەزاندن دەزانین گەورەیە، بۆیە هەر دانابەزێت
+                    print(f"⛔ File is {cl / 1024**3:.2f} GB (> 2GB), not downloading.")
+                    oversize = True
+                else:
+                    downloaded = 0
+                    with open(tmp_ipa, "wb") as f:
+                        for chunk in r.iter_content(chunk_size=8192):
+                            downloaded += len(chunk)
+                            if downloaded >= MAX_IPA_BYTES:  # سێرڤەر Content-Length ی نەدابوو
+                                oversize = True
+                                break
+                            f.write(chunk)
+            r.close()
         except Exception as e:
             print("Error downloading package:", e)
+
+    if os.path.exists(tmp_ipa) and os.path.getsize(tmp_ipa) >= MAX_IPA_BYTES:
+        oversize = True
+    if oversize:
+        if os.path.exists(tmp_ipa):
+            os.remove(tmp_ipa)
+        label = app_input if app_input and not app_input.startswith("http") else ipa_link
+        print(f"⛔ SKIPPED (bigger than 2GB, GitHub limit): {label}")
+        with open(FAILED_FILE, "a", encoding="utf-8") as ff:
+            ff.write(label + "\n")
+        return None
 
     ipa_ok = os.path.exists(tmp_ipa) and zipfile.is_zipfile(tmp_ipa)
     ipa_meta = read_ipa_meta(tmp_ipa) if ipa_ok else {"name": "", "version": "", "bundle": "", "minos": "", "icon": None}
