@@ -148,7 +148,16 @@ jobs:
             # ئەو فایلانەی لە 2GB گەورەترن (دوای inject) دەسڕدرێنەوە و لە JSON ـیش لادەبرێن
             python ashte_sync.py filter || { echo "هیچ فایلێک نەما بۆ بەرزکردنەوە"; save_failed; rm -rf ipas; continue; }
 
-            gh release upload "$RELEASE_TAG" ipas/*.ipa --clobber
+            # هەر فایلێک جیا بەرز دەکرێتەوە (٣ هەوڵ). ئەگەر یەکێک نەچوو، تەنها ئەو لادەبرێت و کارەکە دەوەستێت
+            for f in ipas/*.ipa; do
+              ok=0
+              for t in 1 2 3; do
+                if gh release upload "$RELEASE_TAG" "$f" --clobber; then ok=1; break; fi
+                sleep 5
+              done
+              if [ "$ok" = "0" ]; then echo "⚠️ بەرزکردنەوە شکستی هێنا: $f"; rm -f "$f"; fi
+            done
+            python ashte_sync.py prune || { echo "هیچ فایلێک بەرز نەکرایەوە"; rm -rf ipas; continue; }
 
             for i in {1..20}; do
               git pull origin main --rebase --autostash
