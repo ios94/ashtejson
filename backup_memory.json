@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1113120035,
+            "name": "Among Us",
+            "version": "2026.11.3",
+            "size": 1102434477,
+            "icon": "img/amongus.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/amongus.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/amongus.ipa",
+            "bundleIdentifier": "com.innersloth.amongus",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- All Skins Unlocked\n- All Pets Unlocked\n- All Hats Unlocked\n- No Ads\n\n- جميع الجلود مقفلة\n- جميع الحيوانات الأليفة مقفلة\n- جميع القبعات مقفلة\n- بدون إعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amongus.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amongus_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amongus_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amongus_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amongus_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amongus_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amongus_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amongus_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amongus_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2026.11.3",
+                    "date": "2026-11-06T21:09:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/amongus.ipa",
+                    "size": 1102434477,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amongus_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amongus_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amongus_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amongus_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1638422947,
+            "name": "Unkilled",
+            "version": "2.7.5",
+            "size": 1056445930,
+            "icon": "img/unkilled.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/unkilled.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/unkilled.ipa",
+            "bundleIdentifier": "com.madfingergames.unkilled",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- ذخيرة لا نهائية\n- لا تموت ابدا\n- سلايدر تسريع لاعب\n- الغاء الأعلانات\n\n#حصرريا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/unkilled.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unkilled_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unkilled_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unkilled_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unkilled_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unkilled_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unkilled_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unkilled_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unkilled_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.7.5",
+                    "date": "2026-11-06T21:08:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/unkilled.ipa",
+                    "size": 1056445930,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unkilled_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unkilled_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unkilled_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unkilled_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1373405682,
+            "name": "Rise of Berk",
+            "version": "1.114.3",
+            "size": 1430651420,
+            "icon": "img/riseofberk.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/riseofberk.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/riseofberk.ipa",
+            "bundleIdentifier": "com.ludia.dragons",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Currencies ViP Only :\n- Free Store / Free Purchase (Not Free iAP) -- use with Freeze Currencies for best experience\n- Free Odin's Market Shopping\n- Odin's Market Packs Never Reduce\n- Enable Rider Club / Free Subscription\n\n- تجميد العملات لكبار الشخصيات فقط:\n- متجر مجاني / شراء مجاني (ليس مجانيًا iAP) - استخدمه مع تجميد العملات للحصول على أفضل تجربة\n- تسوق مجاني في سوق أودين\n- حزم سوق Odin لا تقل أبدًا\n- تمكين رايدر كلوب / الاشتراك المجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/riseofberk.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riseofberk_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riseofberk_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riseofberk_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riseofberk_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riseofberk_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riseofberk_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riseofberk_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riseofberk_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.114.3",
+                    "date": "2026-11-06T21:06:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/riseofberk.ipa",
+                    "size": 1430651420,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riseofberk_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riseofberk_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riseofberk_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riseofberk_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1605993717,
+            "name": "Hero Hunters",
+            "version": "10.9",
+            "size": 228925525,
+            "icon": "img/herohunters.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/herohunters.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/herohunters.ipa",
+            "bundleIdentifier": "com.hotheadgames.ios.survivors",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Ammo\n- No Reload\n- Higher Fire Rate\n- 1 Hit Kill\n- Disable Enemy Attack\n\n- ذخيرة غير محدودة\n- بدون إعادة تعبئة\n- ارتفاع معدل إطلاق النار\n- قتل بضربة واحدة\n- تعطيل هجوم العدو",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/herohunters.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herohunters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herohunters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herohunters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herohunters_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herohunters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herohunters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herohunters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herohunters_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "10.9",
+                    "date": "2026-11-06T21:05:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/herohunters.ipa",
+                    "size": 228925525,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herohunters_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herohunters_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herohunters_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herohunters_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1354377758,
+            "name": "Virtual Families 3",
+            "version": "2.4.9",
+            "size": 313098106,
+            "icon": "img/virtualfamilies3.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/virtualfamilies3.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/virtualfamilies3.ipa",
+            "bundleIdentifier": "com.ldw.vf3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة\n- طعام غير محدود\n- طعام حيوانات أليفة غير محدود\n\n -  انتقل إلى القائمة والإعدادات وقم بتبديل زر الاتصال بالدعم.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/virtualfamilies3.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamilies3_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamilies3_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamilies3_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamilies3_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamilies3_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamilies3_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamilies3_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamilies3_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.9",
+                    "date": "2026-11-06T21:04:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/virtualfamilies3.ipa",
+                    "size": 313098106,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamilies3_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamilies3_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamilies3_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamilies3_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1619859173,
+            "name": "Jetpack 2",
+            "version": "5.5.10",
+            "size": 589426229,
+            "icon": "img/jetpack2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/jetpack2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/jetpack2.ipa",
+            "bundleIdentifier": "com.halfbrick.jetpackjoyride2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jetpack2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.5.10",
+                    "date": "2026-11-06T21:04:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/jetpack2.ipa",
+                    "size": 589426229,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1882058386,
+            "name": "Brick Out",
+            "version": "2622.0.2",
+            "size": 558665718,
+            "icon": "img/brickout.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/brickout.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/brickout.ipa",
+            "bundleIdentifier": "com.puzzle1studio.ap.brickoutshoottheball",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n• بدون اعلانات \r\n• جواهر لامحدودة \r\n• إحياء مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/brickout.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brickout_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brickout_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brickout_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brickout_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brickout_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brickout_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brickout_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brickout_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2622.0.2",
+                    "date": "2026-11-06T21:03:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/brickout.ipa",
+                    "size": 558665718,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brickout_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brickout_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brickout_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brickout_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1764434388,
+            "name": "Penny & Flo",
+            "version": "1.194.0",
+            "size": 437792329,
+            "icon": "img/pennyflo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/pennyflo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/pennyflo.ipa",
+            "bundleIdentifier": "dk.tactile.mansionstory",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )\n- نقود لا محدود\n\nوصف التطبيق: \n\nالحب؟ مفامرة؟ الألغاز؟ نعم! بيني وفلو: تجديد المنزل لديه كل شيء. قم بتجديد المنازل وحل الألغاز الصعبة من خلال لعبة المطابقة 2 الجديدة والممتعة والمريحة!",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pennyflo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pennyflo_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pennyflo_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pennyflo_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pennyflo_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pennyflo_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pennyflo_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pennyflo_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pennyflo_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.194.0",
+                    "date": "2026-11-06T21:03:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/pennyflo.ipa",
+                    "size": 437792329,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pennyflo_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pennyflo_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pennyflo_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pennyflo_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1644116815,
+            "name": "Heroes",
+            "version": "0.41.0",
+            "size": 423820399,
+            "icon": "img/heroes.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/heroes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/heroes.ipa",
+            "bundleIdentifier": "com.ea.starwarscapital.bv",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا يوجد وقت لإعادة شحن المهارة \r\n المهارة متاحة دائمًا. مرتبطة بالعدو",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heroes.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroes_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroes_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.41.0",
+                    "date": "2026-11-06T21:02:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/heroes.ipa",
+                    "size": 423820399,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroes_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroes_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroes_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroes_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1760449338,
+            "name": "Rush Knights",
+            "version": "1.3.144",
+            "size": 378397516,
+            "icon": "img/rushknights.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/rushknights.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/rushknights.ipa",
+            "bundleIdentifier": "com.gaimstudio.knightage",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Never Die\n- Gems Multiplier\n\n- ضرر مضاعف\n- لا يموت أبداً\n- مضاعف الجواهر",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rushknights.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushknights_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushknights_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushknights_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushknights_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushknights_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushknights_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushknights_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushknights_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.144",
+                    "date": "2026-11-06T21:02:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/rushknights.ipa",
+                    "size": 378397516,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushknights_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushknights_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushknights_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushknights_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1816802866,
             "name": "Airport City",
             "version": "8.53.00",
