@@ -12,6 +12,8 @@ import subprocess
 import struct
 import zlib
 import plistlib
+import hashlib
+import unicodedata
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 
@@ -69,6 +71,15 @@ CONSUMED_FILE = "uploads_consumed.txt"
 # سنووری GitHub بۆ هەر فایلێکی ڕیلیز: 2GiB (2147483648). ئەوەی لەمە گەورەترە ناگاتە ڕیلیز
 MAX_IPA_BYTES = 2147483648 - 1024 * 1024  # 1MB مارجین
 FAILED_FILE = "ashte_failed.txt"
+
+def make_slug(name):
+    """ناوی فایل تەنها ئینگلیزی و ژمارە (GitHub ناوی عەرەبی/کوردی ڕەت دەکاتەوە).
+    ئەگەر ناوەکە هیچ پیتی ئینگلیزی نەبوو (وەک عەرەبی) hash ی ناوەکە بەکاردێت. دەبێت هەمان ئەوە بێت لە ashte_sync.py"""
+    ascii_name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
+    s = "".join(c for c in ascii_name if c.isalnum()).lower()
+    if not s:
+        s = "app" + hashlib.md5(name.strip().encode("utf-8")).hexdigest()[:10]
+    return s
 
 def resolve_local_ipa(value):
     """ئەگەر بەهاکە لینک نەبوو و فایلێکی IPA بوو (لە repo یان uploads/) ڕێڕەوەکەی دەگەڕێنێتەوە"""
@@ -361,8 +372,7 @@ def process_single_app(app_input, ipa_link, app_type):
     final_name = ex_name
     final_desc = ex_desc or "Awesome App! Downloaded from AshteMobile."
 
-    slug = "".join(e for e in final_name if e.isalnum()).lower()
-    if not slug: slug = f"app{random.randint(1000, 9999)}"
+    slug = make_slug(final_name)
     final_bundle = ipa_meta["bundle"] or ex_bundle or as_bundle or f"com.ashtemobile.{slug}"
     final_version = ipa_meta["version"] or ex_version or as_version or "1.0"
     
