@@ -11,6 +11,8 @@ import json
 import os
 import re
 import subprocess
+import hashlib
+import unicodedata
 import sys
 import urllib.parse
 
@@ -175,7 +177,12 @@ def prepare():
 
 
 def slug_of(name):
-    return "".join(c for c in name if c.isalnum()).lower()
+    """هەمان make_slug ی admin_adder.py ـە: تەنها ئینگلیزی/ژمارە، ئەگەر نەبوو hash"""
+    ascii_name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
+    s = "".join(c for c in ascii_name if c.isalnum()).lower()
+    if not s:
+        s = "app" + hashlib.md5(name.strip().encode("utf-8")).hexdigest()[:10]
+    return s
 
 
 def batch(i):
@@ -246,9 +253,26 @@ def filter_size():
     print(f"✅ {len(kept)} file(s) ready to upload.")
 
 
+def prune():
+    """ئەو یارییانەی IPA ـەکەیان بەرز نەکرایەوە (فایلەکە سڕاوەتەوە) لە temp_app.json لادەبات"""
+    with open("temp_app.json", encoding="utf-8") as f:
+        apps = json.load(f)
+    kept = [a for a in apps if os.path.exists(f"ipas/{slug_of(a['name'])}.ipa")]
+    for a in apps:
+        if a not in kept:
+            print(f"⚠️ Upload failed, not added to the source: {a['name']}")
+    if not kept:
+        sys.exit(1)
+    with open("temp_app.json", "w", encoding="utf-8") as f:
+        json.dump(kept, f, ensure_ascii=False, indent=4)
+    print(f"✅ {len(kept)}/{len(apps)} uploaded.")
+
+
 if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] == "prepare":
         prepare()
+    elif len(sys.argv) > 1 and sys.argv[1] == "prune":
+        prune()
     elif len(sys.argv) > 1 and sys.argv[1] == "filter":
         filter_size()
     elif len(sys.argv) > 2 and sys.argv[1] == "batch":
