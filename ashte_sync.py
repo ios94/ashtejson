@@ -14,6 +14,7 @@ import subprocess
 import hashlib
 import unicodedata
 import sys
+import time
 import urllib.parse
 
 import requests
@@ -86,7 +87,55 @@ def find_item_list(node):
     return None
 
 
+MAX_PAGES = 400  # 400 پەڕە x 100 = 40,000 یاری، زیاتر لە پێویست
+
+
+def fetch_items(url):
+    r = requests.get(url, headers=HEADERS, timeout=60)
+    if r.status_code != 200:
+        return None
+    items = find_item_list(r.json())
+    if items and any(k in items[0] for k in NAME_KEYS):
+        return items
+    return None
+
+
+def load_paged(url_template):
+    """ئەگەر لینکەکە page= ی تێدا بوو، هەموو پەڕەکان (1، 2، 3 ...) دەهێنێت تا بەتاڵ دەبێت"""
+    all_items, seen = [], set()
+    for page in range(1, MAX_PAGES + 1):
+        url = re.sub(r"page=[^&]*", f"page={page}", url_template, count=1)
+        items = None
+        for attempt in range(3):  # ئەگەر سێرڤەر کێشەی هەبوو سێ جار هەوڵ دەدات
+            try:
+                items = fetch_items(url)
+                break
+            except Exception as e:
+                print(f"⚠️ page {page} attempt {attempt + 1} failed: {e}")
+                time.sleep(3)
+        if not items:
+            break  # پەڕەی کۆتایی (بەتاڵ) یان کێشە
+        new = 0
+        for it in items:
+            key = pick(it, NAME_KEYS).lower() + "|" + pick_ipa(it)
+            if key not in seen:
+                seen.add(key)
+                all_items.append(it)
+                new += 1
+        if page % 10 == 0 or new == 0:
+            print(f"📄 page {page}: +{new} new, total {len(all_items)}")
+        if new == 0:  # سێرڤەر page ی پشتگوێ خستووە و هەمان لیست دەداتەوە
+            break
+    return all_items
+
+
 def load_feed():
+    if DATA_URL and "page=" in DATA_URL:
+        items = load_paged(DATA_URL)
+        if items:
+            print(f"✅ Feed found (paged): {len(items)} items total")
+            return items
+        print("⚠️ Paged feed returned nothing, trying the normal way...")
     urls = [DATA_URL] if DATA_URL else candidates_from_site(SITE_URL)
     for u in urls:
         try:
