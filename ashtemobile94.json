@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1590702105,
+            "name": "iQGram",
+            "version": "454.0.0",
+            "size": 384055839,
+            "icon": "img/iqgram.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/iqgram.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/iqgram.ipa",
+            "bundleIdentifier": "com.burbn.instagram",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- الاحتفاظ بالرسائل المحذوفة\n- تحميل الصور والفيديوهات من الموقع الرئيسي والقصص.\n- قم بتحميل الصور في قصتك.\n- قفل البرنامج بكلمة مرور.\n- مشاهدة القصة دون علم الطرف الآخر.\nاخفاء قراءة وكتابة الرسائل.\n- إزالة الإعلانات المزعجة.\n- انسخ نص المنشور (بضغطة طويلة).\nعرض عدد المشاهدات والإعجابات.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/iqgram.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqgram_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqgram_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqgram_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqgram_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqgram_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqgram_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqgram_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqgram_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "454.0.0",
+                    "date": "2026-11-06T16:42:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/iqgram.ipa",
+                    "size": 384055839,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqgram_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqgram_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqgram_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqgram_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1226344798,
             "name": "Airplane Manager Tycoon Empire",
             "version": "0.2.2",
