@@ -10,6 +10,483 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1136678543,
+            "name": "Transcribe+",
+            "version": "2.0.5",
+            "size": 375197238,
+            "icon": "img/transcribe.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/transcribe.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/transcribe.ipa",
+            "bundleIdentifier": "com.dynamicappdesign.transcribeplus",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق يساعد الموسيقيين والمتعلمين على تحليل الأغاني وفهم الكلمات أو النغمات بسهولة، من خلال إبطاء موسيقى الأغاني دون تشويه الأصوات، ويمكنه أيضًا استخراج كلمات الأغاني . \n\n- مفتوح المميزات \nإضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/transcribe.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transcribe_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transcribe_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transcribe_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transcribe_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transcribe_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transcribe_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transcribe_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transcribe_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.5",
+                    "date": "2026-11-06T22:50:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/transcribe.ipa",
+                    "size": 375197238,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transcribe_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transcribe_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transcribe_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transcribe_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1444452214,
+            "name": "Glow",
+            "version": "1.2.4",
+            "size": 633580758,
+            "icon": "img/glow.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/glow.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/glow.ipa",
+            "bundleIdentifier": "com.crazylabs.fashionsquad",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Coins\n- Unlimited Gems\n\n- عملات غير محدودة\n- جواهر غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/glow.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glow_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glow_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glow_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glow_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glow_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glow_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glow_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glow_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.4",
+                    "date": "2026-11-06T22:50:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/glow.ipa",
+                    "size": 633580758,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glow_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glow_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glow_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glow_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1478251116,
+            "name": "GPS Tracks",
+            "version": "5.1.8",
+            "size": 105159472,
+            "icon": "img/gpstracks.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/gpstracks.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/gpstracks.ipa",
+            "bundleIdentifier": "com.dmorneault.gpstracks",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "أفضل تطبيق للملاحة، مفيد جداً لتتبع المسارات في الأماكن المفتوحة أو المناطق النائية. \r\n\r\n- تطبيق خام قابل لتكرار \r\n- الحد الأدنى للإصدار: iOS 15.4",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gpstracks.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpstracks_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpstracks_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpstracks_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpstracks_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpstracks_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpstracks_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpstracks_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpstracks_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.1.8",
+                    "date": "2026-11-06T22:49:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/gpstracks.ipa",
+                    "size": 105159472,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpstracks_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpstracks_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpstracks_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpstracks_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1596878766,
+            "name": "Soul Idle : Two Sides of Girls",
+            "version": "1.1.570",
+            "size": 945319331,
+            "icon": "img/soulidletwosidesofgirls.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/soulidletwosidesofgirls.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/soulidletwosidesofgirls.ipa",
+            "bundleIdentifier": "com.poleposition.iOSGirls",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Multiply Attack\n- Infinite Power Mode\n- Dumb Enemies\n\n- مضاعفة الهجوم\n- وضع الطاقة اللانهائي\n- أعداء أغبياء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/soulidletwosidesofgirls.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulidletwosidesofgirls_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulidletwosidesofgirls_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulidletwosidesofgirls_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulidletwosidesofgirls_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulidletwosidesofgirls_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulidletwosidesofgirls_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulidletwosidesofgirls_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulidletwosidesofgirls_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.570",
+                    "date": "2026-11-06T22:49:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/soulidletwosidesofgirls.ipa",
+                    "size": 945319331,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulidletwosidesofgirls_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulidletwosidesofgirls_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulidletwosidesofgirls_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulidletwosidesofgirls_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1494596759,
+            "name": "Mystery Manor",
+            "version": "7.210.0",
+            "size": 336534561,
+            "icon": "img/mysterymanor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/mysterymanor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/mysterymanor.ipa",
+            "bundleIdentifier": "com.gameinsight.ios.mmanor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Coins\n- Infinite Gems\n- Infinite Energy\n\n- عملات غير محدودة\n- جواهر غير محدودة\n- طاقة لا نهائية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mysterymanor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterymanor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterymanor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterymanor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterymanor_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterymanor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterymanor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterymanor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterymanor_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.210.0",
+                    "date": "2026-11-06T22:48:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/mysterymanor.ipa",
+                    "size": 336534561,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterymanor_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterymanor_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterymanor_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterymanor_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1692439695,
+            "name": "Arcane Arena",
+            "version": "1.055",
+            "size": 278682511,
+            "icon": "img/arcanearena.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/arcanearena.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/arcanearena.ipa",
+            "bundleIdentifier": "com.panteon.arcanearena",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ADS NO / Rewards Free\n- Unlimited Currency\n- Unlimited ResourcesNote:- After Hack Gems Disable Use Some Gems After Enable For Other Coins & Silver Keys First Get Then Use To Get Unlimited / Don't Abuse The Hack Incase Banned\n\n- لا يوجد إعلانات / مكافآت مجانية\n- عملة غير محدودة\n- موارد غير محدودة ملاحظة: - بعد تعطيل الجواهر، استخدم بعض الجواهر بعد تمكين العملات المعدنية الأخرى والمفاتيح الفضية، احصل أولاً ثم استخدمها للحصول على عدد غير محدود / لا تسيء استخدام الاختراق في حالة حظره",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/arcanearena.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcanearena_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcanearena_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcanearena_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcanearena_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcanearena_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcanearena_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcanearena_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcanearena_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.055",
+                    "date": "2026-11-06T22:47:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/arcanearena.ipa",
+                    "size": 278682511,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcanearena_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcanearena_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcanearena_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcanearena_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1146798424,
+            "name": "GrowCastle",
+            "version": "1.51.10",
+            "size": 157605351,
+            "icon": "img/growcastle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/growcastle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/growcastle.ipa",
+            "bundleIdentifier": "com.raongames.growcastle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Multiply Attack\n- Multiply Defense\n- Freeze Currencies\n\n- مضاعفة الهجوم\r\n- مضاعفة الدفاع\r\n- تجميد العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/growcastle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/growcastle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/growcastle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/growcastle_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/growcastle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/growcastle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/growcastle_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.51.10",
+                    "date": "2026-11-06T22:47:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/growcastle.ipa",
+                    "size": 157605351,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/growcastle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/growcastle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/growcastle_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1339594841,
+            "name": "Virtual Families Our New Home",
+            "version": "1.1.18",
+            "size": 362909072,
+            "icon": "img/virtualfamiliesournewhome.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/virtualfamiliesournewhome.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/virtualfamiliesournewhome.ipa",
+            "bundleIdentifier": "com.ldw.vfc",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- قائمة الغش -> انتقل إلى الإعدادات وقم بتبديل زر استعادة المشتريات.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/virtualfamiliesournewhome.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamiliesournewhome_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamiliesournewhome_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamiliesournewhome_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamiliesournewhome_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamiliesournewhome_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamiliesournewhome_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamiliesournewhome_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamiliesournewhome_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.18",
+                    "date": "2026-11-06T22:47:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/virtualfamiliesournewhome.ipa",
+                    "size": 362909072,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamiliesournewhome_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamiliesournewhome_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamiliesournewhome_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualfamiliesournewhome_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1200990767,
+            "name": "Shiba Story",
+            "version": "1.48.1",
+            "size": 1245011374,
+            "icon": "img/shibastory.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/shibastory.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/shibastory.ipa",
+            "bundleIdentifier": "com.proofofplay.shibastorygo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- الأحجار الكريمة\r\n- الذهب\r\n- الطاقة\r\n- مفاتيح+3\r\n- تعزيز العناصر\r\n- ميزة مفتوحة بالكامل\r\n- صندوق ماكس [ يظهر خطأ في الخادم أحيانًا ولكنه يعمل ]\r\n- تكلفة سفر سريع للطاقة 1\r\n- قتل الأعداء بسهولة [ كلا من المرتبطين ] يظهر خطأ في الخادم أحيانًا\r\n- دائمًا دوري\r\n- نقاط الصحة [ رفع المستوى ] [ قتل الأعداء بسهولة + دائمًا دوري ] قم بتعطيل هذه الميزة ثم استخدمها\r\n- الهجوم [ رفع المستوى ]\r\n- الدفاع [ رفع المستوى ]\r\n\r\nملاحظة:- لا تسيء استخدام الاختراق في حالة الحظر وفقدان البيانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shibastory.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shibastory_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shibastory_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shibastory_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shibastory_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shibastory_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shibastory_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shibastory_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shibastory_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.48.1",
+                    "date": "2026-11-06T22:46:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/shibastory.ipa",
+                    "size": 1245011374,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shibastory_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shibastory_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shibastory_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shibastory_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1717351229,
+            "name": "DV Rumble",
+            "version": "1.021.023",
+            "size": 280443228,
+            "icon": "img/dvrumble.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/dvrumble.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/dvrumble.ipa",
+            "bundleIdentifier": "com.highbrow.games.dvb.apple",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- وضع الطاقة اللانهائي\r\n- قتل بضربة واحدة\r\n- لعبة سرعة المضاعف",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dvrumble.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dvrumble_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dvrumble_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dvrumble_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dvrumble_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dvrumble_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dvrumble_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dvrumble_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dvrumble_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.021.023",
+                    "date": "2026-11-06T22:45:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/dvrumble.ipa",
+                    "size": 280443228,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dvrumble_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dvrumble_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dvrumble_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dvrumble_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1788527411,
             "name": "Contra Guns",
             "version": "1.57",
