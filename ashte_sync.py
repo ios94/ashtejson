@@ -190,12 +190,17 @@ def batch(i):
         env[f"APP{n}_IPA"] = chunk[n - 1]["ipa"] if n <= len(chunk) else ""
     if os.path.exists("temp_app.json"):
         os.remove("temp_app.json")
-    subprocess.run([sys.executable, "admin_adder.py"], env=env, check=True)
+    rc = subprocess.run([sys.executable, "admin_adder.py"], env=env).returncode
+    if rc != 0:  # نموونە: هەموو یارییەکانی ئەم پارچەیە گەورەتر بوون لە 2GB
+        print("⚠️ Nothing usable in this batch (all skipped or failed).")
+        sys.exit(1)
 
     with open("temp_app.json", encoding="utf-8") as f:
         apps = json.load(f)
     kept = []
-    for app, src in zip(apps, chunk):
+    by_name = {c["name"].strip(): c for c in chunk}
+    for app in apps:
+        src = by_name.get(app["name"].strip(), {"desc": ""})
         path = f"ipas/{slug_of(app['name'])}.ipa"
         if not os.path.exists(path):
             print(f"⚠️ IPA download failed, skipped: {app['name']}")
@@ -213,9 +218,39 @@ def batch(i):
     print(f"✅ Batch {i}: {len(kept)}/{len(chunk)} games ready.")
 
 
+MAX_IPA_BYTES = 2147483648 - 1024 * 1024
+
+
+def filter_size():
+    """دوای inject: ئەو IPA ـانەی لە 2GB گەورەترن دەسڕێتەوە و لە temp_app.json ـیش لایاندەبات"""
+    with open("temp_app.json", encoding="utf-8") as f:
+        apps = json.load(f)
+    kept = []
+    for app in apps:
+        path = f"ipas/{slug_of(app['name'])}.ipa"
+        if not os.path.exists(path):
+            continue
+        size = os.path.getsize(path)
+        if size >= MAX_IPA_BYTES:
+            print(f"⛔ {app['name']} is {size / 1024**3:.2f} GB (> 2GB), skipped.")
+            os.remove(path)
+            with open(FAILED_FILE, "a", encoding="utf-8") as ff:
+                ff.write(app["name"] + "\n")
+            continue
+        kept.append(app)
+    if not kept:
+        print("⚠️ Nothing left to upload in this batch.")
+        sys.exit(1)
+    with open("temp_app.json", "w", encoding="utf-8") as f:
+        json.dump(kept, f, ensure_ascii=False, indent=4)
+    print(f"✅ {len(kept)} file(s) ready to upload.")
+
+
 if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] == "prepare":
         prepare()
+    elif len(sys.argv) > 1 and sys.argv[1] == "filter":
+        filter_size()
     elif len(sys.argv) > 2 and sys.argv[1] == "batch":
         batch(int(sys.argv[2]))
     else:
