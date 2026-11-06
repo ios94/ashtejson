@@ -10,6 +10,480 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1406412946,
+            "name": "InShot",
+            "version": "2.1.0",
+            "size": 255347990,
+            "icon": "img/inshot.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/inshot.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/inshot.ipa",
+            "bundleIdentifier": "com.camerasideas.InstaShot",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "‏للتعديل على الصور ومقاطع الفيديو\r\n\r\n‏ الميزات:\r\n‏• مفتوح جميع المزايا Pro",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/inshot.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inshot_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inshot_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inshot_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inshot_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inshot_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inshot_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inshot_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inshot_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.0",
+                    "date": "2026-11-06T21:21:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/inshot.ipa",
+                    "size": 255347990,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inshot_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inshot_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inshot_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inshot_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1635508103,
+            "name": "Lightroom iPhone",
+            "version": "12.0.0",
+            "size": 349134354,
+            "icon": "img/lightroomiphone.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/lightroomiphone.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/lightroomiphone.ipa",
+            "bundleIdentifier": "com.adobe.lrmobilephone",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق  Lightroom iPhone \r\n للتعديل على الصور وإضافة تأثيرات جميلة خاص لأجهزة الآيباد \r\nمع كامل المزايا .\r\n\r\n- الحد الأدنى للإصدار: iOS 18.0\r\n\r\nLightroom iPhone app for photo editing and adding beautiful effects, exclusively for iPad devices with full features.\r\n\r\n- Minimum version: iOS 18.0",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lightroomiphone.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lightroomiphone_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lightroomiphone_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lightroomiphone_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lightroomiphone_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lightroomiphone_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lightroomiphone_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lightroomiphone_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lightroomiphone_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "12.0.0",
+                    "date": "2026-11-06T21:21:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/lightroomiphone.ipa",
+                    "size": 349134354,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lightroomiphone_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lightroomiphone_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lightroomiphone_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lightroomiphone_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1362768262,
+            "name": "Blur Video",
+            "version": "2.12.2",
+            "size": 29143746,
+            "icon": "img/blurvideo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/blurvideo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/blurvideo.ipa",
+            "bundleIdentifier": "hhp.BlurVideo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لعزل جزء معيّن بالفيديو بالشكل الذي تريده\r\n\r\nالمميزات :\r\nمفتوح المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blurvideo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurvideo_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurvideo_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurvideo_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurvideo_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurvideo_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurvideo_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.12.2",
+                    "date": "2026-11-06T21:21:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/blurvideo.ipa",
+                    "size": 29143746,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurvideo_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurvideo_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurvideo_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1156142937,
+            "name": "Notability",
+            "version": "16.13.4",
+            "size": 459412968,
+            "icon": "img/notability.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/notability.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/notability.ipa",
+            "bundleIdentifier": "com.gingerlabs.Notability",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "افضل تطبيق لتدوين لملاحظات \n- مع كامل المميزات .\n- يدعم من اصدار ios 17 وفوق .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/notability.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/notability_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/notability_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/notability_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/notability_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/notability_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/notability_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/notability_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/notability_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "16.13.4",
+                    "date": "2026-11-06T21:21:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/notability.ipa",
+                    "size": 459412968,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/notability_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/notability_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/notability_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/notability_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1968358504,
+            "name": "StepsApp",
+            "version": "8.15.7",
+            "size": 364939239,
+            "icon": "img/stepsapp.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/stepsapp.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/stepsapp.ipa",
+            "bundleIdentifier": "com.gunthermarktl.stepapp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "أفضل تطبيق للمشي وحساب الخطوات والسعرات الحرارية \r\n\r\nالتطبيق معدل نسخة كاملة ( PRO ) ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stepsapp.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepsapp_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepsapp_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepsapp_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepsapp_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepsapp_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepsapp_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepsapp_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepsapp_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "8.15.7",
+                    "date": "2026-11-06T21:20:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/stepsapp.ipa",
+                    "size": 364939239,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepsapp_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepsapp_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepsapp_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepsapp_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1733607011,
+            "name": "TOR Browser",
+            "version": "4.0.15",
+            "size": 296126983,
+            "icon": "img/torbrowser.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/torbrowser.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/torbrowser.ipa",
+            "bundleIdentifier": "ch.b-eng.tor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "عباره عن تطبيق لتصفح المواقع الالكترونية \n مع امكانية تفعيل الـ vpn  .. \n\nالمميزات : \nتفعيل مميزات PRO \n{ إضغط شراء ثم إلغاء } \n\nيحتاج شهادة تدعم تطبيقات الـvpn",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/torbrowser.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torbrowser_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torbrowser_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torbrowser_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torbrowser_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torbrowser_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torbrowser_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.0.15",
+                    "date": "2026-11-06T21:19:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/torbrowser.ipa",
+                    "size": 296126983,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torbrowser_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torbrowser_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torbrowser_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1747729542,
+            "name": "Dead Trigger 2",
+            "version": "3.1.7",
+            "size": 901586761,
+            "icon": "img/deadtrigger2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/deadtrigger2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/deadtrigger2.ipa",
+            "bundleIdentifier": "com.madfingergames.deadtrigger2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Ammo\n- No Reload\n- Infinite Power Mode\n- Infinite Consumable\n- Better Aim﻿\n\n- ذخيرة غير محدودة\n- بدون إعادة تعبئة\n- وضع الطاقة اللانهائي\n- استهلاك لا نهائي\n- هدف أفضل",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/deadtrigger2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtrigger2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtrigger2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtrigger2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtrigger2_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtrigger2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtrigger2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtrigger2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtrigger2_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.1.7",
+                    "date": "2026-11-06T21:19:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/deadtrigger2.ipa",
+                    "size": 901586761,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtrigger2_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtrigger2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtrigger2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtrigger2_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1615706854,
+            "name": "Angry Birds 2",
+            "version": "26.7.2",
+            "size": 1150943712,
+            "icon": "img/angrybirds2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/angrybirds2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/angrybirds2.ipa",
+            "bundleIdentifier": "com.rovio.baba",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Currencies\n\n- تجميد العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/angrybirds2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirds2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirds2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirds2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirds2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirds2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirds2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirds2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirds2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "26.7.2",
+                    "date": "2026-11-06T21:18:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/angrybirds2.ipa",
+                    "size": 1150943712,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirds2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirds2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirds2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/angrybirds2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1323773584,
+            "name": "Blade Idle",
+            "version": "1.83.0",
+            "size": 1174003646,
+            "icon": "img/bladeidle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/bladeidle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/bladeidle.ipa",
+            "bundleIdentifier": "com.mobirix.mbbi",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Attack Multiplier\n- Never Die\n- No Skills Cooldown\n- Instant Win\n- Game Speed Multiplier\n- Notes:\n- You need to complete tutorial until equip at least one skill\n- In some stages, you get \"STAGE FAILED\" because the server checks your stats.\n- You need to upgrade stats, equipment to pass the stage when that happens.\n- So, it's only useful for farming resources.\n\n- الهجوم المضاعف\n- لا يموت أبداً\n- بدون فترة انتظار للمهارات\n- فوز فوري\n- لعبة سرعة المضاعف\n- ملاحظات:\n- أنت بحاجة إلى إكمال البرنامج التعليمي حتى تكتسب مهارة واحدة على الأقل\n- في بعض المراحل، تحصل على \"فشل المرحلة\" لأن الخادم يتحقق من إحصائياتك.\n- تحتاج إلى ترقية الإحصائيات والمعدات لاجتياز المرحلة عندما يحدث ذلك.\n- لذا، فهو مفيد فقط للموارد الزراعية.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bladeidle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bladeidle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bladeidle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bladeidle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bladeidle_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bladeidle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bladeidle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bladeidle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bladeidle_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.83.0",
+                    "date": "2026-11-06T21:17:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/bladeidle.ipa",
+                    "size": 1174003646,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bladeidle_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bladeidle_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bladeidle_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bladeidle_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1411370916,
+            "name": "Cooking Diary",
+            "version": "2.59.0",
+            "size": 932106067,
+            "icon": "img/cookingdiary.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/cookingdiary.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/cookingdiary.ipa",
+            "bundleIdentifier": "com.mytonallc.cookingdiary",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Currencies (Get some)\n- Freeze Boosters\n\n- عملات لا حصر لها (احصل على بعض)\n- تجميد المعززات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cookingdiary.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingdiary_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingdiary_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingdiary_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingdiary_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingdiary_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingdiary_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingdiary_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingdiary_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.59.0",
+                    "date": "2026-11-06T21:15:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/cookingdiary.ipa",
+                    "size": 932106067,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingdiary_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingdiary_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingdiary_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingdiary_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1113120035,
             "name": "Among Us",
             "version": "2026.11.3",
