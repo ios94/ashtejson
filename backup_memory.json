@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1885431146,
+            "name": "WEBTOON",
+            "version": "26.102.0",
+            "size": 195673017,
+            "icon": "img/webtoon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/webtoon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/webtoon.ipa",
+            "bundleIdentifier": "com.naver.linewebtoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لقراءة المانجا .\n- بدون اعلانات .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/webtoon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webtoon_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webtoon_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webtoon_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webtoon_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webtoon_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webtoon_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webtoon_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webtoon_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "26.102.0",
+                    "date": "2026-11-06T21:51:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/webtoon.ipa",
+                    "size": 195673017,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webtoon_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webtoon_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webtoon_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webtoon_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1890793031,
+            "name": "Tuya Smart",
+            "version": "7.12.6",
+            "size": 276303363,
+            "icon": "img/tuyasmart.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/tuyasmart.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/tuyasmart.ipa",
+            "bundleIdentifier": "com.tuya.smart",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "خام للتكرار فقط .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tuyasmart.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuyasmart_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuyasmart_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuyasmart_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuyasmart_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuyasmart_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuyasmart_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuyasmart_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuyasmart_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.12.6",
+                    "date": "2026-11-06T21:51:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/tuyasmart.ipa",
+                    "size": 276303363,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuyasmart_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuyasmart_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuyasmart_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuyasmart_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1650988466,
+            "name": "Daily Data",
+            "version": "4.65",
+            "size": 11684573,
+            "icon": "img/dailydata.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/dailydata.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/dailydata.ipa",
+            "bundleIdentifier": "acwind.net.DialyDataTracker",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $0.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $0.99\nيتطلب اصدار 13.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dailydata.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailydata_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailydata_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailydata_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailydata_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailydata_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailydata_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailydata_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailydata_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.65",
+                    "date": "2026-11-06T21:50:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/dailydata.ipa",
+                    "size": 11684573,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailydata_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailydata_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailydata_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailydata_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1841838226,
+            "name": "Delta Force",
+            "version": "1.202.37117",
+            "size": 1586545489,
+            "icon": "img/deltaforce.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/deltaforce.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/deltaforce.ipa",
+            "bundleIdentifier": "com.proxima.dfm",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Delta Force",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/deltaforce.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deltaforce_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deltaforce_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deltaforce_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deltaforce_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deltaforce_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deltaforce_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deltaforce_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deltaforce_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.202.37117",
+                    "date": "2026-11-06T21:50:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/deltaforce.ipa",
+                    "size": 1586545489,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deltaforce_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deltaforce_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deltaforce_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deltaforce_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1932209279,
+            "name": "Pixel Blade Revolution",
+            "version": "2.5.3",
+            "size": 383152507,
+            "icon": "img/pixelbladerevolution.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/pixelbladerevolution.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/pixelbladerevolution.ipa",
+            "bundleIdentifier": "com.pixelstar.pbr",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مفعل مسبقاً فقط انتظر تسجيل الدخول → تنشط جميع التعديلات تلقائياً عند تسجيل الدخول\n- أقصى نقاط صحة → أقصى نقاط صحة لقدرة بقاء لا تُقهر\n- أقصى هجوم مهارة → أقصى قوة هجوم مهارة لضرر مدمر\n- هجوم الأعداء / 0 → الأعداء يسببون صفر ضرر هجوم لك\n- صحة الأعداء / 0 → الأعداء يفقدون جميع نقاط الصحة فوراً",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pixelbladerevolution.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelbladerevolution_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelbladerevolution_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelbladerevolution_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelbladerevolution_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelbladerevolution_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelbladerevolution_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelbladerevolution_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelbladerevolution_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.5.3",
+                    "date": "2026-11-06T21:49:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/pixelbladerevolution.ipa",
+                    "size": 383152507,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelbladerevolution_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelbladerevolution_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelbladerevolution_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelbladerevolution_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1641735988,
+            "name": "Idle hero save the world",
+            "version": "1.0.35",
+            "size": 272648251,
+            "icon": "img/idleherosavetheworld.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/idleherosavetheworld.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/idleherosavetheworld.ipa",
+            "bundleIdentifier": "com.yhdatabase.ihsw",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر → زيادة قوة هجوم بطلك\r\n- مضاعف الدفاع → تعزيز تقليل الضرر لبطلك\r\n- مضاعف سرعة الهجوم → تسريع ضربات القتال لبطلك\r\n- مضاعف سرعة الحركة → تسريع حركة بطلك عبر المراحل\r\n- بدون إعلانات → العب بدون مقاطعات إعلانات الفيديو",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idleherosavetheworld.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherosavetheworld_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherosavetheworld_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherosavetheworld_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherosavetheworld_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherosavetheworld_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherosavetheworld_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherosavetheworld_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherosavetheworld_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.35",
+                    "date": "2026-11-06T21:48:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/idleherosavetheworld.ipa",
+                    "size": 272648251,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherosavetheworld_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherosavetheworld_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherosavetheworld_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherosavetheworld_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1114065212,
+            "name": "PortalPang Defense",
+            "version": "1.0.2",
+            "size": 323866344,
+            "icon": "img/portalpangdefense.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/portalpangdefense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/portalpangdefense.ipa",
+            "bundleIdentifier": "com.mobirix.extfdf2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مضاعف الضرر → عزز إنتاج تعويذتك\n- مضاعف الدفاع → قوي دفاعاتك\n- لاعب لايتضرر  → أصبح محصناً\n- الفضة غير المحدودة → سوف تزيد بدلاً من أن تنخفض\n- مضاعف سرعة حركة العدو → تحكم في وتيرة العدو\n- تجميد الأعداء → أوقف الوحوش في مكانها\n- بدون إعلانات → لعب بدون انقطاع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/portalpangdefense.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/portalpangdefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/portalpangdefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/portalpangdefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/portalpangdefense_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/portalpangdefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/portalpangdefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/portalpangdefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/portalpangdefense_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.2",
+                    "date": "2026-11-06T21:48:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/portalpangdefense.ipa",
+                    "size": 323866344,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/portalpangdefense_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/portalpangdefense_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/portalpangdefense_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/portalpangdefense_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1317543336,
+            "name": "Star Returns: Merge Story",
+            "version": "1.0.2",
+            "size": 538208324,
+            "icon": "img/starreturnsmergestory.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/starreturnsmergestory.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/starreturnsmergestory.ipa",
+            "bundleIdentifier": "com.cedargames.merge2focus",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة → أنفق بحرية بدون حدود\r\n- تجميد العملات → قفل رصيدك في مكانه\r\n- معدل تعديل العملات → اضبط مبالغ العملات حسب الحاجة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/starreturnsmergestory.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starreturnsmergestory_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starreturnsmergestory_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starreturnsmergestory_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starreturnsmergestory_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starreturnsmergestory_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starreturnsmergestory_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starreturnsmergestory_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starreturnsmergestory_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.2",
+                    "date": "2026-11-06T21:48:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/starreturnsmergestory.ipa",
+                    "size": 538208324,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starreturnsmergestory_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starreturnsmergestory_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starreturnsmergestory_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starreturnsmergestory_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1504226525,
+            "name": "Falcon Squad: Classic Arcade",
+            "version": "101.12",
+            "size": 477778986,
+            "icon": "img/falconsquadclassicarcade.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/falconsquadclassicarcade.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/falconsquadclassicarcade.ipa",
+            "bundleIdentifier": "invaders.falcon.galaxy.space.shooter.attack.classic",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عدم تلقي أي ضرر → حلّق عبر نيران العدو دون أن تصاب بأذى\r\n\r\n- Do not receive any damage → fly through enemy fire without being harmed",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/falconsquadclassicarcade.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/falconsquadclassicarcade_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/falconsquadclassicarcade_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/falconsquadclassicarcade_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/falconsquadclassicarcade_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/falconsquadclassicarcade_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/falconsquadclassicarcade_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/falconsquadclassicarcade_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/falconsquadclassicarcade_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "101.12",
+                    "date": "2026-11-06T21:47:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/falconsquadclassicarcade.ipa",
+                    "size": 477778986,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/falconsquadclassicarcade_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/falconsquadclassicarcade_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/falconsquadclassicarcade_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/falconsquadclassicarcade_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1459333137,
+            "name": "KeyringKnights",
+            "version": "1.6.0",
+            "size": 646311173,
+            "icon": "img/keyringknights.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/keyringknights.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/keyringknights.ipa",
+            "bundleIdentifier": "com.ex2games.keyring",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر → زيادة قوة هجومك\r\n- مضاعف الدفاع → تقوية حمايتك\r\n- بدون إعلانات → العب بدون انقطاع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/keyringknights.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.0",
+                    "date": "2026-11-06T21:47:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/keyringknights.ipa",
+                    "size": 646311173,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1839933418,
             "name": "Drone Strike: Gunship War Game",
             "version": "1.10.0",
