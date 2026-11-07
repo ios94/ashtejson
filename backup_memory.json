@@ -10,6 +10,429 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1420539854,
+            "name": "Stellarium",
+            "version": "1.16.8",
+            "size": 441286875,
+            "icon": "img/stellarium.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/stellarium.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/stellarium.ipa",
+            "bundleIdentifier": "com.noctuasoftware.stellarium-mobile-plus",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتتبع حركة النجوم والكواكب . \r\nمفتوح المميزات \r\n( اضغط شراء ثم الغاء ) \r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stellarium.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellarium_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellarium_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellarium_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellarium_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellarium_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellarium_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellarium_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellarium_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.16.8",
+                    "date": "2026-11-07T18:29:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/stellarium.ipa",
+                    "size": 441286875,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellarium_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellarium_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellarium_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stellarium_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1135882735,
+            "name": "instdown",
+            "version": "31",
+            "size": 32835646,
+            "icon": "img/instdown.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/instdown.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/instdown.ipa",
+            "bundleIdentifier": "com.fawazapp.instadown",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "افضل تطبيق لتنزيل الفيديوهات \r\nيدعم (انستا فيسبوك يوتيوب و تويتر )\r\nما يحتاج تسجيل دخول فقط نسخ الرابط \r\n\r\n- بدون اعلانات \r\n( اضغط شراء ثم الغاء لازالة الاعلانات )\r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/instdown.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instdown_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instdown_screen_2.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instdown_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instdown_screen_2.png"
+            ],
+            "versions": [
+                {
+                    "version": "31",
+                    "date": "2026-11-07T18:29:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/instdown.ipa",
+                    "size": 32835646,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instdown_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instdown_screen_2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1615576174,
+            "name": "Brain Test",
+            "version": "2.776.0",
+            "size": 309750477,
+            "icon": "img/braintest.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/braintest.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/braintest.ipa",
+            "bundleIdentifier": "com.unicostudio.braintest",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "هي لعبة ألغاز وتفكير ممتعة تتطلب من اللاعبين حل تحديات صعبة ومثيرة للاهتمام. تتميز اللعبة برسومات ملونة وجذابة ومستويات صعوبة متنوعة.\r\n\r\nالمميزات : \r\n- متجر مجاني\r\n( شراء ثم إلغاء ).\r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/braintest.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.776.0",
+                    "date": "2026-11-07T18:29:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/braintest.ipa",
+                    "size": 309750477,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1321459185,
+            "name": "Brain Test 3",
+            "version": "1.82.1",
+            "size": 264201138,
+            "icon": "img/braintest3.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/braintest3.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/braintest3.ipa",
+            "bundleIdentifier": "com.unicostudio.braintest3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "هي لعبة ألغاز وتفكير ممتعة تتطلب من اللاعبين حل تحديات صعبة ومثيرة للاهتمام. تتميز اللعبة برسومات ملونة وجذابة ومستويات صعوبة متنوعة.\r\n\r\nالمميزات : \r\n- متجر مجاني\r\n( شراء ثم إلغاء ).\r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/braintest3.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest3_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest3_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest3_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest3_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest3_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest3_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest3_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest3_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.82.1",
+                    "date": "2026-11-07T18:28:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/braintest3.ipa",
+                    "size": 264201138,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest3_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest3_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest3_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest3_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1871487757,
+            "name": "War Dragons",
+            "version": "9.80",
+            "size": 219293943,
+            "icon": "img/wardragons.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/wardragons.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/wardragons.ipa",
+            "bundleIdentifier": "com.pocketgems.dragon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Unlimited Ammo\n- Instant Skill\n- Never Die\n- Instant Incubation\n\n- ذخيرة غير محدودة\r\n- مهارة فورية\r\n- لا يموت أبداً\r\n- الحضانة الفورية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wardragons.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wardragons_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wardragons_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wardragons_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wardragons_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wardragons_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wardragons_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wardragons_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wardragons_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "9.80",
+                    "date": "2026-11-07T18:28:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/wardragons.ipa",
+                    "size": 219293943,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wardragons_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wardragons_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wardragons_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wardragons_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1344451981,
+            "name": "FCM25",
+            "version": "1.1.2",
+            "size": 580850914,
+            "icon": "img/fcm25.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/fcm25.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/fcm25.ipa",
+            "bundleIdentifier": "com.GoPlayGames.FCM25",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة -> لن تقل.\r\n- نقود غير محدودة -> لن تقل.\r\n- عمليات شراء مجانية داخل التطبيق",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fcm25.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm25_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm25_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm25_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm25_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm25_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm25_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm25_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm25_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.2",
+                    "date": "2026-11-07T18:27:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/fcm25.ipa",
+                    "size": 580850914,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm25_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm25_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm25_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm25_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1972302505,
+            "name": "Town Village",
+            "version": "1.16.0",
+            "size": 210319826,
+            "icon": "img/townvillage.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/townvillage.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/townvillage.ipa",
+            "bundleIdentifier": "com.sparklingsocietysims.townville",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Coins\n- Freeze Crystals\n\n- تجميد العملات المعدنية\n- تجميد البلورات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/townvillage.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townvillage_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townvillage_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townvillage_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townvillage_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townvillage_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townvillage_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townvillage_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townvillage_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.16.0",
+                    "date": "2026-11-07T18:26:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/townvillage.ipa",
+                    "size": 210319826,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townvillage_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townvillage_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townvillage_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townvillage_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1891202733,
+            "name": "ID Photo Maker",
+            "version": "1.0.228",
+            "size": 14493272,
+            "icon": "img/idphotomaker.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/idphotomaker.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/idphotomaker.ipa",
+            "bundleIdentifier": "com.jarustudios.PhotoIDMaker",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "ضبط صورك الشخصيه لبطاقات الهويه\r\nوازالة الخلفيه لها \r\n- مفتوح المميزات ( شراء ثم إلغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idphotomaker.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idphotomaker_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idphotomaker_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idphotomaker_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idphotomaker_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idphotomaker_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idphotomaker_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idphotomaker_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idphotomaker_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.228",
+                    "date": "2026-11-07T18:26:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/idphotomaker.ipa",
+                    "size": 14493272,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idphotomaker_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idphotomaker_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idphotomaker_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idphotomaker_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1869044749,
+            "name": "Form Extractor",
+            "version": "1.0.319",
+            "size": 49731086,
+            "icon": "img/formextractor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/formextractor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/formextractor.ipa",
+            "bundleIdentifier": "com.jarustudios.FormExtractor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لاستخراج الكتابه من الصور\r\n\r\n- مفتوح المميزات ( شراء ثم إلغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/formextractor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formextractor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formextractor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formextractor_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formextractor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formextractor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formextractor_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.319",
+                    "date": "2026-11-07T18:26:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/formextractor.ipa",
+                    "size": 49731086,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formextractor_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formextractor_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formextractor_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1765866350,
             "name": "Little Farm Story",
             "version": "1.21.0",
