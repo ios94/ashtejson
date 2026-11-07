@@ -10,6 +10,435 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1146593241,
+            "name": "Pal Go",
+            "version": "0.9.40",
+            "size": 511096696,
+            "icon": "img/palgo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/palgo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/palgo.ipa",
+            "bundleIdentifier": "com.playwindgames.freedefender",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- [ViP] تجميد العملة (لن تنخفض العملة عند استخدامها) → أنفق بحرية دون فقدان الموارد\n- [ViP] العملة كافية دائماً (شراء حتى عندما لا تملك عملة كافية) → شراء الترقيات والوحدات عند الطلب\n- [مجاني] طاقة تجنيد أعلى (إعطاء 500 طاقة تجنيد كل موجة) → استدعاء ونشر الأبطال بشكل مستمر\n- [مجاني] يمكن سحب البطل دائماً → وضع الوحدات بدون قيود\n- [مجاني] تخطي الإعلانات → العب بدون انقطاع\n- [مجاني] بدون وقت انتظار الهجوم → أطلق الهجمات بشكل متتالي\n- [مجاني] مضاعف السرعة العام (تفعيل داخل المعركة) → تسريع القتال وتقدم الموجات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/palgo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/palgo_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/palgo_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/palgo_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/palgo_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/palgo_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/palgo_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/palgo_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/palgo_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.9.40",
+                    "date": "2026-11-07T10:03:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/palgo.ipa",
+                    "size": 511096696,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/palgo_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/palgo_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/palgo_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/palgo_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1848561242,
+            "name": "Match Villains",
+            "version": "7307",
+            "size": 539143642,
+            "icon": "img/matchvillains.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/matchvillains.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/matchvillains.ipa",
+            "bundleIdentifier": "com.goodjobgames.matchvillains",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Coins\n- Lives\n- Moves Freeze\n- Booster\n\n- عملات معدنية\n- حياة\n- يتحرك تجميد\n- الداعم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/matchvillains.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchvillains_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchvillains_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchvillains_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchvillains_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchvillains_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchvillains_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchvillains_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchvillains_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7307",
+                    "date": "2026-11-07T10:02:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/matchvillains.ipa",
+                    "size": 539143642,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchvillains_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchvillains_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchvillains_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchvillains_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1168438207,
+            "name": "Plant Power",
+            "version": "7.7.3",
+            "size": 324530915,
+            "icon": "img/plantpower.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/plantpower.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/plantpower.ipa",
+            "bundleIdentifier": "com.CHEUNG.plant",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- اللاعب لا يموت\n- عملات غير محدودة\n- OHK\n- سرعة تحرك العدو",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/plantpower.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantpower_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantpower_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantpower_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantpower_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantpower_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantpower_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantpower_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantpower_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.7.3",
+                    "date": "2026-11-07T10:02:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/plantpower.ipa",
+                    "size": 324530915,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantpower_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantpower_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantpower_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantpower_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1790350069,
+            "name": "Rodeo Stampede",
+            "version": "4.26.0",
+            "size": 889107864,
+            "icon": "img/rodeostampede.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/rodeostampede.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/rodeostampede.ipa",
+            "bundleIdentifier": "com.featherweightgames.stampede",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Debug Menu -> Head into Settings and toggle the Discord button.\n- > Unlock All Animals, Hats, Decorations\n- > Add/Remove Currencies\n- > PVP Cheats\n- > Become Invincible\n- + More!\n\n- قائمة التصحيح -> توجه إلى الإعدادات وقم بتبديل زر Discord.\n-> فتح جميع الحيوانات والقبعات والديكورات\n-> إضافة/إزالة العملات\n-> غش حماية الأصناف النباتية\n-> كن لا يقهر\n- + المزيد!",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rodeostampede.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rodeostampede_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rodeostampede_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rodeostampede_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rodeostampede_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rodeostampede_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rodeostampede_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rodeostampede_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rodeostampede_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.26.0",
+                    "date": "2026-11-07T10:01:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/rodeostampede.ipa",
+                    "size": 889107864,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rodeostampede_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rodeostampede_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rodeostampede_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rodeostampede_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1352856974,
+            "name": "Funtown",
+            "version": "1.6.1",
+            "size": 453263146,
+            "icon": "img/funtown.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/funtown.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/funtown.ipa",
+            "bundleIdentifier": "casual.match3.theme.parks.puzzles",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا إعلانات\n- تجميد الأرواح\n- نجوم لا نهائية\n- معززات لا نهائية\n- صناديق لا نهائية\n- حركات لا نهائية\n- الفوز باللعبة (بمجرد التمكين، أكمل حركة واحدة في اللعبة أو قم بتحميل مستوى جديد)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/funtown.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funtown_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funtown_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funtown_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funtown_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funtown_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funtown_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funtown_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funtown_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.1",
+                    "date": "2026-11-07T10:01:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/funtown.ipa",
+                    "size": 453263146,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funtown_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funtown_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funtown_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funtown_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1128986635,
+            "name": "Converter",
+            "version": "3.1.10",
+            "size": 7795035,
+            "icon": "img/converter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/converter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/converter.ipa",
+            "bundleIdentifier": "com.mezhevikin.converter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تطبيق لتحويل العُملات .\n\n- بدون إعلاناتَ مُزعجة .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/converter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/converter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/converter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/converter_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/converter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/converter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/converter_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.1.10",
+                    "date": "2026-11-07T10:00:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/converter.ipa",
+                    "size": 7795035,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/converter_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/converter_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/converter_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1589613883,
+            "name": "Status Saver",
+            "version": "4.0",
+            "size": 70107810,
+            "icon": "img/statussaver.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/statussaver.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/statussaver.ipa",
+            "bundleIdentifier": "com.vasu.storybox.statussaver",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "أداة شاملة لإدارة محادثاتك ونسخها احتياطيًا بسهولة. يتيح لك التطبيق حفظ الحالات (الصور والفيديوهات) من تطبيق الواتساب ، وبدء محادثات مباشرة دون الحاجة لحفظ الأرقام، وإدارة حسابات متعددة من خلال ميزة الاتصال المزدوج عبر الويب .​\n\n- مفتوح المميزات \nفي حال لم يتم تفعيل المميزات اقفل النسخه من الخلفيه وأعد فتحها من جديد أو اضغط استعادة المشتريات  .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/statussaver.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/statussaver_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/statussaver_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/statussaver_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/statussaver_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/statussaver_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/statussaver_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/statussaver_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/statussaver_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.0",
+                    "date": "2026-11-07T10:00:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/statussaver.ipa",
+                    "size": 70107810,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/statussaver_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/statussaver_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/statussaver_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/statussaver_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1246566660,
+            "name": "Dream Blast",
+            "version": "2.12.0",
+            "size": 357972403,
+            "icon": "img/dreamblast.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/dreamblast.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/dreamblast.ipa",
+            "bundleIdentifier": "com.rovio.dream",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Moves\n- Infinite Lives\n- Infinite Boosters\n\n- تحركات غير محدودة\n- حيوات لا نهائية\n- معززات لا نهائية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dreamblast.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamblast_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamblast_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamblast_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamblast_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamblast_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamblast_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamblast_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamblast_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.12.0",
+                    "date": "2026-11-07T10:00:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/dreamblast.ipa",
+                    "size": 357972403,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamblast_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamblast_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamblast_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamblast_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1444694081,
+            "name": "Base Commander",
+            "version": "8.4.0",
+            "size": 456083453,
+            "icon": "img/basecommander.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/basecommander.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/basecommander.ipa",
+            "bundleIdentifier": "com.yalp.basecommander",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/basecommander.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basecommander_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basecommander_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basecommander_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basecommander_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basecommander_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basecommander_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basecommander_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basecommander_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "8.4.0",
+                    "date": "2026-11-07T09:59:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/basecommander.ipa",
+                    "size": 456083453,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basecommander_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basecommander_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basecommander_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basecommander_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1604035819,
             "name": "Mine & Slash",
             "version": "1.6.2",
