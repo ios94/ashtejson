@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1797934612,
+            "name": "OsmAnd Maps",
+            "version": "5.4.7",
+            "size": 264097128,
+            "icon": "img/osmandmaps.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/osmandmaps.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/osmandmaps.ipa",
+            "bundleIdentifier": "net.osmand.maps",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يُعد تطبيق OsmAnd تطبيقاً متكاملاً للخرائط والملاحة دون اتصال بالإنترنت (Offline)، مصمماً خصيصاً للأشخاص الذين يبحثون عن توجيهات موثوقة، وخرائط تفصيلية، وتحكم كامل في مساراتهم. يمكنك تنزيل خرائط كاملة لدول أو مناطق محددة، والبحث عن طريق العنوان أو المكان أو الإحداثيات\r\n\r\n- مفتوح المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/osmandmaps.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osmandmaps_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osmandmaps_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osmandmaps_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osmandmaps_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osmandmaps_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osmandmaps_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osmandmaps_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osmandmaps_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.4.7",
+                    "date": "2026-11-07T07:24:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/osmandmaps.ipa",
+                    "size": 264097128,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osmandmaps_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osmandmaps_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osmandmaps_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osmandmaps_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1767670016,
+            "name": "Fine",
+            "version": "5.0.1",
+            "size": 756007871,
+            "icon": "img/fine.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/fine.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/fine.ipa",
+            "bundleIdentifier": "com.youthpe.fine",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق Fine للتصميم والمؤثرات \r\n( صور ) \r\n- مدفوع في ابل ستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fine.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fine_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fine_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fine_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fine_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fine_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fine_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fine_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fine_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.0.1",
+                    "date": "2026-11-07T07:24:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/fine.ipa",
+                    "size": 756007871,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fine_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fine_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fine_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fine_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1616665491,
+            "name": "B612",
+            "version": "15.4.6",
+            "size": 313206437,
+            "icon": "img/b612.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/b612.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/b612.ipa",
+            "bundleIdentifier": "com.linecorp.b612",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لتعديل الصور والفديوهات يدعم الذكاء الاصطناعي . \r\nمفتوح المميزات .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/b612.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/b612_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/b612_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/b612_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/b612_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/b612_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/b612_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/b612_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/b612_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "15.4.6",
+                    "date": "2026-11-07T07:23:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/b612.ipa",
+                    "size": 313206437,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/b612_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/b612_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/b612_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/b612_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1685117345,
+            "name": "Carrom Disc Pool",
+            "version": "19.6.0",
+            "size": 204415543,
+            "icon": "img/carromdiscpool.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/carromdiscpool.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/carromdiscpool.ipa",
+            "bundleIdentifier": "com.miniclip.carrom",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "موشر طويل",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carromdiscpool.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carromdiscpool_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carromdiscpool_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carromdiscpool_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carromdiscpool_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carromdiscpool_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carromdiscpool_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carromdiscpool_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carromdiscpool_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "19.6.0",
+                    "date": "2026-11-07T07:23:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/carromdiscpool.ipa",
+                    "size": 204415543,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carromdiscpool_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carromdiscpool_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carromdiscpool_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carromdiscpool_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1885893409,
+            "name": "فالح",
+            "version": "2.6.6",
+            "size": 177168732,
+            "icon": "img/app5ac120a41f.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/app5ac120a41f.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/app5ac120a41f.ipa",
+            "bundleIdentifier": "com.moalsaleh.ProductiveApp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "فالح - مساعدك الشخصي \nتطبيق ذكي يقدم حلولًا مبتكرة لمساعدتك في تنظيم وإدارة مهامك اليومية بسهولة وفعالية. يركز التطبيق على تحسين الإنتاجية من خلال توفير أدوات متعددة مثل التذكيرات، الجداول الزمنية، إدارة المهام، وحلول تفاعلية تلبي احتياجاتك الشخصية والمهنية\n\n- مفتوح المميزات بالكامل\n- الحد الأدنى للإصدار: iOS 16.1",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app5ac120a41f.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5ac120a41f_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5ac120a41f_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5ac120a41f_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5ac120a41f_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5ac120a41f_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5ac120a41f_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5ac120a41f_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5ac120a41f_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.6.6",
+                    "date": "2026-11-07T07:23:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/app5ac120a41f.ipa",
+                    "size": 177168732,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5ac120a41f_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5ac120a41f_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5ac120a41f_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5ac120a41f_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1663294021,
+            "name": "Foodie",
+            "version": "8.5.1",
+            "size": 225590747,
+            "icon": "img/foodie.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/foodie.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/foodie.ipa",
+            "bundleIdentifier": "com.linecorp.Foodie",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتصوير الاحترافي مع افضل الفلاتر والمؤثرات \n- مفتوح المميزات بالكامل .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/foodie.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodie_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodie_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodie_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodie_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodie_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodie_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodie_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodie_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "8.5.1",
+                    "date": "2026-11-07T07:22:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/foodie.ipa",
+                    "size": 225590747,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodie_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodie_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodie_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodie_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1953997644,
+            "name": "TDS - Tower Destiny Survive",
+            "version": "1.18.0",
+            "size": 396917348,
+            "icon": "img/tdstowerdestinysurvive.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/tdstowerdestinysurvive.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/tdstowerdestinysurvive.ipa",
+            "bundleIdentifier": "com.playstrom.hero.tower",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n#حصرياا\n\n- ضربة واحدة تقتل\n- تجميد العدو\n- تجميد العدو ٢\n-اخفاء العدو\n- نقود لا نهائي ( يجب ان تشاهد اعلان )\n\n#حصرريا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tdstowerdestinysurvive.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tdstowerdestinysurvive_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tdstowerdestinysurvive_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tdstowerdestinysurvive_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tdstowerdestinysurvive_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tdstowerdestinysurvive_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tdstowerdestinysurvive_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tdstowerdestinysurvive_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tdstowerdestinysurvive_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.18.0",
+                    "date": "2026-11-07T07:22:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/tdstowerdestinysurvive.ipa",
+                    "size": 396917348,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tdstowerdestinysurvive_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tdstowerdestinysurvive_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tdstowerdestinysurvive_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tdstowerdestinysurvive_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1153764806,
+            "name": "Kingdoms Survivor",
+            "version": "3.57",
+            "size": 893607481,
+            "icon": "img/kingdomssurvivor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/kingdomssurvivor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/kingdomssurvivor.ipa",
+            "bundleIdentifier": "com.gamee.kingdoms.survivor.io",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- IAP مجاني [اشتر أي شيء]\n- الصحة\n- ضرر\n- مهارة القرص المضغوط بطيء\n- مهارة القرص المضغوط سريع [ربما لعبة بطيئة]\n- حجم المهارة كبير\n- سرعة إطلاق النار بسرعة\n- سرعة الحركة\n- إحياء تلقائي غير محدود [لا تموت أبدا]\n- القرص المضغوط Ultimate Power\n- الصورة الرمزية والإطار",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kingdomssurvivor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomssurvivor_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomssurvivor_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomssurvivor_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomssurvivor_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomssurvivor_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomssurvivor_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomssurvivor_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomssurvivor_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.57",
+                    "date": "2026-11-07T07:22:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/kingdomssurvivor.ipa",
+                    "size": 893607481,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomssurvivor_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomssurvivor_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomssurvivor_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomssurvivor_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1673851982,
+            "name": "Jackaroo",
+            "version": "6.5.6",
+            "size": 491839619,
+            "icon": "img/jackaroo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/jackaroo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/jackaroo.ipa",
+            "bundleIdentifier": "com.wejoy.jackaroo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة جاكارو كنق \n- خام قابله للتكرار .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jackaroo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jackaroo_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jackaroo_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jackaroo_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jackaroo_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jackaroo_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jackaroo_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jackaroo_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jackaroo_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "6.5.6",
+                    "date": "2026-11-07T07:20:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/jackaroo.ipa",
+                    "size": 491839619,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jackaroo_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jackaroo_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jackaroo_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jackaroo_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1605041300,
             "name": "OpenSooq - السوق المفتوح",
             "version": "12.7.02",
