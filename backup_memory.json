@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1456030382,
+            "name": "Aerthlings",
+            "version": "1.6.2",
+            "size": 411232335,
+            "icon": "img/aerthlings.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/aerthlings.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/aerthlings.ipa",
+            "bundleIdentifier": "com.moderngames.aerthlings",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defense Multiplier\n- Reward Multiplier\n\n- ضرر مضاعف\n- مضاعفة الدفاع\n- مضاعفة المكافآت",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aerthlings.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aerthlings_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aerthlings_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aerthlings_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aerthlings_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aerthlings_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aerthlings_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aerthlings_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aerthlings_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.2",
+                    "date": "2026-11-07T06:04:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/aerthlings.ipa",
+                    "size": 411232335,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aerthlings_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aerthlings_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aerthlings_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aerthlings_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1772020871,
+            "name": "Ludo Star",
+            "version": "1.376",
+            "size": 481626693,
+            "icon": "img/ludostar.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/ludostar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/ludostar.ipa",
+            "bundleIdentifier": "com.superking.ludo.star",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "نسخه خام\r\nللتكرار فقط",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ludostar.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ludostar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ludostar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ludostar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ludostar_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ludostar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ludostar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ludostar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ludostar_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.376",
+                    "date": "2026-11-07T06:04:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/ludostar.ipa",
+                    "size": 481626693,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ludostar_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ludostar_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ludostar_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ludostar_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1776654266,
+            "name": "Car Match",
+            "version": "0.0.1117",
+            "size": 557183655,
+            "icon": "img/carmatch.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/carmatch.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/carmatch.ipa",
+            "bundleIdentifier": "com.grandgames.carmatch",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Currencies\n- Unlimited Currencies -> Will increase instead of decrease.\n- Auto Win -> Quit the level.\n- Level Modifier\n\n- تجميد العملات\n- عملات غير محدودة (تزيد ماتنقص).\n- الفوز التلقائي -> إنهاء المستوى.\n- معدل المستوى",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carmatch.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatch_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatch_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatch_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatch_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatch_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatch_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatch_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatch_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.1117",
+                    "date": "2026-11-07T06:03:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/carmatch.ipa",
+                    "size": 557183655,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatch_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatch_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatch_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmatch_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1309525891,
+            "name": "Lust Goddess",
+            "version": "23.0.0",
+            "size": 634389226,
+            "icon": "img/lustgoddess.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/lustgoddess.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/lustgoddess.ipa",
+            "bundleIdentifier": "com.brawea.chickgoddess",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Never Die\n\n- لا يموت أبداً",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lustgoddess.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lustgoddess_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lustgoddess_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lustgoddess_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lustgoddess_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lustgoddess_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lustgoddess_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lustgoddess_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lustgoddess_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "23.0.0",
+                    "date": "2026-11-07T06:03:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/lustgoddess.ipa",
+                    "size": 634389226,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lustgoddess_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lustgoddess_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lustgoddess_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lustgoddess_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1882659692,
+            "name": "Fitness AI Gym Workout Planner",
+            "version": "25.4",
+            "size": 163792376,
+            "icon": "img/fitnessaigymworkoutplanner.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/fitnessaigymworkoutplanner.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/fitnessaigymworkoutplanner.ipa",
+            "bundleIdentifier": "com.jakemor.firness-ai",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق ذكي لتخطيط التمارين في الجيم، يساعدك على اختيار الأوزان، العدات، والتمارين المناسبة لتحقيق أفضل نتائج في اللياقة وبناء العضلات . \r\n\r\n- مفتوح المميزات . \r\n\r\nA smart gym workout planning app that helps you choose the right weights, reps, and exercises to achieve optimal fitness and muscle-building results.\r\n\r\n- Unlocked features.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fitnessaigymworkoutplanner.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessaigymworkoutplanner_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessaigymworkoutplanner_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessaigymworkoutplanner_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessaigymworkoutplanner_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessaigymworkoutplanner_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessaigymworkoutplanner_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessaigymworkoutplanner_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessaigymworkoutplanner_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "25.4",
+                    "date": "2026-11-07T06:02:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/fitnessaigymworkoutplanner.ipa",
+                    "size": 163792376,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessaigymworkoutplanner_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessaigymworkoutplanner_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessaigymworkoutplanner_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessaigymworkoutplanner_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1777049229,
+            "name": "Space Crafter",
+            "version": "1.6.1",
+            "size": 451111464,
+            "icon": "img/spacecrafter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/spacecrafter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/spacecrafter.ipa",
+            "bundleIdentifier": "com.liquidcat.space",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defense Multiplier\n- Currency Multiplier\n- Freeze Currency Spend\n- VIP\n\n- ضرر مضاعف\n- مضاعفة الدفاع\n- مضاعف العملة\n- تجميد الإنفاق على العملة\n- VIP",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spacecrafter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacecrafter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacecrafter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacecrafter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacecrafter_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacecrafter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacecrafter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacecrafter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacecrafter_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.1",
+                    "date": "2026-11-07T06:02:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/spacecrafter.ipa",
+                    "size": 451111464,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacecrafter_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacecrafter_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacecrafter_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacecrafter_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1128743487,
+            "name": "Pondlife",
+            "version": "1.27.3",
+            "size": 730753623,
+            "icon": "img/pondlife.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/pondlife.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/pondlife.ipa",
+            "bundleIdentifier": "com.runawayplay.fishgame",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Bubble Coins -> Earn or spend some.\n- Unlimited Aquacash -> Earn or spend some.\n- Max Level -> Earn some XP then restart the game.\n\n- عملات فقاعية غير محدودة -> اكسب أو أنفق البعض.\n- Aquacash غير محدود -> اكسب أو أنفق البعض.\n- الحد الأقصى للمستوى -> احصل على بعض XP ثم أعد تشغيل اللعبة.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pondlife.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pondlife_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pondlife_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pondlife_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pondlife_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pondlife_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pondlife_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pondlife_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pondlife_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.27.3",
+                    "date": "2026-11-07T06:01:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/pondlife.ipa",
+                    "size": 730753623,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pondlife_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pondlife_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pondlife_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pondlife_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1699489863,
+            "name": "PoliceStation",
+            "version": "1.6.2",
+            "size": 409981933,
+            "icon": "img/policestation.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/policestation.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/policestation.ipa",
+            "bundleIdentifier": "com.SekGames.PoliceStationIDLE",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "IGG",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/policestation.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/policestation_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/policestation_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/policestation_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/policestation_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/policestation_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/policestation_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/policestation_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/policestation_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.2",
+                    "date": "2026-11-07T06:00:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/policestation.ipa",
+                    "size": 409981933,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/policestation_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/policestation_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/policestation_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/policestation_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1668959385,
+            "name": "BasketballClash",
+            "version": "1.0.14",
+            "size": 496602757,
+            "icon": "img/basketballclash.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/basketballclash.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/basketballclash.ipa",
+            "bundleIdentifier": "com.funjitsugames.basketballclash",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Debug Menu (Go to options)\n\n- قائمة التصحيح (اذهب إلى الخيارات)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/basketballclash.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballclash_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballclash_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballclash_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballclash_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballclash_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballclash_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballclash_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballclash_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.14",
+                    "date": "2026-11-07T06:00:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/basketballclash.ipa",
+                    "size": 496602757,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballclash_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballclash_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballclash_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballclash_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1764527969,
+            "name": "Cashier 3D",
+            "version": "63.17.1",
+            "size": 324269669,
+            "icon": "img/cashier3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/cashier3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/cashier3d.ipa",
+            "bundleIdentifier": "com.nanotribe.games.cashier3d",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cashier3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashier3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashier3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashier3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashier3d_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashier3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashier3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashier3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashier3d_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "63.17.1",
+                    "date": "2026-11-07T05:59:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/cashier3d.ipa",
+                    "size": 324269669,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashier3d_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashier3d_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashier3d_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashier3d_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1655052946,
             "name": "Assassin Idle",
             "version": "1.2.19",
