@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1374605334,
+            "name": "ProCamera",
+            "version": "27.0.1",
+            "size": 187769207,
+            "icon": "img/procamera.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/procamera.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/procamera.ipa",
+            "bundleIdentifier": "com.cocologics.ProCamera",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق كاميرا متقدم يوفر تحكمًا يدويًا كاملًا في إعدادات التصوير والفيديو، وهو خيار مثالي للمصورين المحترفين . \r\n- مدفوع فالابل ستور \r\n- مفتوح المميزات بالكامل \r\n- حصرياً",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/procamera.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/procamera_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/procamera_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/procamera_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/procamera_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/procamera_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/procamera_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/procamera_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/procamera_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "27.0.1",
+                    "date": "2026-11-07T08:17:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/procamera.ipa",
+                    "size": 187769207,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/procamera_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/procamera_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/procamera_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/procamera_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1351239204,
+            "name": "Funimate",
+            "version": "18.8.2",
+            "size": 440437174,
+            "icon": "img/funimate.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/funimate.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/funimate.ipa",
+            "bundleIdentifier": "com.avcr.Funimate",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق Funimate  \r\n\r\nمـفتوح المميزات \r\nلتعديل والمونتاج للفديوهات \r\n\r\n- تنبية \r\nسجل حساب داخل التطبيق \r\nلتفعيل المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/funimate.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funimate_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funimate_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funimate_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funimate_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funimate_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funimate_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funimate_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funimate_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "18.8.2",
+                    "date": "2026-11-07T08:17:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/funimate.ipa",
+                    "size": 440437174,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funimate_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funimate_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funimate_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/funimate_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1328357693,
+            "name": "NodeVideo",
+            "version": "9.0.3",
+            "size": 228626124,
+            "icon": "img/nodevideo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/nodevideo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/nodevideo.ipa",
+            "bundleIdentifier": "com.shallwaystudio.nodevideo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لتصميم الفديوهات والتعديل عليها ..\n- مفتوح المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nodevideo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodevideo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodevideo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodevideo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodevideo_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodevideo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodevideo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodevideo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodevideo_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "9.0.3",
+                    "date": "2026-11-07T08:17:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/nodevideo.ipa",
+                    "size": 228626124,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodevideo_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodevideo_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodevideo_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodevideo_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1703464206,
+            "name": "Photable",
+            "version": "2.4.05",
+            "size": 231857650,
+            "icon": "img/photable.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/photable.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/photable.ipa",
+            "bundleIdentifier": "com.alphatech.CollagePro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تطبيق للتعديل على الصور مع كامل المزايا .\n\nمُلاحظة : اضغط شراء ثم إلغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/photable.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photable_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photable_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photable_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photable_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photable_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photable_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photable_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photable_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.05",
+                    "date": "2026-11-07T08:16:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/photable.ipa",
+                    "size": 231857650,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photable_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photable_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photable_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photable_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1386882125,
+            "name": "PDF Expert",
+            "version": "7.26.3",
+            "size": 291850324,
+            "icon": "img/pdfexpert.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/pdfexpert.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/pdfexpert.ipa",
+            "bundleIdentifier": "com.readdle.PDFExpert5",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "أفضل تطبيق لتحرير مستندات و ملفات الـ PDF\n- مفتوح المميزات .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pdfexpert.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfexpert_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfexpert_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfexpert_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfexpert_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfexpert_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfexpert_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfexpert_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfexpert_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "7.26.3",
+                    "date": "2026-11-07T08:16:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/pdfexpert.ipa",
+                    "size": 291850324,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfexpert_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfexpert_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfexpert_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfexpert_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1365195812,
+            "name": "Speedtest",
+            "version": "7.1.2",
+            "size": 153075219,
+            "icon": "img/speedtest.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/speedtest.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/speedtest.ipa",
+            "bundleIdentifier": "com.ookla.speedtest",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "‏لقياس سرعة الانترنت\r\n بدون اعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/speedtest.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedtest_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedtest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedtest_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedtest_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedtest_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedtest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedtest_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedtest_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.1.2",
+                    "date": "2026-11-07T08:16:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/speedtest.ipa",
+                    "size": 153075219,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedtest_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedtest_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedtest_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedtest_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1684969252,
+            "name": "Plato",
+            "version": "7.8.1",
+            "size": 333272627,
+            "icon": "img/plato.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/plato.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/plato.ipa",
+            "bundleIdentifier": "com.platoapp.Plato",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "نسخه خام للتكرار فقط",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/plato.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "7.8.1",
+                    "date": "2026-11-07T08:16:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/plato.ipa",
+                    "size": 333272627,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1515522710,
+            "name": "Planner 5D",
+            "version": "5.13.1",
+            "size": 957000532,
+            "icon": "img/planner5d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/planner5d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/planner5d.ipa",
+            "bundleIdentifier": "com.planner5d.Planner-5D",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تطبيق مُفيد لأصحاب التصميم الداخلي , مع كامل المزايا .\r\n\r\n- تخطى عمليات الشراء في حال طلب منك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/planner5d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planner5d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planner5d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planner5d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planner5d_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planner5d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planner5d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planner5d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planner5d_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.13.1",
+                    "date": "2026-11-07T08:15:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/planner5d.ipa",
+                    "size": 957000532,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planner5d_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planner5d_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planner5d_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planner5d_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1985481016,
+            "name": "KFPanda",
+            "version": "11.7",
+            "size": 74967048,
+            "icon": "img/kfpanda.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/kfpanda.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/kfpanda.ipa",
+            "bundleIdentifier": "com.panda.player",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يقدم KFPanda Player حلاً ملائمًا وسهل الاستخدام لتشغيل مقاطع الفيديو. مع خيارات الاستيراد المتنوعة\r\n\r\nبدون اعلانات .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kfpanda.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kfpanda_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kfpanda_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kfpanda_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kfpanda_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kfpanda_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kfpanda_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kfpanda_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kfpanda_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "11.7",
+                    "date": "2026-11-07T08:14:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/kfpanda.ipa",
+                    "size": 74967048,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kfpanda_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kfpanda_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kfpanda_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kfpanda_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1679214453,
             "name": "Pirate Raid",
             "version": "1.51.14",
