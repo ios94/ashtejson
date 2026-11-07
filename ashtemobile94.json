@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1489945416,
+            "name": "mosquito",
+            "version": "11.10.0",
+            "size": 265329757,
+            "icon": "img/mosquito.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/mosquito.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/mosquito.ipa",
+            "bundleIdentifier": "io.supercent.mosquito",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mosquito.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mosquito_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mosquito_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mosquito_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mosquito_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mosquito_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mosquito_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mosquito_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mosquito_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "11.10.0",
+                    "date": "2026-11-07T17:03:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/mosquito.ipa",
+                    "size": 265329757,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mosquito_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mosquito_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mosquito_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mosquito_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1168511047,
+            "name": "Goods Master 3D",
+            "version": "1.15.7",
+            "size": 665622930,
+            "icon": "img/goodsmaster3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/goodsmaster3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/goodsmaster3d.ipa",
+            "bundleIdentifier": "com.higgs.bubblematch",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني شراء ثم الغاء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/goodsmaster3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodsmaster3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodsmaster3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodsmaster3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodsmaster3d_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodsmaster3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodsmaster3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodsmaster3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodsmaster3d_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.15.7",
+                    "date": "2026-11-07T17:03:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/goodsmaster3d.ipa",
+                    "size": 665622930,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodsmaster3d_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodsmaster3d_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodsmaster3d_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goodsmaster3d_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1874564675,
+            "name": "Ninja Sword: Ragdoll swordsman",
+            "version": "4.1",
+            "size": 238836501,
+            "icon": "img/ninjaswordragdollswordsman.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/ninjaswordragdollswordsman.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/ninjaswordragdollswordsman.ipa",
+            "bundleIdentifier": "com.swordjelly.ninja",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ninjaswordragdollswordsman.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ninjaswordragdollswordsman_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ninjaswordragdollswordsman_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ninjaswordragdollswordsman_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ninjaswordragdollswordsman_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ninjaswordragdollswordsman_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ninjaswordragdollswordsman_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ninjaswordragdollswordsman_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ninjaswordragdollswordsman_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.1",
+                    "date": "2026-11-07T17:02:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/ninjaswordragdollswordsman.ipa",
+                    "size": 238836501,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ninjaswordragdollswordsman_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ninjaswordragdollswordsman_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ninjaswordragdollswordsman_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ninjaswordragdollswordsman_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1947290127,
+            "name": "Bitcoin Empire",
+            "version": "0.3.2",
+            "size": 376360637,
+            "icon": "img/bitcoinempire.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/bitcoinempire.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/bitcoinempire.ipa",
+            "bundleIdentifier": "com.fumbgames.bitcoinempire",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bitcoinempire.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitcoinempire_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitcoinempire_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitcoinempire_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitcoinempire_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitcoinempire_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitcoinempire_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitcoinempire_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitcoinempire_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.3.2",
+                    "date": "2026-11-07T17:02:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/bitcoinempire.ipa",
+                    "size": 376360637,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitcoinempire_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitcoinempire_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitcoinempire_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitcoinempire_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1445217363,
+            "name": "Geometry Tower",
+            "version": "0.2.114",
+            "size": 300720797,
+            "icon": "img/geometrytower.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/geometrytower.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/geometrytower.ipa",
+            "bundleIdentifier": "com.cyberjoy.geometrytower",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "IGG",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/geometrytower.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geometrytower_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geometrytower_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geometrytower_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geometrytower_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geometrytower_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geometrytower_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geometrytower_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geometrytower_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.2.114",
+                    "date": "2026-11-07T17:01:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/geometrytower.ipa",
+                    "size": 300720797,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geometrytower_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geometrytower_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geometrytower_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geometrytower_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1765867742,
+            "name": "Bingo Madness Live Bingo Games",
+            "version": "2.104",
+            "size": 218185700,
+            "icon": "img/bingomadnesslivebingogames.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/bingomadnesslivebingogames.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/bingomadnesslivebingogames.ipa",
+            "bundleIdentifier": "com.casualgamesempire.bingocountry",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل اللعبة مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bingomadnesslivebingogames.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bingomadnesslivebingogames_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bingomadnesslivebingogames_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bingomadnesslivebingogames_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bingomadnesslivebingogames_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bingomadnesslivebingogames_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bingomadnesslivebingogames_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bingomadnesslivebingogames_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bingomadnesslivebingogames_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.104",
+                    "date": "2026-11-07T17:01:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/bingomadnesslivebingogames.ipa",
+                    "size": 218185700,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bingomadnesslivebingogames_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bingomadnesslivebingogames_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bingomadnesslivebingogames_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bingomadnesslivebingogames_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1142055863,
+            "name": "PiP",
+            "version": "3.0",
+            "size": 4583273,
+            "icon": "img/pip.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/pip.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/pip.ipa",
+            "bundleIdentifier": "com.mavicg.PiP",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $1.99\nRequires 16.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $1.99\nيتطلب اصدار 16.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pip.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pip_screen_1.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pip_screen_1.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.0",
+                    "date": "2026-11-07T17:01:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/pip.ipa",
+                    "size": 4583273,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pip_screen_1.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1765698450,
+            "name": "Taxi Run",
+            "version": "2.2.2",
+            "size": 243516790,
+            "icon": "img/taxirun.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/taxirun.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/taxirun.ipa",
+            "bundleIdentifier": "com.azurgames.taxi",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/taxirun.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taxirun_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taxirun_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taxirun_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taxirun_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taxirun_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taxirun_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taxirun_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taxirun_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.2.2",
+                    "date": "2026-11-07T17:01:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/taxirun.ipa",
+                    "size": 243516790,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taxirun_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taxirun_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taxirun_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taxirun_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1289061634,
+            "name": "Flo",
+            "version": "10.6.1",
+            "size": 268568810,
+            "icon": "img/flo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/flo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/flo.ipa",
+            "bundleIdentifier": "org.iggymedia.periodtracker",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- تفعيل مميزات البرنامج ( قم بعمل شراء ثم الغاء )\n\nوصف التطبيق: \n\nFlo هو التطبيق رقم 1 في مجال الصحة النسائية، والذي تم إنشاؤه بالتعاون مع أكثر من 100 من كبار خبراء الصحة والطب. سواء كنت ترغبين في فهم دورتك الشهرية بشكل أفضل، أو تحاولين الإنجاب، أو كنتِ حامل بالفعل، انضمي إلى أكثر من 380 مليون شخص حول العالم يستخدمون Flo كمتتبع للإباضة والدورة الشهرية، ومذكرات الدورة، ومساعد الحمل.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/flo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flo_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flo_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flo_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flo_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flo_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flo_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flo_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flo_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "10.6.1",
+                    "date": "2026-11-07T17:00:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/flo.ipa",
+                    "size": 268568810,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flo_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flo_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flo_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flo_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1160471349,
+            "name": "Flower Merge",
+            "version": "3.7.0",
+            "size": 263452422,
+            "icon": "img/flowermerge.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/flowermerge.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/flowermerge.ipa",
+            "bundleIdentifier": "com.brainworks.fourinarowglow",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/flowermerge.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowermerge_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowermerge_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowermerge_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowermerge_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowermerge_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowermerge_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowermerge_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowermerge_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.7.0",
+                    "date": "2026-11-07T17:00:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/flowermerge.ipa",
+                    "size": 263452422,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowermerge_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowermerge_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowermerge_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowermerge_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1820199479,
             "name": "Ear Piercing & Tattoo Games",
             "version": "4.2.5",
