@@ -10,6 +10,390 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1202924971,
+            "name": "Hero Wars",
+            "version": "1.293.201",
+            "size": 495986523,
+            "icon": "img/herowars.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/herowars.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/herowars.ipa",
+            "bundleIdentifier": "com.nexters.titanhunters",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defense Multiplier\n\n- ضرر مضاعف\n- مضاعفة الدفاع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/herowars.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herowars_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herowars_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herowars_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herowars_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herowars_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herowars_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herowars_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herowars_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.293.201",
+                    "date": "2026-11-07T00:21:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/herowars.ipa",
+                    "size": 495986523,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herowars_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herowars_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herowars_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herowars_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1934692625,
+            "name": "Idle Guy",
+            "version": "1.9.565",
+            "size": 408239938,
+            "icon": "img/idleguy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/idleguy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/idleguy.ipa",
+            "bundleIdentifier": "com.heatherglade.idleguy",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Cash -> Will increase instead of decrease.\n- Free In-App Purchases\n\n- نقود غير محدودة (تزيد ماتنقص).\n- مشتريات مجانية داخل التطبيق",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idleguy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleguy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleguy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleguy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleguy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleguy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleguy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleguy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleguy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.565",
+                    "date": "2026-11-07T00:21:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/idleguy.ipa",
+                    "size": 408239938,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleguy_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleguy_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleguy_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleguy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1406122746,
+            "name": "Rogue Assault",
+            "version": "11.11.0",
+            "size": 325954245,
+            "icon": "img/rogueassault.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/rogueassault.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/rogueassault.ipa",
+            "bundleIdentifier": "com.kixeye.warcommanderrogueassault",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ضرر مضاعف\n- لا يموت أبداً",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rogueassault.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rogueassault_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rogueassault_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rogueassault_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rogueassault_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rogueassault_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rogueassault_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rogueassault_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rogueassault_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "11.11.0",
+                    "date": "2026-11-07T00:20:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/rogueassault.ipa",
+                    "size": 325954245,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rogueassault_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rogueassault_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rogueassault_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rogueassault_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1801145255,
+            "name": "LVUP",
+            "version": "4.4.1",
+            "size": 610478002,
+            "icon": "img/lvup.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/lvup.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/lvup.ipa",
+            "bundleIdentifier": "com.YSK.LVUP",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Never Die\n- Drop Multiplier\n- Add Gems\n- Add Gold\n- Add Exp\n- Add Everything\n\n- ضرر مضاعف\n- لا يموت أبداً\n- مضاعفة الغنائم\n- إضافة الأحجار الكريمة\n- إضافة الذهب\n- إضافة إكسب\n- أضف كل شيء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lvup.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lvup_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lvup_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lvup_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lvup_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lvup_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lvup_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lvup_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lvup_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.4.1",
+                    "date": "2026-11-07T00:19:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/lvup.ipa",
+                    "size": 610478002,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lvup_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lvup_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lvup_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lvup_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1507332162,
+            "name": "Forza Football",
+            "version": "7.2.1",
+            "size": 211260199,
+            "icon": "img/forzafootball.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/forzafootball.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/forzafootball.ipa",
+            "bundleIdentifier": "com.footballaddicts.livescoreaddicts",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق رياضي شامل يقدم تغطية مباشرة لنتائج مباريات كرة القدم من مختلف الدوريات حول العالم. يتميز بتحديثات الفورية . \n\n- مفتوح المميزات \nفي حال لم يتم تفعيل المميزات اقفل النسخه من الخلفيه وأعد فتحها من جديد أو اضغط استعادة المشتريات  .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/forzafootball.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzafootball_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzafootball_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzafootball_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzafootball_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzafootball_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzafootball_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzafootball_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzafootball_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "7.2.1",
+                    "date": "2026-11-07T00:18:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/forzafootball.ipa",
+                    "size": 211260199,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzafootball_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzafootball_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzafootball_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzafootball_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1657705625,
+            "name": "Flight Tracker",
+            "version": "8.8.3",
+            "size": 147283792,
+            "icon": "img/flighttracker.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/flighttracker.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/flighttracker.ipa",
+            "bundleIdentifier": "com.iaftt.flightplusfree",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لتعقب الرحلات ورادار مباشر يتيح لك متابعة حركة الطائرات حول العالم . \n\n- مفتوح المميزات بالكامل ،",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/flighttracker.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flighttracker_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flighttracker_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flighttracker_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flighttracker_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flighttracker_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flighttracker_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flighttracker_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flighttracker_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "8.8.3",
+                    "date": "2026-11-07T00:18:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/flighttracker.ipa",
+                    "size": 147283792,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flighttracker_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flighttracker_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flighttracker_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flighttracker_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1731580765,
+            "name": "Filmm",
+            "version": "4.0.1",
+            "size": 558116112,
+            "icon": "img/filmm.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/filmm.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/filmm.ipa",
+            "bundleIdentifier": "com.filmm.filmm",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق تحرير فيديو سريع وسهل مصمم للمبتدئين والمحتوى الاجتماعي . \n\n- مفتوح المميزات \nإضغط شراء ثم الغاء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/filmm.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filmm_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filmm_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filmm_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filmm_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filmm_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filmm_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filmm_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filmm_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.0.1",
+                    "date": "2026-11-07T00:18:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/filmm.ipa",
+                    "size": 558116112,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filmm_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filmm_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filmm_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filmm_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1517230873,
+            "name": "DarkSlayerXGunbird2",
+            "version": "1.1.130",
+            "size": 853019412,
+            "icon": "img/darkslayerxgunbird2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/darkslayerxgunbird2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/darkslayerxgunbird2.ipa",
+            "bundleIdentifier": "com.gamepub.zhteam",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر\n- لا تموت أبدًا\n- مضاعف سرعة الهجوم\n- بدون إعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/darkslayerxgunbird2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkslayerxgunbird2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkslayerxgunbird2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkslayerxgunbird2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkslayerxgunbird2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkslayerxgunbird2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkslayerxgunbird2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkslayerxgunbird2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkslayerxgunbird2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.130",
+                    "date": "2026-11-07T00:16:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/darkslayerxgunbird2.ipa",
+                    "size": 853019412,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkslayerxgunbird2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkslayerxgunbird2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkslayerxgunbird2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkslayerxgunbird2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1983678682,
             "name": "Magic Tiles 3",
             "version": "13.105.101",
