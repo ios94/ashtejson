@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1916222251,
+            "name": "Road Trip",
+            "version": "2609.0.2",
+            "size": 348613231,
+            "icon": "img/roadtrip.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/roadtrip.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/roadtrip.ipa",
+            "bundleIdentifier": "com.vizor-apps.Road-Trip",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تجميد طاقة الدمج\r\n- تجميد الطاقة\r\n- تجميد النقود\r\n- طاقة دمج غير محدودة -> أنفق بعضًا منها ثم أعد تشغيل اللعبة.\r\n- طاقة غير محدودة -> أنفق بعضًا منها ثم أعد تشغيل اللعبة.\r\n- نقود غير محدودة -> أنفق بعضًا منها ثم أعد تشغيل اللعبة.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roadtrip.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roadtrip_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roadtrip_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roadtrip_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roadtrip_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roadtrip_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roadtrip_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roadtrip_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roadtrip_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2609.0.2",
+                    "date": "2026-11-07T06:54:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/roadtrip.ipa",
+                    "size": 348613231,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roadtrip_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roadtrip_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roadtrip_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roadtrip_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1741556668,
+            "name": "Idle Firefighter",
+            "version": "1.70.0",
+            "size": 442594447,
+            "icon": "img/idlefirefighter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/idlefirefighter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/idlefirefighter.ipa",
+            "bundleIdentifier": "com.handsomeoldtree.idlefirefightertycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlefirefighter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefirefighter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefirefighter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefirefighter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefirefighter_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefirefighter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefirefighter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefirefighter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefirefighter_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.70.0",
+                    "date": "2026-11-07T06:53:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/idlefirefighter.ipa",
+                    "size": 442594447,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefirefighter_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefirefighter_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefirefighter_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefirefighter_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1499311759,
+            "name": "Daily Crossword",
+            "version": "1.730.0",
+            "size": 361491801,
+            "icon": "img/dailycrossword.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/dailycrossword.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/dailycrossword.ipa",
+            "bundleIdentifier": "com.littleengine.wordtrek-crossword",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dailycrossword.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailycrossword_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailycrossword_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailycrossword_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailycrossword_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailycrossword_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailycrossword_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailycrossword_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailycrossword_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.730.0",
+                    "date": "2026-11-07T06:52:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/dailycrossword.ipa",
+                    "size": 361491801,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailycrossword_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailycrossword_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailycrossword_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dailycrossword_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1231812124,
+            "name": "We Are Cooking",
+            "version": "0.18.0",
+            "size": 326651888,
+            "icon": "img/wearecooking.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/wearecooking.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/wearecooking.ipa",
+            "bundleIdentifier": "com.matryoshka.cooking.vibes",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عمليات شراء داخل التطبيق مجانية\r\n\r\n- Free iAP",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wearecooking.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wearecooking_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wearecooking_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wearecooking_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wearecooking_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wearecooking_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wearecooking_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wearecooking_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wearecooking_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.18.0",
+                    "date": "2026-11-07T06:52:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/wearecooking.ipa",
+                    "size": 326651888,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wearecooking_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wearecooking_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wearecooking_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wearecooking_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1499142917,
+            "name": "Words Search",
+            "version": "3.0.27",
+            "size": 423170930,
+            "icon": "img/wordssearch.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/wordssearch.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/wordssearch.ipa",
+            "bundleIdentifier": "com.PulsSoftware.WS",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wordssearch.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordssearch_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordssearch_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordssearch_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordssearch_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordssearch_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordssearch_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordssearch_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordssearch_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.0.27",
+                    "date": "2026-11-07T06:51:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/wordssearch.ipa",
+                    "size": 423170930,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordssearch_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordssearch_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordssearch_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordssearch_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1590016473,
+            "name": "Backgammon",
+            "version": "1.14.0",
+            "size": 233271382,
+            "icon": "img/backgammon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/backgammon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/backgammon.ipa",
+            "bundleIdentifier": "com.easybrain.backgammon.board.games",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/backgammon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgammon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgammon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgammon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgammon_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgammon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgammon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgammon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgammon_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.14.0",
+                    "date": "2026-11-07T06:51:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/backgammon.ipa",
+                    "size": 233271382,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgammon_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgammon_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgammon_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgammon_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1283072861,
+            "name": "Cookie Jam",
+            "version": "18.85.105",
+            "size": 326161448,
+            "icon": "img/cookiejam.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/cookiejam.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/cookiejam.ipa",
+            "bundleIdentifier": "com.sgn.cookiejam",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Infinite Moves\n- Infinite Lives\n- Infinite Boosters\n\n- تحركات غير محدودة\r\n- حيوات لا نهائية\r\n- معززات لا نهائية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cookiejam.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiejam_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiejam_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiejam_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiejam_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiejam_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiejam_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiejam_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiejam_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "18.85.105",
+                    "date": "2026-11-07T06:51:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/cookiejam.ipa",
+                    "size": 326161448,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiejam_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiejam_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiejam_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiejam_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1752700373,
+            "name": "Fable Town",
+            "version": "1.48.0",
+            "size": 381901936,
+            "icon": "img/fabletown.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/fabletown.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/fabletown.ipa",
+            "bundleIdentifier": "com.reefgames.fabletown",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Unlimited Currencies -> Will increase instead of decrease.\n\n- عملات غير محدودة (تزيد ماتنقص).",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fabletown.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabletown_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabletown_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabletown_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabletown_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabletown_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabletown_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabletown_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabletown_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.48.0",
+                    "date": "2026-11-07T06:50:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/fabletown.ipa",
+                    "size": 381901936,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabletown_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabletown_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabletown_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabletown_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1344163322,
+            "name": "Slash Royal",
+            "version": "0.11.9",
+            "size": 329374697,
+            "icon": "img/slashroyal.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/slashroyal.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/slashroyal.ipa",
+            "bundleIdentifier": "com.YsoCorp.SlashRoyal",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود \n- الغاء الأعلانات\n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/slashroyal.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slashroyal_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slashroyal_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slashroyal_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slashroyal_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slashroyal_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slashroyal_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slashroyal_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slashroyal_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.11.9",
+                    "date": "2026-11-07T06:50:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/slashroyal.ipa",
+                    "size": 329374697,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slashroyal_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slashroyal_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slashroyal_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slashroyal_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1404106060,
             "name": "Beauty Tiles : Love Stories",
             "version": "2.9.7",
