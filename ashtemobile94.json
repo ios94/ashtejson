@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1569617195,
+            "name": "Tellonym",
+            "version": "3.173.2",
+            "size": 90789663,
+            "icon": "img/tellonym.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/tellonym.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/tellonym.ipa",
+            "bundleIdentifier": "de.tellonym.app",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق يتيح تلقي رسائل مجهولة والرد عليها، شائع بين مستخدمي سناب شات وإنستقرام.\n- مفتوح المميزات بالكامل .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tellonym.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tellonym_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tellonym_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tellonym_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tellonym_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tellonym_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tellonym_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tellonym_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tellonym_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.173.2",
+                    "date": "2026-11-07T15:46:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/tellonym.ipa",
+                    "size": 90789663,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tellonym_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tellonym_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tellonym_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tellonym_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1361446694,
             "name": "| نسخه رسمية | ‎WhatsApp Watusi",
             "version": "26.36.74",
