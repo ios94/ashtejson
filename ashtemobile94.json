@@ -10,6 +10,435 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1247684376,
+            "name": "Merge Sweets",
+            "version": "92.1",
+            "size": 524604706,
+            "icon": "img/mergesweets.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/mergesweets.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/mergesweets.ipa",
+            "bundleIdentifier": "com.spcomes.emerge",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- أحجار كريمة غير محدودة → أنفق بحرية على المشتريات المميزة\n- عملات معدنية غير محدودة → اشترِ ودمج بدون حدود الموارد\n- طاقة غير محدودة → العب بشكل مستمر بدون فترات انتظار الطاقة\n- المستوى الأقصى → تخطَّ التقدم والوصول إلى جميع المحتوى",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergesweets.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesweets_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesweets_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesweets_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesweets_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesweets_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesweets_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesweets_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesweets_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "92.1",
+                    "date": "2026-11-07T19:42:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/mergesweets.ipa",
+                    "size": 524604706,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesweets_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesweets_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesweets_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesweets_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1848457874,
+            "name": "Skull Hero",
+            "version": "0.3.0",
+            "size": 504068450,
+            "icon": "img/skullhero.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/skullhero.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/skullhero.ipa",
+            "bundleIdentifier": "com.horusent.hero.xp.farm.rpg",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ViP Active → يمنحك حالة حساب مميزة وفوائد حصرية\n- Enough Gems → عملة لعبة غير محدودة للترقيات والمشتريات\n- ATK MAX → يزيد قوة الهجوم إلى الحد الأقصى للسيطرة الفورية في القتال",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/skullhero.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skullhero_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skullhero_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skullhero_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skullhero_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skullhero_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skullhero_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skullhero_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skullhero_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.3.0",
+                    "date": "2026-11-07T19:42:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/skullhero.ipa",
+                    "size": 504068450,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skullhero_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skullhero_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skullhero_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skullhero_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1957222404,
+            "name": "Beast Evo: Blade Survivor",
+            "version": "1.0.13",
+            "size": 404977674,
+            "icon": "img/beastevobladesurvivor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/beastevobladesurvivor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/beastevobladesurvivor.ipa",
+            "bundleIdentifier": "com.greenwormsentertainment.beastevo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ماس غير محدود → عملة مميزة للترقيات والفتح\r\n- أحجار كريمة غير محدودة → عملة نادرة للمشتريات الخاصة\r\n- عملات غير محدودة → عملة قياسية للتقدم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/beastevobladesurvivor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastevobladesurvivor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastevobladesurvivor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastevobladesurvivor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastevobladesurvivor_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastevobladesurvivor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastevobladesurvivor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastevobladesurvivor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastevobladesurvivor_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.13",
+                    "date": "2026-11-07T19:40:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/beastevobladesurvivor.ipa",
+                    "size": 404977674,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastevobladesurvivor_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastevobladesurvivor_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastevobladesurvivor_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastevobladesurvivor_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1353533836,
+            "name": "Hill Climb+",
+            "version": "1.14.1",
+            "size": 129036803,
+            "icon": "img/hillclimb.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/hillclimb.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/hillclimb.ipa",
+            "bundleIdentifier": "com.fingersoft.hillclimbplus",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hillclimb.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hillclimb_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hillclimb_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hillclimb_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hillclimb_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hillclimb_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hillclimb_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hillclimb_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hillclimb_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.14.1",
+                    "date": "2026-11-07T19:40:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/hillclimb.ipa",
+                    "size": 129036803,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hillclimb_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hillclimb_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hillclimb_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hillclimb_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1258626334,
+            "name": "My Angela 2+",
+            "version": "26.5.2",
+            "size": 283376733,
+            "icon": "img/myangela2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/myangela2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/myangela2.ipa",
+            "bundleIdentifier": "com.outfit7.mytalkingangela2.arcade",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/myangela2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myangela2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myangela2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myangela2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myangela2_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myangela2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myangela2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myangela2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myangela2_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "26.5.2",
+                    "date": "2026-11-07T19:39:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/myangela2.ipa",
+                    "size": 283376733,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myangela2_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myangela2_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myangela2_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myangela2_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1806027475,
+            "name": "Ice Skating Queen",
+            "version": "3.0.1",
+            "size": 595819850,
+            "icon": "img/iceskatingqueen.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/iceskatingqueen.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/iceskatingqueen.ipa",
+            "bundleIdentifier": "com.happythumb.cuttingedge",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات\r\n\r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات تلقائي ام شراء داخلي او اضافة موارد سوف ينبهك بذالك\r\n\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n\r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/iceskatingqueen.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iceskatingqueen_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iceskatingqueen_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iceskatingqueen_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iceskatingqueen_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iceskatingqueen_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iceskatingqueen_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.0.1",
+                    "date": "2026-11-07T19:39:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/iceskatingqueen.ipa",
+                    "size": 595819850,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iceskatingqueen_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iceskatingqueen_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iceskatingqueen_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1455517745,
+            "name": "Prayer Times",
+            "version": "12.1",
+            "size": 155613427,
+            "icon": "img/prayertimes.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/prayertimes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/prayertimes.ipa",
+            "bundleIdentifier": "com.appaspect.islamicprayertimes.qibla",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات\r\n\r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات تلقائي ام شراء داخلي او اضافة موارد سوف ينبهك بذالك\r\n\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n\r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/prayertimes.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prayertimes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prayertimes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prayertimes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prayertimes_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prayertimes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prayertimes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prayertimes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prayertimes_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "12.1",
+                    "date": "2026-11-07T19:38:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/prayertimes.ipa",
+                    "size": 155613427,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prayertimes_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prayertimes_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prayertimes_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prayertimes_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1916897353,
+            "name": "IcingOnTheDress",
+            "version": "2.0.3",
+            "size": 371030994,
+            "icon": "img/icingonthedress.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/icingonthedress.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/icingonthedress.ipa",
+            "bundleIdentifier": "com.xmgame.icingonthedress",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات\r\n\r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات تلقائي ام شراء داخلي او اضافة موارد سوف ينبهك بذالك\r\n\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n\r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/icingonthedress.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icingonthedress_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icingonthedress_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icingonthedress_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icingonthedress_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icingonthedress_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icingonthedress_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icingonthedress_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icingonthedress_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.3",
+                    "date": "2026-11-07T19:38:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/icingonthedress.ipa",
+                    "size": 371030994,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icingonthedress_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icingonthedress_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icingonthedress_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icingonthedress_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1775234670,
+            "name": "The Bookshelf",
+            "version": "1.2",
+            "size": 123285198,
+            "icon": "img/thebookshelf.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/thebookshelf.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/thebookshelf.ipa",
+            "bundleIdentifier": "com.xsgames.thebookshelf",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات\r\n\r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات تلقائي ام شراء داخلي او اضافة موارد سوف ينبهك بذالك\r\n\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n\r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/thebookshelf.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thebookshelf_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thebookshelf_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thebookshelf_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thebookshelf_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thebookshelf_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thebookshelf_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thebookshelf_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thebookshelf_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-07T19:38:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/thebookshelf.ipa",
+                    "size": 123285198,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thebookshelf_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thebookshelf_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thebookshelf_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thebookshelf_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1734515231,
             "name": "Muslim Bangla",
             "version": "5.0.8",
