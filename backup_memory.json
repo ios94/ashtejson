@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1141695962,
+            "name": "Space Quest",
+            "version": "4.3.2",
+            "size": 573890243,
+            "icon": "img/spacequest.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/spacequest.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/spacequest.ipa",
+            "bundleIdentifier": "com.tryagaingamestudio.spacelanders",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- إعلانات مجانية مكافآت مجانية\n- نقاط الصحة فحص حالة البطل\n- نقاط الهجوم فحص حالة البطل",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spacequest.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacequest_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacequest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacequest_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacequest_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacequest_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacequest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacequest_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacequest_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.3.2",
+                    "date": "2026-11-07T04:06:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/spacequest.ipa",
+                    "size": 573890243,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacequest_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacequest_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacequest_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacequest_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1519327000,
+            "name": "Midnight Dreamers",
+            "version": "1.6.11",
+            "size": 273632047,
+            "icon": "img/midnightdreamers.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/midnightdreamers.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/midnightdreamers.ipa",
+            "bundleIdentifier": "com.ArcaneChronicles.MidnightDreamers",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Gems -> Earn or spend some.\n- Unlimited Keys -> Earn or spend some.\n\n- جواهر غير محدودة (اكسب أو أنفق منها).\n- مفاتيح غير محدودة -> اكسب أو أنفق البعض.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/midnightdreamers.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.11",
+                    "date": "2026-11-07T04:06:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/midnightdreamers.ipa",
+                    "size": 273632047,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1451648998,
+            "name": "Idle Distiller",
+            "version": "3.49.1",
+            "size": 326055087,
+            "icon": "img/idledistiller.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/idledistiller.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/idledistiller.ipa",
+            "bundleIdentifier": "com.kanoapps.bz",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Diamond\n\n- الماس اللانهائي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idledistiller.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idledistiller_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idledistiller_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idledistiller_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idledistiller_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idledistiller_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idledistiller_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idledistiller_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idledistiller_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.49.1",
+                    "date": "2026-11-07T04:05:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/idledistiller.ipa",
+                    "size": 326055087,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idledistiller_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idledistiller_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idledistiller_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idledistiller_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1805584397,
+            "name": "PocketLove",
+            "version": "4.8.2",
+            "size": 639629682,
+            "icon": "img/pocketlove.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/pocketlove.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/pocketlove.ipa",
+            "bundleIdentifier": "com.hyperbeard.pocketlove",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Currencies\n- Free iAP ( Turn on inside Enjoy Mod Menu first )\n\n- عملات غير محدودة\n- iAP مجاني (قم بتشغيل قائمة تعديل Enjoy أولاً)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pocketlove.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.8.2",
+                    "date": "2026-11-07T04:05:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/pocketlove.ipa",
+                    "size": 639629682,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketlove_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1128160837,
+            "name": "Primatus",
+            "version": "1.0.7",
+            "size": 604613810,
+            "icon": "img/primatus.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/primatus.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/primatus.ipa",
+            "bundleIdentifier": "com.game.primatus",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عمليات شراء داخل التطبيق مجانية\r\n- لا تموت أبدًا\r\n- زيادة في اكتساب الموارد\r\n- ترقية مستوى الذكاء (يُستخدم بعد كسر الزجاج، المرحلة الثانية)\r\n- ترقية مستوى الأدوات (يُستخدم بعد كسر الزجاج، المرحلة الثانية)\r\n\r\nترقية مستوى الأسلحة (يُستخدم بعد كسر الزجاج، المرحلة الثانية)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/primatus.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primatus_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primatus_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primatus_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primatus_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primatus_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primatus_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primatus_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primatus_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.7",
+                    "date": "2026-11-07T04:04:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/primatus.ipa",
+                    "size": 604613810,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primatus_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primatus_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primatus_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primatus_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1799205498,
+            "name": "Wiggle Defender",
+            "version": "1.0.9",
+            "size": 588167253,
+            "icon": "img/wiggledefender.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/wiggledefender.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/wiggledefender.ipa",
+            "bundleIdentifier": "com.TeamSparta.WiggleDefender",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Multiply Attack\n- Free Store (not iAP)\n- PREMIUM\n\n- مضاعفة الهجوم\n- متجر مجاني (وليس iAP)\n- بريميوم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wiggledefender.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wiggledefender_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wiggledefender_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wiggledefender_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wiggledefender_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wiggledefender_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wiggledefender_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wiggledefender_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wiggledefender_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.9",
+                    "date": "2026-11-07T04:03:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/wiggledefender.ipa",
+                    "size": 588167253,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wiggledefender_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wiggledefender_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wiggledefender_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wiggledefender_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1632325527,
+            "name": "Home Design",
+            "version": "6.9.6",
+            "size": 411856381,
+            "icon": "img/homedesign.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/homedesign.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/homedesign.ipa",
+            "bundleIdentifier": "in.loop.hdmakeover",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Coins (Get some)\n- Infinite Energy\n- Infinite Moveshttps://youtu.be/XkD_zugjs5o\n\n- عملات لانهائية (احصل على بعض)\n- طاقة لا نهائية\n- التحركات اللانهائية https://youtu.be/XkD_zugjs5o",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/homedesign.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesign_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesign_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesign_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesign_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesign_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesign_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesign_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesign_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.9.6",
+                    "date": "2026-11-07T04:02:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/homedesign.ipa",
+                    "size": 411856381,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesign_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesign_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesign_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homedesign_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1160765292,
+            "name": "Focus Friend",
+            "version": "1.11.3",
+            "size": 427347521,
+            "icon": "img/focusfriend.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/focusfriend.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/focusfriend.ipa",
+            "bundleIdentifier": "com.underthing.focus.friend",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Currencies\n\n- عملات غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/focusfriend.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/focusfriend_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/focusfriend_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/focusfriend_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/focusfriend_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/focusfriend_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/focusfriend_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/focusfriend_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/focusfriend_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.11.3",
+                    "date": "2026-11-07T04:02:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/focusfriend.ipa",
+                    "size": 427347521,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/focusfriend_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/focusfriend_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/focusfriend_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/focusfriend_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1593638517,
+            "name": "K Devil Hunter",
+            "version": "1.0.73",
+            "size": 573891564,
+            "icon": "img/kdevilhunter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/kdevilhunter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/kdevilhunter.ipa",
+            "bundleIdentifier": "com.codedragon.woochi",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Damage Multiplier\n- Never Die\n- Gold Multiplier Disable When Do Spending\n- Gems Multiplier Disable When Do Spending\n- EXP Multiplier Disable When Do Spending\n- No ADS\n\n- ضرر مضاعف\r\n- لا يموت أبداً\r\n- تعطيل مضاعف الذهب عند الإنفاق\r\n- تعطيل مضاعف الجواهر عند الإنفاق\r\n- تعطيل مضاعف EXP عند الإنفاق\r\n- بدون إعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kdevilhunter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kdevilhunter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kdevilhunter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kdevilhunter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kdevilhunter_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kdevilhunter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kdevilhunter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kdevilhunter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kdevilhunter_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.73",
+                    "date": "2026-11-07T04:01:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/kdevilhunter.ipa",
+                    "size": 573891564,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kdevilhunter_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kdevilhunter_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kdevilhunter_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kdevilhunter_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1771286070,
             "name": "سلة",
             "version": "5.4.28",
