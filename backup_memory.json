@@ -10,6 +10,45 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1407422286,
+            "name": "Chai",
+            "version": "20260526.0.1",
+            "size": 171086705,
+            "icon": "img/chai.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/chai.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/chai.ipa",
+            "bundleIdentifier": "com.beauchamp.Messenger.external",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Premium Unlocked\nتفعيل البريميوم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/chai.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/chai.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/chai.png"
+            ],
+            "versions": [
+                {
+                    "version": "20260526.0.1",
+                    "date": "2026-11-07T13:29:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/chai.ipa",
+                    "size": 171086705,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/chai.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1801726304,
             "name": "Screen Recorder",
             "version": "1.0.186",
