@@ -10,6 +10,483 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1320245049,
+            "name": "Coconote",
+            "version": "2.52",
+            "size": 83735627,
+            "icon": "img/coconote.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/coconote.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/coconote.ipa",
+            "bundleIdentifier": "com.bbauman.Scripty",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق يساعد المستخدمين على تنظيم أفكارهم ومحاضراتهم وملاحظاتهم بسهولة . \n\n- مفتوح المميزات .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/coconote.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coconote_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coconote_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coconote_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coconote_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coconote_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coconote_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coconote_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coconote_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.52",
+                    "date": "2026-11-07T04:43:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/coconote.ipa",
+                    "size": 83735627,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coconote_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coconote_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coconote_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coconote_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1774560676,
+            "name": "Grand Summoners",
+            "version": "4.1.0",
+            "size": 125261751,
+            "icon": "img/grandsummoners.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/grandsummoners.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/grandsummoners.ipa",
+            "bundleIdentifier": "jp.goodsmile.grandsummonersglobal",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Massive Damage\n- Low Enemy Attack\n- Instant Art Skills\n- No Skills Cooldown\n\n- أضرار جسيمة\n- هجوم العدو منخفض\n- المهارات الفنية الفورية\n- بدون فترة انتظار للمهارات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/grandsummoners.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandsummoners_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandsummoners_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandsummoners_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandsummoners_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandsummoners_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandsummoners_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandsummoners_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandsummoners_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.1.0",
+                    "date": "2026-11-07T04:43:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/grandsummoners.ipa",
+                    "size": 125261751,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandsummoners_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandsummoners_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandsummoners_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandsummoners_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1993804803,
+            "name": "Postknight 2",
+            "version": "2.7.16",
+            "size": 958557146,
+            "icon": "img/postknight2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/postknight2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/postknight2.ipa",
+            "bundleIdentifier": "com.kurechii.postknight2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مضاعف الضرر\r\n- لا يموت\r\n- قائمة التصحيح → الإعدادات > انقر فوق سياسة الخصوصية لا تعمل جميع الخيارات\r\n- مضاعف سرعة اللعبة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/postknight2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postknight2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postknight2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postknight2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postknight2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postknight2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postknight2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postknight2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postknight2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.7.16",
+                    "date": "2026-11-07T04:43:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/postknight2.ipa",
+                    "size": 958557146,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postknight2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postknight2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postknight2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postknight2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1605416676,
+            "name": "Guan Yu Idle",
+            "version": "5.370",
+            "size": 589442384,
+            "icon": "img/guanyuidle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/guanyuidle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/guanyuidle.ipa",
+            "bundleIdentifier": "com.kingdom.gwanyuIdle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Freeze Currencies\n\n- ضرر مضاعف\n- تجميد العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guanyuidle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guanyuidle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guanyuidle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guanyuidle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guanyuidle_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guanyuidle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guanyuidle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guanyuidle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guanyuidle_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.370",
+                    "date": "2026-11-07T04:42:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/guanyuidle.ipa",
+                    "size": 589442384,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guanyuidle_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guanyuidle_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guanyuidle_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guanyuidle_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120506898,
+            "name": "HungryAliens",
+            "version": "1566",
+            "size": 441954665,
+            "icon": "img/hungryaliens.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/hungryaliens.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/hungryaliens.ipa",
+            "bundleIdentifier": "com.DetailGames.HungryAliens",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Never Die\n- Drop Multiplier\n- Game Speed Multiplier\n- No ADS\n\n- ضرر مضاعف\n- لا يموت أبداً\n- مضاعفة الغنائم\n- لعبة سرعة المضاعف\n- بدون إعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hungryaliens.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryaliens_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryaliens_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryaliens_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryaliens_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryaliens_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryaliens_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryaliens_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryaliens_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1566",
+                    "date": "2026-11-07T04:41:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/hungryaliens.ipa",
+                    "size": 441954665,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryaliens_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryaliens_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryaliens_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryaliens_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1828265385,
+            "name": "AI Cleaner",
+            "version": "6.2",
+            "size": 234830038,
+            "icon": "img/aicleaner.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/aicleaner.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/aicleaner.ipa",
+            "bundleIdentifier": "ai.cleaner.app",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "أداة ذكية مصممة لتحسين أداء الجهاز الخاص بك من خلال تنظيف التخزين وإزالة الملفات غير الضرورية باستخدام تقنيات الذكاء الاصطناعي. \n\n-مفتوح المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aicleaner.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aicleaner_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aicleaner_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aicleaner_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aicleaner_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aicleaner_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aicleaner_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aicleaner_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aicleaner_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "6.2",
+                    "date": "2026-11-07T04:40:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/aicleaner.ipa",
+                    "size": 234830038,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aicleaner_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aicleaner_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aicleaner_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aicleaner_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1276982847,
+            "name": "Goblins Wood",
+            "version": "2.70.2",
+            "size": 380304242,
+            "icon": "img/goblinswood.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/goblinswood.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/goblinswood.ipa",
+            "bundleIdentifier": "idle.goblins.wood.tycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Currencies -> Will increase instead of decrease.\n\n- عملات غير محدودة (تزيد ماتنقص).",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/goblinswood.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goblinswood_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goblinswood_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goblinswood_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goblinswood_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goblinswood_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goblinswood_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goblinswood_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goblinswood_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.70.2",
+                    "date": "2026-11-07T04:40:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/goblinswood.ipa",
+                    "size": 380304242,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goblinswood_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goblinswood_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goblinswood_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goblinswood_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1987437402,
+            "name": "Family Island",
+            "version": "2026370.0.94474",
+            "size": 413465965,
+            "icon": "img/familyisland.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/familyisland.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/familyisland.ipa",
+            "bundleIdentifier": "com.MelsoftGames.FamilyIsland",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تم تمكين محرك الغش iGameGod",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/familyisland.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyisland_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyisland_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyisland_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyisland_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyisland_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyisland_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyisland_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyisland_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2026370.0.94474",
+                    "date": "2026-11-07T04:40:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/familyisland.ipa",
+                    "size": 413465965,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyisland_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyisland_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyisland_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyisland_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1351639878,
+            "name": "هاي تي في الاصلي",
+            "version": "3.0.0",
+            "size": 59156898,
+            "icon": "img/app048a57e9ff.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/app048a57e9ff.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/app048a57e9ff.ipa",
+            "bundleIdentifier": "com.haytv.back",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تم رفعه واستخراجه تلقائياً",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app048a57e9ff.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app048a57e9ff_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app048a57e9ff_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app048a57e9ff_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app048a57e9ff_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app048a57e9ff_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app048a57e9ff_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.0.0",
+                    "date": "2026-11-07T04:39:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/app048a57e9ff.ipa",
+                    "size": 59156898,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app048a57e9ff_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app048a57e9ff_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app048a57e9ff_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1225697927,
+            "name": "شاهد  Shahid",
+            "version": "8.10.0",
+            "size": 143589041,
+            "icon": "img/shahid.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/shahid.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/shahid.ipa",
+            "bundleIdentifier": "net.mbc.shahid-iphone",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تم رفعه واستخراجه تلقائياً",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shahid.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahid_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahid_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahid_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahid_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahid_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahid_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahid_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahid_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "8.10.0",
+                    "date": "2026-11-07T04:39:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/shahid.ipa",
+                    "size": 143589041,
+                    "buildVersion": null,
+                    "minOSVersion": "16.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahid_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahid_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahid_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahid_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1275576074,
             "name": "Ihr Fake GPS Pro",
             "version": "1.72.5",
