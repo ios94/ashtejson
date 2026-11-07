@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1500400040,
+            "name": "End of Winter",
+            "version": "1.2.0",
+            "size": 471279735,
+            "icon": "img/endofwinter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/endofwinter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/endofwinter.ipa",
+            "bundleIdentifier": "com.tailormadegames.eow",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مُضاعِف الضرر\r\n- مُضاعِف الدفاع\r\n- عدم الموت\r\n- فضة غير محدودة\r\n- جواهر غير محدودة\r\n\r\n- Damage Multiplier \r\n- Defence Multiplier\r\n- Never Die\r\n- Unlimited Silver\r\n- Unlimited Gems",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/endofwinter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endofwinter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endofwinter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endofwinter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endofwinter_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endofwinter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endofwinter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endofwinter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endofwinter_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.0",
+                    "date": "2026-11-07T03:05:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/endofwinter.ipa",
+                    "size": 471279735,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endofwinter_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endofwinter_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endofwinter_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endofwinter_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1196813327,
+            "name": "Superimpose",
+            "version": "11.4.2",
+            "size": 393122878,
+            "icon": "img/superimpose.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/superimpose.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/superimpose.ipa",
+            "bundleIdentifier": "com.beltola.superimpose",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لازالة خلفية الصوره والشعارات بطريقة احترافيه \n- مدفوع على ابل ستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/superimpose.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superimpose_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superimpose_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superimpose_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superimpose_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superimpose_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superimpose_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superimpose_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superimpose_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "11.4.2",
+                    "date": "2026-11-07T03:05:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/superimpose.ipa",
+                    "size": 393122878,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superimpose_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superimpose_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superimpose_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superimpose_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1301702019,
+            "name": "Obscura 3",
+            "version": "2026.9",
+            "size": 177195408,
+            "icon": "img/obscura3.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/obscura3.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/obscura3.ipa",
+            "bundleIdentifier": "com.benricemccarthy.obscura-3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لتصوير الإحترافي والفلاتر \n\n- تطبيق بمميزات كاملة نسخه مدفوعه",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/obscura3.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obscura3_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obscura3_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obscura3_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obscura3_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obscura3_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obscura3_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obscura3_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obscura3_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2026.9",
+                    "date": "2026-11-07T03:04:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/obscura3.ipa",
+                    "size": 177195408,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obscura3_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obscura3_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obscura3_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obscura3_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1698738073,
+            "name": "WePlay",
+            "version": "6.9.5",
+            "size": 632755342,
+            "icon": "img/weplay.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/weplay.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/weplay.ipa",
+            "bundleIdentifier": "com.wejoy.weplay.ar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق مجموعة العاب جماعية .\r\n\r\nتطبيق خام قابل للتكرار .. \r\n\r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/weplay.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weplay_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weplay_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weplay_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weplay_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weplay_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weplay_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weplay_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weplay_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "6.9.5",
+                    "date": "2026-11-07T03:04:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/weplay.ipa",
+                    "size": 632755342,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weplay_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weplay_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weplay_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weplay_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1171606496,
+            "name": "EOBD-Facile",
+            "version": "3.90",
+            "size": 73849610,
+            "icon": "img/eobdfacile.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/eobdfacile.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/eobdfacile.ipa",
+            "bundleIdentifier": "Outils-OBD-Facile.EOBD-Facile",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق يساعدك على تشخيص أعطال سيارتك باستخدام أجهزة OBD2. يتيح لك التطبيق قراءة ورموز الأعطال، وحذفها، وعرض بيانات السيارة في الوقت الحقيقي مثل السرعة واستهلاك الوقود وأعطاب المحرك.\n\nالمميزات :  \nمفتوح المميزات بالكامل",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/eobdfacile.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eobdfacile_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eobdfacile_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eobdfacile_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eobdfacile_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eobdfacile_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eobdfacile_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eobdfacile_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eobdfacile_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.90",
+                    "date": "2026-11-07T03:03:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/eobdfacile.ipa",
+                    "size": 73849610,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eobdfacile_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eobdfacile_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eobdfacile_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eobdfacile_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1173294844,
+            "name": "BRIM",
+            "version": "2.22.46",
+            "size": 430741663,
+            "icon": "img/brim.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/brim.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/brim.ipa",
+            "bundleIdentifier": "com.sybogames.brim",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Gold\n- Unlimited Essence\n\n- ذهب غير محدود\n- جوهر غير محدود",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/brim.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brim_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brim_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brim_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brim_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brim_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brim_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brim_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brim_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.22.46",
+                    "date": "2026-11-07T03:02:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/brim.ipa",
+                    "size": 430741663,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brim_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brim_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brim_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brim_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1217243746,
+            "name": "Merge Survival",
+            "version": "1.58.1",
+            "size": 1344727701,
+            "icon": "img/mergesurvival.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/mergesurvival.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/mergesurvival.ipa",
+            "bundleIdentifier": "com.stickyhands.mergesurvival",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني .\n\nملاحظة:\n اضغط على Thank you بعدها الغاء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergesurvival.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesurvival_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesurvival_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesurvival_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesurvival_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesurvival_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesurvival_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesurvival_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesurvival_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.58.1",
+                    "date": "2026-11-07T03:02:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/mergesurvival.ipa",
+                    "size": 1344727701,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesurvival_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesurvival_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesurvival_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergesurvival_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1741428636,
+            "name": "Idle Bank Tycoon",
+            "version": "2.4.1",
+            "size": 305420970,
+            "icon": "img/idlebanktycoon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/idlebanktycoon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/idlebanktycoon.ipa",
+            "bundleIdentifier": "com.luckyskeletonstudios.idlebanktycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تجميد العملات - قفل أموالك ومواردك في مكانها",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebanktycoon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoon_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoon_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoon_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoon_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoon_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoon_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.1",
+                    "date": "2026-11-07T03:00:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/idlebanktycoon.ipa",
+                    "size": 305420970,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoon_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoon_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoon_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebanktycoon_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1685119053,
+            "name": "D4DJ",
+            "version": "10.8.00",
+            "size": 527719003,
+            "icon": "img/d4dj.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/d4dj.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/d4dj.ipa",
+            "bundleIdentifier": "com.bushiroad.en.d4dj",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Always Perfect\n- No Damage\n\n- الكمال دائما\n- لا ضرر",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/d4dj.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/d4dj_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/d4dj_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/d4dj_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/d4dj_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/d4dj_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/d4dj_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/d4dj_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/d4dj_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "10.8.00",
+                    "date": "2026-11-07T03:00:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/d4dj.ipa",
+                    "size": 527719003,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/d4dj_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/d4dj_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/d4dj_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/d4dj_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1660493841,
             "name": "Pixel Hunter Idle",
             "version": "8.3",
