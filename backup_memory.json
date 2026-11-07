@@ -10,6 +10,342 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1433295531,
+            "name": "Devour Idle RPG",
+            "version": "2.1",
+            "size": 269476566,
+            "icon": "img/devouridlerpg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/devouridlerpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/devouridlerpg.ipa",
+            "bundleIdentifier": "com.multicastgames.devour",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Infinite Power Mode\n- Unlimited Gems\n\n- ضرر مضاعف\n- وضع الطاقة اللانهائي\n- جواهر غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/devouridlerpg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/devouridlerpg_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/devouridlerpg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/devouridlerpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/devouridlerpg_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/devouridlerpg_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/devouridlerpg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/devouridlerpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/devouridlerpg_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1",
+                    "date": "2026-11-07T03:29:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/devouridlerpg.ipa",
+                    "size": 269476566,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/devouridlerpg_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/devouridlerpg_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/devouridlerpg_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/devouridlerpg_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1456127672,
+            "name": "Illuminati",
+            "version": "8.8.0",
+            "size": 248209405,
+            "icon": "img/illuminati.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/illuminati.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/illuminati.ipa",
+            "bundleIdentifier": "br.com.tapps.weareilluminati",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free iAP (Turn it on inside mod menu)\n\n- iAP مجاني (قم بتشغيله داخل قائمة التعديل)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/illuminati.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/illuminati_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/illuminati_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/illuminati_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/illuminati_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/illuminati_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/illuminati_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/illuminati_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/illuminati_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "8.8.0",
+                    "date": "2026-11-07T03:28:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/illuminati.ipa",
+                    "size": 248209405,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/illuminati_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/illuminati_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/illuminati_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/illuminati_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1962691924,
+            "name": "Mobile Royale",
+            "version": "1.58.0",
+            "size": 974204463,
+            "icon": "img/mobileroyale.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/mobileroyale.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/mobileroyale.ipa",
+            "bundleIdentifier": "com.igg.ios.mobileroyale",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defense Multiplier\n\n- ضرر مضاعف\n- مضاعفة الدفاع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobileroyale.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobileroyale_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobileroyale_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobileroyale_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobileroyale_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobileroyale_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobileroyale_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobileroyale_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobileroyale_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.58.0",
+                    "date": "2026-11-07T03:28:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/mobileroyale.ipa",
+                    "size": 974204463,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobileroyale_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobileroyale_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobileroyale_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobileroyale_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1724361368,
+            "name": "Murderhill",
+            "version": "1.0.5",
+            "size": 487417642,
+            "icon": "img/murderhill.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/murderhill.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/murderhill.ipa",
+            "bundleIdentifier": "com.murder.hill",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- High Damage\n- High Resource Gain\n- No Ads\n\n- ضرر عالي\n- مكاسب عالية للموارد\n- بدون إعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/murderhill.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murderhill_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murderhill_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murderhill_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murderhill_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murderhill_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murderhill_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murderhill_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murderhill_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.5",
+                    "date": "2026-11-07T03:27:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/murderhill.ipa",
+                    "size": 487417642,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murderhill_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murderhill_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murderhill_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murderhill_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1961406086,
+            "name": "Watcher of Realms - US",
+            "version": "1.6.46",
+            "size": 412628754,
+            "icon": "img/watcherofrealmsus.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/watcherofrealmsus.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/watcherofrealmsus.ipa",
+            "bundleIdentifier": "com.td.uswatcherofrealms",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defense Multiplier\n\n- ضرر مضاعف\n- مضاعفة الدفاع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/watcherofrealmsus.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealmsus_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealmsus_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealmsus_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealmsus_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealmsus_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealmsus_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealmsus_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealmsus_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.46",
+                    "date": "2026-11-07T03:26:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/watcherofrealmsus.ipa",
+                    "size": 412628754,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealmsus_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealmsus_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealmsus_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealmsus_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1855161645,
+            "name": "Real War",
+            "version": "4.6.26",
+            "size": 336864749,
+            "icon": "img/realwar.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/realwar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/realwar.ipa",
+            "bundleIdentifier": "com.devdop.realwar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Coins (Enable and when you receive enough disable, if the coins count grows bigger please restart the game)\n- Enemy Don't move\n\n- عملات غير محدودة (تمكين وعندما تتلقى ما يكفي من التعطيل، إذا زاد عدد العملات المعدنية، يرجى إعادة تشغيل اللعبة)\n- العدو لا يتحرك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/realwar.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realwar_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realwar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realwar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realwar_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realwar_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realwar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realwar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realwar_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.6.26",
+                    "date": "2026-11-07T03:25:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/realwar.ipa",
+                    "size": 336864749,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realwar_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realwar_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realwar_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realwar_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1401607637,
+            "name": "سينمانا",
+            "version": "4.1.0",
+            "size": 125715727,
+            "icon": "img/app96e3a5eba6.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/app96e3a5eba6.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/app96e3a5eba6.ipa",
+            "bundleIdentifier": "app.horizon8066.moon9108",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "محذوفة من اب ستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app96e3a5eba6.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app96e3a5eba6_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app96e3a5eba6_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app96e3a5eba6_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app96e3a5eba6_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app96e3a5eba6_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app96e3a5eba6_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app96e3a5eba6_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app96e3a5eba6_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.1.0",
+                    "date": "2026-11-07T03:24:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/app96e3a5eba6.ipa",
+                    "size": 125715727,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app96e3a5eba6_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app96e3a5eba6_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app96e3a5eba6_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app96e3a5eba6_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1877175347,
             "name": "My Monster Babe",
             "version": "1.0.8",
