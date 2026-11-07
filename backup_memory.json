@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1811020502,
+            "name": "Shorts",
+            "version": "5.11.0",
+            "size": 156520695,
+            "icon": "img/shorts.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/shorts.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/shorts.ipa",
+            "bundleIdentifier": "app.luni.shorts",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- شراء نقاط من المتجر\n\n#حصريا \n\nتطبيق خاص في المسلسلات القصيرة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shorts.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shorts_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shorts_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shorts_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shorts_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shorts_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shorts_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shorts_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shorts_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.11.0",
+                    "date": "2026-11-07T23:44:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/shorts.ipa",
+                    "size": 156520695,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shorts_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shorts_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shorts_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shorts_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1374497881,
+            "name": "Bloons TD 5",
+            "version": "4.7",
+            "size": 151074618,
+            "icon": "img/bloonstd5.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/bloonstd5.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/bloonstd5.ipa",
+            "bundleIdentifier": "com.ninjakiwi.bloonstd5",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $4.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $4.99\nتتطلب اصدار 12.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bloonstd5.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd5_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd5_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd5_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd5_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd5_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd5_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd5_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd5_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.7",
+                    "date": "2026-11-07T23:44:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/bloonstd5.ipa",
+                    "size": 151074618,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd5_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd5_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd5_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd5_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1877291325,
+            "name": "OldRoll",
+            "version": "8.7.2",
+            "size": 264858144,
+            "icon": "img/oldroll.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/oldroll.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/oldroll.ipa",
+            "bundleIdentifier": "com.zijayrate.analogcam",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- مفتوح الأشتراك \n\nتطبيق خاص في الكاميرة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/oldroll.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldroll_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldroll_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldroll_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldroll_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldroll_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldroll_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldroll_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldroll_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "8.7.2",
+                    "date": "2026-11-07T23:44:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/oldroll.ipa",
+                    "size": 264858144,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldroll_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldroll_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldroll_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldroll_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1164752648,
+            "name": "Noteful",
+            "version": "1.4.40",
+            "size": 164441574,
+            "icon": "img/noteful.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/noteful.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/noteful.ipa",
+            "bundleIdentifier": "com.noteful-technologies.noteful",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/noteful.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noteful_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noteful_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noteful_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noteful_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noteful_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noteful_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noteful_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noteful_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.40",
+                    "date": "2026-11-07T23:44:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/noteful.ipa",
+                    "size": 164441574,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noteful_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noteful_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noteful_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noteful_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1415634792,
+            "name": "DNADino",
+            "version": "0.3.7",
+            "size": 242691596,
+            "icon": "img/dnadino.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/dnadino.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/dnadino.ipa",
+            "bundleIdentifier": "com.YsoCorp.DinADN",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود \n- الغاء الأعلانات\n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dnadino.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dnadino_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dnadino_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dnadino_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dnadino_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dnadino_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dnadino_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.3.7",
+                    "date": "2026-11-07T23:44:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/dnadino.ipa",
+                    "size": 242691596,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dnadino_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dnadino_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dnadino_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1578029784,
+            "name": "RaymanMini",
+            "version": "4.0",
+            "size": 447953196,
+            "icon": "img/raymanmini.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/raymanmini.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/raymanmini.ipa",
+            "bundleIdentifier": "com.ubisoft.raymanair",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/raymanmini.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/raymanmini_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/raymanmini_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/raymanmini_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/raymanmini_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/raymanmini_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/raymanmini_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/raymanmini_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/raymanmini_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.0",
+                    "date": "2026-11-07T23:43:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/raymanmini.ipa",
+                    "size": 447953196,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/raymanmini_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/raymanmini_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/raymanmini_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/raymanmini_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1564090108,
+            "name": "PAC-MAN PR",
+            "version": "4.5.0",
+            "size": 364355116,
+            "icon": "img/pacmanpr.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/pacmanpr.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/pacmanpr.ipa",
+            "bundleIdentifier": "jp.co.bandainamcoent.BNEI0360",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pacmanpr.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pacmanpr_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pacmanpr_screen_2.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pacmanpr_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pacmanpr_screen_2.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.5.0",
+                    "date": "2026-11-07T23:43:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/pacmanpr.ipa",
+                    "size": 364355116,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pacmanpr_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pacmanpr_screen_2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1192762851,
+            "name": "Miner Fighters",
+            "version": "3.9.3",
+            "size": 316359278,
+            "icon": "img/minerfighters.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/minerfighters.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/minerfighters.ipa",
+            "bundleIdentifier": "com.unicostudio.minerfighters",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك\r\n\r\n#حصريا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/minerfighters.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minerfighters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minerfighters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minerfighters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minerfighters_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minerfighters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minerfighters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minerfighters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minerfighters_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.9.3",
+                    "date": "2026-11-07T23:43:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/minerfighters.ipa",
+                    "size": 316359278,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minerfighters_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minerfighters_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minerfighters_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minerfighters_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1201822090,
+            "name": "Game Dev Tycoon",
+            "version": "1.6.20",
+            "size": 212391201,
+            "icon": "img/gamedevtycoon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/gamedevtycoon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/gamedevtycoon.ipa",
+            "bundleIdentifier": "com.greenheartgames.gdtmobile",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: 5,99 €\nRequires 17.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور 5,99 €\nتتطلب اصدار 17.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gamedevtycoon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gamedevtycoon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gamedevtycoon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gamedevtycoon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gamedevtycoon_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gamedevtycoon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gamedevtycoon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gamedevtycoon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gamedevtycoon_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.20",
+                    "date": "2026-11-07T23:42:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/gamedevtycoon.ipa",
+                    "size": 212391201,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gamedevtycoon_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gamedevtycoon_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gamedevtycoon_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gamedevtycoon_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1284536182,
+            "name": "Gymverse",
+            "version": "8.8400",
+            "size": 411371505,
+            "icon": "img/gymverse.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/gymverse.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/gymverse.ipa",
+            "bundleIdentifier": "com.heavydutyapps.gymWorkout",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gymverse.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymverse_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymverse_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymverse_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymverse_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymverse_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymverse_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymverse_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymverse_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "8.8400",
+                    "date": "2026-11-07T23:42:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/gymverse.ipa",
+                    "size": 411371505,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymverse_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymverse_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymverse_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymverse_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1774754669,
             "name": "Crashlands 2",
             "version": "100.1.615",
