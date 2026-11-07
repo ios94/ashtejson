@@ -10,6 +10,342 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1973150414,
+            "name": "Screen Cast",
+            "version": "15.5.6",
+            "size": 63322181,
+            "icon": "img/screencast.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/screencast.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/screencast.ipa",
+            "bundleIdentifier": "com.benabid.tvmirroring",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- فتح الأشتراك\n\n#حصريا \n\nتطبيق للتلفاز لعرض شاشة على التلفاز",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/screencast.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screencast_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screencast_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screencast_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screencast_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screencast_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screencast_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screencast_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screencast_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "15.5.6",
+                    "date": "2026-11-07T19:55:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/screencast.ipa",
+                    "size": 63322181,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screencast_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screencast_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screencast_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screencast_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1680591634,
+            "name": "Cut It",
+            "version": "1.2.13",
+            "size": 118525153,
+            "icon": "img/cutit.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/cutit.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/cutit.ipa",
+            "bundleIdentifier": "com.supergame.ultrasharp.cutitdown",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cutit.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutit_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutit_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutit_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutit_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutit_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutit_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutit_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutit_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.13",
+                    "date": "2026-11-07T19:55:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/cutit.ipa",
+                    "size": 118525153,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutit_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutit_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutit_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutit_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1924530106,
+            "name": "TV Plus",
+            "version": "2.7.0",
+            "size": 160296838,
+            "icon": "img/tvplus.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/tvplus.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/tvplus.ipa",
+            "bundleIdentifier": "tv.plus.shahid.watch.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لمشاهدة القنوات التلفزيونية .\n- لازالة الاعلانات اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tvplus.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvplus_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvplus_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvplus_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvplus_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvplus_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvplus_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvplus_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvplus_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.7.0",
+                    "date": "2026-11-07T19:55:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/tvplus.ipa",
+                    "size": 160296838,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvplus_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvplus_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvplus_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvplus_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1268690504,
+            "name": "ESign",
+            "version": "5.0.2",
+            "size": 18911032,
+            "icon": "img/esign.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/esign.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/esign.ipa",
+            "bundleIdentifier": "p3.xyz.yyyue.esign",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "ESign",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/esign.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/esign_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/esign_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/esign_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/esign_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/esign_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/esign_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/esign_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/esign_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.0.2",
+                    "date": "2026-11-07T19:55:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/esign.ipa",
+                    "size": 18911032,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/esign_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/esign_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/esign_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/esign_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1998703012,
+            "name": "كملنا",
+            "version": "3.10.0",
+            "size": 387247944,
+            "icon": "img/app8ac770c112.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/app8ac770c112.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/app8ac770c112.ipa",
+            "bundleIdentifier": "net.peakgames.kammelna",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "كمّلنا — أدوات اللعبة\n🔴انسخ كود  و ادخل و العب  😘👇👇\n\nKML-00D3448F-0C959353-2F320968\n✅التفعيل الأساسي (Master Switch)\n✅سحب اللعبة ومعرفة الأوراق\n✅تعريب الخوي وكشف أوراقه\n✅كشف القاطع والحكم\n✅اللعب التلقائي (Auto Play)\n✅إزالة الإعلانات بالكامل\n✅تفعيل اشتراك Pro\n✅تغيير إصدار اللعبة (Version Spoof)\n✅تنبيه المشاريع (Projects Alert)\n✅تشخيص المميزات\n✅دعم تغيير إصدار اللعبة إلى الإصدار المطلوب\n\n\nاشترك في قناتنا حتي يوصلك كلشي جديد",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app8ac770c112.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app8ac770c112_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app8ac770c112_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app8ac770c112_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app8ac770c112_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app8ac770c112_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app8ac770c112_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app8ac770c112_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app8ac770c112_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.10.0",
+                    "date": "2026-11-07T19:55:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/app8ac770c112.ipa",
+                    "size": 387247944,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app8ac770c112_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app8ac770c112_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app8ac770c112_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app8ac770c112_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1444686086,
+            "name": "DL X",
+            "version": "11.48",
+            "size": 355958539,
+            "icon": "img/dlx.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/dlx.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/dlx.ipa",
+            "bundleIdentifier": "com.atebits.Tweetie199",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تم رفعه واستخراجه تلقائياً",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dlx.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dlx_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dlx_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dlx_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dlx_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dlx_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dlx_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dlx_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dlx_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "11.48",
+                    "date": "2026-11-07T19:53:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/dlx.ipa",
+                    "size": 355958539,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dlx_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dlx_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dlx_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dlx_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1839406341,
+            "name": "TROOPER Synthesizer IPA v1.01 For iOS",
+            "version": "2.4.4",
+            "size": 150000000,
+            "icon": "img/troopersynthesizeripav101forios.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/troopersynthesizeripav101forios.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/troopersynthesizeripav101forios.ipa",
+            "bundleIdentifier": "com.moogmusic.model15",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "TROOPER Synthesizer IPA v1.01 For iOS",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/troopersynthesizeripav101forios.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/troopersynthesizeripav101forios_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/troopersynthesizeripav101forios_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/troopersynthesizeripav101forios_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/troopersynthesizeripav101forios_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/troopersynthesizeripav101forios_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/troopersynthesizeripav101forios_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/troopersynthesizeripav101forios_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/troopersynthesizeripav101forios_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.4",
+                    "date": "2026-11-07T19:53:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/troopersynthesizeripav101forios.ipa",
+                    "size": 150000000,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/troopersynthesizeripav101forios_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/troopersynthesizeripav101forios_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/troopersynthesizeripav101forios_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/troopersynthesizeripav101forios_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1756513848,
             "name": "ترَبَّع",
             "version": "4.0.2",
