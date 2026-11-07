@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1157655139,
+            "name": "Connect Masters",
+            "version": "2.0.37",
+            "size": 214382097,
+            "icon": "img/connectmasters.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/connectmasters.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/connectmasters.ipa",
+            "bundleIdentifier": "com.unicostudio.connect",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/connectmasters.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connectmasters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connectmasters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connectmasters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connectmasters_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connectmasters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connectmasters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connectmasters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connectmasters_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.37",
+                    "date": "2026-11-07T20:00:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/connectmasters.ipa",
+                    "size": 214382097,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connectmasters_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connectmasters_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connectmasters_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connectmasters_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1278162516,
+            "name": "Reddit++",
+            "version": "2020.21.1",
+            "size": 90271450,
+            "icon": "img/reddit.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/reddit.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/reddit.ipa",
+            "bundleIdentifier": "syto203.reddit.pp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تتيح هذه النسخة المعدلة للمستخدم عرض المشاركات المحذوفة\r\n التي تم استردادها بواسطة pushshift.io. بدون اعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/reddit.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reddit_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reddit_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reddit_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reddit_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reddit_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reddit_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reddit_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reddit_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2020.21.1",
+                    "date": "2026-11-07T20:00:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/reddit.ipa",
+                    "size": 90271450,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reddit_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reddit_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reddit_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reddit_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1487570280,
+            "name": "TV Mirroring",
+            "version": "1.2",
+            "size": 12253974,
+            "icon": "img/tvmirroring.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/tvmirroring.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/tvmirroring.ipa",
+            "bundleIdentifier": "com.kudo.rokucast",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- فتح الأشتراك\n\n#حصريا \n\nتطبيق للتلفاز لعرض شاشة على التلفاز",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tvmirroring.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmirroring_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmirroring_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmirroring_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmirroring_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmirroring_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmirroring_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmirroring_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmirroring_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-07T20:00:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/tvmirroring.ipa",
+                    "size": 12253974,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmirroring_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmirroring_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmirroring_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmirroring_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1537156086,
+            "name": "Instagram iNKillerPlus",
+            "version": "285.0",
+            "size": 234196903,
+            "icon": "img/instagraminkillerplus.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/instagraminkillerplus.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/instagraminkillerplus.ipa",
+            "bundleIdentifier": "com.burbn.instagram",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "INKillerPlus \r\n \r\n المميزات :\r\n- حفظ الصور والفيديوهات إلى البوم الكاميرا . \r\n- حفظ صورة الملف الشخصي .\r\n- حفظ الـ Reels .\r\n- معرفة حالة المتابعة .\r\n- مشاهدة الستوري دون علم الطرف الآخر .\r\n- مشاهدة الرسائل دون علم الطرف الآخر .\r\n- إزالة الإعلانات المزعجة . \r\n- ميزة نسخ الوصف او البايو او اسم المستخدم للحساب .\r\n- قفل التطبيق بكلمة مرور .\r\n- تأكيد الإعجاب والمتابعة .\r\n\r\n\r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/instagraminkillerplus.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagraminkillerplus_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagraminkillerplus_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagraminkillerplus_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagraminkillerplus_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagraminkillerplus_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagraminkillerplus_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagraminkillerplus_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagraminkillerplus_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "285.0",
+                    "date": "2026-11-07T20:00:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/instagraminkillerplus.ipa",
+                    "size": 234196903,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagraminkillerplus_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagraminkillerplus_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagraminkillerplus_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagraminkillerplus_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1562740876,
+            "name": "Jodel  LDR",
+            "version": "7.186",
+            "size": 176874682,
+            "icon": "img/jodelldr.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/jodelldr.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/jodelldr.ipa",
+            "bundleIdentifier": "com.go-tellm.tellm",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات: \r\n- رفع الصور من البوم الكاميرا . \r\n- حفظ الصور الى البوم الكاميرا .\r\n- حذف الضبابية من على الصور في التايم لاين .\r\n- ميزة النسخ واللصق .\r\n- قفل التطبيق برمز سري .\r\n- تغيير الموقع  .\r\n- اضافة ميزة الرد في المحادثات الخاصة . \r\nفي حالة حظر الحساب يمكنك ارسال طلب \r\nمحادثة خاصة والرد عليها فقط .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jodelldr.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelldr_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelldr_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelldr_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelldr_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelldr_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelldr_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelldr_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelldr_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "7.186",
+                    "date": "2026-11-07T19:59:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/jodelldr.ipa",
+                    "size": 176874682,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelldr_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelldr_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelldr_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelldr_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1123482319,
+            "name": "Instagram Rhino",
+            "version": "189.0",
+            "size": 173396974,
+            "icon": "img/instagramrhino.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/instagramrhino.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/instagramrhino.ipa",
+            "bundleIdentifier": "com.burbn.instagram",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "انستقرام رينو \r\n احترافي بمميزات /\r\n امكانية تحميل وحفظ الفديو والصور \r\n- حفظ الاستوري\r\n - حفظ البث كامل\r\n- اخفاء مؤشر القراده \r\n- امكانية اخفاء ظهورك فالاستوري\r\n - وضع رقم سري للتطبيق",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/instagramrhino.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramrhino_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramrhino_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramrhino_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramrhino_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramrhino_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramrhino_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramrhino_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramrhino_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "189.0",
+                    "date": "2026-11-07T19:59:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/instagramrhino.ipa",
+                    "size": 173396974,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramrhino_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramrhino_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramrhino_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instagramrhino_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1295010242,
+            "name": "iQFace",
+            "version": "484.1.0",
+            "size": 346672988,
+            "icon": "img/iqface.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/iqface.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/iqface.ipa",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "iQFace",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/iqface.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqface_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqface_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqface_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqface_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqface_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqface_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqface_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqface_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "484.1.0",
+                    "date": "2026-11-07T19:59:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/iqface.ipa",
+                    "size": 346672988,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqface_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqface_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqface_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqface_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1692773516,
+            "name": "Facebook Wolf",
+            "version": "484.1.0",
+            "size": 346672988,
+            "icon": "img/facebookwolf.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/facebookwolf.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/facebookwolf.ipa",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- حفظ الفيديوهات من المنشورات\r\n- تأكيد اللايك\r\n- ازالة الاعلانات المزعجة.\r\n-حفظ صور وفيديوهات الستوري\r\n- اخفاء مشاهدة الدستوري\r\n- اخفاء قراءة الرسائل\r\n- اخفاء جاري الكتابة في المحادثة.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/facebookwolf.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookwolf_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookwolf_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookwolf_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookwolf_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookwolf_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookwolf_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookwolf_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookwolf_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "484.1.0",
+                    "date": "2026-11-07T19:58:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/facebookwolf.ipa",
+                    "size": 346672988,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookwolf_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookwolf_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookwolf_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebookwolf_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1782401727,
+            "name": "Jodel Plus",
+            "version": "7.190",
+            "size": 175755917,
+            "icon": "img/jodelplus.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/jodelplus.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/jodelplus.ipa",
+            "bundleIdentifier": "com.go-tellm.tellm",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\nرفع الصور من البوم الكاميرا . \nحفظ الصور الى البوم الكاميرا .\nحذف الضبابية من على الصور في التايم لاين .\nميزة النسخ واللصق .\nقفل التطبيق برمز سري .\nتغيير الموقع  .\n - تخطي حظر الخاص بدون الحاجة لاكواد \n- تدعم اكواد UUID (فك حظر الخاص والعام)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jodelplus.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelplus_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelplus_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelplus_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelplus_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelplus_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelplus_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelplus_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelplus_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.190",
+                    "date": "2026-11-07T19:58:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/jodelplus.ipa",
+                    "size": 175755917,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelplus_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelplus_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelplus_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jodelplus_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1486143412,
+            "name": "Nicegram",
+            "version": "1.7.0",
+            "size": 252288015,
+            "icon": "img/nicegram.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/nicegram.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/nicegram.ipa",
+            "bundleIdentifier": "app.nicegram",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات:\n-تيليغرام معدّل بخصائص مضافة مثل الترجمة الفورية\n- هذه نسخة مفتوحة المميزات وليست حساب بريميوم ❌",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nicegram.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nicegram_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nicegram_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nicegram_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nicegram_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nicegram_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nicegram_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nicegram_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nicegram_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.0",
+                    "date": "2026-11-07T19:58:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/nicegram.ipa",
+                    "size": 252288015,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nicegram_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nicegram_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nicegram_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nicegram_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1973150414,
             "name": "Screen Cast",
             "version": "15.5.6",
