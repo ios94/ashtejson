@@ -10,6 +10,435 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1739410060,
+            "name": "Shadow Fight 2",
+            "version": "2.46.0",
+            "size": 376039328,
+            "icon": "img/shadowfight2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/shadowfight2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/shadowfight2.ipa",
+            "bundleIdentifier": "com.nekki.shadowfight",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "عملة لانهائية\r\n جوهرة لانهائية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shadowfight2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowfight2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowfight2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowfight2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowfight2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowfight2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowfight2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowfight2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowfight2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.46.0",
+                    "date": "2026-11-07T21:42:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/shadowfight2.ipa",
+                    "size": 376039328,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowfight2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowfight2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowfight2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowfight2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1491137016,
+            "name": "INSIDE",
+            "version": "1.1.14",
+            "size": 772778927,
+            "icon": "img/inside.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/inside.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/inside.ipa",
+            "bundleIdentifier": "com.playdeadgames.inside.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه مغامرات  \r\n\r\nالمميزات :\r\nالنسخه الكاملة\r\nاضغط شراء ثم الغاء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/inside.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inside_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inside_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inside_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inside_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inside_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inside_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inside_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inside_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.14",
+                    "date": "2026-11-07T21:41:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/inside.ipa",
+                    "size": 772778927,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inside_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inside_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inside_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inside_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1521410729,
+            "name": "MaskGun",
+            "version": "3.053",
+            "size": 446006442,
+            "icon": "img/maskgun.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/maskgun.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/maskgun.ipa",
+            "bundleIdentifier": "com.junesoftware.maskgun",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ESP\n[تحتاج إلى إطلاق رصاصة واحدة وإعادة التحميل لتمكين هذه الميزات]\n- ذخيرة غير محدودة\n- قتل برصاصة واحدة\n- زيادة معدل إطلاق النار",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/maskgun.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maskgun_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maskgun_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maskgun_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maskgun_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maskgun_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maskgun_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maskgun_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maskgun_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.053",
+                    "date": "2026-11-07T21:40:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/maskgun.ipa",
+                    "size": 446006442,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maskgun_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maskgun_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maskgun_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maskgun_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1794224863,
+            "name": "Goldbergs",
+            "version": "3.5.2682",
+            "size": 244502624,
+            "icon": "img/goldbergs.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/goldbergs.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/goldbergs.ipa",
+            "bundleIdentifier": "com.eastsidegames.thegoldbergs",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Currencies -> Will increase instead of decrease.\n\n- عملات غير محدودة (تزيد ماتنقص).",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/goldbergs.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldbergs_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldbergs_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldbergs_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldbergs_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldbergs_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldbergs_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldbergs_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldbergs_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.5.2682",
+                    "date": "2026-11-07T21:40:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/goldbergs.ipa",
+                    "size": 244502624,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldbergs_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldbergs_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldbergs_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldbergs_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1979207412,
+            "name": "Supermarket Manager Simulator",
+            "version": "1.2.32",
+            "size": 385766386,
+            "icon": "img/supermarketmanagersimulator.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/supermarketmanagersimulator.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/supermarketmanagersimulator.ipa",
+            "bundleIdentifier": "com.dmg.supermarket.simulator",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مدمجة مع محرك Babylon Cheats\nالمميزات :-\n- متجر مجاني ( اضغط شراء ثم الغاء )\nفعل الهاك من المنيو .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/supermarketmanagersimulator.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supermarketmanagersimulator_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supermarketmanagersimulator_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supermarketmanagersimulator_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supermarketmanagersimulator_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supermarketmanagersimulator_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supermarketmanagersimulator_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supermarketmanagersimulator_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supermarketmanagersimulator_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.32",
+                    "date": "2026-11-07T21:39:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/supermarketmanagersimulator.ipa",
+                    "size": 385766386,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supermarketmanagersimulator_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supermarketmanagersimulator_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supermarketmanagersimulator_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supermarketmanagersimulator_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1204056958,
+            "name": "All Email",
+            "version": "1.9",
+            "size": 142327351,
+            "icon": "img/allemail.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/allemail.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/allemail.ipa",
+            "bundleIdentifier": "com.vasu.allemaillogin.inbox",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق مصمم لتبسيط إدارة البريد الإلكتروني من خلال الجمع بين صندوق الوارد الموحد وأدوات الذكاء الاصطناعي المتقدمة. سواء كنت تتعامل مع رسائل البريد الإلكتروني الشخصية أو التجارية، يساعدك هذا التطبيق على كتابة رسائلك والرد عليها وتنظيمها بكفاءة.\n\n- مفتوح المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/allemail.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allemail_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allemail_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allemail_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allemail_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allemail_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allemail_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allemail_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allemail_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.9",
+                    "date": "2026-11-07T21:38:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/allemail.ipa",
+                    "size": 142327351,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allemail_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allemail_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allemail_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allemail_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1361593376,
+            "name": "Merge Fellas",
+            "version": "2.5.3",
+            "size": 193989164,
+            "icon": "img/mergefellas.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/mergefellas.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/mergefellas.ipa",
+            "bundleIdentifier": "com.tapmen.mergefellas",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني بالكامل \nاضغط شراء ثم الغاء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergefellas.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefellas_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefellas_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefellas_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefellas_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefellas_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefellas_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.5.3",
+                    "date": "2026-11-07T21:38:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/mergefellas.ipa",
+                    "size": 193989164,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefellas_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefellas_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefellas_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1236304805,
+            "name": "Manor Matters",
+            "version": "6.9.5",
+            "size": 328284247,
+            "icon": "img/manormatters.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/manormatters.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/manormatters.ipa",
+            "bundleIdentifier": "com.playrix.manor-matters",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- طاقة لا نهائية\n- عملات لا نهائية\n- معززات لا نهائية (استخدم العملات لشراء المعززات)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/manormatters.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/manormatters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/manormatters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/manormatters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/manormatters_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/manormatters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/manormatters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/manormatters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/manormatters_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.9.5",
+                    "date": "2026-11-07T21:38:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/manormatters.ipa",
+                    "size": 328284247,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/manormatters_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/manormatters_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/manormatters_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/manormatters_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1690155934,
+            "name": "Highway Drift - Car Racing",
+            "version": "0.9.7",
+            "size": 622736353,
+            "icon": "img/highwaydriftcarracing.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/highwaydriftcarracing.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/highwaydriftcarracing.ipa",
+            "bundleIdentifier": "com.hypermonkgames.AutoDrift",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Drift Income Upgrades (No Max)\n\n- ترقيات غير محدودة لدخل الانجراف (بدون حد أقصى)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/highwaydriftcarracing.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydriftcarracing_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydriftcarracing_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydriftcarracing_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydriftcarracing_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydriftcarracing_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydriftcarracing_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydriftcarracing_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydriftcarracing_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.9.7",
+                    "date": "2026-11-07T21:37:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/highwaydriftcarracing.ipa",
+                    "size": 622736353,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydriftcarracing_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydriftcarracing_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydriftcarracing_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydriftcarracing_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1714931138,
             "name": "Lie Detector",
             "version": "1.6.0",
