@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1406415505,
+            "name": "NIGHT SURVIVORS",
+            "version": "1.3.1",
+            "size": 1133340361,
+            "icon": "img/nightsurvivors.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/nightsurvivors.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/nightsurvivors.ipa",
+            "bundleIdentifier": "com.fdjed.minionsurvivors",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- إزالة الإعلانات → يزيل انقطاعات الإعلانات\r\n- جواهر غير محدودة → عملة مميزة غير محدودة\r\n- ذهب غير محدود → عملة اللعبة غير محدودة\r\n- الخلود → البقاء بدون تلقي أضرار",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nightsurvivors.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightsurvivors_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightsurvivors_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightsurvivors_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightsurvivors_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightsurvivors_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightsurvivors_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightsurvivors_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightsurvivors_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.1",
+                    "date": "2026-11-07T00:42:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/nightsurvivors.ipa",
+                    "size": 1133340361,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightsurvivors_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightsurvivors_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightsurvivors_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightsurvivors_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1429217195,
+            "name": "Last Green:Tower Defense",
+            "version": "1.0.9",
+            "size": 1214444005,
+            "icon": "img/lastgreentowerdefense.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/lastgreentowerdefense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/lastgreentowerdefense.ipa",
+            "bundleIdentifier": "com.lastgreen.appgame",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لاعب لا يتضرر → عدم تلقي أي ضرر\r\n- القتل بضربة واحدة → قتل جميع الأعداء بضربة واحدة\r\n\r\n- God Mode — take no damage\r\n- OHK (One Hit Kill) — one-hit kills on all enemies",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lastgreentowerdefense.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastgreentowerdefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastgreentowerdefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastgreentowerdefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastgreentowerdefense_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastgreentowerdefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastgreentowerdefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastgreentowerdefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastgreentowerdefense_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.9",
+                    "date": "2026-11-07T00:40:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/lastgreentowerdefense.ipa",
+                    "size": 1214444005,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastgreentowerdefense_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastgreentowerdefense_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastgreentowerdefense_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastgreentowerdefense_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1746450873,
+            "name": "Subway Surf",
+            "version": "3.71.0",
+            "size": 425871614,
+            "icon": "img/subwaysurf.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/subwaysurf.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/subwaysurf.ipa",
+            "bundleIdentifier": "com.kiloo.subwaysurfers",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free Store (not Free iAP)\n- Free iAP (ViP Only)\n- Unlock Characters Outfit\n- Custom Jump Height\n- No Clip (To end level swipe to left til you get dizzy, swipe again and you will lose)\n\n- متجر مجاني (ليس شراء داخل التطبيق)\n- تطبيق iAP مجاني (VIP فقط)\n- فتح الزي الشخصيات\n- ارتفاع القفزة المخصصة\n- لا يوجد مقطع (لإنهاء المستوى، اسحب إلى اليسار حتى تشعر بالدوار، اسحب مرة أخرى وستخسر)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/subwaysurf.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaysurf_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaysurf_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaysurf_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaysurf_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaysurf_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaysurf_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaysurf_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaysurf_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.71.0",
+                    "date": "2026-11-07T00:39:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/subwaysurf.ipa",
+                    "size": 425871614,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaysurf_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaysurf_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaysurf_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaysurf_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1162496952,
+            "name": "Matchington",
+            "version": "1.213.0",
+            "size": 715713444,
+            "icon": "img/matchington.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/matchington.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/matchington.ipa",
+            "bundleIdentifier": "com.matchington.mansion",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Moves\n- Infinite Booster\n- Infinite Lives\n\n- تحركات غير محدودة\n- الداعم لانهائي\n- حيوات لا نهائية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/matchington.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchington_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchington_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchington_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchington_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchington_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchington_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchington_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchington_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.213.0",
+                    "date": "2026-11-07T00:39:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/matchington.ipa",
+                    "size": 715713444,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchington_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchington_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchington_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchington_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1685122680,
+            "name": "Cooking Wonder",
+            "version": "2.78.0",
+            "size": 468245038,
+            "icon": "img/cookingwonder.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/cookingwonder.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/cookingwonder.ipa",
+            "bundleIdentifier": "com.wonderlegend.cookingwonder",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "عملات غير محدودة .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cookingwonder.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingwonder_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingwonder_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingwonder_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingwonder_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingwonder_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingwonder_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingwonder_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingwonder_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.78.0",
+                    "date": "2026-11-07T00:37:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/cookingwonder.ipa",
+                    "size": 468245038,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingwonder_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingwonder_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingwonder_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookingwonder_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1693765324,
+            "name": "Idle Weapon Shop",
+            "version": "2.1.3",
+            "size": 624125598,
+            "icon": "img/idleweaponshop.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/idleweaponshop.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/idleweaponshop.ipa",
+            "bundleIdentifier": "com.hg.idleweaponshoptycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idleweaponshop.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleweaponshop_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleweaponshop_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleweaponshop_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleweaponshop_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleweaponshop_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleweaponshop_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleweaponshop_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleweaponshop_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.3",
+                    "date": "2026-11-07T00:37:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/idleweaponshop.ipa",
+                    "size": 624125598,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleweaponshop_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleweaponshop_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleweaponshop_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleweaponshop_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1701543210,
+            "name": "Meow Tower",
+            "version": "3.7.001",
+            "size": 264243079,
+            "icon": "img/meowtower.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/meowtower.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/meowtower.ipa",
+            "bundleIdentifier": "com.grapetree.meowtower",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ADS NO\n- Gold CANS\n- Pencil Max\n- Hints Max\n\n- رقم الإعلان\n- علب الذهب\n- قلم رصاص ماكس\n- تلميحات ماكس",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/meowtower.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtower_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtower_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtower_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtower_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtower_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtower_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtower_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtower_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.7.001",
+                    "date": "2026-11-07T00:36:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/meowtower.ipa",
+                    "size": 264243079,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtower_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtower_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtower_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtower_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1170340636,
+            "name": "Renovate AI",
+            "version": "5.6.0",
+            "size": 159025559,
+            "icon": "img/renovateai.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/renovateai.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/renovateai.ipa",
+            "bundleIdentifier": "app.renovateai",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لتصميم اثاث البيت 3D .\n- مفتوح المزايا تلقائيا .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/renovateai.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/renovateai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/renovateai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/renovateai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/renovateai_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/renovateai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/renovateai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/renovateai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/renovateai_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.6.0",
+                    "date": "2026-11-07T00:35:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/renovateai.ipa",
+                    "size": 159025559,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/renovateai_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/renovateai_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/renovateai_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/renovateai_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1191232057,
+            "name": "Futbin",
+            "version": "9.0.2",
+            "size": 267737802,
+            "icon": "img/futbin.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/futbin.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/futbin.ipa",
+            "bundleIdentifier": "com.futbin",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متابعة اسعار اللاعبين\n\n- بدون اعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/futbin.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futbin_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futbin_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futbin_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futbin_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futbin_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futbin_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futbin_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futbin_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "9.0.2",
+                    "date": "2026-11-07T00:35:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/futbin.ipa",
+                    "size": 267737802,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futbin_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futbin_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futbin_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futbin_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1507436887,
             "name": "Mochi Burst",
             "version": "1.0.9",
