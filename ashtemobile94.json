@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1502543847,
+            "name": "PGA TOUR",
+            "version": "5.24.0",
+            "size": 389834771,
+            "icon": "img/pgatour.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/pgatour.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/pgatour.ipa",
+            "bundleIdentifier": "com.concretesoftware.golf",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Always Perfect Shot\n- No Wind\n- Freeze Currencies\n- Multiply RewardsNOTE: Currencies & rewards may not work. Look like game is server-sided\n\n- لقطة مثالية دائمًا\n- لا الرياح\n- تجميد العملات\n- مضاعفة المكافآت ملاحظة: قد لا تعمل العملات والمكافآت. تبدو اللعبة من جانب الخادم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pgatour.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatour_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatour_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatour_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatour_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatour_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatour_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatour_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatour_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.24.0",
+                    "date": "2026-11-07T05:22:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/pgatour.ipa",
+                    "size": 389834771,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatour_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatour_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatour_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pgatour_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1679420840,
+            "name": "Duel Links",
+            "version": "11.1.1",
+            "size": 179974563,
+            "icon": "img/duellinks.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/duellinks.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/duellinks.ipa",
+            "bundleIdentifier": "jp.konami.yugiohmobile",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Always Win Quit/Die\n- Show Opponent Hand\n- Show Opponent Top Deck\n\n- الفوز دائمًا بالاستقالة/الموت\n- إظهار يد الخصم\n- إظهار السطح العلوي للخصم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/duellinks.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duellinks_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duellinks_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duellinks_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duellinks_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duellinks_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duellinks_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duellinks_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duellinks_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "11.1.1",
+                    "date": "2026-11-07T05:22:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/duellinks.ipa",
+                    "size": 179974563,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duellinks_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duellinks_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duellinks_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duellinks_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1202587648,
+            "name": "Dokkan Battle",
+            "version": "6.6.5",
+            "size": 1172117210,
+            "icon": "img/dokkanbattle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/dokkanbattle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/dokkanbattle.ipa",
+            "bundleIdentifier": "jp.co.bandainamcogames.BNGI0221",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "ميزات :\r\n- اضرار جسيمة\r\n- دفاع عالي\r\n- صحة عالية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dokkanbattle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dokkanbattle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dokkanbattle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dokkanbattle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dokkanbattle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dokkanbattle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dokkanbattle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dokkanbattle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dokkanbattle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.6.5",
+                    "date": "2026-11-07T05:22:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/dokkanbattle.ipa",
+                    "size": 1172117210,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dokkanbattle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dokkanbattle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dokkanbattle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dokkanbattle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1474057950,
+            "name": "Dead Target",
+            "version": "6.185.0",
+            "size": 662406152,
+            "icon": "img/deadtarget.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/deadtarget.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/deadtarget.ipa",
+            "bundleIdentifier": "com.vng.g6.a.zombie",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free iAP\n- Unlimited Cash\n- Unlimited Gold\n- Unlimited Grenades\n- Unlimited Medkits\n\n- شراء داخل التطبيق مجاني\n- نقود غير محدودة\n- ذهب غير محدود\n- قنابل يدوية غير محدودة\n- أطقم طبية غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/deadtarget.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtarget_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtarget_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtarget_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtarget_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtarget_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtarget_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtarget_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtarget_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "6.185.0",
+                    "date": "2026-11-07T05:20:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/deadtarget.ipa",
+                    "size": 662406152,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtarget_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtarget_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtarget_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadtarget_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1796418586,
+            "name": "MergeDragons!",
+            "version": "13.18.3",
+            "size": 456246061,
+            "icon": "img/mergedragons.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/mergedragons.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/mergedragons.ipa",
+            "bundleIdentifier": "com.gramgames.mergedragons",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Currencies\n\n- تجميد العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergedragons.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergedragons_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergedragons_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergedragons_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergedragons_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergedragons_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergedragons_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergedragons_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergedragons_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "13.18.3",
+                    "date": "2026-11-07T05:20:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/mergedragons.ipa",
+                    "size": 456246061,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergedragons_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergedragons_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergedragons_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergedragons_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1220142369,
+            "name": "Art of War",
+            "version": "7.7.8",
+            "size": 503335089,
+            "icon": "img/artofwar.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/artofwar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/artofwar.ipa",
+            "bundleIdentifier": "com.addictive.strategy.artofwar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مهارات لا نهائية\r\n جديد - دائما تحصل على ٣ نجوم.\r\n - ضربة واحدة تقتل العدو.\r\n- لا ضرر للاثنان.\r\n- ضرر عالي للمهارت.\r\n- لا تموت ابد في وضع الصيد الوحش - يجب تفعيل المهارات لانهائية.\r\n- تفعيل Vip.\r\n- حظ عالي في كل الكارتات.\r\n- حظ عالي في فتح الصندوق.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artofwar.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artofwar_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artofwar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artofwar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artofwar_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artofwar_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artofwar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artofwar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artofwar_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.7.8",
+                    "date": "2026-11-07T05:19:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/artofwar.ipa",
+                    "size": 503335089,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artofwar_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artofwar_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artofwar_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artofwar_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1717454038,
+            "name": "Tap Ninja",
+            "version": "7.1.28",
+            "size": 170061438,
+            "icon": "img/tapninja.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/tapninja.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/tapninja.ipa",
+            "bundleIdentifier": "com.BrokenGlass.TapNinja",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "• زيادة الذهب ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tapninja.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapninja_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapninja_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapninja_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapninja_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapninja_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapninja_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapninja_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapninja_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.1.28",
+                    "date": "2026-11-07T05:18:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/tapninja.ipa",
+                    "size": 170061438,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapninja_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapninja_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapninja_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapninja_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1780052373,
+            "name": "ColorfulStage",
+            "version": "6.1.0",
+            "size": 524269620,
+            "icon": "img/colorfulstage.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/colorfulstage.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/colorfulstage.ipa",
+            "bundleIdentifier": "com.sega.ColorfulStage.en",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "• لاعب لايتضرر",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/colorfulstage.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorfulstage_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorfulstage_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorfulstage_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorfulstage_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorfulstage_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorfulstage_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorfulstage_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorfulstage_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "6.1.0",
+                    "date": "2026-11-07T05:17:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/colorfulstage.ipa",
+                    "size": 524269620,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorfulstage_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorfulstage_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorfulstage_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorfulstage_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1545543828,
+            "name": "Tetris",
+            "version": "7.7.13",
+            "size": 377734873,
+            "icon": "img/tetris.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/tetris.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/tetris.ipa",
+            "bundleIdentifier": "com.n3twork.tetris",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا توجد إعلانات\n- تجميد السقوط\n- درجة عالية من التصفية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tetris.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tetris_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tetris_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tetris_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tetris_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tetris_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tetris_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tetris_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tetris_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "7.7.13",
+                    "date": "2026-11-07T05:17:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/tetris.ipa",
+                    "size": 377734873,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tetris_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tetris_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tetris_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tetris_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1160902200,
             "name": "Triple Match",
             "version": "201.01",
