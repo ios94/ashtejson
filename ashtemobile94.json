@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1136941612,
+            "name": "Smule",
+            "version": "14.4.1",
+            "size": 161516399,
+            "icon": "img/smule.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/smule.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/smule.ipa",
+            "bundleIdentifier": "com.smule.sing",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق يتيح للمستخدمين الغناء مع الموسيقى . \n- تفعيل عضوية VIP داخل التطبيق .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smule.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smule_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smule_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smule_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smule_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smule_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smule_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smule_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smule_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "14.4.1",
+                    "date": "2026-11-07T05:32:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/smule.ipa",
+                    "size": 161516399,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smule_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smule_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smule_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smule_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1325482049,
+            "name": "Copy Text On Screen",
+            "version": "1.5.9",
+            "size": 92959513,
+            "icon": "img/copytextonscreen.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/copytextonscreen.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/copytextonscreen.ipa",
+            "bundleIdentifier": "rishi.ocr.copy.text.on.screen.recognition",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- استخراج اي نص من الصورة\r\n- يدعم اللغة العربية وغيرها من اللغات \r\n\r\n- مفتوح مميزات البرو \r\n(اضغط على شراء وبعدها الغاء)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/copytextonscreen.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copytextonscreen_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copytextonscreen_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copytextonscreen_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copytextonscreen_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copytextonscreen_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copytextonscreen_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copytextonscreen_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copytextonscreen_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.9",
+                    "date": "2026-11-07T05:31:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/copytextonscreen.ipa",
+                    "size": 92959513,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copytextonscreen_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copytextonscreen_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copytextonscreen_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copytextonscreen_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1454197667,
+            "name": "Chat Smith",
+            "version": "9.261019.2",
+            "size": 795772186,
+            "icon": "img/chatsmith.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/chatsmith.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/chatsmith.ipa",
+            "bundleIdentifier": "co.vulcanlabs.moodtracker",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق Ai chatbot\r\n\r\nالمميزات:\r\n•محادثة مع الذكاء الاسطناعي \r\n•تفعيل بريميوم داخل التطبيق \r\n\r\nإضغط شراء ثم إلغاء ✔️\r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/chatsmith.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatsmith_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatsmith_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatsmith_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatsmith_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatsmith_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatsmith_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatsmith_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatsmith_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "9.261019.2",
+                    "date": "2026-11-07T05:31:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/chatsmith.ipa",
+                    "size": 795772186,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatsmith_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatsmith_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatsmith_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatsmith_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1665435849,
+            "name": "Car Scanner",
+            "version": "2.2.42",
+            "size": 185772010,
+            "icon": "img/carscanner.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/carscanner.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/carscanner.ipa",
+            "bundleIdentifier": "ovz.Car-Scanner",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق خاص لفحص الاعطال فالسيارات \n\nمفتوح المميزات بالكامل ...\n\nتنبيه : \nاضغط شراء ثم الغاء .\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carscanner.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carscanner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carscanner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carscanner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carscanner_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carscanner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carscanner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carscanner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carscanner_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.2.42",
+                    "date": "2026-11-07T05:30:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/carscanner.ipa",
+                    "size": 185772010,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carscanner_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carscanner_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carscanner_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carscanner_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1889149113,
+            "name": "Awaan - أوان",
+            "version": "10.9.1",
+            "size": 166346250,
+            "icon": "img/awaan.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/awaan.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/awaan.ipa",
+            "bundleIdentifier": "com.endavomedia.dmiondemand",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "افلام ومسلسلات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/awaan.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "10.9.1",
+                    "date": "2026-11-07T05:30:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/awaan.ipa",
+                    "size": 166346250,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1389254790,
+            "name": "Awaan",
+            "version": "10.9.1",
+            "size": 166346250,
+            "icon": "img/awaan.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/awaan.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/awaan.ipa",
+            "bundleIdentifier": "com.endavomedia.dmiondemand",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "• مشاهدة المسلسلات والأفلام العربية\r\n ، بدون إعلانات ✔",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/awaan.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "10.9.1",
+                    "date": "2026-11-07T05:30:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/awaan.ipa",
+                    "size": 166346250,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/awaan_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1147830521,
+            "name": "FarmVille 2",
+            "version": "31.1",
+            "size": 765873175,
+            "icon": "img/farmville2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/farmville2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/farmville2.ipa",
+            "bundleIdentifier": "com.zynga.FarmVille2CountryEscape",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Key\n\n- مفتاح التجميد",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmville2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "31.1",
+                    "date": "2026-11-07T05:30:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/farmville2.ipa",
+                    "size": 765873175,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1941980224,
+            "name": "JT Sniper",
+            "version": "1.0.72",
+            "size": 469605163,
+            "icon": "img/jtsniper.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/jtsniper.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/jtsniper.ipa",
+            "bundleIdentifier": "com.jtsniper.game",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\nنقود لا محدودة . \r\nجواهر لا محدودة . ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jtsniper.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jtsniper_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jtsniper_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jtsniper_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jtsniper_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jtsniper_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jtsniper_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jtsniper_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jtsniper_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.72",
+                    "date": "2026-11-07T05:29:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/jtsniper.ipa",
+                    "size": 469605163,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jtsniper_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jtsniper_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jtsniper_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jtsniper_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1823176045,
+            "name": "TanksALot",
+            "version": "10.000",
+            "size": 412331846,
+            "icon": "img/tanksalot.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/tanksalot.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/tanksalot.ipa",
+            "bundleIdentifier": "com.boombitgames.TanksALot",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات \r\n-ذخيرة لانهائية\r\n-ثبات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tanksalot.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksalot_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksalot_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksalot_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksalot_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksalot_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksalot_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksalot_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksalot_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "10.000",
+                    "date": "2026-11-07T05:28:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/tanksalot.ipa",
+                    "size": 412331846,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksalot_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksalot_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksalot_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksalot_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1502543847,
             "name": "PGA TOUR",
             "version": "5.24.0",
