@@ -10,6 +10,429 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1367110107,
+            "name": "Cat vs Cucumber",
+            "version": "3.1.0",
+            "size": 895338526,
+            "icon": "img/catvscucumber.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/catvscucumber.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/catvscucumber.ipa",
+            "bundleIdentifier": "com.ViewPassion.CatvsCucumber",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ضرر مضاعف\r\n- مضاعفة الدفاع\r\n- وضع الطاقة اللانهائي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/catvscucumber.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/catvscucumber.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/catvscucumber.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.1.0",
+                    "date": "2026-11-07T09:30:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/catvscucumber.ipa",
+                    "size": 895338526,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/catvscucumber.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1759322202,
+            "name": "Box Head: Zombies Must Die!",
+            "version": "3.7.6",
+            "size": 632935985,
+            "icon": "img/boxheadzombiesmustdie.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/boxheadzombiesmustdie.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/boxheadzombiesmustdie.ipa",
+            "bundleIdentifier": "com.panthera.boxheadzombiesmustdie",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "IGG",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/boxheadzombiesmustdie.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxheadzombiesmustdie_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxheadzombiesmustdie_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxheadzombiesmustdie_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxheadzombiesmustdie_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxheadzombiesmustdie_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxheadzombiesmustdie_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxheadzombiesmustdie_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxheadzombiesmustdie_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.7.6",
+                    "date": "2026-11-07T09:29:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/boxheadzombiesmustdie.ipa",
+                    "size": 632935985,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxheadzombiesmustdie_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxheadzombiesmustdie_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxheadzombiesmustdie_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxheadzombiesmustdie_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1791814809,
+            "name": "Wall Brawl",
+            "version": "0.6.40",
+            "size": 410749930,
+            "icon": "img/wallbrawl.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/wallbrawl.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/wallbrawl.ipa",
+            "bundleIdentifier": "com.homagames.studio.wallbrawl.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات اللعبة او التطبيق \r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات ام شراء داخلي وسوف ينبهك بذالك\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wallbrawl.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallbrawl_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallbrawl_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallbrawl_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallbrawl_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallbrawl_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallbrawl_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallbrawl_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallbrawl_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.6.40",
+                    "date": "2026-11-07T09:28:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/wallbrawl.ipa",
+                    "size": 410749930,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallbrawl_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallbrawl_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallbrawl_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallbrawl_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1774901499,
+            "name": "Basketball Master: Slam Hero",
+            "version": "3.2.0",
+            "size": 573948091,
+            "icon": "img/basketballmasterslamhero.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/basketballmasterslamhero.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/basketballmasterslamhero.ipa",
+            "bundleIdentifier": "com.udogames.dunkmasters",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- بدون إعلانات → العب بدون انقطاع\n- أموال غير محدودة → فتح العناصر والترقيات على الفور\n- ذهب غير محدود / تم الاختبار بدون مشاكل → زيادة العملة المميزة إلى الحد الأقصى\n- تجميد الطاقة → العب بدون تأخيرات إعادة التعبئة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/basketballmasterslamhero.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballmasterslamhero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballmasterslamhero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballmasterslamhero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballmasterslamhero_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballmasterslamhero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballmasterslamhero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballmasterslamhero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballmasterslamhero_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.2.0",
+                    "date": "2026-11-07T09:28:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/basketballmasterslamhero.ipa",
+                    "size": 573948091,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballmasterslamhero_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballmasterslamhero_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballmasterslamhero_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basketballmasterslamhero_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1752081371,
+            "name": "Card Heroes",
+            "version": "2.3.4589",
+            "size": 555720500,
+            "icon": "img/cardheroes.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/cardheroes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/cardheroes.ipa",
+            "bundleIdentifier": "ru.skytecgames.cardhero",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cardheroes.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardheroes_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardheroes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardheroes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardheroes_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardheroes_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardheroes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardheroes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardheroes_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.3.4589",
+                    "date": "2026-11-07T09:27:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/cardheroes.ipa",
+                    "size": 555720500,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardheroes_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardheroes_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardheroes_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cardheroes_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1905409601,
+            "name": "Cookie Cats Pop",
+            "version": "1.90.2",
+            "size": 457859345,
+            "icon": "img/cookiecatspop.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/cookiecatspop.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/cookiecatspop.ipa",
+            "bundleIdentifier": "dk.tactile.cookiecatspop",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )\n\nوصف التطبيق:\n\n القطط في الحي متعطشة للبسكويت، وأنت فقط من يمكنه مساعدتها! انضم إلى ريتا، وزيغي، وسموكي، وبيلي، وبيري وعدد لا يحصى من القطط الرائعة الأخرى في رحلة عبر أماكن جديدة رائعة، حيث تنتظر البسكويت أن تؤكل. كن مستعدًا لتفجير الفقاعات الملونة في لعبة الألغاز المجانية هذه التي هي بيجامة القط!",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cookiecatspop.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiecatspop_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiecatspop_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiecatspop_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiecatspop_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiecatspop_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiecatspop_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiecatspop_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiecatspop_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.90.2",
+                    "date": "2026-11-07T09:26:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/cookiecatspop.ipa",
+                    "size": 457859345,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiecatspop_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiecatspop_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiecatspop_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookiecatspop_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1406584679,
+            "name": "Tiles Survive! - VN",
+            "version": "2.6.400",
+            "size": 945659014,
+            "icon": "img/tilessurvivevn.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/tilessurvivevn.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/tilessurvivevn.ipa",
+            "bundleIdentifier": "com.ios.ts.vn",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Multiply Attack\n- Multiply Defense\n\n- مضاعفة الهجوم\r\n- مضاعفة الدفاع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tilessurvivevn.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilessurvivevn_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilessurvivevn_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilessurvivevn_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilessurvivevn_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilessurvivevn_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilessurvivevn_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilessurvivevn_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilessurvivevn_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.6.400",
+                    "date": "2026-11-07T09:26:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/tilessurvivevn.ipa",
+                    "size": 945659014,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilessurvivevn_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilessurvivevn_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilessurvivevn_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilessurvivevn_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1666205939,
+            "name": "Word Tour – Word Puzzle Game: Connect & Search Words",
+            "version": "1.56.0",
+            "size": 315591860,
+            "icon": "img/wordtourwordpuzzlegameconnectsearchwords.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/wordtourwordpuzzlegameconnectsearchwords.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/wordtourwordpuzzlegameconnectsearchwords.ipa",
+            "bundleIdentifier": "in.playsimple.wordtour",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\n\n* فتح المميزات\n\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات تلقائي ام شراء داخلي او اضافة موارد سوف ينبهك بذالك\n\n* هل لديك مشكلة؟\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\n\n* سرعة اللعبة\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \n\n* إعادة ضبط اللعبة\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\n\n* تغيير اللغة\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\n\n* قطع الإنترنت (ميزة إضافية)\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\n\n* الغاء الأعلانات داخل اللعبة\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wordtourwordpuzzlegameconnectsearchwords.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtourwordpuzzlegameconnectsearchwords_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtourwordpuzzlegameconnectsearchwords_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtourwordpuzzlegameconnectsearchwords_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtourwordpuzzlegameconnectsearchwords_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtourwordpuzzlegameconnectsearchwords_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtourwordpuzzlegameconnectsearchwords_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtourwordpuzzlegameconnectsearchwords_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtourwordpuzzlegameconnectsearchwords_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.56.0",
+                    "date": "2026-11-07T09:25:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/wordtourwordpuzzlegameconnectsearchwords.ipa",
+                    "size": 315591860,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtourwordpuzzlegameconnectsearchwords_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtourwordpuzzlegameconnectsearchwords_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtourwordpuzzlegameconnectsearchwords_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtourwordpuzzlegameconnectsearchwords_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1949720283,
+            "name": "Sudoku",
+            "version": "5.94.0",
+            "size": 521350138,
+            "icon": "img/sudoku.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/sudoku.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/sudoku.ipa",
+            "bundleIdentifier": "daily.easy.sudoku.puzzle.solver.free",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\nتم اضافة مود تسريع اللعبة \nتم اضافة ترسيت اللعبة\n\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\n\nFeatures:\n\n- You can purchase anything in the game for free \n( please click Buy and then Cancel )\n\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sudoku.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.94.0",
+                    "date": "2026-11-07T09:24:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/sudoku.ipa",
+                    "size": 521350138,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1485916144,
             "name": "Train Taxi",
             "version": "1.5.42",
