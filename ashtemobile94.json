@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1660493841,
+            "name": "Pixel Hunter Idle",
+            "version": "8.3",
+            "size": 607644435,
+            "icon": "img/pixelhunteridle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/pixelhunteridle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/pixelhunteridle.ipa",
+            "bundleIdentifier": "com.zilliongames.hunteridle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر\n- لا تموت أبدًا\n- مضاعف السقوط",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pixelhunteridle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelhunteridle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelhunteridle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelhunteridle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelhunteridle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelhunteridle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelhunteridle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelhunteridle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelhunteridle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "8.3",
+                    "date": "2026-11-07T02:55:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/pixelhunteridle.ipa",
+                    "size": 607644435,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelhunteridle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelhunteridle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelhunteridle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelhunteridle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1600035165,
+            "name": "Prison Empire",
+            "version": "4.5",
+            "size": 2040814844,
+            "icon": "img/prisonempire.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/prisonempire.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/prisonempire.ipa",
+            "bundleIdentifier": "com.codigames.idle.prison.empire.manager.tycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "* النقد اللانهائي \r\n* بدون اعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/prisonempire.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prisonempire_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prisonempire_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prisonempire_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prisonempire_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prisonempire_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prisonempire_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prisonempire_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prisonempire_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.5",
+                    "date": "2026-11-07T02:54:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/prisonempire.ipa",
+                    "size": 2040814844,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prisonempire_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prisonempire_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prisonempire_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/prisonempire_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1799954390,
+            "name": "Snack Bar",
+            "version": "1.0.219",
+            "size": 472591581,
+            "icon": "img/snackbar.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/snackbar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/snackbar.ipa",
+            "bundleIdentifier": "com.tree.idle.catsnackbar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n- تجميد العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/snackbar.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snackbar_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snackbar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snackbar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snackbar_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snackbar_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snackbar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snackbar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snackbar_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.219",
+                    "date": "2026-11-07T02:51:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/snackbar.ipa",
+                    "size": 472591581,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snackbar_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snackbar_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snackbar_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snackbar_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1288631028,
+            "name": "Cookie ?﻿",
+            "version": "1.72.10",
+            "size": 216465304,
+            "icon": "img/cookie.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/cookie.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/cookie.ipa",
+            "bundleIdentifier": "it.junglestudios.cookieclicker",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Cookie Multiplier\n- Unlimited Golden Cookies\n- Unlimited Skip Ad Tokens\n- Unlimited Time Warps\n- Unlimited Chest Keys\n- Free Card Upgrades\n- Free CPS Item Upgrades\n\n- مضاعف ملفات تعريف الارتباط\n- ملفات تعريف الارتباط الذهبية غير المحدودة\n- عدد غير محدود من رموز تخطي الإعلانات\n- الإعوجاج الوقت غير محدود\n- مفاتيح الصدر غير محدودة\n- ترقيات البطاقة المجانية\n- ترقيات مجانية لعناصر CPS",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cookie.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookie_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookie_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookie_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookie_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookie_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookie_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookie_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookie_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.72.10",
+                    "date": "2026-11-07T02:51:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/cookie.ipa",
+                    "size": 216465304,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookie_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookie_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookie_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookie_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1944182498,
+            "name": "TopTop KSA",
+            "version": "3.28.1",
+            "size": 563623994,
+            "icon": "img/toptopksa.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/toptopksa.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/toptopksa.ipa",
+            "bundleIdentifier": "com.game.friends.ios.toptop.ksa",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق توب السعودية \r\nنسخه خام ( تقبل التكرار ) .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/toptopksa.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toptopksa_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toptopksa_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toptopksa_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toptopksa_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toptopksa_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toptopksa_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toptopksa_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toptopksa_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.28.1",
+                    "date": "2026-11-07T02:51:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/toptopksa.ipa",
+                    "size": 563623994,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toptopksa_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toptopksa_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toptopksa_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toptopksa_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1493342750,
+            "name": "The Demonized",
+            "version": "7.33.0",
+            "size": 913184140,
+            "icon": "img/thedemonized.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/thedemonized.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/thedemonized.ipa",
+            "bundleIdentifier": "com.deepgames.release.becamethedevil",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Never Die\n- Dumb Enemies\n- Attack Speed Multiplier\n- Freeze Resources\n\n- ضرر مضاعف\n- لا يموت أبداً\n- أعداء أغبياء\n- مضاعفة سرعة الهجوم\n- تجميد الموارد",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/thedemonized.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thedemonized_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thedemonized_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thedemonized_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thedemonized_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thedemonized_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thedemonized_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thedemonized_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thedemonized_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.33.0",
+                    "date": "2026-11-07T02:50:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/thedemonized.ipa",
+                    "size": 913184140,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thedemonized_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thedemonized_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thedemonized_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thedemonized_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1212283646,
+            "name": "Jetpack",
+            "version": "1.104.3",
+            "size": 412543082,
+            "icon": "img/jetpack.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/jetpack.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/jetpack.ipa",
+            "bundleIdentifier": "com.halfbrick.jetpack",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- أعلى نتيجة\r\n- لاعب لايتضرر \r\n- تسوق مجاني\r\n- عملات لا نهائية\r\n- تمكين مغناطيس العملات\r\n- زيادة مدى المغناطيس\r\n- امتلاك جميع العناصر\r\n- فتح جميع الأدوات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jetpack.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.104.3",
+                    "date": "2026-11-07T02:49:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/jetpack.ipa",
+                    "size": 412543082,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpack_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1643257504,
+            "name": "F Class Adventurer",
+            "version": "2.21.01",
+            "size": 232149231,
+            "icon": "img/fclassadventurer.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/fclassadventurer.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/fclassadventurer.ipa",
+            "bundleIdentifier": "net.ekgames.fclasshero",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Never Die\n- Reward Multiplier\n\n- ضرر مضاعف\n- لا يموت أبداً\n- مضاعفة المكافآت",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fclassadventurer.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fclassadventurer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fclassadventurer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fclassadventurer_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fclassadventurer_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fclassadventurer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fclassadventurer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fclassadventurer_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fclassadventurer_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.21.01",
+                    "date": "2026-11-07T02:48:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/fclassadventurer.ipa",
+                    "size": 232149231,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fclassadventurer_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fclassadventurer_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fclassadventurer_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fclassadventurer_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1782687257,
+            "name": "Die Again",
+            "version": "1.2.12",
+            "size": 371049844,
+            "icon": "img/dieagain.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/dieagain.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/dieagain.ipa",
+            "bundleIdentifier": "com.dieagain.trollgame",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة القفز \r\nالمميزات:\r\n- بدون اعلانات\r\n ( اضغط شراء ثم الغاء ) \r\n- تسريع الاعلانات لتخطي بعض المراحل .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dieagain.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagain_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagain_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagain_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagain_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagain_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagain_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagain_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagain_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.12",
+                    "date": "2026-11-07T02:48:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/dieagain.ipa",
+                    "size": 371049844,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagain_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagain_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagain_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dieagain_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1229492519,
+            "name": "Concepts",
+            "version": "6.37.1",
+            "size": 272367369,
+            "icon": "img/concepts.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/concepts.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/concepts.ipa",
+            "bundleIdentifier": "com.tophatch.Concepts",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق جميل خاص بالرسم \n- مفتوح المميزات ( شراء ثم إلغاء من قائمة one Time )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/concepts.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/concepts_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/concepts_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/concepts_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/concepts_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/concepts_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/concepts_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/concepts_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/concepts_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.37.1",
+                    "date": "2026-11-07T02:47:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/concepts.ipa",
+                    "size": 272367369,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/concepts_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/concepts_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/concepts_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/concepts_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1187789866,
             "name": "Dead God Land",
             "version": "0.215",
