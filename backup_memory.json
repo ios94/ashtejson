@@ -10,6 +10,246 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1231875621,
+            "name": "Summoner",
+            "version": "1.110.2",
+            "size": 461166707,
+            "icon": "img/summoner.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/summoner.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/summoner.ipa",
+            "bundleIdentifier": "com.pixio.apple.mtd",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Currencies Spend/Gain\n- Dump Enemies\n\n- إنفاق/ربح عملات غير محدودة\n- تفريغ الأعداء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/summoner.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summoner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summoner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summoner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summoner_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summoner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summoner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summoner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summoner_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.110.2",
+                    "date": "2026-11-07T01:19:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/summoner.ipa",
+                    "size": 461166707,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summoner_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summoner_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summoner_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summoner_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1323886162,
+            "name": "Bowmasters",
+            "version": "11.7.3",
+            "size": 640034752,
+            "icon": "img/bowmasters.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/bowmasters.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/bowmasters.ipa",
+            "bundleIdentifier": "com.playgendary.bowmasters",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- One Hit Kill\n- Never Die\n- Instant Kill Enable When It's Your Turn\n- Unlimited Coins Spend/Gain\n- Unlimited Gems Spend/Gain\n\n- قتل بضربة واحدة\n- لا يموت أبداً\n- تمكين القتل الفوري عندما يحين دورك\n- إنفاق/ربح عملات غير محدودة\n- إنفاق/ربح عدد غير محدود من الجواهر",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bowmasters.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowmasters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowmasters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowmasters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowmasters_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowmasters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowmasters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowmasters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowmasters_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "11.7.3",
+                    "date": "2026-11-07T01:19:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/bowmasters.ipa",
+                    "size": 640034752,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowmasters_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowmasters_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowmasters_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowmasters_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1686997364,
+            "name": "Forest",
+            "version": "5.33.0",
+            "size": 869780925,
+            "icon": "img/forest.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/forest.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/forest.ipa",
+            "bundleIdentifier": "com.forestapp.Forest",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يساعدك على الحفاظ على تركيزك\r\n\r\n- مدفوع في ابل ستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/forest.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forest_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forest_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forest_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forest_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forest_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forest_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forest_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forest_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.33.0",
+                    "date": "2026-11-07T01:16:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/forest.ipa",
+                    "size": 869780925,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forest_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forest_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forest_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forest_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1626839313,
+            "name": "Earth Inc",
+            "version": "5.6.0",
+            "size": 270059564,
+            "icon": "img/earthinc.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/earthinc.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/earthinc.ipa",
+            "bundleIdentifier": "com.TreetopCrew.EarthInc",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Coins -> Will increase instead of decrease.\n- Unlimited Diamonds -> Will increase instead of decrease.\n- Free In-App Purchases\n\n- عملات غير محدودة (تزيد ماتنقص).\n- الماس غير محدود -> سوف يزيد بدلا من النقصان.\n- مشتريات مجانية داخل التطبيق",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/earthinc.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/earthinc_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/earthinc_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/earthinc_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/earthinc_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/earthinc_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/earthinc_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/earthinc_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/earthinc_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.6.0",
+                    "date": "2026-11-07T01:14:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/earthinc.ipa",
+                    "size": 270059564,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/earthinc_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/earthinc_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/earthinc_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/earthinc_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1235389278,
+            "name": "Travel Town",
+            "version": "2.12.1813",
+            "size": 320906349,
+            "icon": "img/traveltown.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/traveltown.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/traveltown.ipa",
+            "bundleIdentifier": "io.randomco.travel",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze Energy -> Energy never decreases so you can always play!\n\n- تجميد الطاقة -> الطاقة لا تنخفض أبدًا حتى تتمكن دائمًا من اللعب!",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/traveltown.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltown_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltown_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltown_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltown_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltown_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltown_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltown_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltown_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.12.1813",
+                    "date": "2026-11-07T01:14:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/traveltown.ipa",
+                    "size": 320906349,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltown_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltown_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltown_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traveltown_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1184427752,
             "name": "American Marksman",
             "version": "2.0.629",
