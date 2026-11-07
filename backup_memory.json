@@ -10,6 +10,342 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1849806861,
+            "name": "Star Defense",
+            "version": "2.0.8",
+            "size": 593123532,
+            "icon": "img/stardefense.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/stardefense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/stardefense.ipa",
+            "bundleIdentifier": "com.TeamSparta.StarTD",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Match Gem Multiplier -> Turn off when spending\n- Free Vip\n- Free VVIP\n- Unlock All Pass Rewards\n\n- مطابقة مضاعف الجواهر -> إيقاف التشغيل عند الإنفاق\n- VIP مجاني\n- VIP مجاني\n- فتح جميع مكافآت المرور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stardefense.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stardefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stardefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stardefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stardefense_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stardefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stardefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stardefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stardefense_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.8",
+                    "date": "2026-11-07T17:47:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/stardefense.ipa",
+                    "size": 593123532,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stardefense_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stardefense_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stardefense_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stardefense_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1564353011,
+            "name": "Fairyland",
+            "version": "2.7.2",
+            "size": 319872124,
+            "icon": "img/fairyland.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/fairyland.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/fairyland.ipa",
+            "bundleIdentifier": "com.mergematch.fairyland",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto Win\n- Unlimited Gems\n- Unlimited Coins\n- Moves 99\n\n- فوز تلقائي\n- جواهر غير محدودة\n- عملات غير محدودة\n- التحركات 99",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fairyland.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairyland_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairyland_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairyland_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairyland_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairyland_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairyland_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairyland_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairyland_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.7.2",
+                    "date": "2026-11-07T17:46:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/fairyland.ipa",
+                    "size": 319872124,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairyland_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairyland_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairyland_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fairyland_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1697930776,
+            "name": "Cozy Town",
+            "version": "2.4.1",
+            "size": 369159539,
+            "icon": "img/cozytown.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/cozytown.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/cozytown.ipa",
+            "bundleIdentifier": "com.sparklingsocietysims.cozytownbuildexploregame",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة -> أنفق بعضًا منها.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cozytown.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cozytown_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cozytown_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cozytown_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cozytown_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cozytown_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cozytown_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cozytown_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cozytown_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.1",
+                    "date": "2026-11-07T17:46:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/cozytown.ipa",
+                    "size": 369159539,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cozytown_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cozytown_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cozytown_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cozytown_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1247285910,
+            "name": "Cat Escape",
+            "version": "26.37.0",
+            "size": 598068656,
+            "icon": "img/catescape.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/catescape.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/catescape.ipa",
+            "bundleIdentifier": "gg.sunday.catescape",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود \n- الغاء الأعلانات\n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/catescape.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catescape_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catescape_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catescape_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catescape_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catescape_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catescape_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catescape_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catescape_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "26.37.0",
+                    "date": "2026-11-07T17:46:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/catescape.ipa",
+                    "size": 598068656,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catescape_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catescape_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catescape_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catescape_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1365180004,
+            "name": "Coffee Mania",
+            "version": "1.5.83",
+            "size": 410720655,
+            "icon": "img/coffeemania.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/coffeemania.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/coffeemania.ipa",
+            "bundleIdentifier": "com.nopegames.coffeemania",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/coffeemania.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeemania_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeemania_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeemania_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeemania_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeemania_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeemania_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeemania_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeemania_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.83",
+                    "date": "2026-11-07T17:45:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/coffeemania.ipa",
+                    "size": 410720655,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeemania_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeemania_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeemania_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeemania_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1820630139,
+            "name": "Brain Test 2",
+            "version": "1.25.11",
+            "size": 306789049,
+            "icon": "img/braintest2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/braintest2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/braintest2.ipa",
+            "bundleIdentifier": "com.unicostudio.braintest2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/braintest2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest2_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest2_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.25.11",
+                    "date": "2026-11-07T17:45:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/braintest2.ipa",
+                    "size": 306789049,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest2_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest2_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest2_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/braintest2_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1767908689,
+            "name": "Bus Frenzy",
+            "version": "10.4",
+            "size": 294148656,
+            "icon": "img/busfrenzy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/busfrenzy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/busfrenzy.ipa",
+            "bundleIdentifier": "com.color.busfrenzy",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\nمتجر مجاني ( اضغط شراء والغاء)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/busfrenzy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busfrenzy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busfrenzy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busfrenzy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busfrenzy_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busfrenzy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busfrenzy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busfrenzy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busfrenzy_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "10.4",
+                    "date": "2026-11-07T17:44:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/busfrenzy.ipa",
+                    "size": 294148656,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busfrenzy_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busfrenzy_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busfrenzy_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busfrenzy_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1838935794,
             "name": "Snow Race",
             "version": "1.4.2",
