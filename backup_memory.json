@@ -10,6 +10,342 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1605041300,
+            "name": "OpenSooq - السوق المفتوح",
+            "version": "12.7.02",
+            "size": 235632374,
+            "icon": "img/opensooq.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/opensooq.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/opensooq.ipa",
+            "bundleIdentifier": "com.opensooq.App",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق السوق المفتوح \n- خام يقبل التكرار",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/opensooq.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "12.7.02",
+                    "date": "2026-11-07T07:17:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/opensooq.ipa",
+                    "size": 235632374,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1700412793,
+            "name": "Undead Siege",
+            "version": "1.15.109",
+            "size": 759287295,
+            "icon": "img/undeadsiege.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/undeadsiege.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/undeadsiege.ipa",
+            "bundleIdentifier": "com.whitedot.udsios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Shield Infinite Power Mode (Not Hp / Must use shield card)\n- High Gold Reward\n- Freeze Gold\n- Free Lucky Spin\n\n- وضع الطاقة اللانهائية للدرع (ليس Hp / يجب استخدام بطاقة الدرع)\n- مكافأة ذهبية عالية\n- تجميد الذهب\n- دوران محظوظ مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/undeadsiege.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/undeadsiege_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/undeadsiege_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/undeadsiege_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/undeadsiege_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/undeadsiege_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/undeadsiege_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/undeadsiege_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/undeadsiege_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.15.109",
+                    "date": "2026-11-07T07:16:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/undeadsiege.ipa",
+                    "size": 759287295,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/undeadsiege_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/undeadsiege_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/undeadsiege_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/undeadsiege_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1850352445,
+            "name": "Question.AI",
+            "version": "3.6.6",
+            "size": 149728294,
+            "icon": "img/questionai.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/questionai.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/questionai.ipa",
+            "bundleIdentifier": "com.qianfan.aihomework",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق ذكي يساعدك في حل المسائل الرياضية والواجبات المدرسية . \n- مفتوح المميزات .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/questionai.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/questionai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/questionai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/questionai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/questionai_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/questionai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/questionai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/questionai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/questionai_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.6.6",
+                    "date": "2026-11-07T07:15:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/questionai.ipa",
+                    "size": 149728294,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/questionai_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/questionai_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/questionai_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/questionai_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1339038415,
+            "name": "Quizard",
+            "version": "1.20.0",
+            "size": 86661922,
+            "icon": "img/quizard.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/quizard.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/quizard.ipa",
+            "bundleIdentifier": "org.reactjs.native.example.QuizardAI",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق تعليمي يعتمد على الذكاء الاصطناعي لمساعدة الطلاب في حل واجباتهم المدرسية والجامعية بسرعة ودقة في مختلف المواد الدراسية (مثل الرياضيات، العلوم، اللغات)،\n\n- مفتوح المميزات \nفي حال لم يتم تفعيل المميزات اقفل النسخه من الخلفيه وأعد فتحها من جديد أو اضغط استعادة المشتريات  .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quizard.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quizard_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quizard_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quizard_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quizard_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quizard_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quizard_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quizard_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quizard_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.20.0",
+                    "date": "2026-11-07T07:15:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/quizard.ipa",
+                    "size": 86661922,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quizard_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quizard_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quizard_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quizard_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1650789662,
+            "name": "XP Hero",
+            "version": "26.2.0",
+            "size": 575669717,
+            "icon": "img/xphero.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/xphero.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/xphero.ipa",
+            "bundleIdentifier": "io.supercent.weaponrpg",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/xphero.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/xphero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/xphero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/xphero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/xphero_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/xphero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/xphero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/xphero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/xphero_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "26.2.0",
+                    "date": "2026-11-07T07:15:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/xphero.ipa",
+                    "size": 575669717,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/xphero_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/xphero_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/xphero_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/xphero_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1929187150,
+            "name": "AXIS BLADE",
+            "version": "1.6.6",
+            "size": 570428821,
+            "icon": "img/axisblade.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/axisblade.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/axisblade.ipa",
+            "bundleIdentifier": "com.awesomepiece.axisblade",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Defense Multiplier\n- Instant Win\n\n- مضاعفة الدفاع\n- فوز فوري",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/axisblade.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/axisblade_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/axisblade_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/axisblade_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/axisblade_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/axisblade_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/axisblade_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/axisblade_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/axisblade_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.6",
+                    "date": "2026-11-07T07:14:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/axisblade.ipa",
+                    "size": 570428821,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/axisblade_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/axisblade_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/axisblade_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/axisblade_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1710864816,
+            "name": "jujutsuphanpara",
+            "version": "3.8.2",
+            "size": 600078759,
+            "icon": "img/jujutsuphanpara.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/jujutsuphanpara.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/jujutsuphanpara.ipa",
+            "bundleIdentifier": "com.bilibilihk.jujutsuphanparaios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مُضاعِف الضرر\n- مُضاعِف الدفاع\n- نقاط قوة غير محدودة\n- EN غير محدودة\n- مهارات خاصة نشطة دائمًا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jujutsuphanpara.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jujutsuphanpara_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jujutsuphanpara_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jujutsuphanpara_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jujutsuphanpara_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jujutsuphanpara_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jujutsuphanpara_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jujutsuphanpara_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jujutsuphanpara_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.8.2",
+                    "date": "2026-11-07T07:13:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/jujutsuphanpara.ipa",
+                    "size": 600078759,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jujutsuphanpara_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jujutsuphanpara_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jujutsuphanpara_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jujutsuphanpara_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1870338779,
             "name": "النجاة في الصقيع Whiteout Survival",
             "version": "1.34.16",
