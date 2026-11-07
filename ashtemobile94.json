@@ -10,6 +10,102 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1847573797,
+            "name": "3105",
+            "version": "2.0.13",
+            "size": 14377578,
+            "icon": "img/3105.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/3105.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/3105.ipa",
+            "bundleIdentifier": "com.apple.mobile.MobileHouseArrest",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تم رفعه واستخراجه تلقائياً",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/3105.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3105_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3105_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3105_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3105_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3105_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3105_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3105_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3105_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.13",
+                    "date": "2026-11-07T12:14:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/3105.ipa",
+                    "size": 14377578,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3105_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3105_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3105_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3105_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1757295348,
+            "name": "Nobel iOS",
+            "version": "2.0.13",
+            "size": 14377578,
+            "icon": "img/nobelios.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/nobelios.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/nobelios.ipa",
+            "bundleIdentifier": "com.apple.mobile.MobileHouseArrest",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "هاك ببجي  يشتغل علي جميع نسخ ببجي رسمية بدون ما تمسح نسخة رسمية ببجي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nobelios.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nobelios_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nobelios_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nobelios_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nobelios_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nobelios_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nobelios_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nobelios_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nobelios_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.13",
+                    "date": "2026-11-07T12:14:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/nobelios.ipa",
+                    "size": 14377578,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nobelios_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nobelios_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nobelios_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nobelios_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1631643470,
             "name": "Snapchat",
             "version": "13.68.1",
