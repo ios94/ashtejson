@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1204740885,
+            "name": "Idle Restaurant",
+            "version": "1.55.0",
+            "size": 348791007,
+            "icon": "img/idlerestaurant.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/idlerestaurant.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/idlerestaurant.ipa",
+            "bundleIdentifier": "com.kolibrigames.idlerestauranttycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlerestaurant.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlerestaurant_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlerestaurant_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlerestaurant_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlerestaurant_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlerestaurant_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlerestaurant_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlerestaurant_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlerestaurant_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.55.0",
+                    "date": "2026-11-07T06:26:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/idlerestaurant.ipa",
+                    "size": 348791007,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlerestaurant_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlerestaurant_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlerestaurant_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlerestaurant_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1301450134,
+            "name": "Watch Faces",
+            "version": "1.25",
+            "size": 112418907,
+            "icon": "img/watchfaces.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/watchfaces.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/watchfaces.ipa",
+            "bundleIdentifier": ".com.watch.faces.gallery.HD.wallpaper.app",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتحميل خلفيات لساعة ابل واتش .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/watchfaces.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watchfaces_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watchfaces_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watchfaces_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watchfaces_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watchfaces_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watchfaces_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watchfaces_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watchfaces_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.25",
+                    "date": "2026-11-07T06:26:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/watchfaces.ipa",
+                    "size": 112418907,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watchfaces_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watchfaces_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watchfaces_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watchfaces_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1177313310,
+            "name": "Slidey",
+            "version": "3.2.26",
+            "size": 359844937,
+            "icon": "img/slidey.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/slidey.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/slidey.ipa",
+            "bundleIdentifier": "com.saygin.brickgame",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- أضف 20 ألف جوهرة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/slidey.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slidey_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slidey_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slidey_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slidey_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slidey_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slidey_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slidey_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slidey_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.2.26",
+                    "date": "2026-11-07T06:26:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/slidey.ipa",
+                    "size": 359844937,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slidey_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slidey_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slidey_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slidey_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1626158104,
+            "name": "Hole Master",
+            "version": "0.8.1",
+            "size": 789991452,
+            "icon": "img/holemaster.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/holemaster.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/holemaster.ipa",
+            "bundleIdentifier": "com.hole.master.eat.world.game",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/holemaster.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holemaster_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holemaster_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holemaster_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holemaster_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holemaster_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holemaster_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holemaster_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holemaster_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.8.1",
+                    "date": "2026-11-07T06:25:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/holemaster.ipa",
+                    "size": 789991452,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holemaster_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holemaster_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holemaster_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/holemaster_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1910499638,
+            "name": "Bid Wars",
+            "version": "2.79",
+            "size": 281760401,
+            "icon": "img/bidwars.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/bidwars.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/bidwars.ipa",
+            "bundleIdentifier": "br.com.tapps.bidwars",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free iAP (Turn on inside Mod Menu fist)\n\n- iAP مجاني (تشغيل داخل قبضة قائمة Mod)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bidwars.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bidwars_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bidwars_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bidwars_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bidwars_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bidwars_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bidwars_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bidwars_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bidwars_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.79",
+                    "date": "2026-11-07T06:24:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/bidwars.ipa",
+                    "size": 281760401,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bidwars_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bidwars_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bidwars_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bidwars_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1912740809,
+            "name": "catspuzzle",
+            "version": "1.6.26",
+            "size": 319602677,
+            "icon": "img/catspuzzle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/catspuzzle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/catspuzzle.ipa",
+            "bundleIdentifier": "com.ignm.catspuzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Coins\n\n- عملات غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/catspuzzle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catspuzzle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catspuzzle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catspuzzle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catspuzzle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catspuzzle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catspuzzle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catspuzzle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catspuzzle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.26",
+                    "date": "2026-11-07T06:24:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/catspuzzle.ipa",
+                    "size": 319602677,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catspuzzle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catspuzzle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catspuzzle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catspuzzle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1984639336,
+            "name": "Pocket Sort: Coin Puzzle Enjoy",
+            "version": "1.15.0",
+            "size": 275386127,
+            "icon": "img/pocketsortcoinpuzzleenjoy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/pocketsortcoinpuzzleenjoy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/pocketsortcoinpuzzleenjoy.ipa",
+            "bundleIdentifier": "com.pocket.sort.coin.puzzle.game",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pocketsortcoinpuzzleenjoy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsortcoinpuzzleenjoy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsortcoinpuzzleenjoy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsortcoinpuzzleenjoy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsortcoinpuzzleenjoy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsortcoinpuzzleenjoy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsortcoinpuzzleenjoy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsortcoinpuzzleenjoy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsortcoinpuzzleenjoy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.15.0",
+                    "date": "2026-11-07T06:23:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/pocketsortcoinpuzzleenjoy.ipa",
+                    "size": 275386127,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsortcoinpuzzleenjoy_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsortcoinpuzzleenjoy_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsortcoinpuzzleenjoy_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsortcoinpuzzleenjoy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1249230089,
+            "name": "Onnect Enjoy",
+            "version": "75.13.1",
+            "size": 468689208,
+            "icon": "img/onnectenjoy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/onnectenjoy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/onnectenjoy.ipa",
+            "bundleIdentifier": "com.gamebility.onet",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onnectenjoy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "75.13.1",
+                    "date": "2026-11-07T06:23:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/onnectenjoy.ipa",
+                    "size": 468689208,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1659760803,
+            "name": "Ice Scream 1 Enjoy",
+            "version": "1.4.4870",
+            "size": 738469725,
+            "icon": "img/icescream1enjoy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/icescream1enjoy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/icescream1enjoy.ipa",
+            "bundleIdentifier": "com.keplerians.icescream",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الأعلانات\n\nوصف التطبيق : \n\nلقد جاء بائع الآيس كريم إلى الحي! لقد اختطف صديقك وجارك \"بوب\" وقد رأيت كل شيء.\nلقد جمدت أفضل صديق لك بنوع من القوة، وعليك أن تكتشف أين يأخذ ذلك. ماذا لو كان هناك المزيد من الأطفال مثله وراء هذه القصة؟\nيُدعى بائع الآيس كريم المرعب هذا \"رود\"، ويبدو ودودًا جدًا مع الأطفال الصغار، لكن لديه خطة شريرة لهم يجب عليك اكتشافها. كل ما تعرفه هو أنه سيأخذه داخل شاحنة الآيس كريم الخاصة به، لكنك لا تعرف أين.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/icescream1enjoy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icescream1enjoy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icescream1enjoy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icescream1enjoy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icescream1enjoy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icescream1enjoy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icescream1enjoy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icescream1enjoy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icescream1enjoy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.4870",
+                    "date": "2026-11-07T06:22:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/icescream1enjoy.ipa",
+                    "size": 738469725,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icescream1enjoy_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icescream1enjoy_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icescream1enjoy_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icescream1enjoy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1791725372,
+            "name": "Knit Out Enjoy",
+            "version": "1.34.2",
+            "size": 639888769,
+            "icon": "img/knitoutenjoy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/knitoutenjoy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/knitoutenjoy.ipa",
+            "bundleIdentifier": "com.sbg.knitout",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/knitoutenjoy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitoutenjoy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitoutenjoy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitoutenjoy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitoutenjoy_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitoutenjoy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitoutenjoy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitoutenjoy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitoutenjoy_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.34.2",
+                    "date": "2026-11-07T06:22:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/knitoutenjoy.ipa",
+                    "size": 639888769,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitoutenjoy_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitoutenjoy_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitoutenjoy_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knitoutenjoy_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1391982382,
             "name": "Ice Scream 3 Enjoy",
             "version": "1.3.5182",
