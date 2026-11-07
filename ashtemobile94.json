@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1184427752,
+            "name": "American Marksman",
+            "version": "2.0.629",
+            "size": 889297456,
+            "icon": "img/americanmarksman.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/americanmarksman.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/americanmarksman.ipa",
+            "bundleIdentifier": "com.battlecreek.americanmarksman",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة مغامرات وصيد \n\nالمميزات : \nمتجر مجاني بالكامل \n شراء ثم إلغاء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/americanmarksman.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/americanmarksman_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/americanmarksman_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/americanmarksman_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/americanmarksman_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/americanmarksman_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/americanmarksman_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/americanmarksman_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/americanmarksman_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.629",
+                    "date": "2026-11-07T01:07:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/americanmarksman.ipa",
+                    "size": 889297456,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/americanmarksman_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/americanmarksman_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/americanmarksman_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/americanmarksman_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1657415788,
+            "name": "Stick War 3",
+            "version": "2026.5.7657",
+            "size": 725753805,
+            "icon": "img/stickwar3.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/stickwar3.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/stickwar3.ipa",
+            "bundleIdentifier": "com.maxgames.stickwar3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Instant Win Battle Setting Resign\n- Freeze Battle Gold\n- Freeze Mana\n- No Skills Cooldown\n\n- الفوز الفوري في إعدادات المعركة\n- تجميد معركة الذهب\n- تجميد مانا\n- بدون فترة انتظار للمهارات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stickwar3.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwar3_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwar3_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwar3_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwar3_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwar3_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwar3_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwar3_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwar3_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2026.5.7657",
+                    "date": "2026-11-07T01:06:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/stickwar3.ipa",
+                    "size": 725753805,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwar3_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwar3_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwar3_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stickwar3_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1869379985,
+            "name": "BillionAir",
+            "version": "1.22.2",
+            "size": 357847627,
+            "icon": "img/billionair.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/billionair.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/billionair.ipa",
+            "bundleIdentifier": "com.rogueharbour.billionair.airport",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Infinite Currency\n- Unlock Crew -Removed (Freezes Game)\n\n- عملة لا حصر لها\r\n- فتح طاقم- Removed (لعبة التجميد)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/billionair.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/billionair_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/billionair_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/billionair_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/billionair_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/billionair_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/billionair_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/billionair_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/billionair_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.22.2",
+                    "date": "2026-11-07T01:05:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/billionair.ipa",
+                    "size": 357847627,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/billionair_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/billionair_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/billionair_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/billionair_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1524894215,
+            "name": "Love & Pies",
+            "version": "0.87.2",
+            "size": 462731908,
+            "icon": "img/lovepies.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/lovepies.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/lovepies.ipa",
+            "bundleIdentifier": "com.Trailmix.LoveAndPiesMerge",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة\n- جواهر غير محدودة\n- طاقة غير محدودة\n- نجوم غير محدودة\n- إكمال الطلب\n- إكمال جميع الطلبات\n- مسح العوائق\n- فتح جميع فتحات التخزين",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lovepies.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepies_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepies_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepies_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepies_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepies_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepies_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepies_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepies_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.87.2",
+                    "date": "2026-11-07T01:05:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/lovepies.ipa",
+                    "size": 462731908,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepies_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepies_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepies_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepies_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1565806052,
+            "name": "Vampire Survivors",
+            "version": "1.16.111",
+            "size": 1026198613,
+            "icon": "img/vampiresurvivors.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/vampiresurvivors.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/vampiresurvivors.ipa",
+            "bundleIdentifier": "com.poncle.VampireSurvivors",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "-مضاعف الضرر\r\n-مضاعف الدفاع\r\n- عملات غير محدودة -> أنفق بعضًا\r\n- جميع الأسلحة مفتوحة -> انتقل إلى الخيارات وقم بتبديل زر الأصوات.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/vampiresurvivors.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampiresurvivors_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampiresurvivors_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampiresurvivors_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampiresurvivors_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampiresurvivors_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampiresurvivors_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampiresurvivors_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampiresurvivors_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.16.111",
+                    "date": "2026-11-07T01:04:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/vampiresurvivors.ipa",
+                    "size": 1026198613,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampiresurvivors_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampiresurvivors_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampiresurvivors_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampiresurvivors_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1312657792,
+            "name": "Offroad Outlaws",
+            "version": "7.15.48",
+            "size": 1364370313,
+            "icon": "img/offroadoutlaws.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/offroadoutlaws.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/offroadoutlaws.ipa",
+            "bundleIdentifier": "com.battlecreek.offroadoutlaws",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free iAP (Press cancel when buy) -- Turn on feature inside Enjoy Mod Menu first\n\n- iAP مجاني (اضغط على إلغاء عند الشراء) - قم بتشغيل الميزة داخل قائمة تعديل Enjoy أولاً",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/offroadoutlaws.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/offroadoutlaws_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/offroadoutlaws_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/offroadoutlaws_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/offroadoutlaws_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/offroadoutlaws_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/offroadoutlaws_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/offroadoutlaws_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/offroadoutlaws_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.15.48",
+                    "date": "2026-11-07T01:02:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/offroadoutlaws.ipa",
+                    "size": 1364370313,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/offroadoutlaws_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/offroadoutlaws_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/offroadoutlaws_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/offroadoutlaws_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1915355946,
+            "name": "Tap Away",
+            "version": "169.5.7",
+            "size": 491654351,
+            "icon": "img/tapaway.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/tapaway.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/tapaway.ipa",
+            "bundleIdentifier": "com.jctswbglsm.SwipeAway",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا إعلانات\n- إضافة رموز\n- اجعلني VIP\n- قنبلة الظهور\n- كتلة عملة الظهور\n- قنبلة الظهور\n- كتلة عملة الظهور\n- كتل ظهور خاصة\n- فتح جميع الألغاز\n- حركات لا نهائية\n- تجميد حركات التحدي\n- تعطيل مؤقت التحدي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tapaway.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapaway_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapaway_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapaway_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapaway_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapaway_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapaway_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapaway_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapaway_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "169.5.7",
+                    "date": "2026-11-07T01:01:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/tapaway.ipa",
+                    "size": 491654351,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapaway_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapaway_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapaway_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapaway_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1481756113,
+            "name": "TimelineUp",
+            "version": "17.9.0",
+            "size": 609546748,
+            "icon": "img/timelineup.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/timelineup.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/timelineup.ipa",
+            "bundleIdentifier": "com.MojoGames.EraEvolution",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تجميد العملات\n- حظر الإعلانات\n\nFreeze Currencies\nBlock Ads",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/timelineup.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "17.9.0",
+                    "date": "2026-11-07T01:00:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/timelineup.ipa",
+                    "size": 609546748,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/timelineup_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1267278073,
+            "name": "Highway Drifter",
+            "version": "5.0.68",
+            "size": 1130377282,
+            "icon": "img/highwaydrifter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/highwaydrifter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/highwaydrifter.ipa",
+            "bundleIdentifier": "com.madboxgames.drifter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة هجولة وسباقات \r\n\r\nالمميزات: \r\nمتجر مجاني بالكامل \r\nإضغط شراء ثم الغاء . \r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/highwaydrifter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydrifter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydrifter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydrifter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydrifter_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydrifter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydrifter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydrifter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydrifter_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.0.68",
+                    "date": "2026-11-07T00:59:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/highwaydrifter.ipa",
+                    "size": 1130377282,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydrifter_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydrifter_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydrifter_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwaydrifter_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1750407238,
+            "name": "Soccer Star",
+            "version": "0.3.95",
+            "size": 424586755,
+            "icon": "img/soccerstar.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/soccerstar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/soccerstar.ipa",
+            "bundleIdentifier": "soccer.score.star",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Rewinds\n- Big Goals\n- Free In-App Purchases\n\n- الترجيع غير محدود\n- أهداف كبيرة\n- مشتريات مجانية داخل التطبيق",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/soccerstar.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerstar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerstar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerstar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerstar_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerstar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerstar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerstar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerstar_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.3.95",
+                    "date": "2026-11-07T00:58:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/soccerstar.ipa",
+                    "size": 424586755,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerstar_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerstar_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerstar_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerstar_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1316254355,
             "name": "Hajwala Drifter",
             "version": "1.2.69",
