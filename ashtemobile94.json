@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1801726304,
+            "name": "Screen Recorder",
+            "version": "1.0.186",
+            "size": 22508969,
+            "icon": "img/screenrecorder.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/screenrecorder.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/screenrecorder.ipa",
+            "bundleIdentifier": "com.jarustudios.ScreenRecorder",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعمل مشاركة شاشة لتطبيقات معينة اثناء الاجتماعات .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/screenrecorder.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screenrecorder_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screenrecorder_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screenrecorder_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screenrecorder_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screenrecorder_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screenrecorder_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screenrecorder_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screenrecorder_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.186",
+                    "date": "2026-11-07T12:30:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/screenrecorder.ipa",
+                    "size": 22508969,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screenrecorder_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screenrecorder_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screenrecorder_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screenrecorder_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1847573797,
             "name": "3105",
             "version": "2.0.13",
