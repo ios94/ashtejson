@@ -10,6 +10,429 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1655052946,
+            "name": "Assassin Idle",
+            "version": "1.2.19",
+            "size": 976884705,
+            "icon": "img/assassinidle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/assassinidle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/assassinidle.ipa",
+            "bundleIdentifier": "highpixel.billion",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defense Multiplier\n- Reward Multiplier\n\n- ضرر مضاعف\n- مضاعفة الدفاع\n- مضاعفة المكافآت",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/assassinidle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassinidle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassinidle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassinidle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassinidle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassinidle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassinidle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassinidle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassinidle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.19",
+                    "date": "2026-11-07T05:55:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/assassinidle.ipa",
+                    "size": 976884705,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassinidle_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassinidle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassinidle_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassinidle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1269528786,
+            "name": "Idle Scream Park",
+            "version": "12.0",
+            "size": 337279285,
+            "icon": "img/idlescreampark.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/idlescreampark.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/idlescreampark.ipa",
+            "bundleIdentifier": "com.cinderella.scream",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- متجر مجاني → الوصول إلى جميع عناصر المتجر بدون تكلفة\r\n- بدون إعلانات → العب بدون انقطاع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlescreampark.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlescreampark_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlescreampark_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlescreampark_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlescreampark_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlescreampark_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlescreampark_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlescreampark_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlescreampark_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "12.0",
+                    "date": "2026-11-07T05:54:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/idlescreampark.ipa",
+                    "size": 337279285,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlescreampark_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlescreampark_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlescreampark_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlescreampark_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1345217039,
+            "name": "Loot Adventure - Battle Run",
+            "version": "1.0.4",
+            "size": 384228666,
+            "icon": "img/lootadventurebattlerun.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/lootadventurebattlerun.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/lootadventurebattlerun.ipa",
+            "bundleIdentifier": "com.loot.adventure.idle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عدم الموت أبداً → عدم القابلية للإصابة أثناء القتال\n- الضرر الأقصى → أقصى إنتاج للضرر",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lootadventurebattlerun.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootadventurebattlerun_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootadventurebattlerun_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootadventurebattlerun_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootadventurebattlerun_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootadventurebattlerun_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootadventurebattlerun_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootadventurebattlerun_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootadventurebattlerun_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.4",
+                    "date": "2026-11-07T05:54:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/lootadventurebattlerun.ipa",
+                    "size": 384228666,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootadventurebattlerun_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootadventurebattlerun_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootadventurebattlerun_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootadventurebattlerun_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1512025015,
+            "name": "Evil Sword",
+            "version": "1.2.0",
+            "size": 451057780,
+            "icon": "img/evilsword.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/evilsword.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/evilsword.ipa",
+            "bundleIdentifier": "com.act7ent.evilsword",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر\n- مضاعف الدفاع\n- مضاعف العملة\n- مضاعف الخبرة\n- بدون إعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evilsword.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilsword_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilsword_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilsword_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilsword_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilsword_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilsword_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilsword_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilsword_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.0",
+                    "date": "2026-11-07T05:53:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/evilsword.ipa",
+                    "size": 451057780,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilsword_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilsword_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilsword_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilsword_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1654597912,
+            "name": "سعراتي : AI لحساب السعرات",
+            "version": "1.1.0",
+            "size": 57059069,
+            "icon": "img/ai.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/ai.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/ai.ipa",
+            "bundleIdentifier": "com.so3ratai.app",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "سعراتي هو تطبيق ذكي لتتبع السعرات الحرارية والعناصر الغذائية (الماكرو) باستخدام الذكاء الاصطناعي، متاح حصرياً لأجهزة آيفون.\r\n✨ أبرز الميزات:\r\n📸 تحليل الوجبات بالذكاء الاصطناعي: صوّر وجبتك أو صِفها بصوتك، وسيقوم التطبيق فوراً بحساب السعرات، البروتين، الكربوهيدرات، والدهون.\r\n\r\n- مفتوح المميزات ( اضغط على استعادة المشتريات )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ai.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ai_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ai_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.0",
+                    "date": "2026-11-07T05:53:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/ai.ipa",
+                    "size": 57059069,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ai_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ai_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ai_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ai_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1559315514,
+            "name": "SoulTerra",
+            "version": "0.6.5",
+            "size": 361430817,
+            "icon": "img/soulterra.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/soulterra.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/soulterra.ipa",
+            "bundleIdentifier": "jp.co.bandainamcoent.BNEI0447",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر → زيادة إنتاج هجومك\n- مضاعف الدفاع → تعزيز مرونة فريقك\n- لاعب لا يتضرر → أصبح محصناً في المعركة\n- تجميد مؤقت اللعبة → إيقاف الوقت لتخطيط حركاتك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/soulterra.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/soulterra.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/soulterra.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.6.5",
+                    "date": "2026-11-07T05:53:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/soulterra.ipa",
+                    "size": 361430817,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/soulterra.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1430019939,
+            "name": "Forja - فرجة",
+            "version": "1.41",
+            "size": 65749441,
+            "icon": "img/forja.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/forja.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/forja.ipa",
+            "bundleIdentifier": "ma.snrt.forja.ios.app",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لمشاهدة الافلام والمسلسلات العربيه. \r\n- بدون اعلانات \r\n\r\nApplication for watching Arabic movies and series.\r\n- Without ads",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/forja.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forja_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forja_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forja_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forja_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forja_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forja_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forja_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forja_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.41",
+                    "date": "2026-11-07T05:52:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/forja.ipa",
+                    "size": 65749441,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forja_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forja_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forja_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forja_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1510944751,
+            "name": "Furry Fighters : Idle RPG",
+            "version": "1.2.70",
+            "size": 278281516,
+            "icon": "img/furryfightersidlerpg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/furryfightersidlerpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/furryfightersidlerpg.ipa",
+            "bundleIdentifier": "com.blackdust.redblue",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر → عزز إنتاج هجومك بشكل كبير\r\n- مضاعف الدفاع → قلل الضرر الوارد من موجات الوحوش\r\n- مضاعف العملات → اكسب الموارد بشكل أسرع للترقيات\r\n- مضاعف سرعة الحركة → أعد تموضع ميلو وليو بسرعة أكبر في المعركة\r\n- بدون إعلانات → العب بدون انقطاعات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/furryfightersidlerpg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furryfightersidlerpg_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furryfightersidlerpg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furryfightersidlerpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furryfightersidlerpg_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furryfightersidlerpg_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furryfightersidlerpg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furryfightersidlerpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furryfightersidlerpg_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.70",
+                    "date": "2026-11-07T05:52:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/furryfightersidlerpg.ipa",
+                    "size": 278281516,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furryfightersidlerpg_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furryfightersidlerpg_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furryfightersidlerpg_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furryfightersidlerpg_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1216830983,
+            "name": "Toxic Love: Dark Boyfriends",
+            "version": "1.1.6",
+            "size": 529784119,
+            "icon": "img/toxiclovedarkboyfriends.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/toxiclovedarkboyfriends.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/toxiclovedarkboyfriends.ipa",
+            "bundleIdentifier": "pics.karaage.damekoico",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة → أنفق بحرية بدون حدود\r\n- ViP → الوصول إلى حساب متميز",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/toxiclovedarkboyfriends.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toxiclovedarkboyfriends_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toxiclovedarkboyfriends_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toxiclovedarkboyfriends_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toxiclovedarkboyfriends_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toxiclovedarkboyfriends_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toxiclovedarkboyfriends_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toxiclovedarkboyfriends_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toxiclovedarkboyfriends_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.6",
+                    "date": "2026-11-07T05:51:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/toxiclovedarkboyfriends.ipa",
+                    "size": 529784119,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toxiclovedarkboyfriends_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toxiclovedarkboyfriends_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toxiclovedarkboyfriends_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toxiclovedarkboyfriends_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1363750998,
             "name": "Grim Company",
             "version": "1.0.2",
