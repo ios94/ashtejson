@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1361446694,
+            "name": "| نسخه رسمية | ‎WhatsApp Watusi",
+            "version": "26.36.74",
+            "size": 371274642,
+            "icon": "img/whatsappwatusi.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/whatsappwatusi.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/whatsappwatusi.ipa",
+            "bundleIdentifier": "net.whatsapp.WhatsApp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "نسخه رسمية تحتاج شراء !\r\nالادوات :\r\n• WALocation:\r\nتغيير موقعك لموقع وهمي داخل الواتساب\r\n• FileBackup:\r\nنسخ المحادثات من داخل تطبيق الملفات في الايفون\r\n• Watusi:\r\n⁃ إخفاء متصل الآن .\r\n⁃ إخفاء جاري الكتابة .\r\n⁃ إخفاء آخر ظهور .\r\n⁃ إخفاء جاري تسجيل ملاحظة صوتية .\r\n⁃ إخفاء قراءة الرسالة .\r\n⁃ حظر المكالمات الواردة .\r\n⁃ تعيين كلمة سر للتطبيق .\r\n⁃ تعيين كلمة سر للدردشات .\r\n⁃ شريط الحالات اعلى الدردشات .\r\n⁃ إخفاء مشاهدة الحالة .\r\n⁃ حفظ الحالة الى البوم الكاميرا .\r\n⁃ إبقاء الرسائل المحذوفة .\r\n⁃ إبقاء الحالات المحذوفة .\r\n⁃ تقسيم الفيديوهات الطويلة .\r\n⁃ تعطيل الانتقال للحالة تلقائيًا .\r\n⁃ تصفية وفرز المحادثات .\r\n⁃ تثبيت اكثر من ٣ دردشات .\r\n⁃ الرد التلقائي .\r\n⁃ إخفاء الدردشات .\r\n⁃ المزيد في اعدادات الاداة ...\r\nالمزيد ...",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/whatsappwatusi.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappwatusi_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappwatusi_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappwatusi_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappwatusi_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappwatusi_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappwatusi_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappwatusi_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappwatusi_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "26.36.74",
+                    "date": "2026-11-07T14:40:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/whatsappwatusi.ipa",
+                    "size": 371274642,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappwatusi_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappwatusi_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappwatusi_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatsappwatusi_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1407422286,
             "name": "Chai",
             "version": "20260526.0.1",
