@@ -10,6 +10,381 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1394874990,
+            "name": "Flippy Race",
+            "version": "1.4.22",
+            "size": 261411837,
+            "icon": "img/flippyrace.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/flippyrace.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/flippyrace.ipa",
+            "bundleIdentifier": "com.ketchapp.flippyrace",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Flippy Race مهكره\r\n\r\nالمميزات :\r\n* لا اعلانات\r\n* منظمة العفو الدولية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/flippyrace.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyrace_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyrace_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyrace_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyrace_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyrace_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyrace_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyrace_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyrace_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.22",
+                    "date": "2026-11-07T10:29:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/flippyrace.ipa",
+                    "size": 261411837,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyrace_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyrace_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyrace_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyrace_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1504625938,
+            "name": "Zombie Towers",
+            "version": "13.1.186",
+            "size": 319568070,
+            "icon": "img/zombietowers.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/zombietowers.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/zombietowers.ipa",
+            "bundleIdentifier": "com.edenap.z2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Zombie Towers مهكره\r\n\r\nالمميزات :\r\n* بدون اعلانات\r\n* عملات لانهائيه\r\n* ذخيرة لانهائية\r\n* تجميد جدار HP",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zombietowers.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietowers_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietowers_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietowers_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietowers_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietowers_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietowers_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietowers_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietowers_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "13.1.186",
+                    "date": "2026-11-07T10:29:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/zombietowers.ipa",
+                    "size": 319568070,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietowers_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietowers_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietowers_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietowers_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1603764692,
+            "name": "Golf Battle",
+            "version": "2.25.3",
+            "size": 256763081,
+            "icon": "img/golfbattle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/golfbattle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/golfbattle.ipa",
+            "bundleIdentifier": "games.onebutton.golfbattle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- الطلقات -> تمنع الطلقات من التسجيل وستبقيها عند 0 للفوز السهل \n( إذا لم تحصل على الحفرة، فستظل تحصل على درجة جزاء )\n- مسافة الطلقة -> المسافة من العلم في لعبة تبادل لاطلاق النار المصغرة هي 0 بغض النظر عن مكان وجودك للفوز السهل\n- العشب -> سوف تسجل دائما على العشب حتى في التضاريس الأخرى مثل الرمال\n- تعطيل الذكاء الاصطناعي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/golfbattle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfbattle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfbattle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfbattle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfbattle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfbattle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfbattle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfbattle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfbattle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.25.3",
+                    "date": "2026-11-07T10:28:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/golfbattle.ipa",
+                    "size": 256763081,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfbattle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfbattle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfbattle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfbattle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1151627299,
+            "name": "Idle Factory",
+            "version": "2.24.0",
+            "size": 325362134,
+            "icon": "img/idlefactory.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/idlefactory.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/idlefactory.ipa",
+            "bundleIdentifier": "com.fluffyfairygames.idlefactorytycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل اللعبة مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlefactory.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefactory_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefactory_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefactory_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefactory_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefactory_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefactory_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefactory_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefactory_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.24.0",
+                    "date": "2026-11-07T10:28:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/idlefactory.ipa",
+                    "size": 325362134,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefactory_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefactory_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefactory_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefactory_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1114403284,
+            "name": "ONIFALL 2046: Demon Hunters",
+            "version": "1.1",
+            "size": 1590612998,
+            "icon": "img/onifall2046demonhunters.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/onifall2046demonhunters.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/onifall2046demonhunters.ipa",
+            "bundleIdentifier": "com.wesky.onifall",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر → عزّز تأثير سيفك\r\n- مضاعف الدفاع → قلّل الضرر الوارد\r\n- لاعب لا يتضرر → أصبح محصناً\r\n- مضاعف سرعة الحركة → تنقل عبر المدينة بسرعة أكبر",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onifall2046demonhunters.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onifall2046demonhunters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onifall2046demonhunters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onifall2046demonhunters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onifall2046demonhunters_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onifall2046demonhunters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onifall2046demonhunters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onifall2046demonhunters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onifall2046demonhunters_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2026-11-07T10:28:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/onifall2046demonhunters.ipa",
+                    "size": 1590612998,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onifall2046demonhunters_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onifall2046demonhunters_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onifall2046demonhunters_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onifall2046demonhunters_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1959275059,
+            "name": "Wonder Merge",
+            "version": "1.5.07",
+            "size": 445284631,
+            "icon": "img/wondermerge.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/wondermerge.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/wondermerge.ipa",
+            "bundleIdentifier": "com.cookapps.wonder.merge.dragon.magic.evolution.merging.wondermerge",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- زيادة العملات عند الإنفاق",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wondermerge.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wondermerge_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wondermerge_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wondermerge_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wondermerge_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wondermerge_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wondermerge_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wondermerge_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wondermerge_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.07",
+                    "date": "2026-11-07T10:26:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/wondermerge.ipa",
+                    "size": 445284631,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wondermerge_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wondermerge_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wondermerge_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wondermerge_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1701987827,
+            "name": "Basmtak",
+            "version": "2.3.3",
+            "size": 30485035,
+            "icon": "img/basmtak.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/basmtak.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/basmtak.ipa",
+            "bundleIdentifier": "com.basmtak.app",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "التطبيق الاصلي مدمج مع أداة FakeGPS Pro\r\nأداة قوية تساعد على تغيير الموقع الجغرافي داخل التطبيقات بشكل عام، وخصوصًا في تطبيقات الحضور والانصراف. (الاداة مدفوعة)\r\n\r\n🔹 المميزات:\r\n• تعمل بدون الحاجة إلى جلبريك\r\n• إمكانية حفظ عدة مواقع في قسم “المفضلة”\r\n• إخفاء زر الأداة من داخل التطبيق",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/basmtak.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basmtak_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basmtak_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basmtak_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basmtak_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basmtak_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basmtak_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basmtak_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basmtak_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.3.3",
+                    "date": "2026-11-07T10:25:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/basmtak.ipa",
+                    "size": 30485035,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basmtak_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basmtak_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basmtak_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basmtak_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1460448601,
+            "name": "تطبيق أمانة عسير الموحد",
+            "version": "13.7.00",
+            "size": 36205445,
+            "icon": "img/app197a600902.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/app197a600902.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/app197a600902.ipa",
+            "bundleIdentifier": "com.alqemam.aes.QAttendance",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "التطبيق الاصلي مدمج مع أداة FakeGPS Pro\r\nأداة قوية تساعد على تغيير الموقع الجغرافي داخل التطبيقات بشكل عام، وخصوصًا في تطبيقات الحضور والانصراف. (الاداة مدفوعة)\r\n\r\n🔹 المميزات:\r\n• تعمل بدون الحاجة إلى جلبريك\r\n• إمكانية حفظ عدة مواقع في قسم “المفضلة”\r\n• إخفاء زر الأداة من داخل التطبيق",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app197a600902.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app197a600902.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app197a600902.png"
+            ],
+            "versions": [
+                {
+                    "version": "13.7.00",
+                    "date": "2026-11-07T10:25:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/app197a600902.ipa",
+                    "size": 36205445,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app197a600902.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1401163321,
             "name": "MenaME Plus - FakeGPS Pro",
             "version": "4.9.9",
