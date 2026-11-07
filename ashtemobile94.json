@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1591526340,
+            "name": "DubaiMetro",
+            "version": "1.5.1",
+            "size": 192988332,
+            "icon": "img/dubaimetro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/dubaimetro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/dubaimetro.ipa",
+            "bundleIdentifier": "com.appaspect.DubaiMetro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- تفعيل مميزات التطبيق ( يرجى ضغط شراء وثم الغاء )\n\nتطبيق خاص في ميترو دبي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dubaimetro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dubaimetro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dubaimetro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dubaimetro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dubaimetro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dubaimetro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dubaimetro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dubaimetro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dubaimetro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.1",
+                    "date": "2026-11-07T21:57:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/dubaimetro.ipa",
+                    "size": 192988332,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dubaimetro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dubaimetro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dubaimetro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dubaimetro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1694880045,
+            "name": "Art Drawing",
+            "version": "4.7.0",
+            "size": 411897495,
+            "icon": "img/artdrawing.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/artdrawing.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/artdrawing.ipa",
+            "bundleIdentifier": "io.supercent.kdrawing",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artdrawing.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artdrawing_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artdrawing_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artdrawing_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artdrawing_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artdrawing_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artdrawing_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artdrawing_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artdrawing_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.7.0",
+                    "date": "2026-11-07T21:57:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/artdrawing.ipa",
+                    "size": 411897495,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artdrawing_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artdrawing_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artdrawing_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artdrawing_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1889776868,
+            "name": "Bengaluru Travel Guide",
+            "version": "1.8.1",
+            "size": 159655742,
+            "icon": "img/bengalurutravelguide.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/bengalurutravelguide.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/bengalurutravelguide.ipa",
+            "bundleIdentifier": "com.appaspect.bengaluruMetro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات\r\n\r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات تلقائي ام شراء داخلي او اضافة موارد سوف ينبهك بذالك\r\n\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n\r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bengalurutravelguide.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bengalurutravelguide_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bengalurutravelguide_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bengalurutravelguide_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bengalurutravelguide_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bengalurutravelguide_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bengalurutravelguide_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bengalurutravelguide_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bengalurutravelguide_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.8.1",
+                    "date": "2026-11-07T21:57:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/bengalurutravelguide.ipa",
+                    "size": 159655742,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bengalurutravelguide_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bengalurutravelguide_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bengalurutravelguide_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bengalurutravelguide_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1417611151,
+            "name": "NumMatch",
+            "version": "1.41.0",
+            "size": 491648212,
+            "icon": "img/nummatch.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/nummatch.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/nummatch.ipa",
+            "bundleIdentifier": "com.brainworks.nummatch",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nummatch.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nummatch_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nummatch_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nummatch_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nummatch_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nummatch_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nummatch_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nummatch_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nummatch_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.41.0",
+                    "date": "2026-11-07T21:56:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/nummatch.ipa",
+                    "size": 491648212,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nummatch_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nummatch_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nummatch_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nummatch_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1421818665,
+            "name": "BABY GAMES",
+            "version": "9.8.6",
+            "size": 307609843,
+            "icon": "img/babygames.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/babygames.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/babygames.ipa",
+            "bundleIdentifier": "com.baby.games",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات اللعبة او التطبيق \r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات ام شراء داخلي وسوف ينبهك بذالك\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/babygames.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babygames_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babygames_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babygames_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babygames_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babygames_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babygames_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babygames_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babygames_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "9.8.6",
+                    "date": "2026-11-07T21:56:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/babygames.ipa",
+                    "size": 307609843,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babygames_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babygames_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babygames_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babygames_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1167278689,
+            "name": "Photo Swipe",
+            "version": "6.6",
+            "size": 16122270,
+            "icon": "img/photoswipe.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/photoswipe.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/photoswipe.ipa",
+            "bundleIdentifier": "com.app.gallerycleaner",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق يُركّز على تنظيم وإدارة الصور وحذفها والتقليل من مساحة الجهاز . \n\nمفتوح المميزات . \nإضغط شراء ثم إلغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/photoswipe.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoswipe_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoswipe_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoswipe_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoswipe_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoswipe_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoswipe_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoswipe_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoswipe_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.6",
+                    "date": "2026-11-07T21:55:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/photoswipe.ipa",
+                    "size": 16122270,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoswipe_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoswipe_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoswipe_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoswipe_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1261477925,
+            "name": "AR Drawing",
+            "version": "2.1.4",
+            "size": 261045694,
+            "icon": "img/ardrawing.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/ardrawing.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/ardrawing.ipa",
+            "bundleIdentifier": "com.mindateq.ardrawing",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق خاص للرسم \r\n- مفتوح المميزات \r\n( اضغط شراء ثم إلغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ardrawing.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ardrawing_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ardrawing_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ardrawing_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ardrawing_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ardrawing_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ardrawing_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ardrawing_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ardrawing_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.4",
+                    "date": "2026-11-07T21:55:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/ardrawing.ipa",
+                    "size": 261045694,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ardrawing_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ardrawing_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ardrawing_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ardrawing_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1767291470,
+            "name": "Ammo Fever",
+            "version": "0.44.4",
+            "size": 317542970,
+            "icon": "img/ammofever.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/ammofever.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/ammofever.ipa",
+            "bundleIdentifier": "com.homagames.studio.ammo.fever",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات اللعبة او التطبيق \r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات ام شراء داخلي وسوف ينبهك بذالك\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ammofever.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ammofever_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ammofever_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ammofever_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ammofever_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ammofever_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ammofever_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ammofever_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ammofever_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.44.4",
+                    "date": "2026-11-07T21:55:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/ammofever.ipa",
+                    "size": 317542970,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ammofever_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ammofever_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ammofever_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ammofever_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1974618425,
+            "name": "SHAREit",
+            "version": "3.18.98",
+            "size": 158768542,
+            "icon": "img/shareit.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/shareit.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/shareit.ipa",
+            "bundleIdentifier": "com.lenovo.anyshare",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تطبيق لنقل الملفات بين الأجهزة \n، بدون إعلانات .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shareit.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shareit_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shareit_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shareit_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shareit_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shareit_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shareit_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shareit_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shareit_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.18.98",
+                    "date": "2026-11-07T21:54:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/shareit.ipa",
+                    "size": 158768542,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shareit_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shareit_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shareit_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shareit_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1419860056,
             "name": "Three2",
             "version": "4.32.0",
