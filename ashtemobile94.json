@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1320276368,
+            "name": "Find N Seek",
+            "version": "1.4.6",
+            "size": 205799927,
+            "icon": "img/findnseek.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/findnseek.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/findnseek.ipa",
+            "bundleIdentifier": "find.hidden.object.out.treasure.hunt.seek.puzzle.games",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/findnseek.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findnseek_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findnseek_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findnseek_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findnseek_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findnseek_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findnseek_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findnseek_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findnseek_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.6",
+                    "date": "2026-11-07T07:37:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/findnseek.ipa",
+                    "size": 205799927,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findnseek_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findnseek_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findnseek_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findnseek_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1325907835,
+            "name": "Heart Rate",
+            "version": "2.0.77",
+            "size": 71890197,
+            "icon": "img/heartrate.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/heartrate.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/heartrate.ipa",
+            "bundleIdentifier": "com.mosin.heartrate",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- تفعيل مميزات التطبيق ( يرجى ضغط شراء وثم الغاء )\n\nلعمل فحوصات القلب",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heartrate.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heartrate_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heartrate_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heartrate_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heartrate_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heartrate_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heartrate_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heartrate_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heartrate_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.77",
+                    "date": "2026-11-07T07:37:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/heartrate.ipa",
+                    "size": 71890197,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heartrate_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heartrate_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heartrate_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heartrate_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1499153994,
+            "name": "Coin Stack Puzzle",
+            "version": "3.0.1",
+            "size": 391293738,
+            "icon": "img/coinstackpuzzle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/coinstackpuzzle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/coinstackpuzzle.ipa",
+            "bundleIdentifier": "com.wixot.coinstack",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/coinstackpuzzle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinstackpuzzle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinstackpuzzle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinstackpuzzle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinstackpuzzle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinstackpuzzle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinstackpuzzle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinstackpuzzle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinstackpuzzle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.0.1",
+                    "date": "2026-11-07T07:36:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/coinstackpuzzle.ipa",
+                    "size": 391293738,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinstackpuzzle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinstackpuzzle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinstackpuzzle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coinstackpuzzle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1656670517,
+            "name": "Suzy's Restaurant",
+            "version": "29.3.0",
+            "size": 581546452,
+            "icon": "img/suzysrestaurant.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/suzysrestaurant.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/suzysrestaurant.ipa",
+            "bundleIdentifier": "com.corestudiso.suzyrest",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/suzysrestaurant.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/suzysrestaurant_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/suzysrestaurant_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/suzysrestaurant_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/suzysrestaurant_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/suzysrestaurant_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/suzysrestaurant_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/suzysrestaurant_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/suzysrestaurant_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "29.3.0",
+                    "date": "2026-11-07T07:36:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/suzysrestaurant.ipa",
+                    "size": 581546452,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/suzysrestaurant_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/suzysrestaurant_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/suzysrestaurant_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/suzysrestaurant_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1261851708,
+            "name": "Ava's Manor",
+            "version": "57.3.0",
+            "size": 549893163,
+            "icon": "img/avasmanor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/avasmanor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/avasmanor.ipa",
+            "bundleIdentifier": "com.uken.solitaire.story",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Unlimited Everything -> Will increase instead of decrease.\n\n-سيزيد كل شيء غير محدود-> بدلاً من الانخفاض.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/avasmanor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/avasmanor_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/avasmanor_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/avasmanor_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/avasmanor_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/avasmanor_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/avasmanor_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/avasmanor_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/avasmanor_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "57.3.0",
+                    "date": "2026-11-07T07:35:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/avasmanor.ipa",
+                    "size": 549893163,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/avasmanor_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/avasmanor_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/avasmanor_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/avasmanor_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1186337567,
+            "name": "Woody Screw",
+            "version": "0.5.2",
+            "size": 308520398,
+            "icon": "img/woodyscrew.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/woodyscrew.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/woodyscrew.ipa",
+            "bundleIdentifier": "com.woody.screw.nuts.bolts.jam.puzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/woodyscrew.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/woodyscrew_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/woodyscrew_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/woodyscrew_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/woodyscrew_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/woodyscrew_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/woodyscrew_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/woodyscrew_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/woodyscrew_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.5.2",
+                    "date": "2026-11-07T07:35:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/woodyscrew.ipa",
+                    "size": 308520398,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/woodyscrew_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/woodyscrew_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/woodyscrew_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/woodyscrew_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1373225206,
+            "name": "Photone",
+            "version": "4.5.4",
+            "size": 84043219,
+            "icon": "img/photone.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/photone.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/photone.ipa",
+            "bundleIdentifier": "com.dominikmaglia.korona",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتصوير بدرجات مختلفة. \n\n- اضغط شراء ثم الغاء.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/photone.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photone_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photone_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photone_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photone_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photone_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photone_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photone_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photone_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.5.4",
+                    "date": "2026-11-07T07:35:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/photone.ipa",
+                    "size": 84043219,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photone_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photone_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photone_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photone_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1137407997,
+            "name": "PS App",
+            "version": "26.10.0",
+            "size": 118607540,
+            "icon": "img/psapp.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/psapp.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/psapp.ipa",
+            "bundleIdentifier": "com.playstation.eu.playstationadhoc",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "خام لتكرار فقط .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/psapp.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psapp_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psapp_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psapp_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psapp_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psapp_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psapp_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psapp_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psapp_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "26.10.0",
+                    "date": "2026-11-07T07:34:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/psapp.ipa",
+                    "size": 118607540,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psapp_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psapp_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psapp_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psapp_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1512534339,
+            "name": "الملكة",
+            "version": "174.10.134",
+            "size": 1080098862,
+            "icon": "img/app071d5b8a0f.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/app071d5b8a0f.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/app071d5b8a0f.ipa",
+            "bundleIdentifier": "com.madarsoft.queen6",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n- تفعيل الأشتراك\n- فتح جميع الكورسات \n- طرح الأسئلة للمختصين\n\n( سجل الدخول بحساب قوقل ثم اخرج من التطبيق وادخل من جديد )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app071d5b8a0f.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app071d5b8a0f_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app071d5b8a0f_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app071d5b8a0f_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app071d5b8a0f_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app071d5b8a0f_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app071d5b8a0f_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app071d5b8a0f_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app071d5b8a0f_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "174.10.134",
+                    "date": "2026-11-07T07:34:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/app071d5b8a0f.ipa",
+                    "size": 1080098862,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app071d5b8a0f_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app071d5b8a0f_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app071d5b8a0f_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app071d5b8a0f_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1599741613,
             "name": "مواعيدي و مهامي",
             "version": "6.0.1",
