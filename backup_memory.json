@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1149086012,
+            "name": "Puzzle Quest",
+            "version": "348.5",
+            "size": 377254059,
+            "icon": "img/puzzlequest.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/puzzlequest.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/puzzlequest.ipa",
+            "bundleIdentifier": "com.d3p.yorkMPQ",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Infinite Power Mode\n- Unlimited Currencies -> Will increase instead of decrease.\n- Free In-App Purchases\n\n- ضرر مضاعف\n- وضع الطاقة اللانهائي\n- عملات غير محدودة (تزيد ماتنقص).\n- مشتريات مجانية داخل التطبيق",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/puzzlequest.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puzzlequest_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puzzlequest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puzzlequest_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puzzlequest_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puzzlequest_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puzzlequest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puzzlequest_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puzzlequest_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "348.5",
+                    "date": "2026-11-07T10:36:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/puzzlequest.ipa",
+                    "size": 377254059,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puzzlequest_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puzzlequest_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puzzlequest_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puzzlequest_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1236457985,
+            "name": "Overcrowded",
+            "version": "2.25.0",
+            "size": 468134901,
+            "icon": "img/overcrowded.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/overcrowded.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/overcrowded.ipa",
+            "bundleIdentifier": "com.zeptolab.overcrowded",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة Overcrowded \r\n \r\nالمميزات : \r\nبدون اعلانات \r\nعملات لامحدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/overcrowded.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/overcrowded_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/overcrowded_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/overcrowded_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/overcrowded_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/overcrowded_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/overcrowded_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/overcrowded_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/overcrowded_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.25.0",
+                    "date": "2026-11-07T10:35:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/overcrowded.ipa",
+                    "size": 468134901,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/overcrowded_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/overcrowded_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/overcrowded_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/overcrowded_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1325759905,
+            "name": "Space Survivor",
+            "version": "2.1.6",
+            "size": 376918793,
+            "icon": "img/spacesurvivor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/spacesurvivor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/spacesurvivor.ipa",
+            "bundleIdentifier": "gemini.space.survivor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Space Survivor مهكره\r\n\r\nالمميزات : \r\n•  بدون اعلانات ? \r\n• طاقة متجددة ? \r\n• حقيبة ظهر لانهائية ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spacesurvivor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacesurvivor_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacesurvivor_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacesurvivor_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacesurvivor_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacesurvivor_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacesurvivor_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacesurvivor_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacesurvivor_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.6",
+                    "date": "2026-11-07T10:35:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/spacesurvivor.ipa",
+                    "size": 376918793,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacesurvivor_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacesurvivor_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacesurvivor_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacesurvivor_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1274831058,
+            "name": "TerraDome3D",
+            "version": "2.4.3",
+            "size": 222762821,
+            "icon": "img/terradome3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/terradome3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/terradome3d.ipa",
+            "bundleIdentifier": "com.arzukilic.terradome3d",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\n\r\nتنبيه مهم : المتجر في بعض الاحيان لا يظهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليظهر عندك المتجر وتشتري بشكل مجاني\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : Sometimes the store doesn't appear directly in the game. You must play for a while for the store to appear and purchase for free.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/terradome3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/terradome3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/terradome3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/terradome3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/terradome3d_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/terradome3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/terradome3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/terradome3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/terradome3d_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.3",
+                    "date": "2026-11-07T10:34:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/terradome3d.ipa",
+                    "size": 222762821,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/terradome3d_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/terradome3d_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/terradome3d_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/terradome3d_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1895185550,
+            "name": "Color Sort",
+            "version": "28.1.0",
+            "size": 258630459,
+            "icon": "img/colorsort.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/colorsort.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/colorsort.ipa",
+            "bundleIdentifier": "com.gma.ball.sort.color.water.puzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا اعلانات\r\n- تجميد التراجع العد",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/colorsort.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorsort_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorsort_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorsort_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorsort_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorsort_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorsort_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorsort_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorsort_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "28.1.0",
+                    "date": "2026-11-07T10:34:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/colorsort.ipa",
+                    "size": 258630459,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorsort_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorsort_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorsort_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorsort_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1869457231,
+            "name": "My Hotel",
+            "version": "1.39.0",
+            "size": 447621468,
+            "icon": "img/myhotel.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/myhotel.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/myhotel.ipa",
+            "bundleIdentifier": "com.master.hotelmaster",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تجميد العملة → احتفظ بأموالك مستقرة\r\n- ترقية الفندق المجانية → فتح تحسينات الممتلكات بدون تكلفة\r\n- حجب الإعلانات → العب بدون انقطاع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/myhotel.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myhotel_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myhotel_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myhotel_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myhotel_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myhotel_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myhotel_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myhotel_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myhotel_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.39.0",
+                    "date": "2026-11-07T10:34:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/myhotel.ipa",
+                    "size": 447621468,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myhotel_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myhotel_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myhotel_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myhotel_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1485762206,
+            "name": "Planet Smash",
+            "version": "0.3.0",
+            "size": 322810158,
+            "icon": "img/planetsmash.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/planetsmash.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/planetsmash.ipa",
+            "bundleIdentifier": "com.hg.cannonwar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "• بدون اعلانات\n• تجميد العملات المعدنية\n• تجميد الأحجار الكريمة\n• تجميد قطع البناء\n• قنابل غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/planetsmash.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetsmash_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetsmash_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetsmash_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetsmash_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetsmash_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetsmash_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetsmash_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetsmash_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.3.0",
+                    "date": "2026-11-07T10:33:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/planetsmash.ipa",
+                    "size": 322810158,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetsmash_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetsmash_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetsmash_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetsmash_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1267081803,
+            "name": "AdVenture Ages",
+            "version": "1.36.2",
+            "size": 412256624,
+            "icon": "img/adventureages.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/adventureages.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/adventureages.ipa",
+            "bundleIdentifier": "ca.hyperhippo.adventureages",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عدد لا نهائي من السكان\n- جواهر لا نهائية\n- إكس بي اللانهائي\n- بطاقات لا نهائية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/adventureages.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureages_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureages_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureages_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureages_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureages_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureages_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureages_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureages_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.36.2",
+                    "date": "2026-11-07T10:33:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/adventureages.ipa",
+                    "size": 412256624,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureages_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureages_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureages_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureages_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1129163352,
+            "name": "Idle Archer - Tower Defense",
+            "version": "0.6.350",
+            "size": 328129293,
+            "icon": "img/idlearchertowerdefense.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/idlearchertowerdefense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/idlearchertowerdefense.ipa",
+            "bundleIdentifier": "com.LuckyPotionGames.IdleArcherTowerDefense",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- إعلانات رقم [ مكافآت مجانية ]\n- سرعة 5X نشطة\n- عملة غير محدودة +10 [اكسب وأنفق بعضًا منها]\n- تم فتح البطل\n- هجوم العدو 0\n- حالة المواهب [ HP DMG Mana Etc. ] ترقية واحدة فقط [ DMG ] فقط بعد الانتقال إلى المعركة والاستخدام",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlearchertowerdefense.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearchertowerdefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearchertowerdefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearchertowerdefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearchertowerdefense_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearchertowerdefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearchertowerdefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearchertowerdefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearchertowerdefense_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.6.350",
+                    "date": "2026-11-07T10:32:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/idlearchertowerdefense.ipa",
+                    "size": 328129293,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearchertowerdefense_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearchertowerdefense_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearchertowerdefense_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearchertowerdefense_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1394874990,
             "name": "Flippy Race",
             "version": "1.4.22",
