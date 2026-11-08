@@ -10,6 +10,429 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1565535582,
+            "name": "My Contacts",
+            "version": "2.2",
+            "size": 3780063,
+            "icon": "img/mycontacts.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/mycontacts.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/mycontacts.ipa",
+            "bundleIdentifier": "com.cshun.ContactsCleaner",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لادارة جهات الاتصال \nContact Cleanup معرب مكرك ?\nمفتوح جميع المميزات \n⁃حذف جهات الاتصال المكررة \n⁃نسخ جهات الاتصال \n⁃دمج جهات الاتصال",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mycontacts.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycontacts_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycontacts_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycontacts_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycontacts_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycontacts_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycontacts_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycontacts_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycontacts_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.2",
+                    "date": "2026-11-08T12:52:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/mycontacts.ipa",
+                    "size": 3780063,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycontacts_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycontacts_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycontacts_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycontacts_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1390321349,
+            "name": "FakeCall",
+            "version": "4.7",
+            "size": 81959292,
+            "icon": "img/fakecall.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/fakecall.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/fakecall.ipa",
+            "bundleIdentifier": "com.laoyue.telfree",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يعطيك إتصالات مُزيفة .\n- إضغط شَراء ثم إلغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fakecall.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakecall_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakecall_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakecall_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakecall_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakecall_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakecall_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakecall_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakecall_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.7",
+                    "date": "2026-11-08T12:52:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/fakecall.ipa",
+                    "size": 81959292,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakecall_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakecall_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakecall_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakecall_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1323357446,
+            "name": "iZip Pro",
+            "version": "26.0",
+            "size": 54834250,
+            "icon": "img/izippro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/izippro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/izippro.ipa",
+            "bundleIdentifier": "com.comcsoft.izippro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لفك الضغط عن الملفات \r\n\r\nتطبيق مدفوع في ابل ستور ..",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/izippro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/izippro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/izippro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/izippro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/izippro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/izippro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/izippro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/izippro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/izippro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "26.0",
+                    "date": "2026-11-08T12:52:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/izippro.ipa",
+                    "size": 54834250,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/izippro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/izippro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/izippro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/izippro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1788760259,
+            "name": "Blower",
+            "version": "5.2",
+            "size": 71761243,
+            "icon": "img/blower.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/blower.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/blower.ipa",
+            "bundleIdentifier": "net.qneo.Blower",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $1.99\nRequires 16.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $1.99\nيتطلب اصدار 16.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blower.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blower_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blower_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blower_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blower_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blower_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blower_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blower_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blower_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.2",
+                    "date": "2026-11-08T12:52:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/blower.ipa",
+                    "size": 71761243,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blower_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blower_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blower_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blower_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1328698420,
+            "name": "أنغامي ++",
+            "version": "4.7.26",
+            "size": 143628898,
+            "icon": "img/appac374c9bcd.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/appac374c9bcd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/appac374c9bcd.ipa",
+            "bundleIdentifier": "syto203.Anghami.PP",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق أنغامي ++ \r\nتطبيق موسيقى معدل ? \r\n \r\n \r\nالمميزات : \r\n* بدون إعلانات ✅ \r\n* لايوجد حد للتخطي ♻️ \r\n* جودة البث القصوى ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/appac374c9bcd.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appac374c9bcd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appac374c9bcd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appac374c9bcd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appac374c9bcd_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appac374c9bcd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appac374c9bcd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appac374c9bcd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appac374c9bcd_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.7.26",
+                    "date": "2026-11-08T12:52:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/appac374c9bcd.ipa",
+                    "size": 143628898,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appac374c9bcd_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appac374c9bcd_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appac374c9bcd_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appac374c9bcd_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1907322233,
+            "name": "iPlayer",
+            "version": "2.7.0",
+            "size": 86806024,
+            "icon": "img/iplayer.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/iplayer.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/iplayer.ipa",
+            "bundleIdentifier": "com.iplayer.videoplayer.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق مشغل فديو \n\nالمميزات : \nبدون اعلانات .\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/iplayer.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iplayer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iplayer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iplayer_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iplayer_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iplayer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iplayer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iplayer_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iplayer_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.7.0",
+                    "date": "2026-11-08T12:51:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/iplayer.ipa",
+                    "size": 86806024,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iplayer_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iplayer_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iplayer_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iplayer_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1728826091,
+            "name": "iCurrency",
+            "version": "3.6",
+            "size": 2410247,
+            "icon": "img/icurrency.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/icurrency.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/icurrency.ipa",
+            "bundleIdentifier": "com.sollico.iCurrencyPad",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق icurrency \r\n\r\nمحول عملات مدفوع على ابل ستور ✔️",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/icurrency.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icurrency_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icurrency_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icurrency_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icurrency_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icurrency_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icurrency_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icurrency_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icurrency_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.6",
+                    "date": "2026-11-08T12:51:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/icurrency.ipa",
+                    "size": 2410247,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icurrency_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icurrency_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icurrency_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/icurrency_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1550460433,
+            "name": "Wallpapers 18",
+            "version": "1.0.1",
+            "size": 17983382,
+            "icon": "img/wallpapers18.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/wallpapers18.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/wallpapers18.ipa",
+            "bundleIdentifier": "com.olgakozdev.wallpapers",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يحتوي على العديد من الخلفيات الجميلة \r\nمع دعم خلفيات Apple Watch ⌚️ \r\n\r\nلفتح المميزات : اضغط شراء ثم الغاء .\r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wallpapers18.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wallpapers18.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wallpapers18.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.1",
+                    "date": "2026-11-08T12:51:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/wallpapers18.ipa",
+                    "size": 17983382,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wallpapers18.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1597317400,
+            "name": "V2RayX",
+            "version": "2.1.1",
+            "size": 26167716,
+            "icon": "img/v2rayx.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/v2rayx.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/v2rayx.ipa",
+            "bundleIdentifier": "com.aaaalab.v2rayx.normal",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "V2RayX هي أداة تصحيح أخطاء الشبكة التي تمكّن هاتفك من الحصول على بيئة شبكة مخصصة بالكامل.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/v2rayx.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/v2rayx_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/v2rayx_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/v2rayx_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/v2rayx_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/v2rayx_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/v2rayx_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/v2rayx_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/v2rayx_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.1",
+                    "date": "2026-11-08T12:51:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/v2rayx.ipa",
+                    "size": 26167716,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/v2rayx_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/v2rayx_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/v2rayx_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/v2rayx_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1857708779,
             "name": "FL Studio Mobile",
             "version": "4.8.0",
