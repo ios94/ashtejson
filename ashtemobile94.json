@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1577478939,
+            "name": "Swordash",
+            "version": "2.3.1",
+            "size": 282243185,
+            "icon": "img/swordash.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/swordash.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/swordash.ipa",
+            "bundleIdentifier": "com.fattoy.swordash.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا تموت أبدًا\r\n- هجوم مضاعف\r\n\r\n- Never Die\r\n- Multiply Attack",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/swordash.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordash_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordash_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordash_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordash_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordash_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordash_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordash_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordash_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.3.1",
+                    "date": "2026-11-08T09:43:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/swordash.ipa",
+                    "size": 282243185,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordash_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordash_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordash_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordash_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1813709040,
+            "name": "SUPERSTAR THEBLACKLABEL",
+            "version": "1.0.13",
+            "size": 561475536,
+            "icon": "img/superstartheblacklabel.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/superstartheblacklabel.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/superstartheblacklabel.ipa",
+            "bundleIdentifier": "com.dalcomsoft.ssbl",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto Dance\n- Always S. Perfect\n- Never Lose Combo\n\n- الرقص التلقائي\n- دائما S. مثالي\n- لا تفقد السرد أبدًا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/superstartheblacklabel.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstartheblacklabel_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstartheblacklabel_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstartheblacklabel_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstartheblacklabel_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstartheblacklabel_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstartheblacklabel_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstartheblacklabel_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstartheblacklabel_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.13",
+                    "date": "2026-11-08T09:43:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/superstartheblacklabel.ipa",
+                    "size": 561475536,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstartheblacklabel_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstartheblacklabel_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstartheblacklabel_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstartheblacklabel_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1366269657,
+            "name": "Meow Town",
+            "version": "0.8.7",
+            "size": 285014566,
+            "icon": "img/meowtown.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/meowtown.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/meowtown.ipa",
+            "bundleIdentifier": "com.cscmobi.catfarm",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Currency Max [ Use Only Currency Disable After Hack ] Because Linked With Exp & Resources\n- \n- \n\n- العملة القصوى [استخدم فقط العملة تعطيل بعد الاختراق] لأنها مرتبطة بـ EXP & Resources",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/meowtown.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtown_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtown_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtown_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtown_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtown_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtown_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtown_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtown_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.8.7",
+                    "date": "2026-11-08T09:42:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/meowtown.ipa",
+                    "size": 285014566,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtown_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtown_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtown_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowtown_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1663056586,
+            "name": "Epic Plane",
+            "version": "1.12.0",
+            "size": 371570379,
+            "icon": "img/epicplane.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/epicplane.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/epicplane.ipa",
+            "bundleIdentifier": "io.heseri.plane",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Currencies\n- No Ads\n- X2 Coins\n\n- عملات غير محدودة\n- بدون إعلانات\n- عملات X2",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/epicplane.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicplane_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicplane_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicplane_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicplane_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicplane_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicplane_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicplane_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicplane_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.12.0",
+                    "date": "2026-11-08T09:42:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/epicplane.ipa",
+                    "size": 371570379,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicplane_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicplane_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicplane_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicplane_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1684998633,
+            "name": "AcadAI",
+            "version": "1.1.256",
+            "size": 109066402,
+            "icon": "img/acadai.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/acadai.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/acadai.ipa",
+            "bundleIdentifier": "com.mycompany.acadai",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق تعليمي مبتكر  تم تصميمه لمساعدة الطلاب على فهم المسائل الأكاديمية بسهولة وفعالية.\nيمكن استخدامه على iPhone، iPad، \n\n- مفتوح المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/acadai.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acadai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acadai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acadai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acadai_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acadai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acadai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acadai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acadai_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.256",
+                    "date": "2026-11-08T09:42:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/acadai.ipa",
+                    "size": 109066402,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acadai_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acadai_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acadai_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acadai_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1808671990,
+            "name": "Heroll",
+            "version": "1.7.5",
+            "size": 730884754,
+            "icon": "img/heroll.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/heroll.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/heroll.ipa",
+            "bundleIdentifier": "com.percent.ios.rollinghero",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defense Multiplier\n- Currencies Multiplier Disable When Do Spending\n- No ADS\n- VIP Unlocked\n- Speed Unlocked\n\n- ضرر مضاعف\n- مضاعفة الدفاع\n- تعطيل مضاعف العملات عند الإنفاق\n- بدون إعلانات\n- VIP مقفلة\n- السرعة مقفلة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heroll.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroll_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroll_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroll_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroll_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroll_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroll_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroll_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroll_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.5",
+                    "date": "2026-11-08T09:42:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/heroll.ipa",
+                    "size": 730884754,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroll_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroll_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroll_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroll_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1144095815,
+            "name": "Armada: Warships Legends",
+            "version": "3.7.1",
+            "size": 733987935,
+            "icon": "img/armadawarshipslegends.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/armadawarshipslegends.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/armadawarshipslegends.ipa",
+            "bundleIdentifier": "com.pandagaming.armada",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لاعب لا يتضرر\r\n- ضاعف الهجوم\r\n\r\n- God Mode\r\n- Multiply Attack",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/armadawarshipslegends.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/armadawarshipslegends_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/armadawarshipslegends_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/armadawarshipslegends_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/armadawarshipslegends_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/armadawarshipslegends_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/armadawarshipslegends_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/armadawarshipslegends_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/armadawarshipslegends_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.7.1",
+                    "date": "2026-11-08T09:41:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/armadawarshipslegends.ipa",
+                    "size": 733987935,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/armadawarshipslegends_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/armadawarshipslegends_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/armadawarshipslegends_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/armadawarshipslegends_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1794446265,
+            "name": "Don't Exfil Late",
+            "version": "1.0.4",
+            "size": 375877777,
+            "icon": "img/dontexfillate.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/dontexfillate.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/dontexfillate.ipa",
+            "bundleIdentifier": "net.pixelrabbit.jh2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Don't Exfil Late",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dontexfillate.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dontexfillate_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dontexfillate_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dontexfillate_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dontexfillate_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dontexfillate_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dontexfillate_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dontexfillate_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dontexfillate_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.4",
+                    "date": "2026-11-08T09:39:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/dontexfillate.ipa",
+                    "size": 375877777,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dontexfillate_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dontexfillate_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dontexfillate_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dontexfillate_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1412348658,
+            "name": "Defender III",
+            "version": "76",
+            "size": 139330578,
+            "icon": "img/defenderiii.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/defenderiii.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/defenderiii.ipa",
+            "bundleIdentifier": "com.droidhen.defender3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Defender III",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/defenderiii.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenderiii_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenderiii_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenderiii_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenderiii_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenderiii_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenderiii_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenderiii_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenderiii_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "76",
+                    "date": "2026-11-08T09:39:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/defenderiii.ipa",
+                    "size": 139330578,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenderiii_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenderiii_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenderiii_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenderiii_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1285517167,
             "name": "iChinGiaiiu",
             "version": "1.1.9",
