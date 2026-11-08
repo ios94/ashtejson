@@ -10,6 +10,102 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1214048817,
+            "name": "Wizard AI",
+            "version": "9.5.9",
+            "size": 86990162,
+            "icon": "img/wizardai.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/wizardai.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/wizardai.ipa",
+            "bundleIdentifier": "com.oneMoreThing.AI-LivePainting",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "هو أداة متقدمة تعتمد على الذكاء الاصطناعي، تتيح لك تحويل الأفكار النصية إلى صور فنية عالية الجودة بسهولة وسرعة.​ \n\n- مفتوح المميزات \nفي حال لم يتم تفعيل المميزات اقفل النسخه من الخلفيه وأعد فتحها من جديد أو اضغط استعادة المشتريات  .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wizardai.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardai_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardai_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "9.5.9",
+                    "date": "2026-11-08T22:17:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/wizardai.ipa",
+                    "size": 86990162,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardai_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardai_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardai_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wizardai_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1847978859,
+            "name": "Summarize",
+            "version": "1.0.3",
+            "size": 9239765,
+            "icon": "img/summarize.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/summarize.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/summarize.ipa",
+            "bundleIdentifier": "net.cleanapps.summarizer",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "أداة ذكية تعتمد على الذكاء الاصطناعي لتلخيص النصوص الطويلة بسرعة ودقة، مما يساعد المستخدمين على استيعاب المعلومات الأساسية دون الحاجة لقراءة المحتوى بالكامل.​\n\n- مفتوح المميزات \nفي حال لم يتم تفعيل المميزات اقفل النسخه من الخلفيه وأعد فتحها من جديد أو اضغط استعادة المشتريات  .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/summarize.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summarize_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summarize_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summarize_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summarize_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summarize_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summarize_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summarize_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summarize_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.3",
+                    "date": "2026-11-08T22:16:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/summarize.ipa",
+                    "size": 9239765,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summarize_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summarize_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summarize_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/summarize_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1912363281,
             "name": "Merge Restaurant",
             "version": "2.40.12",
