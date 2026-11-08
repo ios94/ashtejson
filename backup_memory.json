@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1353341677,
+            "name": "Solo Leveling",
+            "version": "10.8.0",
+            "size": 594350616,
+            "icon": "img/sololeveling.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/sololeveling.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/sololeveling.ipa",
+            "bundleIdentifier": "io.supercent.hitrun",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sololeveling.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sololeveling_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sololeveling_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sololeveling_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sololeveling_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sololeveling_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sololeveling_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sololeveling_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sololeveling_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "10.8.0",
+                    "date": "2026-11-08T01:56:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/sololeveling.ipa",
+                    "size": 594350616,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sololeveling_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sololeveling_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sololeveling_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sololeveling_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1404464344,
+            "name": "Supreme Stickman",
+            "version": "1.1.6",
+            "size": 216824676,
+            "icon": "img/supremestickman.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/supremestickman.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/supremestickman.ipa",
+            "bundleIdentifier": "com.merge.fighting",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/supremestickman.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supremestickman_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supremestickman_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supremestickman_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supremestickman_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supremestickman_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supremestickman_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supremestickman_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supremestickman_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.6",
+                    "date": "2026-11-08T01:55:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/supremestickman.ipa",
+                    "size": 216824676,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supremestickman_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supremestickman_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supremestickman_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/supremestickman_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1359431318,
+            "name": "BallsAndRopes",
+            "version": "1.0.47",
+            "size": 252058597,
+            "icon": "img/ballsandropes.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/ballsandropes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/ballsandropes.ipa",
+            "bundleIdentifier": "com.PlayhallaGames.BallsAndRopes",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ballsandropes.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsandropes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsandropes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsandropes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsandropes_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsandropes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsandropes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsandropes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsandropes_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.47",
+                    "date": "2026-11-08T01:55:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/ballsandropes.ipa",
+                    "size": 252058597,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsandropes_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsandropes_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsandropes_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsandropes_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1937478753,
+            "name": "Move People",
+            "version": "8.0",
+            "size": 359920468,
+            "icon": "img/movepeople.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/movepeople.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/movepeople.ipa",
+            "bundleIdentifier": "com.paurau.MakeEm",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/movepeople.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/movepeople_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/movepeople_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/movepeople_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/movepeople_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/movepeople_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/movepeople_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/movepeople_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/movepeople_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "8.0",
+                    "date": "2026-11-08T01:55:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/movepeople.ipa",
+                    "size": 359920468,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/movepeople_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/movepeople_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/movepeople_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/movepeople_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1199233000,
+            "name": "Beach Resort",
+            "version": "5.7.0",
+            "size": 488576057,
+            "icon": "img/beachresort.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/beachresort.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/beachresort.ipa",
+            "bundleIdentifier": "com.aredstudio.beachresort",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\n\r\nتنبيه مهم : المتجر في بعض الاحيان لا يظهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليظهر عندك المتجر وتشتري بشكل مجاني\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : Sometimes the store doesn't appear directly in the game. You must play for a while for the store to appear and purchase for free.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/beachresort.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachresort_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachresort_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachresort_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachresort_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachresort_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachresort_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachresort_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachresort_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.7.0",
+                    "date": "2026-11-08T01:54:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/beachresort.ipa",
+                    "size": 488576057,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachresort_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachresort_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachresort_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachresort_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1548455670,
+            "name": "Obby Online Parkour World",
+            "version": "2.3",
+            "size": 313085624,
+            "icon": "img/obbyonlineparkourworld.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/obbyonlineparkourworld.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/obbyonlineparkourworld.ipa",
+            "bundleIdentifier": "mega.easy.obby",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/obbyonlineparkourworld.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obbyonlineparkourworld_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obbyonlineparkourworld_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obbyonlineparkourworld_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obbyonlineparkourworld_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obbyonlineparkourworld_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obbyonlineparkourworld_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obbyonlineparkourworld_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obbyonlineparkourworld_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.3",
+                    "date": "2026-11-08T01:54:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/obbyonlineparkourworld.ipa",
+                    "size": 313085624,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obbyonlineparkourworld_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obbyonlineparkourworld_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obbyonlineparkourworld_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obbyonlineparkourworld_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1596963084,
+            "name": "Body Color Swap",
+            "version": "2.1",
+            "size": 339339965,
+            "icon": "img/bodycolorswap.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/bodycolorswap.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/bodycolorswap.ipa",
+            "bundleIdentifier": "doubleagames.sproonky.bodycolorswap",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bodycolorswap.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodycolorswap_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodycolorswap_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodycolorswap_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodycolorswap_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodycolorswap_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodycolorswap_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodycolorswap_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodycolorswap_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1",
+                    "date": "2026-11-08T01:54:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/bodycolorswap.ipa",
+                    "size": 339339965,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodycolorswap_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodycolorswap_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodycolorswap_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodycolorswap_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1401896363,
+            "name": "Happy Tidy",
+            "version": "1.9.1",
+            "size": 306926069,
+            "icon": "img/happytidy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/happytidy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/happytidy.ipa",
+            "bundleIdentifier": "com.oakever.tidygoodshome",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/happytidy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happytidy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happytidy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happytidy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happytidy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happytidy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happytidy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happytidy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happytidy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.1",
+                    "date": "2026-11-08T01:53:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/happytidy.ipa",
+                    "size": 306926069,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happytidy_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happytidy_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happytidy_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happytidy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1257661028,
+            "name": "Sqube Darkness",
+            "version": "7.2.2",
+            "size": 341761319,
+            "icon": "img/squbedarkness.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/squbedarkness.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/squbedarkness.ipa",
+            "bundleIdentifier": "com.unicostudio.squbedarkness",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/squbedarkness.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squbedarkness_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squbedarkness_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squbedarkness_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squbedarkness_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squbedarkness_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squbedarkness_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squbedarkness_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squbedarkness_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "7.2.2",
+                    "date": "2026-11-08T01:53:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/squbedarkness.ipa",
+                    "size": 341761319,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squbedarkness_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squbedarkness_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squbedarkness_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squbedarkness_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1752079653,
+            "name": "Tidy Up - Satisfeel ASMR",
+            "version": "0.7.66",
+            "size": 1053464333,
+            "icon": "img/tidyupsatisfeelasmr.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/tidyupsatisfeelasmr.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/tidyupsatisfeelasmr.ipa",
+            "bundleIdentifier": "com.diy.perfect.asmr",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tidyupsatisfeelasmr.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tidyupsatisfeelasmr_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tidyupsatisfeelasmr_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tidyupsatisfeelasmr_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tidyupsatisfeelasmr_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tidyupsatisfeelasmr_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tidyupsatisfeelasmr_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tidyupsatisfeelasmr_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tidyupsatisfeelasmr_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.7.66",
+                    "date": "2026-11-08T01:52:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/tidyupsatisfeelasmr.ipa",
+                    "size": 1053464333,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tidyupsatisfeelasmr_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tidyupsatisfeelasmr_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tidyupsatisfeelasmr_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tidyupsatisfeelasmr_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1975790986,
             "name": "Holyscapes",
             "version": "1.62.0",
