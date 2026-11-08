@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1796470890,
+            "name": "Old Man",
+            "version": "1.15",
+            "size": 418811960,
+            "icon": "img/oldman.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/oldman.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/oldman.ipa",
+            "bundleIdentifier": "es.brokenrul.oldmansjourney",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة مدفوعة في اب ستور ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/oldman.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldman_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldman_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldman_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldman_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldman_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldman_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldman_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldman_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.15",
+                    "date": "2026-11-08T13:58:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/oldman.ipa",
+                    "size": 418811960,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldman_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldman_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldman_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oldman_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1753718849,
+            "name": "Neon Chrome",
+            "version": "1.1.9",
+            "size": 216570086,
+            "icon": "img/neonchrome.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/neonchrome.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/neonchrome.ipa",
+            "bundleIdentifier": "com.10tons.neonchrome",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "عملات غير محدودة\r\nفتح صناديق مع اي فئه",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/neonchrome.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/neonchrome_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/neonchrome_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/neonchrome_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/neonchrome_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/neonchrome_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/neonchrome_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/neonchrome_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/neonchrome_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.9",
+                    "date": "2026-11-08T13:57:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/neonchrome.ipa",
+                    "size": 216570086,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/neonchrome_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/neonchrome_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/neonchrome_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/neonchrome_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1111176668,
+            "name": "My Fantasy",
+            "version": "2.9.3",
+            "size": 361485959,
+            "icon": "img/myfantasy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/myfantasy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/myfantasy.ipa",
+            "bundleIdentifier": "gmem.episode",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "* تذاكر غير محدودة [ استخدم بعضها ] ?\r\n* عدد غير محدود من الماس ?\r\n[ استخدم بعضًا منه لتكسب ]\r\n* تمكين بريميوم ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/myfantasy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfantasy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfantasy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfantasy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfantasy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfantasy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfantasy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfantasy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfantasy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.9.3",
+                    "date": "2026-11-08T13:57:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/myfantasy.ipa",
+                    "size": 361485959,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfantasy_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfantasy_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfantasy_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfantasy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1765155306,
+            "name": "Getting Over It",
+            "version": "1.14",
+            "size": 245731095,
+            "icon": "img/gettingoverit.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/gettingoverit.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/gettingoverit.ipa",
+            "bundleIdentifier": "net.Foddy.GettingOverIt",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة مدفوعه في ابل ستور ✔️",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gettingoverit.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gettingoverit_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gettingoverit_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gettingoverit_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gettingoverit_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gettingoverit_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gettingoverit_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gettingoverit_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gettingoverit_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.14",
+                    "date": "2026-11-08T13:56:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/gettingoverit.ipa",
+                    "size": 245731095,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gettingoverit_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gettingoverit_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gettingoverit_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gettingoverit_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1122878782,
+            "name": "Subway Tag",
+            "version": "1.1.7755",
+            "size": 275306071,
+            "icon": "img/subwaytag.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/subwaytag.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/subwaytag.ipa",
+            "bundleIdentifier": "com.sybogames.skateheaven",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "عملات لامحدودة \r\nبطارية لامحدودة \r\nتعطيل الضرر \r\nفتح اي حلبة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/subwaytag.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaytag_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaytag_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaytag_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaytag_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaytag_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaytag_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaytag_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaytag_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.7755",
+                    "date": "2026-11-08T13:56:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/subwaytag.ipa",
+                    "size": 275306071,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaytag_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaytag_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaytag_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/subwaytag_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1872574799,
+            "name": "Frontiers",
+            "version": "6.4.16",
+            "size": 189080634,
+            "icon": "img/frontiers.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/frontiers.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/frontiers.ipa",
+            "bundleIdentifier": "com.ironhidegames.frontiers",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $3.99\nRequires 11.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $3.99\nتتطلب اصدار 11.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/frontiers.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frontiers_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frontiers_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frontiers_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frontiers_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frontiers_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frontiers_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frontiers_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frontiers_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "6.4.16",
+                    "date": "2026-11-08T13:56:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/frontiers.ipa",
+                    "size": 189080634,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frontiers_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frontiers_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frontiers_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frontiers_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1784194345,
+            "name": "WinWing",
+            "version": "3.3",
+            "size": 285322854,
+            "icon": "img/winwing.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/winwing.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/winwing.ipa",
+            "bundleIdentifier": "com.iosgame.wingwing.D3K573CCNF",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "ذهب مضاعف",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/winwing.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/winwing_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/winwing_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/winwing_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/winwing_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/winwing_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/winwing_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/winwing_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/winwing_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.3",
+                    "date": "2026-11-08T13:55:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/winwing.ipa",
+                    "size": 285322854,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/winwing_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/winwing_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/winwing_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/winwing_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1310450820,
+            "name": "Kritika",
+            "version": "5.24.3",
+            "size": 341680039,
+            "icon": "img/kritika.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/kritika.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/kritika.ipa",
+            "bundleIdentifier": "com.gamevil.kritikam.ios.apple.global.normal",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ضرر لاعب X\r\n- اللاعب لا يتضرر .\r\n- جرعات لا نهائية → تزيد عند استخدامها\r\n- مانا لا نهائي\r\n- لا يوجد وقت إعادة شحن للجرعة\r\n- ملء مقياس EX الفوري\r\n- اختراق المؤقت → وضع المرحلة فقط\r\n- دعم Mao نشط دائمًا\r\n- العدو لا يهاجم\r\n- العدو لا يتحرك\r\n-  ضربة واحده تقتل",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kritika.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kritika_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kritika_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kritika_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kritika_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kritika_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kritika_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kritika_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kritika_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.24.3",
+                    "date": "2026-11-08T13:55:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/kritika.ipa",
+                    "size": 341680039,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kritika_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kritika_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kritika_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kritika_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1328419420,
+            "name": "Idle Police Tycoon",
+            "version": "1.28",
+            "size": 580247577,
+            "icon": "img/idlepolicetycoon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/idlepolicetycoon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/idlepolicetycoon.ipa",
+            "bundleIdentifier": "com.codigames.idle.police.department.tycoon.cop",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- المال لا محدود\r\n- الشراء باستخدام الجواهر (يعمل في كل شيء ما عدا متجر البطاقات)\r\n- يمكن فتح المدن",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlepolicetycoon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepolicetycoon_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepolicetycoon_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepolicetycoon_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepolicetycoon_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepolicetycoon_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepolicetycoon_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepolicetycoon_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepolicetycoon_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.28",
+                    "date": "2026-11-08T13:55:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/idlepolicetycoon.ipa",
+                    "size": 580247577,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepolicetycoon_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepolicetycoon_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepolicetycoon_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepolicetycoon_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1603445900,
+            "name": "Sonic Forces",
+            "version": "4.8.0",
+            "size": 433385469,
+            "icon": "img/sonicforces.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/sonicforces.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/sonicforces.ipa",
+            "bundleIdentifier": "com.sega.sonic2017ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \r\nلاعب لا يتضرر \r\n عدم خسارة اي حلقه ذهبيه",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sonicforces.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicforces_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicforces_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicforces_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicforces_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicforces_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicforces_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicforces_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicforces_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.8.0",
+                    "date": "2026-11-08T13:54:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/sonicforces.ipa",
+                    "size": 433385469,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicforces_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicforces_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicforces_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicforces_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1949796456,
             "name": "DarkHeroDash",
             "version": "1.0.15",
