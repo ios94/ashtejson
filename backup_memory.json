@@ -10,6 +10,459 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1815097320,
+            "name": "Balls&#39;n Ropes",
+            "version": "13.13.7",
+            "size": 193359173,
+            "icon": "img/balls39nropes.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/balls39nropes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/balls39nropes.ipa",
+            "bundleIdentifier": "com.atreus.ballsnropes",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه‌‌ Balls&#39;n Ropes مهكره\r\n\r\nالمميزات :\r\n• عملات غير محدودة ?\r\n• بدون إعلانات ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/balls39nropes.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/balls39nropes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/balls39nropes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/balls39nropes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/balls39nropes_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/balls39nropes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/balls39nropes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/balls39nropes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/balls39nropes_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "13.13.7",
+                    "date": "2026-11-08T17:38:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/balls39nropes.ipa",
+                    "size": 193359173,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/balls39nropes_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/balls39nropes_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/balls39nropes_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/balls39nropes_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1540682330,
+            "name": "Happy Match Cafe",
+            "version": "1.0.28",
+            "size": 503562452,
+            "icon": "img/happymatchcafe.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/happymatchcafe.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/happymatchcafe.ipa",
+            "bundleIdentifier": "com.kingsfortune.happymatchcafe",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه ‌Happy Match Cafe مهكره\r\n\r\n\r\nالمميزات :\r\n•  كل شي غير محدود ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/happymatchcafe.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happymatchcafe_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happymatchcafe_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happymatchcafe_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happymatchcafe_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happymatchcafe_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happymatchcafe_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happymatchcafe_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happymatchcafe_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.28",
+                    "date": "2026-11-08T17:38:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/happymatchcafe.ipa",
+                    "size": 503562452,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happymatchcafe_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happymatchcafe_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happymatchcafe_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happymatchcafe_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1638397579,
+            "name": "Merge Friends",
+            "version": "1.20.0",
+            "size": 644561254,
+            "icon": "img/mergefriends.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/mergefriends.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/mergefriends.ipa",
+            "bundleIdentifier": "com.skunkworksgames.mergefriends",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Merge Friends مهكره\r\n\r\nالمميزات :\r\n• أموال غير محدودة ?\r\n• جواهر غير محدودة ?\r\n• طاقة غير محدودة?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergefriends.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefriends_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefriends_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefriends_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefriends_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefriends_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefriends_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefriends_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefriends_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.20.0",
+                    "date": "2026-11-08T17:37:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/mergefriends.ipa",
+                    "size": 644561254,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefriends_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefriends_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefriends_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergefriends_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1333162482,
+            "name": "RichCast",
+            "version": "1.12.1",
+            "size": 169723990,
+            "icon": "img/richcast.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/richcast.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/richcast.ipa",
+            "bundleIdentifier": "com.panivox.richcastmobile",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه RichCast مهكره\r\nاخر اصدار : v1.9.4\r\n\r\n\r\nالمميزات :\r\nعملات غنية غير محدودة \r\n[ ستنخفض العملات المعدنية ولكن لا يزال بإمكانك استخدامها دون أن يكون لديك أي منها ]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/richcast.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richcast_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richcast_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richcast_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richcast_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richcast_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richcast_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richcast_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richcast_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.12.1",
+                    "date": "2026-11-08T17:36:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/richcast.ipa",
+                    "size": 169723990,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richcast_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richcast_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richcast_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richcast_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1450622316,
+            "name": "Apple Knight 2",
+            "version": "2.1.0",
+            "size": 137779360,
+            "icon": "img/appleknight2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/appleknight2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/appleknight2.ipa",
+            "bundleIdentifier": "online.limitless.appleknight.dungeons",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Knight Agastia \r\n\r\n\r\nالمميزات :  \r\n• إضافة عملات معدنية (ادفع /تكسب )?\r\n• تجميد التفاح ☠️\r\n• بريميوم مفتوح ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/appleknight2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appleknight2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appleknight2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appleknight2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appleknight2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appleknight2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appleknight2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appleknight2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appleknight2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.0",
+                    "date": "2026-11-08T17:36:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/appleknight2.ipa",
+                    "size": 137779360,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appleknight2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appleknight2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appleknight2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appleknight2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1861454880,
+            "name": "PP: Tropical Island",
+            "version": "1.1.96",
+            "size": 266190330,
+            "icon": "img/pptropicalisland.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/pptropicalisland.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/pptropicalisland.ipa",
+            "bundleIdentifier": "com.cerisegames.pdti",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه‌ PP: Tropical Island مهكره\r\n\r\nالمميزات :\r\n• عملات غير محدودة ?\r\n[ أنفق بعض المال ]\r\n• عمليات شراء مجانية داخل التطبيق ?\r\n[ قم بالتبديل عبر iGMenu ]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pptropicalisland.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pptropicalisland_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pptropicalisland_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pptropicalisland_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pptropicalisland_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pptropicalisland_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pptropicalisland_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pptropicalisland_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pptropicalisland_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.96",
+                    "date": "2026-11-08T17:36:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/pptropicalisland.ipa",
+                    "size": 266190330,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pptropicalisland_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pptropicalisland_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pptropicalisland_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pptropicalisland_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1313270253,
+            "name": "BlackPink The Game",
+            "version": "1.06.109",
+            "size": 226858605,
+            "icon": "img/blackpinkthegame.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/blackpinkthegame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/blackpinkthegame.ipa",
+            "bundleIdentifier": "com.takeonecompany.bptg1",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه BLACKPINK THE GAME مهكره\r\nاخر اصدار : v1.03.089\r\n\r\nالمميزات : \r\n* نقاط غير محدودة \r\n[ سوف تحصل بسهولة على جميع النجوم الثلاثة بمجرد الإنتهاء من المستوى ]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blackpinkthegame.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blackpinkthegame.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blackpinkthegame.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.06.109",
+                    "date": "2026-11-08T17:36:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/blackpinkthegame.ipa",
+                    "size": 226858605,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blackpinkthegame.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1306335380,
+            "name": "Power Slap",
+            "version": "7.6.8",
+            "size": 597642985,
+            "icon": "img/powerslap.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/powerslap.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/powerslap.ipa",
+            "bundleIdentifier": "com.uncosoft.powerslap",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- كل شيء غير محدود -> سيزداد بدلاً من النقصان.\r\n- تم فتح Pro Pass",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/powerslap.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/powerslap.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/powerslap.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.6.8",
+                    "date": "2026-11-08T17:35:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/powerslap.ipa",
+                    "size": 597642985,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/powerslap.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1777646304,
+            "name": "Plant X",
+            "version": "1.1.231",
+            "size": 471779900,
+            "icon": "img/plantx.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/plantx.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/plantx.ipa",
+            "bundleIdentifier": "com.wejoy.plant",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Plant X مهكره\r\n\r\n\r\nالمميزات :\r\n• طاقة متجددة ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/plantx.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/plantx.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/plantx.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.231",
+                    "date": "2026-11-08T17:35:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/plantx.ipa",
+                    "size": 471779900,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/plantx.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1616879552,
+            "name": "Idle Billionaire Tycoon",
+            "version": "1.14.20",
+            "size": 312600837,
+            "icon": "img/idlebillionairetycoon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/idlebillionairetycoon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/idlebillionairetycoon.ipa",
+            "bundleIdentifier": "com.playhardlab.rich",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Idle Billionaire Tycoon \r\n \r\nالمميزات : \r\n* تجميد العملة ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlebillionairetycoon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebillionairetycoon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebillionairetycoon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebillionairetycoon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebillionairetycoon_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebillionairetycoon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebillionairetycoon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebillionairetycoon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebillionairetycoon_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.14.20",
+                    "date": "2026-11-08T17:34:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/idlebillionairetycoon.ipa",
+                    "size": 312600837,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebillionairetycoon_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebillionairetycoon_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebillionairetycoon_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlebillionairetycoon_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1582533491,
             "name": "Teeny Tiny Town",
             "version": "1.1.9",
