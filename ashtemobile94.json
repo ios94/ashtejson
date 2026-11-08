@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1124719446,
+            "name": "Tricky Twist",
+            "version": "5.2",
+            "size": 952959314,
+            "icon": "img/trickytwist.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/trickytwist.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/trickytwist.ipa",
+            "bundleIdentifier": "com.joyboy.tricky.twist.puzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/trickytwist.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickytwist_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickytwist_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickytwist_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickytwist_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickytwist_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickytwist_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickytwist_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickytwist_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.2",
+                    "date": "2026-11-08T00:25:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/trickytwist.ipa",
+                    "size": 952959314,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickytwist_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickytwist_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickytwist_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickytwist_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1941026057,
+            "name": "Muse Adventure",
+            "version": "2.1",
+            "size": 295072301,
+            "icon": "img/museadventure.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/museadventure.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/museadventure.ipa",
+            "bundleIdentifier": "com.escape.adventure.muse",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/museadventure.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/museadventure_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/museadventure_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/museadventure_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/museadventure_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/museadventure_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/museadventure_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/museadventure_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/museadventure_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.1",
+                    "date": "2026-11-08T00:24:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/museadventure.ipa",
+                    "size": 295072301,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/museadventure_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/museadventure_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/museadventure_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/museadventure_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1238871255,
+            "name": "Heli Escape",
+            "version": "1.19.0",
+            "size": 366045427,
+            "icon": "img/heliescape.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/heliescape.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/heliescape.ipa",
+            "bundleIdentifier": "com.rescue.agent",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heliescape.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heliescape_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heliescape_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heliescape_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heliescape_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heliescape_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heliescape_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heliescape_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heliescape_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.19.0",
+                    "date": "2026-11-08T00:24:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/heliescape.ipa",
+                    "size": 366045427,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heliescape_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heliescape_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heliescape_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heliescape_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1228879862,
+            "name": "GymStreak",
+            "version": "6.4.3",
+            "size": 194779289,
+            "icon": "img/gymstreak.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/gymstreak.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/gymstreak.ipa",
+            "bundleIdentifier": "com.gymstreak.GymStreakAI",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "من اهم تطبيقات التغذية والتمارين الشاملة.\n- مفتوح المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gymstreak.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymstreak_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymstreak_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymstreak_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymstreak_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymstreak_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymstreak_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymstreak_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymstreak_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "6.4.3",
+                    "date": "2026-11-08T00:24:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/gymstreak.ipa",
+                    "size": 194779289,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymstreak_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymstreak_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymstreak_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gymstreak_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1834658183,
+            "name": "المُصممْ",
+            "version": "3.5.1",
+            "size": 191724649,
+            "icon": "img/app24229091a6.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/app24229091a6.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/app24229091a6.ipa",
+            "bundleIdentifier": "com.mohammad.musamem",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "برامج المُصممْ \r\nمفتوح المزايا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app24229091a6.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app24229091a6_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app24229091a6_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app24229091a6_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app24229091a6_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app24229091a6_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app24229091a6_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app24229091a6_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app24229091a6_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.5.1",
+                    "date": "2026-11-08T00:23:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/app24229091a6.ipa",
+                    "size": 191724649,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app24229091a6_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app24229091a6_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app24229091a6_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app24229091a6_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1923215478,
+            "name": "TaiChi Walking",
+            "version": "1.0.1",
+            "size": 267200150,
+            "icon": "img/taichiwalking.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/taichiwalking.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/taichiwalking.ipa",
+            "bundleIdentifier": "com.oneothergame.tai-chi-walking",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات اللعبة او التطبيق \r\n\r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات ام شراء داخلي او اضافة موارد وسوف ينبهك بذالك\r\n\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n\r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/taichiwalking.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taichiwalking_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taichiwalking_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taichiwalking_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taichiwalking_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taichiwalking_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taichiwalking_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taichiwalking_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taichiwalking_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.1",
+                    "date": "2026-11-08T00:23:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/taichiwalking.ipa",
+                    "size": 267200150,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taichiwalking_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taichiwalking_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taichiwalking_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taichiwalking_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1235945986,
+            "name": "Cracker Head",
+            "version": "1.5.2",
+            "size": 509441244,
+            "icon": "img/crackerhead.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/crackerhead.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/crackerhead.ipa",
+            "bundleIdentifier": "com.fubugames.ballbreaker",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات\r\n\r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات تلقائي ام شراء داخلي او اضافة موارد سوف ينبهك بذالك\r\n\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n\r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crackerhead.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crackerhead_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crackerhead_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crackerhead_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crackerhead_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crackerhead_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crackerhead_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crackerhead_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crackerhead_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.2",
+                    "date": "2026-11-08T00:23:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/crackerhead.ipa",
+                    "size": 509441244,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crackerhead_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crackerhead_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crackerhead_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crackerhead_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1519314459,
+            "name": "Athan Academy",
+            "version": "2.4.6",
+            "size": 74411063,
+            "icon": "img/athanacademy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/athanacademy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/athanacademy.ipa",
+            "bundleIdentifier": "com.islamicfinder.alif",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات\r\n\r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات تلقائي ام شراء داخلي او اضافة موارد سوف ينبهك بذالك\r\n\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n\r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/athanacademy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athanacademy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athanacademy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athanacademy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athanacademy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athanacademy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athanacademy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athanacademy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athanacademy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.6",
+                    "date": "2026-11-08T00:22:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/athanacademy.ipa",
+                    "size": 74411063,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athanacademy_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athanacademy_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athanacademy_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athanacademy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1913788628,
+            "name": "NO.Draw Enjoy",
+            "version": "1.11.0",
+            "size": 151219374,
+            "icon": "img/nodrawenjoy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/nodrawenjoy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/nodrawenjoy.ipa",
+            "bundleIdentifier": "com.creative.sandbox.coloring.number.draw",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل الهاك. وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nodrawenjoy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodrawenjoy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodrawenjoy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodrawenjoy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodrawenjoy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodrawenjoy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodrawenjoy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodrawenjoy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodrawenjoy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.11.0",
+                    "date": "2026-11-08T00:22:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/nodrawenjoy.ipa",
+                    "size": 151219374,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodrawenjoy_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodrawenjoy_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodrawenjoy_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nodrawenjoy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1514247492,
+            "name": "Batch Resize",
+            "version": "8.6",
+            "size": 41495568,
+            "icon": "img/batchresize.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/batchresize.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/batchresize.ipa",
+            "bundleIdentifier": "com.codenia.batchresize",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتعديل على احجام الصور .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/batchresize.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/batchresize_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/batchresize_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/batchresize_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/batchresize_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/batchresize_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/batchresize_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/batchresize_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/batchresize_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "8.6",
+                    "date": "2026-11-08T00:22:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/batchresize.ipa",
+                    "size": 41495568,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/batchresize_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/batchresize_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/batchresize_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/batchresize_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1310920050,
             "name": "Python",
             "version": "5.0.6",
