@@ -10,6 +10,390 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1516771302,
+            "name": "SwiftVid",
+            "version": "1.2.0",
+            "size": 81486000,
+            "icon": "img/swiftvid.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/swiftvid.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/swiftvid.ipa",
+            "bundleIdentifier": "com.swiftvid.unlimitedfun",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Swiftvid هو مشغل فيديو متطور يوفر تجربة مشاهدة استثنائية بدعم 4K وتنسيقات متعددة. يتميز بواجهة بديهية، تحكم سلس بالإيماءات، وإدارة ملفات فعالة (إعادة تسمية، تفاصيل ملفات). مثالي لمحبي المحتوى المرئي بجودة عالية وسهولة في التنظيم.\n\n- بدون اعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/swiftvid.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftvid_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftvid_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftvid_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftvid_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftvid_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftvid_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftvid_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftvid_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.0",
+                    "date": "2026-11-08T21:40:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/swiftvid.ipa",
+                    "size": 81486000,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftvid_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftvid_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftvid_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swiftvid_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1874625281,
+            "name": "AlisTemporis",
+            "version": "14.4.3",
+            "size": 274079534,
+            "icon": "img/alistemporis.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/alistemporis.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/alistemporis.ipa",
+            "bundleIdentifier": "com.TownSoft.agentofadventure3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- متجر كراسفت غير محدود → الإنفاق/الكسب\n- ذهب غير محدود → إنفاق/كسب\n- صلاة غير محدودة → إنفاق/كسب",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/alistemporis.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alistemporis_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alistemporis_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alistemporis_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alistemporis_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alistemporis_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alistemporis_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alistemporis_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alistemporis_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "14.4.3",
+                    "date": "2026-11-08T21:40:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/alistemporis.ipa",
+                    "size": 274079534,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alistemporis_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alistemporis_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alistemporis_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alistemporis_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1869299283,
+            "name": "cooptd",
+            "version": "1.5.2",
+            "size": 902265041,
+            "icon": "img/cooptd.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/cooptd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/cooptd.ipa",
+            "bundleIdentifier": "com.supermagic.ios.cooptd",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف داميج\n- ذهب غير محدود داخل اللعبة\n- أحجار رئيسية غير محدودة داخل اللعبة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cooptd.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cooptd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cooptd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cooptd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cooptd_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cooptd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cooptd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cooptd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cooptd_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.2",
+                    "date": "2026-11-08T21:40:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/cooptd.ipa",
+                    "size": 902265041,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cooptd_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cooptd_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cooptd_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cooptd_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1290983319,
+            "name": "Hero Blitz",
+            "version": "2.5.6",
+            "size": 677064859,
+            "icon": "img/heroblitz.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/heroblitz.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/heroblitz.ipa",
+            "bundleIdentifier": "com.ondi.swordroguelite",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر\n- مضاعف الدفاع\n- عملات غير محدودة → الإنفاق/الكسب\n- تخطي إعلانات غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heroblitz.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroblitz_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroblitz_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroblitz_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroblitz_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroblitz_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroblitz_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroblitz_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroblitz_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.5.6",
+                    "date": "2026-11-08T21:39:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/heroblitz.ipa",
+                    "size": 677064859,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroblitz_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroblitz_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroblitz_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroblitz_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1188371448,
+            "name": "Mr Hero",
+            "version": "1.96.0",
+            "size": 215471007,
+            "icon": "img/mrhero.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/mrhero.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/mrhero.ipa",
+            "bundleIdentifier": "com.MonsterPlanet.MrHero",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "• - هجوم مضاعف (PvE)\n• - لاعب لايتضرر\n• - تجميد (بعض) العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mrhero.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mrhero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mrhero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mrhero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mrhero_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mrhero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mrhero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mrhero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mrhero_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.96.0",
+                    "date": "2026-11-08T21:38:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/mrhero.ipa",
+                    "size": 215471007,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mrhero_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mrhero_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mrhero_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mrhero_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1780927060,
+            "name": "Delusion",
+            "version": "2.4.4",
+            "size": 675959852,
+            "icon": "img/delusion.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/delusion.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/delusion.ipa",
+            "bundleIdentifier": "com.superplanet.delusion",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعفة الهجوم\n- مضاعفة الدفاع\n- تجميد العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/delusion.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delusion_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delusion_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delusion_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delusion_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delusion_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delusion_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delusion_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delusion_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.4",
+                    "date": "2026-11-08T21:38:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/delusion.ipa",
+                    "size": 675959852,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delusion_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delusion_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delusion_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delusion_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1151494626,
+            "name": "The Greedy Cave",
+            "version": "6.0.3",
+            "size": 426008243,
+            "icon": "img/thegreedycave.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/thegreedycave.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/thegreedycave.ipa",
+            "bundleIdentifier": "com.avalon.cave",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "هو لعبة ألغاز وتحديات تعتمد على الذكاء . \n- لعبة مدفوعه في ابل ستور  . \n الحد الأدنى للإصدار: iOS 18.0",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/thegreedycave.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thegreedycave_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thegreedycave_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thegreedycave_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thegreedycave_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thegreedycave_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thegreedycave_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thegreedycave_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thegreedycave_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.0.3",
+                    "date": "2026-11-08T21:37:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/thegreedycave.ipa",
+                    "size": 426008243,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thegreedycave_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thegreedycave_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thegreedycave_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thegreedycave_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1666476107,
+            "name": "Rail City",
+            "version": "1.0.15",
+            "size": 242141454,
+            "icon": "img/railcity.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/railcity.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/railcity.ipa",
+            "bundleIdentifier": "rail.city.train",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات معدنية لا نهائية\n- جواهر لا نهائية\n- IAP مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/railcity.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railcity_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railcity_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railcity_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railcity_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railcity_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railcity_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railcity_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railcity_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.15",
+                    "date": "2026-11-08T21:37:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/railcity.ipa",
+                    "size": 242141454,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railcity_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railcity_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railcity_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railcity_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1342907021,
             "name": "Dungeon Vlg 2",
             "version": "1.50",
