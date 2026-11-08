@@ -10,6 +10,390 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1272714124,
+            "name": "Fabula",
+            "version": "1.4.20",
+            "size": 20593000,
+            "icon": "img/fabula.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/fabula.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/fabula.ipa",
+            "bundleIdentifier": "agency.flabbergast.Fabula",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لتعديل على الصور بشكل احترافي .\n- مفعل البريميوم تلقائيا .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fabula.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabula_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabula_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabula_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabula_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabula_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabula_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabula_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabula_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.20",
+                    "date": "2026-11-08T21:29:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/fabula.ipa",
+                    "size": 20593000,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabula_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabula_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabula_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fabula_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1731299354,
+            "name": "Cowboy Valley",
+            "version": "0.25.0",
+            "size": 301328562,
+            "icon": "img/cowboyvalley.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/cowboyvalley.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/cowboyvalley.ipa",
+            "bundleIdentifier": "com.pantelisdev.cowboy",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- اللاعب لا يموت\n-عملة غير محدودة\n-السرعة الفائقة\n-معدل النار السريع\n-لا القدرة على التحمل\n-لا توجد مجموعة أوراق الماشية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cowboyvalley.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cowboyvalley_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cowboyvalley_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cowboyvalley_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cowboyvalley_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cowboyvalley_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cowboyvalley_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cowboyvalley_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cowboyvalley_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.25.0",
+                    "date": "2026-11-08T21:29:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/cowboyvalley.ipa",
+                    "size": 301328562,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cowboyvalley_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cowboyvalley_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cowboyvalley_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cowboyvalley_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1770308381,
+            "name": "Mini Basketball",
+            "version": "1.6.18",
+            "size": 650241801,
+            "icon": "img/minibasketball.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/minibasketball.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/minibasketball.ipa",
+            "bundleIdentifier": "com.miniclip.minibasketball",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "-زيادة دقة اللقطة (عتبة العلامة الخضراء أكبر من الصعب تفويتها. يتم مشاركة هذا ولكن الذكاء الاصطناعى غبي ولا يستفيد من ذلك LOL. لا يزال تحديًا ممتعًا).\n-دائمًا ما يكون لديك غطس مثالي (عتبة العلامة الخضراء أكبر بكثير ، لا يمكنك تفويتها)\n-منظمة العفو الدولية لا تسرق أو تمنعك\n-ميزة مفاجأة (حزم البطاقات المفتوحة وانظر)\n-ميزة مفاجأة 2 (تحقق من التبديل للحصول على نقاط الموسم)\n-ألا تتعب دائمًا من الغطس.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/minibasketball.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minibasketball_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minibasketball_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minibasketball_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minibasketball_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minibasketball_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minibasketball_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minibasketball_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minibasketball_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.18",
+                    "date": "2026-11-08T21:29:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/minibasketball.ipa",
+                    "size": 650241801,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minibasketball_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minibasketball_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minibasketball_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minibasketball_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1303115344,
+            "name": "DADOO",
+            "version": "1.8.5",
+            "size": 340080835,
+            "icon": "img/dadoo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/dadoo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/dadoo.ipa",
+            "bundleIdentifier": "com.algorocks.dadoo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- بدون إعلانات\n- زهر فتح\n- التميمة فتح\n- لوحة فتح \n- تم إلغاء قفل المشاعر\n- فتح الجلد \n- بطاقة سطح السفينة مفتوحة \n- تكلفة البطاقة 0 في المعركة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dadoo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dadoo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dadoo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dadoo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dadoo_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dadoo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dadoo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dadoo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dadoo_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.8.5",
+                    "date": "2026-11-08T21:28:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/dadoo.ipa",
+                    "size": 340080835,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dadoo_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dadoo_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dadoo_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dadoo_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1619006165,
+            "name": "Poker Hero",
+            "version": "1.9.4",
+            "size": 393852782,
+            "icon": "img/pokerhero.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/pokerhero.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/pokerhero.ipa",
+            "bundleIdentifier": "com.gemini.dash.deck",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تجميد الطاقة\n- قوة ATK [اختر بطاقة واحدة فقط اربح المعركة]\n- قوة التعويذة\n- دائما FullHouse [اختر أي بطاقات]\n- دائما فلوش [اختر أي بطاقات]\n- دائما مستقيم [اختر أي بطاقات]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pokerhero.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerhero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerhero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerhero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerhero_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerhero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerhero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerhero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerhero_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.4",
+                    "date": "2026-11-08T21:28:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/pokerhero.ipa",
+                    "size": 393852782,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerhero_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerhero_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerhero_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerhero_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1899504310,
+            "name": "LD - Photo & Video Finishing",
+            "version": "6.9.2",
+            "size": 154737700,
+            "icon": "img/ldphotovideofinishing.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/ldphotovideofinishing.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/ldphotovideofinishing.ipa",
+            "bundleIdentifier": "com.lensdistortions.Lens-Distortions",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق احترافي لإضافة تأثيرات سينمائية على الصور والفيديوهات و تحرير الصور والفيديوهات بجودة عالية . \n- مفتوح المميزات \n#حصري *_^",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ldphotovideofinishing.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ldphotovideofinishing_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ldphotovideofinishing_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ldphotovideofinishing_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ldphotovideofinishing_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ldphotovideofinishing_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ldphotovideofinishing_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ldphotovideofinishing_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ldphotovideofinishing_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "6.9.2",
+                    "date": "2026-11-08T21:27:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/ldphotovideofinishing.ipa",
+                    "size": 154737700,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ldphotovideofinishing_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ldphotovideofinishing_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ldphotovideofinishing_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ldphotovideofinishing_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1164331868,
+            "name": "ADtv",
+            "version": "5.0.24",
+            "size": 68545892,
+            "icon": "img/adtv.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/adtv.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/adtv.ipa",
+            "bundleIdentifier": "ae.admedia.adtv",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لمشاهدة المسلسلات العربية والاجنبية والرياضة والقنوات التلفزيونية والاخبار . \n\n- بدون إعلانات  .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/adtv.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adtv_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adtv_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adtv_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adtv_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adtv_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adtv_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adtv_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adtv_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.0.24",
+                    "date": "2026-11-08T21:27:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/adtv.ipa",
+                    "size": 68545892,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adtv_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adtv_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adtv_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adtv_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1387957854,
+            "name": "Zone X: Wasteland Survival RPG",
+            "version": "1.1.13",
+            "size": 851671032,
+            "icon": "img/zonexwastelandsurvivalrpg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/zonexwastelandsurvivalrpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/zonexwastelandsurvivalrpg.ipa",
+            "bundleIdentifier": "zonex.escape.story",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مصحح الأخطاء (+10 غش)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zonexwastelandsurvivalrpg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zonexwastelandsurvivalrpg_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zonexwastelandsurvivalrpg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zonexwastelandsurvivalrpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zonexwastelandsurvivalrpg_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zonexwastelandsurvivalrpg_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zonexwastelandsurvivalrpg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zonexwastelandsurvivalrpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zonexwastelandsurvivalrpg_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.13",
+                    "date": "2026-11-08T21:26:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/zonexwastelandsurvivalrpg.ipa",
+                    "size": 851671032,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zonexwastelandsurvivalrpg_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zonexwastelandsurvivalrpg_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zonexwastelandsurvivalrpg_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zonexwastelandsurvivalrpg_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1666410985,
             "name": "Knight Maidens",
             "version": "1.11",
