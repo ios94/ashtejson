@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1345327481,
+            "name": "TempleRun+",
+            "version": "1.17.0",
+            "size": 214410619,
+            "icon": "img/templerun.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/templerun.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/templerun.ipa",
+            "bundleIdentifier": "com.imangi.templerunplus",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه TempleRun+ من العاب الأركيد المدفوعة ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/templerun.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/templerun_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/templerun_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/templerun_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/templerun_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/templerun_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/templerun_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/templerun_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/templerun_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.17.0",
+                    "date": "2026-11-08T17:46:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/templerun.ipa",
+                    "size": 214410619,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/templerun_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/templerun_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/templerun_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/templerun_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1854384710,
+            "name": "Tsuki Odyssey",
+            "version": "1.9.16",
+            "size": 693128619,
+            "icon": "img/tsukiodyssey.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/tsukiodyssey.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/tsukiodyssey.ipa",
+            "bundleIdentifier": "com.hyperbeard.odyssey",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه ‌Tsuki Odyssey مهكره\r\n\r\nالمميزات :\r\n• جزر غير محدود ?\r\n[ أنفق / أكسب ]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tsukiodyssey.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tsukiodyssey_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tsukiodyssey_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tsukiodyssey_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tsukiodyssey_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tsukiodyssey_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tsukiodyssey_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tsukiodyssey_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tsukiodyssey_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.16",
+                    "date": "2026-11-08T17:46:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/tsukiodyssey.ipa",
+                    "size": 693128619,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tsukiodyssey_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tsukiodyssey_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tsukiodyssey_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tsukiodyssey_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1183054181,
+            "name": "FCM24",
+            "version": "1.1.3",
+            "size": 369664865,
+            "icon": "img/fcm24.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/fcm24.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/fcm24.ipa",
+            "bundleIdentifier": "com.GoPlayGames.FCM24",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه FCM24 مهكره\r\n\r\n\r\n\r\nالمميزات :\r\n• عملات غير محدودة ?\r\n[ سوف تزيد بدلاً من النقصان ]\r\n•  نقود غير محدودة ?\r\n[ سوف تزيد بدلاً من النقصان ]\r\n• عمليات شراء مجانية داخل التطبيق ?\r\n[ قم بالتبديل عبر iGMenu ]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fcm24.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm24_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm24_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm24_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm24_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm24_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm24_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm24_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm24_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.3",
+                    "date": "2026-11-08T17:45:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/fcm24.ipa",
+                    "size": 369664865,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm24_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm24_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm24_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fcm24_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1545923449,
+            "name": "Octodad+",
+            "version": "1.0.37",
+            "size": 294900102,
+            "icon": "img/octodad.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/octodad.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/octodad.ipa",
+            "bundleIdentifier": "com.younghorses.octodadplus",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة Octodad+ العاب (آركيد) ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/octodad.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/octodad_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/octodad_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/octodad_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/octodad_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/octodad_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/octodad_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/octodad_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/octodad_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.37",
+                    "date": "2026-11-08T17:45:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/octodad.ipa",
+                    "size": 294900102,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/octodad_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/octodad_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/octodad_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/octodad_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1322094436,
+            "name": "TR Reloaded",
+            "version": "1.5",
+            "size": 224207834,
+            "icon": "img/trreloaded.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/trreloaded.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/trreloaded.ipa",
+            "bundleIdentifier": "com.squareenix.oko",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه‌ TR Reloaded مهكره\r\n \r\nالمميزات : \r\n* جميع الفصول مفتوحة ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/trreloaded.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trreloaded_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trreloaded_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trreloaded_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trreloaded_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trreloaded_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trreloaded_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trreloaded_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trreloaded_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5",
+                    "date": "2026-11-08T17:44:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/trreloaded.ipa",
+                    "size": 224207834,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trreloaded_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trreloaded_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trreloaded_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trreloaded_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1126996647,
+            "name": "Outfire",
+            "version": "2.17.0",
+            "size": 755695853,
+            "icon": "img/outfire.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/outfire.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/outfire.ipa",
+            "bundleIdentifier": "com.mytona.outgun",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "* رادار ESP",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/outfire.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/outfire_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/outfire_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/outfire_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/outfire_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/outfire_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/outfire_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/outfire_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/outfire_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.17.0",
+                    "date": "2026-11-08T17:44:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/outfire.ipa",
+                    "size": 755695853,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/outfire_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/outfire_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/outfire_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/outfire_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1998881718,
+            "name": "Ever Dungeon",
+            "version": "1.5.123",
+            "size": 543756243,
+            "icon": "img/everdungeon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/everdungeon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/everdungeon.ipa",
+            "bundleIdentifier": "com.wedo1.EverDungeon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه‌ ‌ ‌Ever Dungeon مهكره\r\n\r\nالمميزات :\r\n* عناصر متجر مجانية ?\r\n* طاقه متجددة ⚡️",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/everdungeon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everdungeon_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everdungeon_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everdungeon_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everdungeon_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everdungeon_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everdungeon_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everdungeon_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everdungeon_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.123",
+                    "date": "2026-11-08T17:43:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/everdungeon.ipa",
+                    "size": 543756243,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everdungeon_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everdungeon_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everdungeon_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everdungeon_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1352849299,
+            "name": "CritterCoast",
+            "version": "4.10.0",
+            "size": 286350035,
+            "icon": "img/crittercoast.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/crittercoast.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/crittercoast.ipa",
+            "bundleIdentifier": "games.extradimension.crittercoastmerge",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه‌‌ CritterCoast مهكره\r\n\r\n\r\nالمميزات :\r\n• عملات غير محدودة ?\r\n• جواهر غير محدودة ?\r\n• طاقة غير محدودة ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crittercoast.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crittercoast.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crittercoast.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.10.0",
+                    "date": "2026-11-08T17:42:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/crittercoast.ipa",
+                    "size": 286350035,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crittercoast.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1227628779,
+            "name": "Assassin",
+            "version": "1.983",
+            "size": 147891572,
+            "icon": "img/assassin.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/assassin.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/assassin.ipa",
+            "bundleIdentifier": "com.rubygames.assassin",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Assassin مهكره \r\nاخر اصدار : v1.910\r\n\r\nالمميزات :\r\n* جواهر غير محدودة\r\nاكسب بعضًا منها من خلال مشاهدة أحد الإعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/assassin.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassin_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassin_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassin_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassin_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassin_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassin_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassin_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassin_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.983",
+                    "date": "2026-11-08T17:42:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/assassin.ipa",
+                    "size": 147891572,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassin_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassin_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassin_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/assassin_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1160191536,
+            "name": "CopNRobber",
+            "version": "17.0.5",
+            "size": 456434388,
+            "icon": "img/copnrobber.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/copnrobber.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/copnrobber.ipa",
+            "bundleIdentifier": "com.joydo.minestrike",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- طاقة غير محدودة \r\n- شمس \r\n- ذخيرة غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/copnrobber.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copnrobber_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copnrobber_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copnrobber_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copnrobber_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copnrobber_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copnrobber_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copnrobber_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copnrobber_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "17.0.5",
+                    "date": "2026-11-08T17:42:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/copnrobber.ipa",
+                    "size": 456434388,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copnrobber_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copnrobber_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copnrobber_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/copnrobber_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1815097320,
             "name": "Balls&#39;n Ropes",
             "version": "13.13.7",
