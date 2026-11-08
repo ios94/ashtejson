@@ -10,6 +10,237 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1315227278,
+            "name": "Meow Rangers",
+            "version": "1.1.0",
+            "size": 522086363,
+            "icon": "img/meowrangers.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/meowrangers.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/meowrangers.ipa",
+            "bundleIdentifier": "com.mobirix.mbbc",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مُضاعِف الضرر\n- لا تموت أبدًا\n- لا فترة تهدئة للمهارة\n- مُضاعِف السرعة\n- تجميد العملات\n- لا إعلانات\n- تم فتح بطاقة VIP",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/meowrangers.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/meowrangers.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/meowrangers.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.0",
+                    "date": "2026-11-08T23:13:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/meowrangers.ipa",
+                    "size": 522086363,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/meowrangers.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1836050103,
+            "name": "SnapX",
+            "version": "1.2.4",
+            "size": 13151447,
+            "icon": "img/snapx.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/snapx.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/snapx.ipa",
+            "bundleIdentifier": "MagicStudio.SnapX",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لنسخ روابط الفديوهات والصور من منصات التواصل الاجتماعي وحفظ الروابط داخل التطبيق . \n\n- مدفوع في ابل ستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/snapx.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapx_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapx_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapx_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapx_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapx_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapx_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapx_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapx_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.4",
+                    "date": "2026-11-08T23:12:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/snapx.ipa",
+                    "size": 13151447,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapx_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapx_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapx_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapx_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1664976151,
+            "name": "AI Recipes",
+            "version": "45",
+            "size": 95524549,
+            "icon": "img/airecipes.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/airecipes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/airecipes.ipa",
+            "bundleIdentifier": "ai.food.recipe.generator",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لتوليد صور الطعام باستخدام تقنية الذكاء الاصطناعي. \n- مفتوح المميزات \nإضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/airecipes.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airecipes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airecipes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airecipes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airecipes_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airecipes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airecipes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airecipes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airecipes_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "45",
+                    "date": "2026-11-08T23:12:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/airecipes.ipa",
+                    "size": 95524549,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airecipes_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airecipes_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airecipes_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airecipes_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1141463946,
+            "name": "AI Anime",
+            "version": "47",
+            "size": 96189311,
+            "icon": "img/aianime.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/aianime.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/aianime.ipa",
+            "bundleIdentifier": "ai.anime.art.generator",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لإنشاء صور أنمي باستخدام الذكاء الاصطناعي . \n\n- مفتوح المميزات \nإضغط شراء ثم الغاء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aianime.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aianime_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aianime_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aianime_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aianime_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aianime_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aianime_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aianime_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aianime_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "47",
+                    "date": "2026-11-08T23:10:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/aianime.ipa",
+                    "size": 96189311,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aianime_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aianime_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aianime_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aianime_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1645106289,
+            "name": "SSH Terminal Pro",
+            "version": "2.3",
+            "size": 89074444,
+            "icon": "img/sshterminalpro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/sshterminalpro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/sshterminalpro.ipa",
+            "bundleIdentifier": "com.fishnetwork.ServerStatusPro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق يوفر واجهة (Terminal) لتنفيذ اتصالات SSH آمنة مع الخوادم البعيدة.\n\n- مدفوع في ابل ستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sshterminalpro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sshterminalpro_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sshterminalpro_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sshterminalpro_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sshterminalpro_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sshterminalpro_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sshterminalpro_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sshterminalpro_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sshterminalpro_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.3",
+                    "date": "2026-11-08T23:10:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/sshterminalpro.ipa",
+                    "size": 89074444,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sshterminalpro_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sshterminalpro_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sshterminalpro_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sshterminalpro_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1791291565,
             "name": "BennettTestFull",
             "version": "2.5",
