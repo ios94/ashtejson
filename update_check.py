@@ -12,6 +12,8 @@ update_check.py - ئابدەیتی یاری و ئەپەکان بە شێوەی خ
 import base64
 import json
 import os
+import random
+import time
 import plistlib
 import re
 import subprocess
@@ -22,7 +24,10 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 
 import ashte_sync as sync
+import fix_types
 from fix_types import HTTPRangeFile
+
+fix_types.HEADERS = {}  # هەمان شێوازی admin_adder.py (هێدەری ئاسایی requests)، چونکە هەندێک سێرڤەر Chrome UA ڕەت دەکەنەوە
 
 JSON_FILE = base64.b64decode("YXNodGVtb2JpbGU5NC5qc29u").decode()
 BACKUP_FILE = "backup_memory.json"
@@ -34,7 +39,8 @@ BATCH_SIZE = sync.BATCH_SIZE
 DATA_URLS = [u for u in re.split(r"[,\s]+", os.environ.get("DATA_URLS", "").strip()) if u]
 MAX_UPDATES = int(os.environ.get("MAX_UPDATES", "60") or 60)
 DRY_RUN = os.environ.get("DRY_RUN", "No").strip().lower() in ("yes", "true", "1")
-WORKERS = 8
+WORKERS = 16
+MAX_CHECK_SECONDS = int(os.environ.get("MAX_CHECK_SECONDS", "2400") or 2400)  # ٤٠ خولەک زیاتر ناپشکنێت
 HEADERS = sync.HEADERS
 
 
@@ -89,24 +95,30 @@ def load_state():
 
 
 def check_one(game, app, state):
-    """(نووسراوەی ئەنجام، وەشانی نوێ، sig)"""
+    """(ئەنجام، وەشانی نوێ، sig).
+    ١) GET ی ئاسایی (وەک admin_adder) و تەنها هێدەرەکان دەخوێنرێنەوە، بەبێ دابەزاندنی فایل
+    ٢) ئەگەر سێرڤەر Accept-Ranges: bytes ی هەبوو، وەشانی ڕاستەقینە لە Info.plist دەخوێنرێتەوە
+    ٣) ئەگەر نا: size/ETag/Last-Modified بەراورد دەکرێت لەگەڵ جاری پێشوو (update_state.json)"""
     url = game["ipa"]
     if not url.lower().startswith("http"):
-        return "skip (not a direct link)", None, None
+        return "skip", None, None
     try:
-        new_v = remote_version(url)
-        return "range", new_v, None
-    except RuntimeError as e:
-        msg = str(e)
-        if "does not support Range (HTTP 200)" not in msg:
-            return f"error: {msg}", None, None
+        r = requests.get(url, stream=True, timeout=(15, 25))
     except Exception as e:
-        return f"error: {e}", None, None
-    # سێرڤەرەکە Range ی نیە: بەراوردی sig
+        return f"error: {type(e).__name__}", None, None
     try:
-        sig = signature(url)
-    except Exception as e:
-        return f"error: {e}", None, None
+        if r.status_code != 200:
+            return f"error: HTTP {r.status_code}", None, None
+        h = r.headers
+        sig = f"{h.get('Content-Length', '')}|{h.get('ETag', '')}|{h.get('Last-Modified', '')}"
+        has_ranges = h.get("Accept-Ranges", "").lower() == "bytes"
+    finally:
+        r.close()
+    if has_ranges:
+        try:
+            return "range", remote_version(url), sig
+        except Exception:
+            pass  # دەچینە ڕێگای sig
     key = app["name"].strip().lower()
     if key not in state:
         return "baseline", None, sig  # یەکەم جار: تەنها تۆمار دەکرێت
@@ -121,7 +133,11 @@ def gather_feed():
     for url in (DATA_URLS or [sync.DATA_URL]):
         sync.DATA_URL = url
         try:
-            got = sync.normalize(sync.load_feed())
+            raw = sync.load_feed()
+            if raw:
+                print("🧪 sample feed item keys:", list(raw[0].keys()) if isinstance(raw[0], dict) else type(raw[0]))
+                print("🧪 sample:", json.dumps(raw[0], ensure_ascii=False)[:600])
+            got = sync.normalize(raw)
         except SystemExit:
             print(f"⚠️ feed not available: {url}")
             continue
@@ -141,35 +157,48 @@ def prepare():
         data = json.load(f)
     by_name = {a["name"].strip().lower(): a for a in data.get("apps", []) if a.get("name")}
     games = [g for g in gather_feed() if g["name"].lower().strip() in by_name]
-    print(f"🔎 {len(games)} games of your JSON were found in the source. Checking versions...")
+    random.shuffle(games)  # ئەگەر کات تەواو بوو، جاری داهاتوو لە شوێنێکی تر دەست پێدەکات
+    print(f"🔎 {len(games)} games of your JSON were found in the source. Checking...")
 
     state = load_state()
-    found, stats, done = [], {}, 0
-    with ThreadPoolExecutor(max_workers=WORKERS) as ex:
-        futs = {ex.submit(check_one, g, by_name[g["name"].lower().strip()], state): g for g in games}
+    found, stats, errors, done = [], {}, [], 0
+    start = time.time()
+    ex = ThreadPoolExecutor(max_workers=WORKERS)
+    futs = {ex.submit(check_one, g, by_name[g["name"].lower().strip()], state): g for g in games}
+    try:
         for fut in as_completed(futs):
             g = futs[fut]
             app = by_name[g["name"].lower().strip()]
             how, new_v, sig = fut.result()
-            stats[how.split(":")[0]] = stats.get(how.split(":")[0], 0) + 1
-            if sig:
-                if how in ("baseline", "unchanged"):
-                    state[app["name"].strip().lower()] = sig
+            kind = how.split(":")[0] if not how.startswith("error") else how
+            stats[kind] = stats.get(kind, 0) + 1
             old_v = app.get("version", "")
+            queued = False
             if how == "sig-changed" or (new_v and is_newer(new_v, old_v)):
                 tag = release_tag_of(app)
-                if not tag:
-                    print(f"⚠️ no release tag for {app['name']}, skipped")
-                else:
+                if tag:
+                    queued = True
                     found.append({"name": app["name"], "ipa": g["ipa"], "desc": g.get("desc", ""),
                                   "old_version": old_v, "new_version": new_v, "tag": tag, "sig": sig})
                     print(f"🆕 {app['name']}: {old_v} -> {new_v}  [{tag}]")
-            elif how.startswith("error"):
-                print(f"⚠️ {app['name']}: {how}")
+            elif how.startswith("error") and len(errors) < 15:
+                errors.append(f"{app['name']}: {how}  <- {g['ipa'][:120]}")
+            if sig and not queued:
+                state[app["name"].strip().lower()] = sig
             done += 1
-            if done % 100 == 0:
-                print(f"   {done}/{len(games)} checked")
+            if done % 200 == 0:
+                print(f"   {done}/{len(games)} checked ({int(time.time() - start)}s)")
+            if time.time() - start > MAX_CHECK_SECONDS:
+                print(f"⏱️ {MAX_CHECK_SECONDS}s passed, the rest will be checked next time.")
+                break
+    finally:
+        ex.shutdown(wait=False, cancel_futures=True)
+
     print(f"📊 {stats}")
+    if errors:
+        print("نموونەی ئەو لینکانەی کێشەیان هەبوو (١٥ یەکەم):")
+        for e in errors:
+            print("  ", e)
 
     found = found[:MAX_UPDATES]
     batches = []
