@@ -10,6 +10,420 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1926073043,
+            "name": "Stumble Guys",
+            "version": "0.84",
+            "size": 1294503220,
+            "icon": "img/stumbleguys.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/stumbleguys.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/stumbleguys.ipa",
+            "bundleIdentifier": "com.kitkagames.fallbuddies",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- فتح جميع الأشكال\r\n- فتح جميع التعبيرات\r\n- فتح جميع الخطوات\r\n- فتح جميع الرسوم المتحركة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stumbleguys.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stumbleguys_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stumbleguys_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stumbleguys_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stumbleguys_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stumbleguys_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stumbleguys_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stumbleguys_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stumbleguys_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.84",
+                    "date": "2026-11-08T14:25:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/stumbleguys.ipa",
+                    "size": 1294503220,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stumbleguys_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stumbleguys_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stumbleguys_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stumbleguys_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1762998596,
+            "name": "Blades",
+            "version": "1.31.0",
+            "size": 1292655973,
+            "icon": "img/blades.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/blades.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/blades.ipa",
+            "bundleIdentifier": "com.bethsoft.blade",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "ضربه واحره تقتل \r\nلاعب لايتضرر",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blades.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blades.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blades.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.31.0",
+                    "date": "2026-11-08T14:24:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/blades.ipa",
+                    "size": 1292655973,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blades.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1506838155,
+            "name": "Always Sunny: Gang Goes Mobile",
+            "version": "1.4.17",
+            "size": 271346635,
+            "icon": "img/alwayssunnyganggoesmobile.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/alwayssunnyganggoesmobile.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/alwayssunnyganggoesmobile.ipa",
+            "bundleIdentifier": "com.eastsidegames.alwayssunny",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Always Sunny: Gang Goes Mobile\r\n\r\n\r\nالمميزات :\r\n• عملات غير محدودة ?\r\n[سوف تزيد بدلاً من النقصان]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/alwayssunnyganggoesmobile.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/alwayssunnyganggoesmobile.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/alwayssunnyganggoesmobile.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.17",
+                    "date": "2026-11-08T14:22:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/alwayssunnyganggoesmobile.ipa",
+                    "size": 271346635,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/alwayssunnyganggoesmobile.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1183685108,
+            "name": "Flappy Bird",
+            "version": "4.3",
+            "size": 5962809,
+            "icon": "img/flappybird.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/flappybird.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/flappybird.ipa",
+            "bundleIdentifier": "org.brandonplank.flappybird",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "محذوف من اب ستور . ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/flappybird.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flappybird_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flappybird_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flappybird_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flappybird_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flappybird_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flappybird_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flappybird_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flappybird_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.3",
+                    "date": "2026-11-08T14:22:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/flappybird.ipa",
+                    "size": 5962809,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flappybird_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flappybird_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flappybird_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flappybird_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1346714190,
+            "name": "Legend of Ace",
+            "version": "1.69.1",
+            "size": 1210779108,
+            "icon": "img/legendoface.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/legendoface.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/legendoface.ipa",
+            "bundleIdentifier": "com.funcube.loa",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Legend of Ace مهكره\n\n\nالمميزات :\n• هاك الخريطه ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/legendoface.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendoface_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendoface_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendoface_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendoface_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendoface_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendoface_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendoface_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendoface_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.69.1",
+                    "date": "2026-11-08T14:22:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/legendoface.ipa",
+                    "size": 1210779108,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendoface_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendoface_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendoface_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendoface_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1545504243,
+            "name": "Merge Elves",
+            "version": "2.7.8",
+            "size": 326576645,
+            "icon": "img/mergeelves.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/mergeelves.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/mergeelves.ipa",
+            "bundleIdentifier": "com.merge.elves.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "• عملات غير محدودة ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergeelves.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeelves_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeelves_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeelves_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeelves_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeelves_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeelves_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeelves_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeelves_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.7.8",
+                    "date": "2026-11-08T14:21:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/mergeelves.ipa",
+                    "size": 326576645,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeelves_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeelves_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeelves_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeelves_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1408249234,
+            "name": "SAOVS",
+            "version": "3.0.1",
+            "size": 331775836,
+            "icon": "img/saovs.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/saovs.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/saovs.ipa",
+            "bundleIdentifier": "jp.co.bandainamcoent.BNEI0409",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "• لا مهارة تباطوء \n • ضرب العدو مرة واحدة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/saovs.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saovs_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saovs_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saovs_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saovs_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saovs_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saovs_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saovs_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saovs_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.0.1",
+                    "date": "2026-11-08T14:20:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/saovs.ipa",
+                    "size": 331775836,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saovs_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saovs_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saovs_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saovs_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1270416427,
+            "name": "Real Driving School",
+            "version": "1.8.2",
+            "size": 969969340,
+            "icon": "img/realdrivingschool.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/realdrivingschool.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/realdrivingschool.ipa",
+            "bundleIdentifier": "com.qizz.rds",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "كاش لامحدود \r\nعملات لامحدود",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/realdrivingschool.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realdrivingschool_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realdrivingschool_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realdrivingschool_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realdrivingschool_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realdrivingschool_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realdrivingschool_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realdrivingschool_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realdrivingschool_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.8.2",
+                    "date": "2026-11-08T14:19:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/realdrivingschool.ipa",
+                    "size": 969969340,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realdrivingschool_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realdrivingschool_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realdrivingschool_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realdrivingschool_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1940280697,
+            "name": "R.A.C.E",
+            "version": "1.0.73",
+            "size": 806240944,
+            "icon": "img/race.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/race.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/race.ipa",
+            "bundleIdentifier": "com.smokokoltd.race",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "الذكاء الاصطناعي باللعبة ضعيف",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/race.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/race_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/race_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/race_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/race_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/race_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/race_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/race_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/race_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.73",
+                    "date": "2026-11-08T14:18:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/race.ipa",
+                    "size": 806240944,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/race_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/race_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/race_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/race_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1684136273,
             "name": "Stay Alive",
             "version": "0.15.9",
