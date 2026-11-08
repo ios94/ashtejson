@@ -10,6 +10,102 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1759902759,
+            "name": "Beatstar",
+            "version": "36.1.4",
+            "size": 295588238,
+            "icon": "img/beatstar.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/beatstar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/beatstar.ipa",
+            "bundleIdentifier": "com.spaceapegames.beatstar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "• درجة عالية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/beatstar.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beatstar_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beatstar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beatstar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beatstar_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beatstar_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beatstar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beatstar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beatstar_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "36.1.4",
+                    "date": "2026-11-08T16:20:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/beatstar.ipa",
+                    "size": 295588238,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beatstar_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beatstar_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beatstar_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beatstar_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1605588980,
+            "name": "DC Legends",
+            "version": "1.27.17",
+            "size": 250423920,
+            "icon": "img/dclegends.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/dclegends.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/dclegends.ipa",
+            "bundleIdentifier": "com.wb.dc.legends",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "• لامهارة تباطوء - > مرتبطة مع الأعداء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dclegends.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dclegends_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dclegends_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dclegends_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dclegends_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dclegends_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dclegends_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dclegends_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dclegends_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.27.17",
+                    "date": "2026-11-08T16:19:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/dclegends.ipa",
+                    "size": 250423920,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dclegends_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dclegends_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dclegends_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dclegends_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1348132608,
             "name": "Evertale",
             "version": "2.0.100",
