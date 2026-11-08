@@ -10,6 +10,483 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1908113958,
+            "name": "Temp Mail",
+            "version": "4.0.6",
+            "size": 36917318,
+            "icon": "img/tempmail.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/tempmail.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/tempmail.ipa",
+            "bundleIdentifier": "com.tempmail.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "إنشاء ايميلات وهمية \r\nبدون اعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tempmail.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tempmail_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tempmail_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tempmail_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tempmail_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tempmail_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tempmail_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tempmail_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tempmail_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.0.6",
+                    "date": "2026-11-08T12:55:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/tempmail.ipa",
+                    "size": 36917318,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tempmail_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tempmail_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tempmail_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tempmail_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1358726573,
+            "name": "Dict Plus",
+            "version": "5.8",
+            "size": 202872337,
+            "icon": "img/dictplus.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/dictplus.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/dictplus.ipa",
+            "bundleIdentifier": "com.vivinte.arabicdictionary",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "قاموس ترجمة ممتاز -\n\n . مفتوح جميع المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dictplus.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dictplus_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dictplus_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dictplus_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dictplus_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dictplus_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dictplus_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dictplus_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dictplus_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.8",
+                    "date": "2026-11-08T12:54:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/dictplus.ipa",
+                    "size": 202872337,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dictplus_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dictplus_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dictplus_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dictplus_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1873759645,
+            "name": "Weather Now",
+            "version": "2.11.9",
+            "size": 58638786,
+            "icon": "img/weathernow.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/weathernow.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/weathernow.ipa",
+            "bundleIdentifier": "deluxeware.WeatherFull",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $14.99\nRequires 15.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $14.99\nيتطلب اصدار 15.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/weathernow.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weathernow_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weathernow_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weathernow_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weathernow_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weathernow_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weathernow_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weathernow_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weathernow_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.11.9",
+                    "date": "2026-11-08T12:54:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/weathernow.ipa",
+                    "size": 58638786,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weathernow_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weathernow_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weathernow_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weathernow_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1296312638,
+            "name": "Cast Streamer",
+            "version": "3.0.18",
+            "size": 24386199,
+            "icon": "img/caststreamer.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/caststreamer.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/caststreamer.ipa",
+            "bundleIdentifier": "async.chromecast",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "التطبيق معدل نسخة كاملة ( PRO )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/caststreamer.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/caststreamer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/caststreamer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/caststreamer_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/caststreamer_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/caststreamer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/caststreamer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/caststreamer_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/caststreamer_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.0.18",
+                    "date": "2026-11-08T12:54:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/caststreamer.ipa",
+                    "size": 24386199,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/caststreamer_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/caststreamer_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/caststreamer_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/caststreamer_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1801293174,
+            "name": "Salatuk",
+            "version": "1.3.1",
+            "size": 113511202,
+            "icon": "img/salatuk.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/salatuk.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/salatuk.ipa",
+            "bundleIdentifier": "com.masaratapp.salatuk",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مدفوع في اب ستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/salatuk.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/salatuk_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/salatuk_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/salatuk_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/salatuk_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/salatuk_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/salatuk_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/salatuk_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/salatuk_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.1",
+                    "date": "2026-11-08T12:54:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/salatuk.ipa",
+                    "size": 113511202,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/salatuk_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/salatuk_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/salatuk_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/salatuk_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1931352630,
+            "name": "Whorl",
+            "version": "4.1.13",
+            "size": 73511455,
+            "icon": "img/whorl.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/whorl.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/whorl.ipa",
+            "bundleIdentifier": "com.kineticaesthetic.whorl",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "‏- مميزات التطبيق\r\n‏- اشتراك التطبيق مدفوع \r\nمفتتح الباقة كاملة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/whorl.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whorl_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whorl_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whorl_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whorl_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whorl_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whorl_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whorl_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whorl_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.1.13",
+                    "date": "2026-11-08T12:54:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/whorl.ipa",
+                    "size": 73511455,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whorl_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whorl_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whorl_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whorl_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1695019941,
+            "name": "U Dictionary",
+            "version": "4.4.0",
+            "size": 188277638,
+            "icon": "img/udictionary.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/udictionary.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/udictionary.ipa",
+            "bundleIdentifier": "com.youdao.UDictionary1",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\nالنسخه برو",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/udictionary.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/udictionary_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/udictionary_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/udictionary_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/udictionary_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/udictionary_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/udictionary_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/udictionary_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/udictionary_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.4.0",
+                    "date": "2026-11-08T12:54:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/udictionary.ipa",
+                    "size": 188277638,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/udictionary_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/udictionary_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/udictionary_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/udictionary_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1875110939,
+            "name": "HTMLViewer",
+            "version": "1.0.3",
+            "size": 27085043,
+            "icon": "img/htmlviewer.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/htmlviewer.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/htmlviewer.ipa",
+            "bundleIdentifier": "net.hayaya.HTMLViewer",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لقراءة اكواد HTML عبر المتصفح .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/htmlviewer.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/htmlviewer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/htmlviewer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/htmlviewer_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/htmlviewer_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/htmlviewer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/htmlviewer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/htmlviewer_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/htmlviewer_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.3",
+                    "date": "2026-11-08T12:53:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/htmlviewer.ipa",
+                    "size": 27085043,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/htmlviewer_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/htmlviewer_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/htmlviewer_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/htmlviewer_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1912852023,
+            "name": "WTMP",
+            "version": "1.0.9",
+            "size": 16178886,
+            "icon": "img/wtmp.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/wtmp.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/wtmp.ipa",
+            "bundleIdentifier": "com.wtmp.pro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لحماية جوالك من التطفل او السرقة\r\n- يلتقط صورة لمن يحاول فتح جهازك\r\n- يصدر تنبيه مزعج عند تحريك الجهاز\r\n—\r\nمعدل بالشراء المجاني - اختر الاشتراك السنوي \r\n وعند ظهور رسالة الدفع اختر الغاء ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wtmp.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wtmp_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wtmp_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wtmp_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wtmp_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wtmp_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wtmp_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.9",
+                    "date": "2026-11-08T12:53:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/wtmp.ipa",
+                    "size": 16178886,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wtmp_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wtmp_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wtmp_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1421079158,
+            "name": "Pngo",
+            "version": "1.4",
+            "size": 19561506,
+            "icon": "img/pngo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/pngo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/pngo.ipa",
+            "bundleIdentifier": "com.bdor14026.aditor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "التطبيق معدل بدون إعلانات ✅\r\n\r\nلتحميل الفيديو من برامج التواصل وحفظه مباشرة ف البوم الصور\r\n\r\n( تيك توك بدون علامة مائية - تويتر - الإنستقرام - اليوتيوب - الفيسبوك - الساوند كلاود )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pngo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pngo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pngo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pngo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pngo_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pngo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pngo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pngo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pngo_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4",
+                    "date": "2026-11-08T12:53:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/pngo.ipa",
+                    "size": 19561506,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pngo_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pngo_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pngo_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pngo_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1565535582,
             "name": "My Contacts",
             "version": "2.2",
