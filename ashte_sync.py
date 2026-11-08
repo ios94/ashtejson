@@ -113,7 +113,18 @@ def load_paged(url_template):
             except Exception as e:
                 print(f"⚠️ page {page} attempt {attempt + 1} failed: {e}")
                 time.sleep(3)
+        if not items and all_items:
+            # ڕەنگە کێشەی کاتی سێرڤەر بێت: چەند جار دووبارە هەوڵ دەدات پێش ئەوەی بڵێت پەڕەی کۆتاییە
+            for retry in range(2):
+                time.sleep(5)
+                try:
+                    items = fetch_items(url)
+                except Exception:
+                    items = None
+                if items:
+                    break
         if not items:
+            print(f"📄 page {page}: empty -> end of feed (total {len(all_items)})")
             break  # پەڕەی کۆتایی (بەتاڵ) یان کێشە
         new = 0
         for it in items:
@@ -122,8 +133,8 @@ def load_paged(url_template):
                 seen.add(key)
                 all_items.append(it)
                 new += 1
-        if page % 10 == 0 or new == 0:
-            print(f"📄 page {page}: +{new} new, total {len(all_items)}")
+        if page <= 3 or page % 10 == 0 or new == 0:
+            print(f"📄 page {page}: {len(items)} items, +{new} new, total {len(all_items)}")
         if new == 0:  # سێرڤەر page ی پشتگوێ خستووە و هەمان لیست دەداتەوە
             break
     return all_items
