@@ -10,6 +10,435 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1517103663,
+            "name": "Chameleon",
+            "version": "1.0.4",
+            "size": 125525724,
+            "icon": "img/chameleon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/chameleon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/chameleon.ipa",
+            "bundleIdentifier": "com.noodlecake.chameleonrunarcade",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة مدفوعة على اب ستور ✅ .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/chameleon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chameleon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chameleon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chameleon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chameleon_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chameleon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chameleon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chameleon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chameleon_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.4",
+                    "date": "2026-11-08T15:04:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/chameleon.ipa",
+                    "size": 125525724,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chameleon_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chameleon_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chameleon_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chameleon_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1253292848,
+            "name": "Enchanted",
+            "version": "1.1",
+            "size": 412585660,
+            "icon": "img/enchanted.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/enchanted.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/enchanted.ipa",
+            "bundleIdentifier": "com.noodlecake.enchantedworld",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مهكرة . ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/enchanted.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enchanted_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enchanted_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enchanted_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enchanted_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enchanted_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enchanted_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2026-11-08T15:03:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/enchanted.ipa",
+                    "size": 412585660,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enchanted_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enchanted_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enchanted_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1281121614,
+            "name": "URF",
+            "version": "1.5.107",
+            "size": 686595156,
+            "icon": "img/urf.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/urf.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/urf.ipa",
+            "bundleIdentifier": "com.reliancegames.urf",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تجميد الذهب\r\n- تجميد الأموال",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/urf.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/urf_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/urf_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/urf_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/urf_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/urf_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/urf_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/urf_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/urf_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.107",
+                    "date": "2026-11-08T15:02:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/urf.ipa",
+                    "size": 686595156,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/urf_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/urf_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/urf_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/urf_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1919836787,
+            "name": "Everland",
+            "version": "3.01",
+            "size": 1354960459,
+            "icon": "img/everland.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/everland.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/everland.ipa",
+            "bundleIdentifier": "com.cobra.toe",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مهكرة . ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/everland.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everland_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everland_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everland_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everland_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everland_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everland_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everland_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everland_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.01",
+                    "date": "2026-11-08T15:02:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/everland.ipa",
+                    "size": 1354960459,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everland_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everland_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everland_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/everland_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1966441652,
+            "name": "Crossy Castle",
+            "version": "6.2",
+            "size": 221499221,
+            "icon": "img/crossycastle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/crossycastle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/crossycastle.ipa",
+            "bundleIdentifier": "com.hipsterwhale.crossycastle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مهكرة .✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crossycastle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossycastle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossycastle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossycastle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossycastle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossycastle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossycastle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossycastle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossycastle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.2",
+                    "date": "2026-11-08T15:00:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/crossycastle.ipa",
+                    "size": 221499221,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossycastle_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossycastle_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossycastle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossycastle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1875335108,
+            "name": "Builder&#39;s Journey",
+            "version": "2.0.2",
+            "size": 773577723,
+            "icon": "img/builder39sjourney.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/builder39sjourney.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/builder39sjourney.ipa",
+            "bundleIdentifier": "com.lego.games.arthouse",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مهكرة ✅ .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/builder39sjourney.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/builder39sjourney_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/builder39sjourney_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/builder39sjourney_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/builder39sjourney_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/builder39sjourney_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/builder39sjourney_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/builder39sjourney_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/builder39sjourney_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.2",
+                    "date": "2026-11-08T15:00:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/builder39sjourney.ipa",
+                    "size": 773577723,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/builder39sjourney_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/builder39sjourney_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/builder39sjourney_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/builder39sjourney_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1299560782,
+            "name": "Cat Quest II",
+            "version": "1.7.5",
+            "size": 401042026,
+            "icon": "img/catquestii.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/catquestii.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/catquestii.ipa",
+            "bundleIdentifier": "com.thegentlebros.catquest2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مهكرة ✅ .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/catquestii.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catquestii_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catquestii_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catquestii_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catquestii_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catquestii_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catquestii_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catquestii_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catquestii_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.5",
+                    "date": "2026-11-08T14:59:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/catquestii.ipa",
+                    "size": 401042026,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catquestii_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catquestii_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catquestii_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catquestii_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1312094526,
+            "name": "Thetan Arena",
+            "version": "277",
+            "size": 319641761,
+            "icon": "img/thetanarena.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/thetanarena.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/thetanarena.ipa",
+            "bundleIdentifier": "com.wolffun.thetanarena",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مهارات لا تباطؤ\r\n- لا يوجد إعادة تحميل للبندقية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/thetanarena.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetanarena_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetanarena_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetanarena_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetanarena_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetanarena_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetanarena_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetanarena_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetanarena_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "277",
+                    "date": "2026-11-08T14:58:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/thetanarena.ipa",
+                    "size": 319641761,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetanarena_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetanarena_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetanarena_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetanarena_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1711797302,
+            "name": "MiddleEarthHeroes",
+            "version": "1.7.1",
+            "size": 254605072,
+            "icon": "img/middleearthheroes.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/middleearthheroes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/middleearthheroes.ipa",
+            "bundleIdentifier": "com.gamestar.dh",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "أعداء أغبياء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/middleearthheroes.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/middleearthheroes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/middleearthheroes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/middleearthheroes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/middleearthheroes_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/middleearthheroes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/middleearthheroes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/middleearthheroes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/middleearthheroes_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.1",
+                    "date": "2026-11-08T14:58:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/middleearthheroes.ipa",
+                    "size": 254605072,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/middleearthheroes_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/middleearthheroes_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/middleearthheroes_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/middleearthheroes_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1723570609,
             "name": "Major GUN2",
             "version": "4.3.3",
