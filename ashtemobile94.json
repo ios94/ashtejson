@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1873385381,
+            "name": "Let&#39;s Survive",
+            "version": "1.9.7",
+            "size": 311947644,
+            "icon": "img/let39ssurvive.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/let39ssurvive.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/let39ssurvive.ipa",
+            "bundleIdentifier": "lets.survive.apocalypse.survival",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تجميد العناصر الحرفية\r\n- دفعة مجانية\r\n- يمكن أن يصنع\r\n- يمكن البناء\r\n- يمكن الترقية\r\n- لا جوع\r\n- لا يوجد عطش",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/let39ssurvive.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/let39ssurvive_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/let39ssurvive_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/let39ssurvive_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/let39ssurvive_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/let39ssurvive_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/let39ssurvive_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/let39ssurvive_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/let39ssurvive_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.7",
+                    "date": "2026-11-08T18:54:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/let39ssurvive.ipa",
+                    "size": 311947644,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/let39ssurvive_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/let39ssurvive_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/let39ssurvive_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/let39ssurvive_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1433235559,
+            "name": "BloodKnight",
+            "version": "2.116",
+            "size": 582963210,
+            "icon": "img/bloodknight.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/bloodknight.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/bloodknight.ipa",
+            "bundleIdentifier": "com.superbox.ios.blood",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه BloodKnight مهكره\r\n\r\nالمميزات :\r\n* أضرار عالية ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bloodknight.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bloodknight.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bloodknight.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.116",
+                    "date": "2026-11-08T18:53:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/bloodknight.ipa",
+                    "size": 582963210,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bloodknight.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1937767247,
+            "name": "Need for Speed Most Wanted",
+            "version": "1.1.0",
+            "size": 2098082951,
+            "icon": "img/needforspeedmostwanted.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/needforspeedmostwanted.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/needforspeedmostwanted.ipa",
+            "bundleIdentifier": "com.ea.nfs13.bv",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Need for Speed Most Wanted مهكره\r\n\r\nالمميزات :\r\n* نقود غير محدودة ?\r\n[ اربح البعض لتحصل على مبلغ غير محدود ]\r\n* جميع السيارات غير مقفلة ?\r\n[ لن يتم فتح سيارات NFS Edition ]\r\n* عدم اهتزاز الكاميرا ?\r\n[ سيتم تعطيل الكاميرا من الاهتزاز عند التعطل ]\r\n* لا توجد حواجز على الطرق ?\r\n[ سيتم تعطيل حواجز الطرق من الظهور ]\r\n* نقاط سرعة غير محدودة ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/needforspeedmostwanted.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/needforspeedmostwanted_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/needforspeedmostwanted_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/needforspeedmostwanted_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/needforspeedmostwanted_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/needforspeedmostwanted_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/needforspeedmostwanted_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/needforspeedmostwanted_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/needforspeedmostwanted_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.0",
+                    "date": "2026-11-08T18:53:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/needforspeedmostwanted.ipa",
+                    "size": 2098082951,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/needforspeedmostwanted_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/needforspeedmostwanted_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/needforspeedmostwanted_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/needforspeedmostwanted_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1801211083,
+            "name": "Hero Quest Idle RPG War Games",
+            "version": "0.9.14",
+            "size": 279398670,
+            "icon": "img/heroquestidlerpgwargames.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/heroquestidlerpgwargames.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/heroquestidlerpgwargames.ipa",
+            "bundleIdentifier": "com.fansipan.savior.quest.idle.rpg.adventure.game",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Hero Quest Idle RPG War Games مهكره\r\n\r\nالمميزات :\r\n* كل شيء غير محدود ✅\r\n* بدون اعلانات ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heroquestidlerpgwargames.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroquestidlerpgwargames_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroquestidlerpgwargames_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroquestidlerpgwargames_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroquestidlerpgwargames_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroquestidlerpgwargames_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroquestidlerpgwargames_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroquestidlerpgwargames_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroquestidlerpgwargames_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.9.14",
+                    "date": "2026-11-08T18:51:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/heroquestidlerpgwargames.ipa",
+                    "size": 279398670,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroquestidlerpgwargames_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroquestidlerpgwargames_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroquestidlerpgwargames_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroquestidlerpgwargames_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1888400482,
+            "name": "TCGCardTycoon",
+            "version": "267",
+            "size": 561321175,
+            "icon": "img/tcgcardtycoon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/tcgcardtycoon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/tcgcardtycoon.ipa",
+            "bundleIdentifier": "com.OPNeon.TCGCardTycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه TCGCardTycoon مهكره\r\n\r\n\r\nالمميزات :\r\n* عملات لانهائيه ?\r\n* حزم بطاقات لانهائيه ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tcgcardtycoon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tcgcardtycoon_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tcgcardtycoon_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tcgcardtycoon_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tcgcardtycoon_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tcgcardtycoon_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tcgcardtycoon_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tcgcardtycoon_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tcgcardtycoon_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "267",
+                    "date": "2026-11-08T18:50:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/tcgcardtycoon.ipa",
+                    "size": 561321175,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tcgcardtycoon_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tcgcardtycoon_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tcgcardtycoon_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tcgcardtycoon_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1918200684,
+            "name": "Chickens!",
+            "version": "1.10.1",
+            "size": 208594110,
+            "icon": "img/chickens.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/chickens.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/chickens.ipa",
+            "bundleIdentifier": "com.SimplicatedGames.idle.chickens",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Always Enough Gold\r\n\tAlways Enough Diamonds\r\n\tNo Ads\n\nدائما ما يكفي من الذهب\r\n\tدائما ما يكفي من الماس\r\nبدون إعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/chickens.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickens_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickens_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickens_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickens_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickens_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickens_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickens_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickens_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.10.1",
+                    "date": "2026-11-08T18:50:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/chickens.ipa",
+                    "size": 208594110,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickens_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickens_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickens_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickens_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1513834893,
+            "name": "Harekat 2",
+            "version": "5.2.5",
+            "size": 1768775110,
+            "icon": "img/harekat2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/harekat2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/harekat2.ipa",
+            "bundleIdentifier": "com.devlaps.harekat2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "* طاقة متجددة\r\n* ذخيرة غير محدودة [ لن تنخفض ]\r\n* القدرة على التحمل غير المحدودة\r\n[ ستنخفض ولكن لا يزال بإمكانك استخدامها ]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/harekat2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/harekat2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/harekat2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/harekat2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/harekat2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/harekat2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/harekat2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/harekat2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/harekat2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.2.5",
+                    "date": "2026-11-08T18:50:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/harekat2.ipa",
+                    "size": 1768775110,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/harekat2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/harekat2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/harekat2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/harekat2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1523772036,
+            "name": "Jawaker",
+            "version": "28.2.66",
+            "size": 606039297,
+            "icon": "img/jawaker.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/jawaker.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/jawaker.ipa",
+            "bundleIdentifier": "com.boundlessdrop.jawaker",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة جواكر  مهكرة \n\nالمميزات : \n- تفعيل الباشا . \n- مكافئات آكثر . \n- فتح الرسائل الفوريه .\n- عصا طويله في لعبة البلياردو . \n\nتنبية : \nفعل الهاك من المنيو . \n\n#حصريات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jawaker.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jawaker_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jawaker_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jawaker_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jawaker_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jawaker_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jawaker_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jawaker_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jawaker_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "28.2.66",
+                    "date": "2026-11-08T18:48:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/jawaker.ipa",
+                    "size": 606039297,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jawaker_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jawaker_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jawaker_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jawaker_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1279873142,
+            "name": "Grift",
+            "version": "1.4.0",
+            "size": 225722108,
+            "icon": "img/grift.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/grift.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/grift.ipa",
+            "bundleIdentifier": "com.bodeville.grift",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Grift مهكره\r\n\r\n\r\nالمميزات :\r\n* أموال نقديه غير محدودة \r\n[ توجه إلى التسوق وشراء شيء ما ]\r\n* عملات معدنيه غير محدودة \r\n[ توجه إلى التسوق وشراء شيء ما ]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/grift.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grift_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grift_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grift_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grift_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grift_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grift_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grift_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grift_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.0",
+                    "date": "2026-11-08T18:48:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/grift.ipa",
+                    "size": 225722108,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grift_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grift_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grift_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grift_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1476210329,
+            "name": "Spell Masters",
+            "version": "1.6.3",
+            "size": 221597725,
+            "icon": "img/spellmasters.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/spellmasters.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/spellmasters.ipa",
+            "bundleIdentifier": "com.wildsparkgames.ricochet",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Spell Masters مهكره\r\n\r\nالمميزات :\r\n* طاقه متجددة ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spellmasters.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spellmasters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spellmasters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spellmasters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spellmasters_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spellmasters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spellmasters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spellmasters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spellmasters_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.3",
+                    "date": "2026-11-08T18:47:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/spellmasters.ipa",
+                    "size": 221597725,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spellmasters_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spellmasters_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spellmasters_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spellmasters_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1345563716,
             "name": "Zombie World Defense Shooter",
             "version": "1.0.61",
