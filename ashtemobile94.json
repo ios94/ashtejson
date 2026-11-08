@@ -10,6 +10,387 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1402798501,
+            "name": "SWAT Commando",
+            "version": "1.2.5",
+            "size": 270619313,
+            "icon": "img/swatcommando.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/swatcommando.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/swatcommando.ipa",
+            "bundleIdentifier": "com.swatvsterrorist.game",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- الماس غير محدود\n- ذهب غير محدود\n- قنابل يدوية غير محدودة\n- قدرة تحمل غير محدودة\n- مجموعات طبية غير محدودة\n- حصان\n- مدافع\n- هجوم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/swatcommando.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swatcommando_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swatcommando_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swatcommando_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swatcommando_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swatcommando_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swatcommando_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.5",
+                    "date": "2026-11-08T20:33:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/swatcommando.ipa",
+                    "size": 270619313,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swatcommando_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swatcommando_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swatcommando_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1716562411,
+            "name": "AI Chatbot",
+            "version": "2.31",
+            "size": 134696820,
+            "icon": "img/aichatbot.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/aichatbot.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/aichatbot.ipa",
+            "bundleIdentifier": "com.aichatbot.assistant",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مساعدك الشخصي و من افضل تطبيقات الذكاء الاصطناعي \nارسال اسئلة على شكل صور\nاستخراج النصوص من الصور\nتوليد الصور\nترجمة النصوص\nتحسين النصوص و الكثير من المميزات \n\n-  الحد الأدنى للإصدار: iOS 15.0\n- بكامل المميزات \n- حصريات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aichatbot.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aichatbot_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aichatbot_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aichatbot_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aichatbot_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aichatbot_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aichatbot_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aichatbot_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aichatbot_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.31",
+                    "date": "2026-11-08T20:33:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/aichatbot.ipa",
+                    "size": 134696820,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aichatbot_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aichatbot_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aichatbot_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aichatbot_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1127464409,
+            "name": "Shadow of the Depth",
+            "version": "1.1.7",
+            "size": 710455019,
+            "icon": "img/shadowofthedepth.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/shadowofthedepth.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/shadowofthedepth.ipa",
+            "bundleIdentifier": "com.chillyroom.sotd",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- إضافة الذهب\n- إضافة مفاتيح\n- إسقاط الأسلحة\n- إسقاط الماس\n- إسقاط الرونية\n- إسقاط التمرير\n- فوز فوري\n- استعادة الصحة\n- استرداد النائب",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shadowofthedepth.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowofthedepth_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowofthedepth_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowofthedepth_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowofthedepth_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowofthedepth_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowofthedepth_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowofthedepth_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowofthedepth_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.7",
+                    "date": "2026-11-08T20:33:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/shadowofthedepth.ipa",
+                    "size": 710455019,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowofthedepth_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowofthedepth_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowofthedepth_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shadowofthedepth_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1130733076,
+            "name": "Zombiepunk: Fight & Survive",
+            "version": "1.3.2",
+            "size": 696625815,
+            "icon": "img/zombiepunkfightsurvive.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/zombiepunkfightsurvive.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/zombiepunkfightsurvive.ipa",
+            "bundleIdentifier": "com.defender.dude",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تدمير الأشياء على الفور\n- لا يوجد مستوى يتطلب التدمير\n- عناصر حرفية فورية\n- أسلحة الترقية الفورية\n- أبراج الترقية الفورية\n- ترقيات/بناء المباني الفورية\n- أضف الكثير من الغنائم عند تدمير الأشياء\n- إزالة الإعلانات المزعجة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zombiepunkfightsurvive.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiepunkfightsurvive_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiepunkfightsurvive_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiepunkfightsurvive_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiepunkfightsurvive_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiepunkfightsurvive_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiepunkfightsurvive_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiepunkfightsurvive_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiepunkfightsurvive_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.2",
+                    "date": "2026-11-08T20:32:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/zombiepunkfightsurvive.ipa",
+                    "size": 696625815,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiepunkfightsurvive_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiepunkfightsurvive_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiepunkfightsurvive_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiepunkfightsurvive_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1515872915,
+            "name": "Music AI",
+            "version": "4.3.9",
+            "size": 159231704,
+            "icon": "img/musicai.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/musicai.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/musicai.ipa",
+            "bundleIdentifier": "com.feraset.tune",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "توليد الاصوات وتغييرها الى اصوات مشاهير باستخدام الذكاء الاصطناعي . \n\n- مفتوح جميع المميزات . \n-حصريات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/musicai.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicai_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicai_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicai_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicai_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicai_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicai_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicai_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicai_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.3.9",
+                    "date": "2026-11-08T20:31:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/musicai.ipa",
+                    "size": 159231704,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicai_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicai_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicai_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicai_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1759618259,
+            "name": "Boxing Star - PvP Match 3",
+            "version": "1.4.4",
+            "size": 227680553,
+            "icon": "img/boxingstarpvpmatch3.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/boxingstarpvpmatch3.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/boxingstarpvpmatch3.ipa",
+            "bundleIdentifier": "com.ftt.boxingstar.match3.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا يوجد إعلانات  مكافآت مجانية \n- تم إلغاء قفل الصورة الرمزية\n- الإطار مفتوح\n- القفازات مقفلة\n- كل القفازات مجانية  للقتال \n- ذكاء غبي\n- الفوز دائمًا\n- التخلي عن الفوز  Linked Always Win \nلعبة الكبح الغش",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/boxingstarpvpmatch3.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxingstarpvpmatch3_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxingstarpvpmatch3_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxingstarpvpmatch3_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxingstarpvpmatch3_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxingstarpvpmatch3_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxingstarpvpmatch3_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxingstarpvpmatch3_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxingstarpvpmatch3_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.4",
+                    "date": "2026-11-08T20:30:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/boxingstarpvpmatch3.ipa",
+                    "size": 227680553,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxingstarpvpmatch3_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxingstarpvpmatch3_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxingstarpvpmatch3_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boxingstarpvpmatch3_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1504842394,
+            "name": "Yacine",
+            "version": "1.0.1",
+            "size": 54640692,
+            "icon": "img/yacine.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/yacine.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/yacine.ipa",
+            "bundleIdentifier": "com.yacine.soccer",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لمشاهدة القنوات الرياضية  والقنوات المشفرة   .\n- بدون اعلانات مزعجة .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/yacine.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yacine_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yacine_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yacine_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yacine_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yacine_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yacine_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yacine_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yacine_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.1",
+                    "date": "2026-11-08T20:30:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/yacine.ipa",
+                    "size": 54640692,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yacine_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yacine_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yacine_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yacine_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1484917254,
+            "name": "Spin A Spell",
+            "version": "1.18.1",
+            "size": 330095394,
+            "icon": "img/spinaspell.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/spinaspell.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/spinaspell.ipa",
+            "bundleIdentifier": "com.forever9.spinaspell.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة  مرتبط بـ - السرقة والهجوم \n- معدل السرقة\n- معدل الهجوم\n- معدل الدرع\n- فتح قفل الحيوانات الأليفة \n- جلد الحيوانات الأليفة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spinaspell.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinaspell_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinaspell_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinaspell_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinaspell_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinaspell_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinaspell_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinaspell_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinaspell_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.18.1",
+                    "date": "2026-11-08T20:29:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/spinaspell.ipa",
+                    "size": 330095394,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinaspell_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinaspell_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinaspell_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinaspell_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1976950132,
             "name": "Dragons & Diamonds",
             "version": "2.0.63",
