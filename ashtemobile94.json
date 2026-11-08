@@ -10,6 +10,102 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1165499191,
+            "name": "LONEWOLF",
+            "version": "1.2.31",
+            "size": 94615415,
+            "icon": "img/lonewolf.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/lonewolf.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/lonewolf.ipa",
+            "bundleIdentifier": "com.FDGEntertainment.Lonewolf",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\nمتجر مجاني (اضغط شراء بعدها الغاء)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lonewolf.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lonewolf_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lonewolf_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lonewolf_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lonewolf_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lonewolf_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lonewolf_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lonewolf_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lonewolf_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.31",
+                    "date": "2026-11-08T15:45:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/lonewolf.ipa",
+                    "size": 94615415,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lonewolf_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lonewolf_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lonewolf_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lonewolf_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1303633210,
+            "name": "Merge Duck 2",
+            "version": "1.15.0",
+            "size": 172697163,
+            "icon": "img/mergeduck2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/mergeduck2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/mergeduck2.ipa",
+            "bundleIdentifier": "com.onemoregame.leagueofxenoduck",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "• فوز تلقائي ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergeduck2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeduck2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeduck2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeduck2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeduck2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeduck2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeduck2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeduck2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeduck2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.15.0",
+                    "date": "2026-11-08T15:45:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/mergeduck2.ipa",
+                    "size": 172697163,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeduck2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeduck2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeduck2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeduck2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1825401698,
             "name": "Stickman Pirates",
             "version": "2.7",
