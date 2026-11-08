@@ -10,6 +10,342 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1950046533,
+            "name": "Submarine Jump!",
+            "version": "2.5.0",
+            "size": 264404243,
+            "icon": "img/submarinejump.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/submarinejump.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/submarinejump.ipa",
+            "bundleIdentifier": "com.clapclap.submarine",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل التطبيق مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/submarinejump.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/submarinejump_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/submarinejump_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/submarinejump_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/submarinejump_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/submarinejump_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/submarinejump_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/submarinejump_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/submarinejump_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.5.0",
+                    "date": "2026-11-08T07:23:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/submarinejump.ipa",
+                    "size": 264404243,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/submarinejump_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/submarinejump_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/submarinejump_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/submarinejump_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1489738268,
+            "name": "Combo Clash",
+            "version": "4.4.2",
+            "size": 500020440,
+            "icon": "img/comboclash.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/comboclash.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/comboclash.ipa",
+            "bundleIdentifier": "com.ristretto.comboclash",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تجميد العملة\r\n- لا توجد إعلانات\r\n- بريميوم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/comboclash.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/comboclash_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/comboclash_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/comboclash_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/comboclash_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/comboclash_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/comboclash_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/comboclash_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/comboclash_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.4.2",
+                    "date": "2026-11-08T07:23:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/comboclash.ipa",
+                    "size": 500020440,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/comboclash_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/comboclash_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/comboclash_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/comboclash_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1854690906,
+            "name": "Happy Fitness",
+            "version": "1.9.1",
+            "size": 428112075,
+            "icon": "img/happyfitness.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/happyfitness.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/happyfitness.ipa",
+            "bundleIdentifier": "com.wefun.happy.fitness",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ترقيات تكلفة العملة المجانية\n- شراء الأحجار الكريمة مجانًا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/happyfitness.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happyfitness_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happyfitness_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happyfitness_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happyfitness_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happyfitness_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happyfitness_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happyfitness_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happyfitness_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.1",
+                    "date": "2026-11-08T07:22:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/happyfitness.ipa",
+                    "size": 428112075,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happyfitness_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happyfitness_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happyfitness_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happyfitness_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1200048584,
+            "name": "Gold Rush",
+            "version": "0.28.30",
+            "size": 380179820,
+            "icon": "img/goldrush.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/goldrush.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/goldrush.ipa",
+            "bundleIdentifier": "io.whitesharx.moon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )\n\nوصف التطبيق : \n\nهناك ذهب في تلك التلال! انضم إلى مغامرة البحث عن الذهب المثيرة هذه بينما تبني مستوطنات صاخبة، وتطالب بحقك في الأرض، وتنقب عن الذهب في أعماق الجبال الغادرة. واجه الحقائق القاسية للبقاء على قيد الحياة بينما تتحدى درجات حرارة الشتاء المتجمدة والموارد النادرة، وكل ذلك أثناء محاولتك الثراء وكسب ما يكفي من المال لإنقاذ والدك المريض.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/goldrush.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldrush_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldrush_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldrush_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldrush_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldrush_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldrush_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldrush_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldrush_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.28.30",
+                    "date": "2026-11-08T07:22:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/goldrush.ipa",
+                    "size": 380179820,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldrush_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldrush_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldrush_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldrush_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1962792802,
+            "name": "Idle Pirate",
+            "version": "1.21.0",
+            "size": 294567978,
+            "icon": "img/idlepirate.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/idlepirate.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/idlepirate.ipa",
+            "bundleIdentifier": "com.twindeerarts.idlepiratetycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlepirate.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepirate_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepirate_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepirate_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepirate_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepirate_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepirate_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepirate_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepirate_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.21.0",
+                    "date": "2026-11-08T07:21:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/idlepirate.ipa",
+                    "size": 294567978,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepirate_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepirate_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepirate_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlepirate_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1268726462,
+            "name": "Idle High School Enjoy",
+            "version": "1.21.0",
+            "size": 334262992,
+            "icon": "img/idlehighschoolenjoy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/idlehighschoolenjoy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/idlehighschoolenjoy.ipa",
+            "bundleIdentifier": "com.excitedowlarts.idlehighschooltycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n-  الشراء داخل اللعبة مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlehighschoolenjoy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehighschoolenjoy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehighschoolenjoy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehighschoolenjoy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehighschoolenjoy_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehighschoolenjoy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehighschoolenjoy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehighschoolenjoy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehighschoolenjoy_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.21.0",
+                    "date": "2026-11-08T07:21:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/idlehighschoolenjoy.ipa",
+                    "size": 334262992,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehighschoolenjoy_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehighschoolenjoy_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehighschoolenjoy_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehighschoolenjoy_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1296172910,
+            "name": "Obey Me!",
+            "version": "9.0.13",
+            "size": 259205274,
+            "icon": "img/obeyme.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/obeyme.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/obeyme.ipa",
+            "bundleIdentifier": "com.nttsolmare.game.ios.obeyme",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- فوز تلقائي\n- مُفعّل VIP",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/obeyme.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obeyme_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obeyme_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obeyme_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obeyme_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obeyme_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obeyme_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obeyme_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obeyme_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "9.0.13",
+                    "date": "2026-11-08T07:19:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/obeyme.ipa",
+                    "size": 259205274,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obeyme_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obeyme_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obeyme_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obeyme_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1233419221,
             "name": "Cooking Chaos",
             "version": "3.2.1",
