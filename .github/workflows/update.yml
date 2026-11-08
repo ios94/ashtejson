@@ -1,0 +1,138 @@
+name: Ashte - Auto Update Games (checks every 3 hours)
+
+on:
+  # یەک جار بە دەست Run بکە، دواتر خۆی هەموو ٣ کاتژمێر جارێک دەپشکنێت (٢٤ کاتژمێر)
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      data_urls:
+        description: 'لینکی فیدەکان (بە کۆما جیا بکرێنەوە)'
+        required: false
+        default: 'https://vip.appiraq.com/api/store/apps/index.php?limit=100&page=&type=games,https://vip.appiraq.com/api/store/apps/index.php?limit=100&page=&type=apps'
+        type: string
+      inject_dylib:
+        description: 'ئایا AlertAshte.dylib بخرێتە ناو IPA ی نوێ؟'
+        required: true
+        default: 'Yes'
+        type: choice
+        options:
+          - 'Yes'
+          - 'No'
+      dry_run:
+        description: 'Yes = تەنها پیشان دەدات چی ئابدەیت دەبێت، هیچ ناگۆڕێت'
+        required: true
+        default: 'No'
+        type: choice
+        options:
+          - 'No'
+          - 'Yes'
+      max_updates:
+        description: 'زۆرترین ژمارەی ئابدەیت لە هەر جارێکدا'
+        required: false
+        default: '60'
+        type: string
+
+# تەنها یەک ئابدەیت پێکەوە کار بکات
+concurrency:
+  group: ashte-update
+  cancel-in-progress: false
+
+jobs:
+  update_games:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    permissions:
+      contents: write
+
+    env:
+      DATA_URLS: ${{ github.event.inputs.data_urls || 'https://vip.appiraq.com/api/store/apps/index.php?limit=100&page=&type=games,https://vip.appiraq.com/api/store/apps/index.php?limit=100&page=&type=apps' }}
+      INJECT: ${{ github.event.inputs.inject_dylib || 'Yes' }}
+      DRY_RUN: ${{ github.event.inputs.dry_run || 'No' }}
+      MAX_UPDATES: ${{ github.event.inputs.max_updates || '60' }}
+      APP_TYPE: auto
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lief
+
+      - name: Check which games have a newer version
+        id: prep
+        run: python update_check.py prepare
+
+      - name: Download new IPA → Release (replace old) → JSON
+        if: ${{ steps.prep.outputs.count != '0' && env.DRY_RUN != 'Yes' }}
+        env:
+          BATCHES: ${{ steps.prep.outputs.batches }}
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          JSON_FILE=$(echo "YXNodGVtb2JpbGU5NC5qc29u" | base64 --decode)
+          START=$(date +%s)
+          MAX_SECONDS=19000
+
+          for ((b=0; b<BATCHES; b++)); do
+            if [ $(( $(date +%s) - START )) -gt $MAX_SECONDS ]; then
+              echo "⏱️ کات تەواو بوو، ئەوانی تر لە جاری داهاتوو"; break
+            fi
+
+            rm -rf ipas uploads_consumed*.txt
+            python update_check.py batch $b || { echo "ئەم پارچەیە بەتاڵ بوو، تێپەڕێنرا"; continue; }
+            TAG=$(cat batch_tag.txt)
+            echo "================ ئابدەیت $((b+1)) لە $BATCHES → $TAG ================"
+
+            if [ "$INJECT" = "Yes" ]; then
+              python inject.py || true
+            fi
+
+            python ashte_sync.py filter || { echo "هیچ فایلێک نەما"; rm -rf ipas; continue; }
+
+            # IPA ی نوێ جێگەی کۆنەکە دەگرێتەوە (هەمان ناو، --clobber)
+            for f in ipas/*.ipa; do
+              ok=0
+              for t in 1 2 3; do
+                if gh release upload "$TAG" "$f" --clobber; then ok=1; break; fi
+                sleep 5
+              done
+              if [ "$ok" = "0" ]; then echo "⚠️ بەرزکردنەوە شکستی هێنا: $f"; rm -f "$f"; fi
+            done
+            python ashte_sync.py prune || { echo "هیچ فایلێک بەرز نەکرایەوە"; rm -rf ipas; continue; }
+
+            for i in {1..20}; do
+              git pull origin main --rebase --autostash
+              python update_check.py merge
+              git add "$JSON_FILE" backup_memory.json update_state.json 2>/dev/null || true
+              if git commit -m "Update games: batch $((b+1))/$BATCHES ($TAG)"; then
+                if git push; then break; fi
+                git reset --hard HEAD~1   # بیکە بە پاک و لە سەر نوێترین وەشان دووبارە بیکەرەوە
+              else
+                echo "No changes"; break
+              fi
+              sleep 10
+            done
+            rm -rf ipas
+          done
+
+      - name: Save version memory
+        if: ${{ always() && env.DRY_RUN != 'Yes' }}
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add update_state.json 2>/dev/null || true
+          git commit -m "Update check state" >/dev/null 2>&1 || exit 0
+          for i in {1..5}; do
+            git pull origin main --rebase --autostash >/dev/null 2>&1
+            git push >/dev/null 2>&1 && exit 0
+            sleep 5
+          done
