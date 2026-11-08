@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1727592233,
+            "name": "Santa Tracker",
+            "version": "1.1.6",
+            "size": 49283454,
+            "icon": "img/santatracker.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/santatracker.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/santatracker.ipa",
+            "bundleIdentifier": "com.santaclausapps.santatracker",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات اللعبة او التطبيق \r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات ام شراء داخلي وسوف ينبهك بذالك\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/santatracker.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santatracker_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santatracker_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santatracker_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santatracker_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santatracker_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santatracker_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santatracker_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santatracker_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.6",
+                    "date": "2026-11-08T00:07:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/santatracker.ipa",
+                    "size": 49283454,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santatracker_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santatracker_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santatracker_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santatracker_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1643463867,
+            "name": "Anatomy",
+            "version": "3.2.6",
+            "size": 186784816,
+            "icon": "img/anatomy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/anatomy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/anatomy.ipa",
+            "bundleIdentifier": "com.muscleandmotion.Anatomy",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لطلاب التشريح يعطيك تفاصيل جسم الانسان  .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/anatomy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomy_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomy_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.2.6",
+                    "date": "2026-11-08T00:07:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/anatomy.ipa",
+                    "size": 186784816,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomy_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomy_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomy_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomy_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1963627208,
+            "name": "RichLife: Money Challenge",
+            "version": "1.9.10",
+            "size": 271094216,
+            "icon": "img/richlifemoneychallenge.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/richlifemoneychallenge.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/richlifemoneychallenge.ipa",
+            "bundleIdentifier": "com.extbel.Business-Billionaire-Empire",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات اللعبة او التطبيق \r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات ام شراء داخلي وسوف ينبهك بذالك\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/richlifemoneychallenge.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richlifemoneychallenge_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richlifemoneychallenge_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richlifemoneychallenge_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richlifemoneychallenge_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richlifemoneychallenge_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richlifemoneychallenge_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richlifemoneychallenge_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richlifemoneychallenge_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.10",
+                    "date": "2026-11-08T00:07:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/richlifemoneychallenge.ipa",
+                    "size": 271094216,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richlifemoneychallenge_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richlifemoneychallenge_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richlifemoneychallenge_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/richlifemoneychallenge_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1341186662,
+            "name": "Strength Training",
+            "version": "3.5.6",
+            "size": 184265389,
+            "icon": "img/strengthtraining.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/strengthtraining.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/strengthtraining.ipa",
+            "bundleIdentifier": "com.musclemotion.strengthnative",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "للتمارين الرياضية .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/strengthtraining.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/strengthtraining_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/strengthtraining_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/strengthtraining_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/strengthtraining_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/strengthtraining_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/strengthtraining_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/strengthtraining_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/strengthtraining_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.5.6",
+                    "date": "2026-11-08T00:06:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/strengthtraining.ipa",
+                    "size": 184265389,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/strengthtraining_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/strengthtraining_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/strengthtraining_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/strengthtraining_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1555838612,
+            "name": "Santa's List",
+            "version": "1.4.3",
+            "size": 64097219,
+            "icon": "img/santaslist.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/santaslist.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/santaslist.ipa",
+            "bundleIdentifier": "org.retropixel.scanxnaughtynicexmas",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات اللعبة او التطبيق \r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات ام شراء داخلي وسوف ينبهك بذالك\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/santaslist.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santaslist_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santaslist_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santaslist_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santaslist_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santaslist_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santaslist_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santaslist_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santaslist_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.3",
+                    "date": "2026-11-08T00:06:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/santaslist.ipa",
+                    "size": 64097219,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santaslist_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santaslist_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santaslist_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/santaslist_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1258424406,
+            "name": "Repost+",
+            "version": "33.20",
+            "size": 152886498,
+            "icon": "img/repost.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/repost.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/repost.ipa",
+            "bundleIdentifier": "com.livintis.repostplusapp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تصميم البوستات للانستقرام\r\n\r\n- مفتوح المميزات ( شراء ثم إلغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/repost.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/repost_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/repost_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/repost_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/repost_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/repost_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/repost_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/repost_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/repost_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "33.20",
+                    "date": "2026-11-08T00:06:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/repost.ipa",
+                    "size": 152886498,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/repost_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/repost_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/repost_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/repost_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1744861967,
+            "name": "Photomath",
+            "version": "8.47.0",
+            "size": 29593118,
+            "icon": "img/photomath.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/photomath.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/photomath.ipa",
+            "bundleIdentifier": "com.microblink.PhotoMath",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\nمدفوع على الاب ستور . ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/photomath.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomath_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomath_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomath_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomath_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomath_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomath_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomath_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomath_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "8.47.0",
+                    "date": "2026-11-08T00:06:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/photomath.ipa",
+                    "size": 29593118,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomath_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomath_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomath_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomath_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1766143009,
+            "name": "Glitché",
+            "version": "3.04",
+            "size": 223272170,
+            "icon": "img/glitche.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/glitche.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/glitche.ipa",
+            "bundleIdentifier": "com.glitche.ios.glitcheapp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- برنامج تعديل الصور والفيديوهات.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/glitche.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glitche_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glitche_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glitche_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glitche_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glitche_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glitche_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glitche_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glitche_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.04",
+                    "date": "2026-11-08T00:06:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/glitche.ipa",
+                    "size": 223272170,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glitche_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glitche_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glitche_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glitche_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1497199638,
+            "name": "Peachy",
+            "version": "2.15.0",
+            "size": 264401506,
+            "icon": "img/peachy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/peachy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/peachy.ipa",
+            "bundleIdentifier": "com.camerasideas.Peachy",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لتحرير الصور يركز على تعديل الوجه والجسم بذكاء اصطناعي. \n- مفتوح المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/peachy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peachy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peachy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peachy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peachy_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peachy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peachy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peachy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peachy_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.15.0",
+                    "date": "2026-11-08T00:06:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/peachy.ipa",
+                    "size": 264401506,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peachy_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peachy_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peachy_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peachy_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1904357317,
             "name": "Asian Pilates",
             "version": "1.0.4",
