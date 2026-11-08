@@ -10,6 +10,333 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1723121108,
+            "name": "Jalsah",
+            "version": "23",
+            "size": 141258236,
+            "icon": "img/jalsah.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/jalsah.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/jalsah.ipa",
+            "bundleIdentifier": "Jalsah",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مفتوح مميزات الشراء - عضوية VIP\r\n(اضغط على شراء)\r\n\r\nOpen Purchase Benefits - VIP Membership\r\n(Click on buy)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jalsah.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jalsah_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jalsah_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jalsah_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jalsah_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jalsah_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jalsah_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jalsah_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jalsah_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "23",
+                    "date": "2026-11-08T07:56:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/jalsah.ipa",
+                    "size": 141258236,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jalsah_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jalsah_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jalsah_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jalsah_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1351475676,
+            "name": "Soccer Hero",
+            "version": "0.39.2",
+            "size": 360363790,
+            "icon": "img/soccerhero.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/soccerhero.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/soccerhero.ipa",
+            "bundleIdentifier": "com.soccer.football.score.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ADS NO / Rewards Free\n- Unlimited Gems\n- Unlimited Coins\n- Market Value / Easy To Unlock All LvL & Rank\n\n- لا يوجد إعلانات / مكافآت مجانية\n- جواهر غير محدودة\n- عملات غير محدودة\n- القيمة السوقية / سهولة فتح جميع المستويات والرتبة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/soccerhero.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerhero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerhero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerhero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerhero_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerhero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerhero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerhero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerhero_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.39.2",
+                    "date": "2026-11-08T07:56:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/soccerhero.ipa",
+                    "size": 360363790,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerhero_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerhero_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerhero_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccerhero_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1156656553,
+            "name": "Town Guardians",
+            "version": "2.1.9",
+            "size": 506398681,
+            "icon": "img/townguardians.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/townguardians.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/townguardians.ipa",
+            "bundleIdentifier": "com.epixelgames.townguardians",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Damage Multiplier\n- Defense Multiplier\n- Attack Speed Multiplier\n- Loot/Drop/Rewards Multiplier\n\n- ضرر مضاعف\r\n- مضاعفة الدفاع\r\n- مضاعفة سرعة الهجوم\r\n- نهب / قطرة / مضاعف المكافآت",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/townguardians.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townguardians_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townguardians_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townguardians_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townguardians_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townguardians_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townguardians_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townguardians_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townguardians_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.9",
+                    "date": "2026-11-08T07:55:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/townguardians.ipa",
+                    "size": 506398681,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townguardians_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townguardians_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townguardians_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/townguardians_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1873926097,
+            "name": "BLEACH Soul Puzzle",
+            "version": "1.4.5",
+            "size": 264108631,
+            "icon": "img/bleachsoulpuzzle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/bleachsoulpuzzle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/bleachsoulpuzzle.ipa",
+            "bundleIdentifier": "com.klab.bleach.puzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تجميد الحركات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bleachsoulpuzzle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bleachsoulpuzzle.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bleachsoulpuzzle.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.5",
+                    "date": "2026-11-08T07:54:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/bleachsoulpuzzle.ipa",
+                    "size": 264108631,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bleachsoulpuzzle.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1599918322,
+            "name": "HexWarriors",
+            "version": "2.20.2",
+            "size": 531527200,
+            "icon": "img/hexwarriors.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/hexwarriors.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/hexwarriors.ipa",
+            "bundleIdentifier": "com.dong.hexwarriors",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "IGG",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hexwarriors.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexwarriors_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexwarriors_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexwarriors_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexwarriors_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexwarriors_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexwarriors_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexwarriors_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexwarriors_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.20.2",
+                    "date": "2026-11-08T07:53:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/hexwarriors.ipa",
+                    "size": 531527200,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexwarriors_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexwarriors_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexwarriors_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexwarriors_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1730339612,
+            "name": "Dazz Cam",
+            "version": "2.17.3",
+            "size": 133069449,
+            "icon": "img/dazzcam.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/dazzcam.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/dazzcam.ipa",
+            "bundleIdentifier": "dazz.camera.vintagecamera",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق تصوير يمنحك تجربة تصوير بكاميرات أفلام كلاسيكية من التسعينات والثمانينات، مع فلاتر وتأثيرات تحاكي الطابع القديم مثل تسريبات الضوء، التواريخ الزمنية، والضوضاء (Noise) الخاصة بالأفلام القديمة . \n\nمفتوح المميزات .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dazzcam.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dazzcam_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dazzcam_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dazzcam_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dazzcam_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dazzcam_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dazzcam_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dazzcam_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dazzcam_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.17.3",
+                    "date": "2026-11-08T07:52:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/dazzcam.ipa",
+                    "size": 133069449,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dazzcam_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dazzcam_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dazzcam_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dazzcam_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1692584392,
+            "name": "Groove Journey",
+            "version": "6.8.1",
+            "size": 353010446,
+            "icon": "img/groovejourney.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/groovejourney.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/groovejourney.ipa",
+            "bundleIdentifier": "com.kaipha.groovejourney",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- PREMIUM\n\n- بريميوم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/groovejourney.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/groovejourney_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/groovejourney_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/groovejourney_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/groovejourney_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/groovejourney_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/groovejourney_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/groovejourney_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/groovejourney_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "6.8.1",
+                    "date": "2026-11-08T07:52:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/groovejourney.ipa",
+                    "size": 353010446,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/groovejourney_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/groovejourney_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/groovejourney_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/groovejourney_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1486830657,
             "name": "My Tom+",
             "version": "25.4.1",
