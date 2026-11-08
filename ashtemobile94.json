@@ -10,6 +10,333 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1420002188,
+            "name": "Chess",
+            "version": "4.10.9",
+            "size": 453378739,
+            "icon": "img/chess.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/chess.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/chess.ipa",
+            "bundleIdentifier": "com.chess.iphone",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لعب تلقائي\r\n- سهم أفضل حركة\r\n- حد القوة \r\n\r\n- Auto Play\r\n- Best move arrow\r\n- Limit Strength*",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/chess.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chess_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chess_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chess_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chess_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chess_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chess_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chess_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chess_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.10.9",
+                    "date": "2026-11-08T10:18:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/chess.ipa",
+                    "size": 453378739,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chess_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chess_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chess_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chess_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1511004478,
+            "name": "حياك حج",
+            "version": "1.9.9",
+            "size": 52667698,
+            "icon": "img/app1589a9786b.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/app1589a9786b.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/app1589a9786b.ipa",
+            "bundleIdentifier": "sa.alfursan.it.apps.hayyakplus.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "التطبيق الاصلي مدمج مع أداة FakeGPS Pro\r\nأداة قوية تساعد على تغيير الموقع الجغرافي داخل التطبيقات بشكل عام، وخصوصًا في تطبيقات الحضور والانصراف. (الاداة مدفوعة)\r\n\r\n🔹 المميزات:\r\n• تعمل بدون الحاجة إلى جلبريك\r\n• إمكانية حفظ عدة مواقع في قسم “المفضلة”\r\n• إخفاء زر الأداة من داخل التطبيق\r\n\r\n- يدعم جميع الاصدارات \r\n- يتطلب شراء كود لتفعيل المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app1589a9786b.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1589a9786b_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1589a9786b_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1589a9786b_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1589a9786b_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1589a9786b_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1589a9786b_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1589a9786b_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1589a9786b_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.9",
+                    "date": "2026-11-08T10:17:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/app1589a9786b.ipa",
+                    "size": 52667698,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1589a9786b_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1589a9786b_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1589a9786b_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1589a9786b_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1915086936,
+            "name": "DefenGo",
+            "version": "3.05.2",
+            "size": 440278980,
+            "icon": "img/defengo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/defengo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/defengo.ipa",
+            "bundleIdentifier": "io.staika.game.defengo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Never Die\n\n- ضرر مضاعف\n- لا يموت أبداً",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/defengo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defengo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defengo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defengo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defengo_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defengo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defengo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defengo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defengo_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.05.2",
+                    "date": "2026-11-08T10:17:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/defengo.ipa",
+                    "size": 440278980,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defengo_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defengo_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defengo_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defengo_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1176838311,
+            "name": "TWD",
+            "version": "1.12",
+            "size": 390371041,
+            "icon": "img/twd.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/twd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/twd.ipa",
+            "bundleIdentifier": "com.telltalegames.walkingdead100",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "هاك خرائط .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/twd.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twd_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twd_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twd_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twd_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twd_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twd_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twd_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twd_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.12",
+                    "date": "2026-11-08T10:16:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/twd.ipa",
+                    "size": 390371041,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twd_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twd_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twd_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twd_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1111494799,
+            "name": "Island Bistro",
+            "version": "1.3.5",
+            "size": 333083690,
+            "icon": "img/islandbistro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/islandbistro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/islandbistro.ipa",
+            "bundleIdentifier": "com.merge.islandbistro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Gems\n- Unlimited Coins\n- Unlimited Energy\n\n- جواهر غير محدودة\n- عملات غير محدودة\n- طاقة غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/islandbistro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/islandbistro.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/islandbistro.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.5",
+                    "date": "2026-11-08T10:16:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/islandbistro.ipa",
+                    "size": 333083690,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/islandbistro.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1374750416,
+            "name": "Last War",
+            "version": "1.0.344",
+            "size": 957116343,
+            "icon": "img/lastwar.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/lastwar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/lastwar.ipa",
+            "bundleIdentifier": "com.lastwar.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا تموت أبدا\nفعل الهاك من المنيو",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lastwar.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastwar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastwar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastwar_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastwar_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastwar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastwar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastwar_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastwar_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.344",
+                    "date": "2026-11-08T10:15:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/lastwar.ipa",
+                    "size": 957116343,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastwar_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastwar_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastwar_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastwar_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1679869421,
+            "name": "My Talking Tom Friends 2",
+            "version": "0.1.7",
+            "size": 332295862,
+            "icon": "img/mytalkingtomfriends2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/mytalkingtomfriends2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/mytalkingtomfriends2.ipa",
+            "bundleIdentifier": "com.outfit7.mytalkingtomfriends2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات معدنية\n- طعام",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mytalkingtomfriends2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mytalkingtomfriends2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mytalkingtomfriends2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mytalkingtomfriends2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mytalkingtomfriends2_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mytalkingtomfriends2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mytalkingtomfriends2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mytalkingtomfriends2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mytalkingtomfriends2_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.1.7",
+                    "date": "2026-11-08T10:14:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/mytalkingtomfriends2.ipa",
+                    "size": 332295862,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mytalkingtomfriends2_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mytalkingtomfriends2_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mytalkingtomfriends2_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mytalkingtomfriends2_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1906245993,
             "name": "Shadow Hunter Premium",
             "version": "11.136.2",
