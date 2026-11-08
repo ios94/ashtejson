@@ -10,6 +10,426 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1949796456,
+            "name": "DarkHeroDash",
+            "version": "1.0.15",
+            "size": 238337248,
+            "icon": "img/darkherodash.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/darkherodash.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/darkherodash.ipa",
+            "bundleIdentifier": "com.bluepotiongames.dhd.apple",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه DarkHeroDash مهكره\r\n\r\nالمميزات :\r\n* طاقه متجددة [ الأعداء يخطئون دائمًا ] ?\r\n* سرعة هجوم عاليه ✅\r\n* سرعة الحركة العالية ?‍♀️\r\n* بدون اعلانات ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/darkherodash.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/darkherodash.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/darkherodash.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.15",
+                    "date": "2026-11-08T13:50:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/darkherodash.ipa",
+                    "size": 238337248,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/darkherodash.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1867969488,
+            "name": "King of Thieves",
+            "version": "2.77",
+            "size": 488783438,
+            "icon": "img/kingofthieves.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/kingofthieves.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/kingofthieves.ipa",
+            "bundleIdentifier": "com.zeptolab.thieves",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- اللاعب لا يتضرر .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kingofthieves.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingofthieves_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingofthieves_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingofthieves_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingofthieves_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingofthieves_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingofthieves_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingofthieves_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingofthieves_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.77",
+                    "date": "2026-11-08T13:50:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/kingofthieves.ipa",
+                    "size": 488783438,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingofthieves_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingofthieves_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingofthieves_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingofthieves_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1309896911,
+            "name": "Tanks vs Bugs",
+            "version": "1.2.7",
+            "size": 246488218,
+            "icon": "img/tanksvsbugs.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/tanksvsbugs.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/tanksvsbugs.ipa",
+            "bundleIdentifier": "com.redspell.nanotanks",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة Tanks vs Bugs \r\n \r\nالمميزات : \r\n- تجميد الموارد  \r\n- لاعب لا يتضرر",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tanksvsbugs.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksvsbugs_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksvsbugs_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksvsbugs_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksvsbugs_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksvsbugs_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksvsbugs_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksvsbugs_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksvsbugs_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.7",
+                    "date": "2026-11-08T13:49:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/tanksvsbugs.ipa",
+                    "size": 246488218,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksvsbugs_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksvsbugs_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksvsbugs_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanksvsbugs_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1719247538,
+            "name": "Gunfire Brigade",
+            "version": "1.1.0",
+            "size": 260522380,
+            "icon": "img/gunfirebrigade.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/gunfirebrigade.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/gunfirebrigade.ipa",
+            "bundleIdentifier": "com.gamesturfstudio.gunfirebrigade",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Gunfire Brigade مهكره\r\n\r\nالمميزات :\r\n* أعداء أغبياء ?\r\n* ضربة واحدة تقتل ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gunfirebrigade.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfirebrigade_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfirebrigade_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfirebrigade_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfirebrigade_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfirebrigade_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfirebrigade_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfirebrigade_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfirebrigade_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.0",
+                    "date": "2026-11-08T13:49:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/gunfirebrigade.ipa",
+                    "size": 260522380,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfirebrigade_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfirebrigade_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfirebrigade_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfirebrigade_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1402821758,
+            "name": "Sniper Strike",
+            "version": "500171",
+            "size": 229961588,
+            "icon": "img/sniperstrike.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/sniperstrike.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/sniperstrike.ipa",
+            "bundleIdentifier": "com.mgs.sniper1",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "ثبات سلاح.\n- ذخيرة لانهائية.\n- إستهلاك غير محدود.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sniperstrike.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sniperstrike_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sniperstrike_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sniperstrike_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sniperstrike_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sniperstrike_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sniperstrike_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sniperstrike_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sniperstrike_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "500171",
+                    "date": "2026-11-08T13:48:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/sniperstrike.ipa",
+                    "size": 229961588,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sniperstrike_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sniperstrike_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sniperstrike_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sniperstrike_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1743010854,
+            "name": "Zombie Frontier 4",
+            "version": "1.5.8",
+            "size": 601655667,
+            "icon": "img/zombiefrontier4.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/zombiefrontier4.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/zombiefrontier4.ipa",
+            "bundleIdentifier": "com.feelingtouch.zfsniper",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات   ✅ \r\nطاقة لا نهائية \r\nمستهلكات غير محدودة الاستخدام",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zombiefrontier4.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiefrontier4_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiefrontier4_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiefrontier4_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiefrontier4_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiefrontier4_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiefrontier4_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiefrontier4_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiefrontier4_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.8",
+                    "date": "2026-11-08T13:48:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/zombiefrontier4.ipa",
+                    "size": 601655667,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiefrontier4_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiefrontier4_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiefrontier4_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiefrontier4_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1832213764,
+            "name": "SuperStickFightAllStar",
+            "version": "3.2",
+            "size": 462557713,
+            "icon": "img/superstickfightallstar.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/superstickfightallstar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/superstickfightallstar.ipa",
+            "bundleIdentifier": "com.onegameglobal.superstickfight",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "• تجميد العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/superstickfightallstar.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstickfightallstar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstickfightallstar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstickfightallstar_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstickfightallstar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstickfightallstar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstickfightallstar_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.2",
+                    "date": "2026-11-08T13:47:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/superstickfightallstar.ipa",
+                    "size": 462557713,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstickfightallstar_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstickfightallstar_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superstickfightallstar_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1345926254,
+            "name": "PAKO 3",
+            "version": "1.0.6",
+            "size": 174158349,
+            "icon": "img/pako3.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/pako3.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/pako3.ipa",
+            "bundleIdentifier": "com.treemengames.pako3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "فتح جميع السيارات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pako3.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pako3_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pako3_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pako3_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pako3_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pako3_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pako3_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pako3_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pako3_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.6",
+                    "date": "2026-11-08T13:46:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/pako3.ipa",
+                    "size": 174158349,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pako3_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pako3_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pako3_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pako3_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1896131465,
+            "name": "IdleFortressTowerDefense",
+            "version": "2.6.1",
+            "size": 236778137,
+            "icon": "img/idlefortresstowerdefense.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/idlefortresstowerdefense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/idlefortresstowerdefense.ipa",
+            "bundleIdentifier": "com.idlefortress.towerdefense",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه IdleFortressTowerDefense\r\n\r\nالمميزات :\r\n* ترقيات مجانية للعملات المعدنية\r\n* ترقيات ذهبية مجانية\r\n* الهدايا اليومية غير محدودة\r\n( للحصول على مطالبة أفضل بالمكافأة وإغلاق التطبيق وسينتقل إلى اليوم التالي )\r\n* الإنجازات \r\n( يمكنك المطالبة بجميع الإنجازات )\r\n* جوهرة المتجر المجاني\r\n( يمكنك المطالبة بجوهرة المتجر المجاني مرات غير محدودة )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlefortresstowerdefense.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefortresstowerdefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefortresstowerdefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefortresstowerdefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefortresstowerdefense_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefortresstowerdefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefortresstowerdefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefortresstowerdefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefortresstowerdefense_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.6.1",
+                    "date": "2026-11-08T13:46:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/idlefortresstowerdefense.ipa",
+                    "size": 236778137,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefortresstowerdefense_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefortresstowerdefense_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefortresstowerdefense_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlefortresstowerdefense_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1447085160,
             "name": "Sky Force Reloaded",
             "version": "2.02",
