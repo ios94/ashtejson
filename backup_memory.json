@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1866890601,
+            "name": "Perfect Coffee",
+            "version": "1.6.6",
+            "size": 411990522,
+            "icon": "img/perfectcoffee.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/perfectcoffee.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/perfectcoffee.ipa",
+            "bundleIdentifier": "com.cheddarbox.perfectcoffee",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل التطبيق مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )\n\nوصف التطبيق: \n\nارتدي قبعة باريستا وقم بتشغيل أفضل مقهى في المدينة! للحصول على فنجان قهوة مرضي بإضافة جميع المكونات اللذيذة مثل الكريمة وحليب التوت والشراب والمزيد. لكن إرضاء محبي القهوة ليس بالأمر السهل؛ عليك أن تكون خبيرا!",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/perfectcoffee.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/perfectcoffee_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/perfectcoffee_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/perfectcoffee_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/perfectcoffee_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/perfectcoffee_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/perfectcoffee_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/perfectcoffee_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/perfectcoffee_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.6",
+                    "date": "2026-11-08T07:05:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/perfectcoffee.ipa",
+                    "size": 411990522,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/perfectcoffee_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/perfectcoffee_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/perfectcoffee_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/perfectcoffee_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1507243494,
+            "name": "FTPManager",
+            "version": "8.6.5",
+            "size": 95021573,
+            "icon": "img/ftpmanager.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/ftpmanager.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/ftpmanager.ipa",
+            "bundleIdentifier": "com.skyjos.ftpmanagerfree",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لإدارة الملفات عبر بروتوكولات FTP وSFTP من خلال جهاز iPhone أو iPad. يتيح لك الاتصال بخوادم مختلفة، تحميل وتنزيل الملفات، تعديلها، وتنظيمها بسهولة . \n\n- مدفوع في ابل ستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ftpmanager.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ftpmanager_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ftpmanager_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ftpmanager_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ftpmanager_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ftpmanager_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ftpmanager_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ftpmanager_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ftpmanager_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "8.6.5",
+                    "date": "2026-11-08T07:05:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/ftpmanager.ipa",
+                    "size": 95021573,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ftpmanager_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ftpmanager_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ftpmanager_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ftpmanager_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1284117803,
+            "name": "Granny: Chapter Two",
+            "version": "1.1.14",
+            "size": 531263208,
+            "icon": "img/grannychaptertwo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/grannychaptertwo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/grannychaptertwo.ipa",
+            "bundleIdentifier": "com.dvloper.grannychaptertwo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- أعداء ESP → تحديد مواقع وتتبع مواقع الأعداء\r\n- تجميد الأعداء → تثبيت التهديدات مؤقتاً\r\n\r\n- ESP Enemies → locate and track enemy positions\r\n- Freeze Enemies → temporarily immobilize threats",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/grannychaptertwo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grannychaptertwo_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grannychaptertwo_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grannychaptertwo_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grannychaptertwo_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grannychaptertwo_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grannychaptertwo_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grannychaptertwo_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grannychaptertwo_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.14",
+                    "date": "2026-11-08T07:05:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/grannychaptertwo.ipa",
+                    "size": 531263208,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grannychaptertwo_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grannychaptertwo_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grannychaptertwo_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grannychaptertwo_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1707266891,
+            "name": "Polar Lights",
+            "version": "1.2.6",
+            "size": 1493262379,
+            "icon": "img/polarlights.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/polarlights.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/polarlights.ipa",
+            "bundleIdentifier": "com.ffsvideogames.il10free",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني\n\nFeatures:\n\n- You can purchase anything in the game for free \n( please click Buy and then Cancel )\n\nImportant note : Sometimes the store doesn't appear directly in the game. You must play for a while for the store to appear and purchase for free.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/polarlights.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polarlights_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polarlights_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polarlights_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polarlights_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polarlights_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polarlights_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polarlights_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polarlights_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.6",
+                    "date": "2026-11-08T07:04:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/polarlights.ipa",
+                    "size": 1493262379,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polarlights_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polarlights_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polarlights_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polarlights_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1296254013,
+            "name": "Rider",
+            "version": "3.06.002",
+            "size": 251700792,
+            "icon": "img/rider.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/rider.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/rider.ipa",
+            "bundleIdentifier": "com.ketchapp.rider",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "شراء مجاني ?.\r\nاضغط شراء وبعدها الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rider.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rider_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rider_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rider_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rider_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rider_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rider_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rider_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rider_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.06.002",
+                    "date": "2026-11-08T07:03:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/rider.ipa",
+                    "size": 251700792,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rider_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rider_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rider_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rider_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1574076242,
+            "name": "Super Marine Defense",
+            "version": "2.0.6",
+            "size": 1142687497,
+            "icon": "img/supermarinedefense.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/supermarinedefense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/supermarinedefense.ipa",
+            "bundleIdentifier": "net.gameduo.smd",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n\n- ضرر مضاعف",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/supermarinedefense.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/supermarinedefense.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/supermarinedefense.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.6",
+                    "date": "2026-11-08T07:03:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/supermarinedefense.ipa",
+                    "size": 1142687497,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/supermarinedefense.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1293214602,
+            "name": "Truck Simulator Big Rigs",
+            "version": "1.6.0",
+            "size": 1364580559,
+            "icon": "img/trucksimulatorbigrigs.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/trucksimulatorbigrigs.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/trucksimulatorbigrigs.ipa",
+            "bundleIdentifier": "com.dualcarbon.bigrigstruckadventure",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- النقد / الزيادة بدلا من النقصان",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/trucksimulatorbigrigs.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trucksimulatorbigrigs_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trucksimulatorbigrigs_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trucksimulatorbigrigs_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trucksimulatorbigrigs_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trucksimulatorbigrigs_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trucksimulatorbigrigs_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trucksimulatorbigrigs_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trucksimulatorbigrigs_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.0",
+                    "date": "2026-11-08T07:01:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/trucksimulatorbigrigs.ipa",
+                    "size": 1364580559,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trucksimulatorbigrigs_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trucksimulatorbigrigs_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trucksimulatorbigrigs_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trucksimulatorbigrigs_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1127929557,
+            "name": "Highway Overtake - Car Racing",
+            "version": "2.3.6",
+            "size": 528380220,
+            "icon": "img/highwayovertakecarracing.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/highwayovertakecarracing.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/highwayovertakecarracing.ipa",
+            "bundleIdentifier": "com.hypermonkgames.HighwayOvertake",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free Upgrade Cost\n- Anticheat disabled (Might need to open mod menu- close and reopen game)\n\n- تكلفة ترقية مجانية\n- تم تعطيل ميزة مكافحة الغش (قد تحتاج إلى فتح قائمة التعديل - إغلاق اللعبة وإعادة فتحها)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/highwayovertakecarracing.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwayovertakecarracing_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwayovertakecarracing_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwayovertakecarracing_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwayovertakecarracing_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwayovertakecarracing_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwayovertakecarracing_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwayovertakecarracing_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwayovertakecarracing_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.3.6",
+                    "date": "2026-11-08T07:00:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/highwayovertakecarracing.ipa",
+                    "size": 528380220,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwayovertakecarracing_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwayovertakecarracing_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwayovertakecarracing_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/highwayovertakecarracing_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1765996149,
+            "name": "IdleHeroTD",
+            "version": "15.22",
+            "size": 220110666,
+            "icon": "img/idleherotd.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/idleherotd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/idleherotd.ipa",
+            "bundleIdentifier": "com.SwellGamesLLC.IdleHeroTD",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مكافحة الغش (لا يزال بإمكانك الحصول على حظر يدوي)\n- لا توجد إعلانات\n- طاقة لا نهائية\n- قوة هيبة لانهائية\n- تقنيات لا نهائية\n- الجوائز اللانهائية\n- رموز ألتيموس اللانهائية\n- الأحجار الكريمة اللانهائية\n- ذهب عالي\n- طاقة عالية\n- تجربة عالية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idleherotd.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherotd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherotd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherotd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherotd_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherotd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherotd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherotd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherotd_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "15.22",
+                    "date": "2026-11-08T07:00:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/idleherotd.ipa",
+                    "size": 220110666,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherotd_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherotd_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherotd_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleherotd_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1861745997,
+            "name": "SUP",
+            "version": "2.4.0",
+            "size": 434787369,
+            "icon": "img/sup.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/sup.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/sup.ipa",
+            "bundleIdentifier": "com.ohbibi.sup",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "⁃ استخدام غير محدود للنيترو\r\n ⁃ تمكين ViP",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sup.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sup_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sup_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sup_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sup_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sup_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sup_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sup_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sup_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.0",
+                    "date": "2026-11-08T06:59:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/sup.ipa",
+                    "size": 434787369,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sup_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sup_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sup_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sup_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1137550273,
             "name": "وزارة التربية",
             "version": "1.2.35",
