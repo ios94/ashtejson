@@ -10,6 +10,480 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1310920050,
+            "name": "Python",
+            "version": "5.0.6",
+            "size": 190552381,
+            "icon": "img/python.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/python.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/python.ipa",
+            "bundleIdentifier": "com.mobile.ilabbs.python",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لطباعة الاكواد وتعلم اساسيات لغة البايثون .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/python.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/python_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/python_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/python_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/python_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/python_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/python_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/python_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/python_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.0.6",
+                    "date": "2026-11-08T00:19:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/python.ipa",
+                    "size": 190552381,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/python_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/python_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/python_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/python_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1167667677,
+            "name": "Cleaner",
+            "version": "2.4.9",
+            "size": 173227910,
+            "icon": "img/cleaner.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/cleaner.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/cleaner.ipa",
+            "bundleIdentifier": "super.cleaner",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتنظيف الصور والفديوهات المكرره من جهازك لتوفير المساحة .\n- مفتوح المميزات .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cleaner.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaner_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaner_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaner_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaner_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaner_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaner_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaner_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaner_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.9",
+                    "date": "2026-11-08T00:19:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/cleaner.ipa",
+                    "size": 173227910,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaner_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaner_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaner_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaner_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1231728233,
+            "name": "Star Chef",
+            "version": "2.25.76",
+            "size": 314468428,
+            "icon": "img/starchef.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/starchef.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/starchef.ipa",
+            "bundleIdentifier": "com.99Games.starchef",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/starchef.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starchef_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starchef_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starchef_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starchef_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starchef_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starchef_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starchef_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starchef_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.25.76",
+                    "date": "2026-11-08T00:19:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/starchef.ipa",
+                    "size": 314468428,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starchef_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starchef_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starchef_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starchef_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1960816254,
+            "name": "Nuts and Bolts",
+            "version": "2026.1",
+            "size": 297243639,
+            "icon": "img/nutsandbolts.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/nutsandbolts.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/nutsandbolts.ipa",
+            "bundleIdentifier": "game.genix.nuts.bolts.twisted.tangle.puzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل الهاك. وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nutsandbolts.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nutsandbolts_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nutsandbolts_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nutsandbolts_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nutsandbolts_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nutsandbolts_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nutsandbolts_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nutsandbolts_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nutsandbolts_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2026.1",
+                    "date": "2026-11-08T00:18:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/nutsandbolts.ipa",
+                    "size": 297243639,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nutsandbolts_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nutsandbolts_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nutsandbolts_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nutsandbolts_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1995128533,
+            "name": "Dream Hex",
+            "version": "1.4.8",
+            "size": 312899290,
+            "icon": "img/dreamhex.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/dreamhex.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/dreamhex.ipa",
+            "bundleIdentifier": "com.hexa.sort.puzzle.stack.color.game.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dreamhex.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamhex_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamhex_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamhex_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamhex_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamhex_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamhex_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamhex_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamhex_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.8",
+                    "date": "2026-11-08T00:18:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/dreamhex.ipa",
+                    "size": 312899290,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamhex_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamhex_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamhex_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dreamhex_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1143042717,
+            "name": "Hidden Spots",
+            "version": "1.9.0",
+            "size": 235343169,
+            "icon": "img/hiddenspots.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/hiddenspots.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/hiddenspots.ipa",
+            "bundleIdentifier": "com.easybrain.hidden.spots",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hiddenspots.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hiddenspots_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hiddenspots_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hiddenspots_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hiddenspots_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hiddenspots_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hiddenspots_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hiddenspots_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hiddenspots_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.0",
+                    "date": "2026-11-08T00:18:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/hiddenspots.ipa",
+                    "size": 235343169,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hiddenspots_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hiddenspots_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hiddenspots_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hiddenspots_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1702018389,
+            "name": "Stepbots Sandbox Playground 2",
+            "version": "2.6",
+            "size": 548322446,
+            "icon": "img/stepbotssandboxplayground2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/stepbotssandboxplayground2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/stepbotssandboxplayground2.ipa",
+            "bundleIdentifier": "com.psvios.nextbot.backrooms.shooter.two",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stepbotssandboxplayground2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepbotssandboxplayground2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepbotssandboxplayground2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepbotssandboxplayground2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepbotssandboxplayground2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepbotssandboxplayground2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepbotssandboxplayground2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepbotssandboxplayground2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepbotssandboxplayground2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.6",
+                    "date": "2026-11-08T00:18:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/stepbotssandboxplayground2.ipa",
+                    "size": 548322446,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepbotssandboxplayground2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepbotssandboxplayground2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepbotssandboxplayground2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stepbotssandboxplayground2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1649275848,
+            "name": "Tool Evolution",
+            "version": "2.10.2",
+            "size": 293960910,
+            "icon": "img/toolevolution.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/toolevolution.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/toolevolution.ipa",
+            "bundleIdentifier": "com.iwi.itoolevolution",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات اللعبة او التطبيق \r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات ام شراء داخلي وسوف ينبهك بذالك\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/toolevolution.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolevolution_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolevolution_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolevolution_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolevolution_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolevolution_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolevolution_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolevolution_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolevolution_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.10.2",
+                    "date": "2026-11-08T00:17:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/toolevolution.ipa",
+                    "size": 293960910,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolevolution_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolevolution_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolevolution_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolevolution_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1368234650,
+            "name": "Ghost Scan",
+            "version": "1.6.4",
+            "size": 130626649,
+            "icon": "img/ghostscan.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/ghostscan.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/ghostscan.ipa",
+            "bundleIdentifier": "org.retropixel.scanxghost",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات اللعبة او التطبيق \r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات ام شراء داخلي وسوف ينبهك بذالك\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ghostscan.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostscan_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostscan_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostscan_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostscan_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostscan_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostscan_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostscan_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostscan_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.4",
+                    "date": "2026-11-08T00:17:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/ghostscan.ipa",
+                    "size": 130626649,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostscan_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostscan_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostscan_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostscan_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1254200406,
+            "name": "Spirit Board",
+            "version": "2.0.7",
+            "size": 116350621,
+            "icon": "img/spiritboard.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/spiritboard.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/spiritboard.ipa",
+            "bundleIdentifier": "org.retropixel.ouijaboard",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات اللعبة او التطبيق \r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات ام شراء داخلي وسوف ينبهك بذالك\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spiritboard.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritboard_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritboard_screen_2.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritboard_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritboard_screen_2.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.7",
+                    "date": "2026-11-08T00:16:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/spiritboard.ipa",
+                    "size": 116350621,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritboard_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritboard_screen_2.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1686286433,
             "name": "Dog Translator",
             "version": "1.1.9",
