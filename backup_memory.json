@@ -10,6 +10,480 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1562104151,
+            "name": "Apple Grapple",
+            "version": "1197",
+            "size": 471834296,
+            "icon": "img/applegrapple.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/applegrapple.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/applegrapple.ipa",
+            "bundleIdentifier": "com.loop.apple.grapple",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Damage Multiplier\n- Defence Multiplier\n- Battle Pass Purchased\n- Debug Menu -> Head into Settings and toggle the Discord button.-> Set Player Health\n- > Set Player Speed\n- > Set Player Weapon\n- > Change Level\n- > Add/Remove Currencies\n- > Increase Battle Pass Kills\n- > Earn All Equipment\n- > Skip Tutorial+ More!\n\n- ضرر مضاعف\r\n- مضاعفة الدفاع\r\n- تم شراء تذكرة المعركة\r\n- قائمة التصحيح -> توجه إلى الإعدادات وقم بتبديل زر Discord.-> ضبط صحة اللاعب\r\n-> ضبط سرعة اللاعب\r\n-> ضبط سلاح اللاعب\r\n-> تغيير المستوى\r\n-> إضافة/إزالة العملات\r\n-> زيادة عدد مرات قتل تذكرة القتال\r\n-> احصل على جميع المعدات\r\n-> تخطي البرنامج التعليمي + المزيد!",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/applegrapple.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/applegrapple_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/applegrapple_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/applegrapple_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/applegrapple_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/applegrapple_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/applegrapple_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/applegrapple_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/applegrapple_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1197",
+                    "date": "2026-11-08T10:36:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/applegrapple.ipa",
+                    "size": 471834296,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/applegrapple_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/applegrapple_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/applegrapple_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/applegrapple_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1356249446,
+            "name": "E.D.E.N",
+            "version": "1.1.21",
+            "size": 648773706,
+            "icon": "img/eden.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/eden.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/eden.ipa",
+            "bundleIdentifier": "net.gameduo.dfd",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Always Win Quit\n- Game Speed Multiplier\n- Unlimited Currencies Spend/Gain\n- Premium Pass\n\n- ضرر مضاعف\n- الفوز دائما بالاستقالة\n- لعبة سرعة المضاعف\n- إنفاق/ربح عملات غير محدودة\n- بريميوم باس",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/eden.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eden_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eden_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eden_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eden_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eden_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eden_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eden_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eden_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.21",
+                    "date": "2026-11-08T10:36:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/eden.ipa",
+                    "size": 648773706,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eden_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eden_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eden_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eden_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1383616416,
+            "name": "Bloons Card Storm",
+            "version": "6.3",
+            "size": 542675097,
+            "icon": "img/bloonscardstorm.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/bloonscardstorm.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/bloonscardstorm.ipa",
+            "bundleIdentifier": "com.ninjakiwi.bloonscardstorm",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- بطاقات غير محدودة\n- افتح جميع البطاقات\n- افتح جميع أدوات التجميل -> الصور الرمزية، وظهر البطاقات، إلخ.\n- افتح جميع الأبطال",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bloonscardstorm.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonscardstorm_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonscardstorm_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonscardstorm_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonscardstorm_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonscardstorm_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonscardstorm_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonscardstorm_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonscardstorm_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.3",
+                    "date": "2026-11-08T10:35:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/bloonscardstorm.ipa",
+                    "size": 542675097,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonscardstorm_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonscardstorm_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonscardstorm_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonscardstorm_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1888149793,
+            "name": "Snap Markup",
+            "version": "4",
+            "size": 11543859,
+            "icon": "img/snapmarkup.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/snapmarkup.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/snapmarkup.ipa",
+            "bundleIdentifier": "com.PhotoMarkup",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق سهلة لتعديل الصور وإضافة تعليقات توضيحية مثل الأسهم والنصوص والأشكال، ومن ثم مشاركتها بسهولة.\n- مدفوع في ابل ستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/snapmarkup.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapmarkup_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapmarkup_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapmarkup_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapmarkup_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapmarkup_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapmarkup_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapmarkup_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapmarkup_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4",
+                    "date": "2026-11-08T10:34:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/snapmarkup.ipa",
+                    "size": 11543859,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapmarkup_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapmarkup_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapmarkup_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapmarkup_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1932377666,
+            "name": "Doomsday Vanguard",
+            "version": "1.0.51",
+            "size": 626662915,
+            "icon": "img/doomsdayvanguard.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/doomsdayvanguard.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/doomsdayvanguard.ipa",
+            "bundleIdentifier": "com.doomsdayvanguard.survivor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defense Multiplier\n- No Skills Cooldown\n- Auto Loot\n- No ADS\n\n- ضرر مضاعف\n- مضاعفة الدفاع\n- بدون فترة انتظار للمهارات\n- نهب السيارات\n- بدون إعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/doomsdayvanguard.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doomsdayvanguard_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doomsdayvanguard_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doomsdayvanguard_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doomsdayvanguard_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doomsdayvanguard_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doomsdayvanguard_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doomsdayvanguard_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doomsdayvanguard_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.51",
+                    "date": "2026-11-08T10:34:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/doomsdayvanguard.ipa",
+                    "size": 626662915,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doomsdayvanguard_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doomsdayvanguard_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doomsdayvanguard_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doomsdayvanguard_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1728907793,
+            "name": "مولات السعودية",
+            "version": "5.1",
+            "size": 11301274,
+            "icon": "img/app1dbe300875.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/app1dbe300875.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/app1dbe300875.ipa",
+            "bundleIdentifier": "com.anas.MallsRuh",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "فكرة رائعة ومختلفة عن أي تطبيق آخر ويعتبر كتالوج متكامل للمتاجر ومواقعها في المولات والأوقات ومجمعات المطاعم ويتكون من أقسام سهلة الوصول للوصول إلى المعلومات بسهولة\r\n\r\nالمميزات :\r\n- الغاء الأعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app1dbe300875.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1dbe300875_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1dbe300875_screen_2.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1dbe300875_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1dbe300875_screen_2.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.1",
+                    "date": "2026-11-08T10:34:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/app1dbe300875.ipa",
+                    "size": 11301274,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1dbe300875_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app1dbe300875_screen_2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1535772939,
+            "name": "Soccer Manager 2026 - Football",
+            "version": "3.6.2",
+            "size": 967938887,
+            "icon": "img/soccermanager2026football.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/soccermanager2026football.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/soccermanager2026football.ipa",
+            "bundleIdentifier": "com.invinciblesstudioltd.soccermanager2025",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "-حقن نقدي\r\nيعطي دفعة نقدية كبيرة.\r\n\r\n-مكافأة لياقة الفريق\r\nيعزز لياقة الفريق بأكمله.\r\n\r\n-تقليل وقت المنشأة\r\nيقلل من وقت أو تكلفة ترقية المنشأة.\r\n\r\n-تقليل وقت الملعب\r\nيقلل من وقت أو تكلفة ترقية الملعب.\r\n\r\n-مكافأة التدريب\r\nيعطي دفعة تدريبية للاعب واحد.\r\n\r\n-مكافأة الكيمياء\r\nيعزز كيمياء لاعب واحد.\r\n\r\n-مكافأة الشفاء\r\nيشفي لاعباً واحداً.\r\n\r\n-مكافأة تعزيز اللياقة\r\nيعزز لياقة لاعب واحد.\r\n\r\n-مكافأة تعزيز الروح المعنوية\r\nيعزز روح معنوية لاعب واحد.\r\n\r\n-الحد الأقصى لجميع اللياقات\r\nيصل باللياقة البدنية للفريق إلى الحد الأقصى.\r\n\r\n-الحد الأقصى لجميع الروح المعنوية\r\nيصل بالروح المعنوية للفريق إلى الحد الأقصى.\r\n\r\n-الحد الأقصى لجميع الكيمياء\r\nيصل بكيمياء الفريق إلى الحد الأقصى.\r\n\r\n## كيف تختار أزرار اللاعب لاعباً\r\nتحاول أزرار اللاعبين استخدام:\r\n\r\n1. آخر لاعب قمت باختياره.\r\n2. اللاعب المعروض حالياً على شاشة تعزيز اللاعب.\r\n3. لاعب من الفريق كخيار احتياطي.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/soccermanager2026football.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccermanager2026football_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccermanager2026football_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccermanager2026football_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccermanager2026football_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccermanager2026football_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccermanager2026football_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccermanager2026football_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccermanager2026football_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.6.2",
+                    "date": "2026-11-08T10:33:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/soccermanager2026football.ipa",
+                    "size": 967938887,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccermanager2026football_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccermanager2026football_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccermanager2026football_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soccermanager2026football_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1713372043,
+            "name": "Battle Simulator: Idle Warfare",
+            "version": "1.3.337",
+            "size": 407416994,
+            "icon": "img/battlesimulatoridlewarfare.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/battlesimulatoridlewarfare.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/battlesimulatoridlewarfare.ipa",
+            "bundleIdentifier": "com.playsidestudios.ageofwarfare",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Battle Simulator: Idle Warfare",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/battlesimulatoridlewarfare.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlesimulatoridlewarfare_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlesimulatoridlewarfare_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlesimulatoridlewarfare_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlesimulatoridlewarfare_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlesimulatoridlewarfare_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlesimulatoridlewarfare_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlesimulatoridlewarfare_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlesimulatoridlewarfare_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.337",
+                    "date": "2026-11-08T10:32:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/battlesimulatoridlewarfare.ipa",
+                    "size": 407416994,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlesimulatoridlewarfare_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlesimulatoridlewarfare_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlesimulatoridlewarfare_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlesimulatoridlewarfare_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1980117723,
+            "name": "Primitive Brothers",
+            "version": "3.530",
+            "size": 196116672,
+            "icon": "img/primitivebrothers.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/primitivebrothers.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/primitivebrothers.ipa",
+            "bundleIdentifier": "com.primitivebrother.thunder.apple",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "عملات لا نهائية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/primitivebrothers.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primitivebrothers_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primitivebrothers_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primitivebrothers_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primitivebrothers_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primitivebrothers_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primitivebrothers_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primitivebrothers_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primitivebrothers_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.530",
+                    "date": "2026-11-08T10:32:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/primitivebrothers.ipa",
+                    "size": 196116672,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primitivebrothers_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primitivebrothers_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primitivebrothers_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/primitivebrothers_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1190055736,
+            "name": "Cup Heroes",
+            "version": "3.3.3",
+            "size": 541935068,
+            "icon": "img/cupheroes.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/cupheroes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/cupheroes.ipa",
+            "bundleIdentifier": "com.501.cuphero",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Debug Menu: Setting -> Discord -> Float Icon -> Game Progress\n- Premium: Setting -> Discord -> Float Icon -> In-App Purchase\n\n- قائمة التصحيح: الإعداد -> الخلاف -> الأيقونة العائمة -> تقدم اللعبة\r\n- المميز: الإعداد -> الخلاف -> الأيقونة العائمة -> الشراء داخل التطبيق",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cupheroes.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupheroes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupheroes_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupheroes_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupheroes_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupheroes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupheroes_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupheroes_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupheroes_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.3.3",
+                    "date": "2026-11-08T10:32:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/cupheroes.ipa",
+                    "size": 541935068,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupheroes_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupheroes_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupheroes_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupheroes_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1676184101,
             "name": "POP TOWN",
             "version": "1.21.3",
