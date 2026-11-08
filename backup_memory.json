@@ -10,6 +10,471 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1114309735,
+            "name": "Monsters Tactics",
+            "version": "0.3.3",
+            "size": 205041513,
+            "icon": "img/monsterstactics.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/monsterstactics.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/monsterstactics.ipa",
+            "bundleIdentifier": "com.YsoCorp.MonstersTactics",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود \n- الغاء الأعلانات\n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monsterstactics.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterstactics_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterstactics_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterstactics_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterstactics_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterstactics_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterstactics_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.3.3",
+                    "date": "2026-11-08T03:10:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/monsterstactics.ipa",
+                    "size": 205041513,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterstactics_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterstactics_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterstactics_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1743028587,
+            "name": "MonstersArena",
+            "version": "0.3.4",
+            "size": 224954229,
+            "icon": "img/monstersarena.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/monstersarena.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/monstersarena.ipa",
+            "bundleIdentifier": "com.YsoCorp.MonstersArena",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود \n- الغاء الأعلانات\n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monstersarena.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersarena_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersarena_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersarena_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersarena_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersarena_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersarena_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.3.4",
+                    "date": "2026-11-08T03:10:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/monstersarena.ipa",
+                    "size": 224954229,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersarena_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersarena_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersarena_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1286151321,
+            "name": "Little Necromancer",
+            "version": "0.4.1",
+            "size": 263359817,
+            "icon": "img/littlenecromancer.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/littlenecromancer.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/littlenecromancer.ipa",
+            "bundleIdentifier": "com.YsoCorp.LittleNecromancer",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود \n- الغاء الأعلانات\n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/littlenecromancer.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littlenecromancer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littlenecromancer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littlenecromancer_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littlenecromancer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littlenecromancer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littlenecromancer_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.4.1",
+                    "date": "2026-11-08T03:09:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/littlenecromancer.ipa",
+                    "size": 263359817,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littlenecromancer_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littlenecromancer_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littlenecromancer_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1198014181,
+            "name": "Flashback",
+            "version": "1.0.1",
+            "size": 503947887,
+            "icon": "img/flashback.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/flashback.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/flashback.ipa",
+            "bundleIdentifier": "com.weegoon.flashback",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- فتح في اي بي \n- اموال لا محدود",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/flashback.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flashback_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flashback_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flashback_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flashback_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flashback_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flashback_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.1",
+                    "date": "2026-11-08T03:09:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/flashback.ipa",
+                    "size": 503947887,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flashback_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flashback_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flashback_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1654041129,
+            "name": "Tasbih",
+            "version": "4.9",
+            "size": 21803300,
+            "icon": "img/tasbih.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/tasbih.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/tasbih.ipa",
+            "bundleIdentifier": "com.topofstacksoftware.tasbih",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الأعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tasbih.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tasbih_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tasbih_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tasbih_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tasbih_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tasbih_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tasbih_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tasbih_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tasbih_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.9",
+                    "date": "2026-11-08T03:09:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/tasbih.ipa",
+                    "size": 21803300,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tasbih_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tasbih_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tasbih_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tasbih_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1156734423,
+            "name": "Forever Girls",
+            "version": "4.1",
+            "size": 226243652,
+            "icon": "img/forevergirls.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/forevergirls.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/forevergirls.ipa",
+            "bundleIdentifier": "com.forevergirls.dressup",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/forevergirls.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forevergirls_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forevergirls_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forevergirls_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forevergirls_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forevergirls_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forevergirls_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forevergirls_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forevergirls_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.1",
+                    "date": "2026-11-08T03:09:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/forevergirls.ipa",
+                    "size": 226243652,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forevergirls_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forevergirls_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forevergirls_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forevergirls_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1634841701,
+            "name": "Furry Dress Up",
+            "version": "1.6",
+            "size": 139123115,
+            "icon": "img/furrydressup.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/furrydressup.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/furrydressup.ipa",
+            "bundleIdentifier": "com.animedressupgames.furry",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/furrydressup.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furrydressup_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furrydressup_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furrydressup_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furrydressup_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furrydressup_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furrydressup_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furrydressup_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furrydressup_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6",
+                    "date": "2026-11-08T03:09:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/furrydressup.ipa",
+                    "size": 139123115,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furrydressup_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furrydressup_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furrydressup_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/furrydressup_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1631487741,
+            "name": "Chair Yoga",
+            "version": "2.4.8",
+            "size": 125000587,
+            "icon": "img/chairyoga.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/chairyoga.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/chairyoga.ipa",
+            "bundleIdentifier": "com.oneothergame.chair-yoga-workout-app",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- فتح الأشتراك\n\n#حصرريا\n\nوصف التطبيق:\n\n مرحبًا بك في Chair Yoga for Seniors at Home – رفيقك المثالي لتعزيز اللياقة البدنية والرفاهية، من راحة منزلك. تم تصميم هذا التطبيق حصريًا لتعريفك بممارسة اليوجا على الكرسي اللطيفة والمحولة وغيرها من التمارين الرياضية، المصممة خصيصًا لكبار السن.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/chairyoga.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chairyoga_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chairyoga_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chairyoga_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chairyoga_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chairyoga_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chairyoga_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chairyoga_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chairyoga_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.8",
+                    "date": "2026-11-08T03:08:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/chairyoga.ipa",
+                    "size": 125000587,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chairyoga_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chairyoga_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chairyoga_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chairyoga_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1755120182,
+            "name": "Fleur",
+            "version": "3.0.6",
+            "size": 105126559,
+            "icon": "img/fleur.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/fleur.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/fleur.ipa",
+            "bundleIdentifier": "com.fleurbudget",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- تفعيل مميزات التطبيق ( يرجى ضغط شراء وثم الغاء )\n\n#حصريا \n\nفلور تطبيق تخطيط وتتبع ميزانية سهل الاستخدام وبسيط",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fleur.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fleur_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fleur_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fleur_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fleur_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fleur_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fleur_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fleur_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fleur_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.0.6",
+                    "date": "2026-11-08T03:08:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/fleur.ipa",
+                    "size": 105126559,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fleur_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fleur_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fleur_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fleur_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1494096801,
+            "name": "draw flights",
+            "version": "1.2.2",
+            "size": 423484556,
+            "icon": "img/drawflights.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/drawflights.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/drawflights.ipa",
+            "bundleIdentifier": "com.ty.flights",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/drawflights.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawflights_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawflights_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawflights_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawflights_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawflights_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawflights_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.2",
+                    "date": "2026-11-08T03:08:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/drawflights.ipa",
+                    "size": 423484556,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawflights_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawflights_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawflights_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1803962124,
             "name": "RTHD",
             "version": "15.1",
