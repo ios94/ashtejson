@@ -10,6 +10,468 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1301674322,
+            "name": "PPSSPP",
+            "version": "1.0",
+            "size": 40689483,
+            "icon": "img/ppsspp.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/ppsspp.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/ppsspp.ipa",
+            "bundleIdentifier": "com.inj.ppsspp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق PPSSPP مشغل العاب بلاستيشن",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ppsspp.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ppsspp_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ppsspp_screen_2.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ppsspp_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ppsspp_screen_2.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2026-11-08T12:29:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/ppsspp.ipa",
+                    "size": 40689483,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ppsspp_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ppsspp_screen_2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1245274474,
+            "name": "AdBye Pro",
+            "version": "2.0.0",
+            "size": 34551922,
+            "icon": "img/adbyepro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/adbyepro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/adbyepro.ipa",
+            "bundleIdentifier": "cn.adbye.adbye.pro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مانع اعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/adbyepro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adbyepro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adbyepro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adbyepro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adbyepro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adbyepro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adbyepro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adbyepro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adbyepro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.0",
+                    "date": "2026-11-08T12:28:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/adbyepro.ipa",
+                    "size": 34551922,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adbyepro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adbyepro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adbyepro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adbyepro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1750203928,
+            "name": "Guard Ninja",
+            "version": "1.0.6",
+            "size": 14722884,
+            "icon": "img/guardninja.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/guardninja.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/guardninja.ipa",
+            "bundleIdentifier": "Griffnee.GuardNinja",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "اعتني بممتلكاتك أينما كنت. Guard Ninja هو إنذار شخصي مذهل تم إنشاؤه لحماية هاتفك وغيرها من المعدات من اللصوص والأشخاص الفضوليين.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guardninja.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guardninja_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guardninja_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guardninja_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guardninja_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guardninja_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guardninja_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guardninja_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guardninja_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.6",
+                    "date": "2026-11-08T12:28:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/guardninja.ipa",
+                    "size": 14722884,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guardninja_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guardninja_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guardninja_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guardninja_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1200149630,
+            "name": "HManager",
+            "version": "4.9.4",
+            "size": 14833505,
+            "icon": "img/hmanager.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/hmanager.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/hmanager.ipa",
+            "bundleIdentifier": "com.Hmanager.a9eel",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "اقرأ كمية البيانات التي يستهلكها الإنترنت ومدة الاتصال والكثير من البيانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hmanager.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hmanager_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hmanager_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hmanager_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hmanager_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hmanager_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hmanager_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.9.4",
+                    "date": "2026-11-08T12:28:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/hmanager.ipa",
+                    "size": 14833505,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hmanager_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hmanager_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hmanager_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1528355220,
+            "name": "Maps 3D",
+            "version": "6.2",
+            "size": 22512512,
+            "icon": "img/maps3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/maps3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/maps3d.ipa",
+            "bundleIdentifier": "com.movingworld.geoguide3d",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "باستخدام Maps 3D ، سيكون لديك خيار تخطيط مساراتك وتسجيلها ومشاركتها ، وتحويل جهاز iPhone الخاص بك إلى جهاز GPS متكامل حتى تتمكن من تسجيل إحداثيات المفاتيح والارتفاعات. سيكون لديك أيضًا وصول دون اتصال إلى بيانات الخرائط ثلاثية الأبعاد العالمية مما يحد من استنزاف البطارية ويعني أنه يمكنك تحميل خريطة مسبقًا لتخزينها عندما لا يكون لديك إشارة.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/maps3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maps3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maps3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maps3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maps3d_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maps3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maps3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maps3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maps3d_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.2",
+                    "date": "2026-11-08T12:28:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/maps3d.ipa",
+                    "size": 22512512,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maps3d_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maps3d_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maps3d_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maps3d_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1285279441,
+            "name": "Background Changer",
+            "version": "4.3.3",
+            "size": 155457924,
+            "icon": "img/backgroundchanger.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/backgroundchanger.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/backgroundchanger.ipa",
+            "bundleIdentifier": "com.vyro.iOSbackgroundChanger",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق للتعديل على الصور وازالة الخلفية \r\nواضافة وتعديل الخلفيه .. \r\n\r\nكامل المميزات . \r\n\r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/backgroundchanger.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgroundchanger_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgroundchanger_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgroundchanger_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgroundchanger_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgroundchanger_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgroundchanger_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgroundchanger_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgroundchanger_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.3.3",
+                    "date": "2026-11-08T12:28:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/backgroundchanger.ipa",
+                    "size": 155457924,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgroundchanger_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgroundchanger_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgroundchanger_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/backgroundchanger_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1901668242,
+            "name": "قرعة",
+            "version": "2.2",
+            "size": 29283405,
+            "icon": "img/appba5659358b.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/appba5659358b.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/appba5659358b.ipa",
+            "bundleIdentifier": "esp.Qer3ah",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لعمل قرعة . ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/appba5659358b.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appba5659358b_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appba5659358b_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appba5659358b_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appba5659358b_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appba5659358b_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appba5659358b_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appba5659358b_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appba5659358b_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.2",
+                    "date": "2026-11-08T12:28:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/appba5659358b.ipa",
+                    "size": 29283405,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appba5659358b_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appba5659358b_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appba5659358b_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appba5659358b_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1808709209,
+            "name": "Photomator",
+            "version": "3.4.4",
+            "size": 827771213,
+            "icon": "img/photomator.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/photomator.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/photomator.ipa",
+            "bundleIdentifier": "com.pixelmatorteam.pixelmator.touch.x.photo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق Pixelmator Photo \r\nمدفوع بالابستور\r\nمن أقوى التطبيقات الخاصه بتحرير الصور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/photomator.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomator_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomator_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomator_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomator_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomator_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomator_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomator_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomator_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.4.4",
+                    "date": "2026-11-08T12:28:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/photomator.ipa",
+                    "size": 827771213,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomator_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomator_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomator_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomator_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1688717039,
+            "name": "Video 2 Photo",
+            "version": "6.1.1",
+            "size": 31780014,
+            "icon": "img/video2photo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/video2photo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/video2photo.ipa",
+            "bundleIdentifier": "francis.bonnin.Video2Photo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يمكنك الآن استخراج أي عدد تريده من الصور \nبجودة عالية من مقاطع الفيديو الخاصه بك \n\nالمميزات :\n* مدفوع بالابستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/video2photo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/video2photo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/video2photo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/video2photo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/video2photo_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/video2photo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/video2photo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/video2photo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/video2photo_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.1.1",
+                    "date": "2026-11-08T12:26:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/video2photo.ipa",
+                    "size": 31780014,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/video2photo_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/video2photo_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/video2photo_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/video2photo_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1497518584,
+            "name": "AI Art",
+            "version": "1.3.3",
+            "size": 153812603,
+            "icon": "img/aiart.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/aiart.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/aiart.ipa",
+            "bundleIdentifier": "com.loc.draw.ai.photo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "•تطبيق رسم باستخدام الذكاء الاصطناعي .\r\n•تفعيل بريميوم داخل التطبيق \r\n\r\n-اضغط شراء وبعدها الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aiart.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aiart.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aiart.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.3",
+                    "date": "2026-11-08T12:26:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/aiart.ipa",
+                    "size": 153812603,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aiart.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1115354064,
             "name": "VideoShow PRO",
             "version": "5.7.5",
