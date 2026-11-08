@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1133640906,
+            "name": "Jetpack Survivor",
+            "version": "1.7.6",
+            "size": 302985948,
+            "icon": "img/jetpacksurvivor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/jetpacksurvivor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/jetpacksurvivor.ipa",
+            "bundleIdentifier": "com.nitrodog.jetpacksurvivor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر\n- مضاعف الدفاع\n- مضاعف العملات\n- لا تموت أبدًا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jetpacksurvivor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpacksurvivor_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpacksurvivor_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpacksurvivor_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpacksurvivor_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpacksurvivor_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpacksurvivor_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpacksurvivor_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpacksurvivor_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.6",
+                    "date": "2026-11-08T08:02:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/jetpacksurvivor.ipa",
+                    "size": 302985948,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpacksurvivor_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpacksurvivor_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpacksurvivor_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jetpacksurvivor_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1545808708,
+            "name": "My Success Story",
+            "version": "2.1.36",
+            "size": 211177883,
+            "icon": "img/mysuccessstory.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/mysuccessstory.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/mysuccessstory.ipa",
+            "bundleIdentifier": "com.red.business",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني بالكامل \nشراء ثم الغاء \n\nاذا علق معك قفله وافتح التطبيق من جديد",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mysuccessstory.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccessstory_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccessstory_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccessstory_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccessstory_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccessstory_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccessstory_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccessstory_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccessstory_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.36",
+                    "date": "2026-11-08T08:02:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/mysuccessstory.ipa",
+                    "size": 211177883,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccessstory_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccessstory_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccessstory_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccessstory_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1851177263,
+            "name": "FishingHook2",
+            "version": "1.0.4",
+            "size": 256613699,
+            "icon": "img/fishinghook2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/fishinghook2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/fishinghook2.ipa",
+            "bundleIdentifier": "com.mobirix.fishinghook2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- أسماك ذهبية / بيع غير محدودة\n- إكسب / بيع الأسماك غير محدودة\n- سهلة الصيد",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fishinghook2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishinghook2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishinghook2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishinghook2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishinghook2_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishinghook2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishinghook2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishinghook2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishinghook2_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.4",
+                    "date": "2026-11-08T08:02:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/fishinghook2.ipa",
+                    "size": 256613699,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishinghook2_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishinghook2_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishinghook2_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishinghook2_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1125894238,
+            "name": "CaseChase CS:GO",
+            "version": "1.27.1",
+            "size": 256502228,
+            "icon": "img/casechasecsgo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/casechasecsgo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/casechasecsgo.ipa",
+            "bundleIdentifier": "com.kommadot.casesimulator",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Gold\n- Unlimited Cases -> Open a case.\n\n- ذهب غير محدود\n- حالات غير محدودة -> افتح حالة.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/casechasecsgo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/casechasecsgo_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/casechasecsgo_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/casechasecsgo_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/casechasecsgo_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/casechasecsgo_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/casechasecsgo_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/casechasecsgo_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/casechasecsgo_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.27.1",
+                    "date": "2026-11-08T08:01:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/casechasecsgo.ipa",
+                    "size": 256502228,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/casechasecsgo_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/casechasecsgo_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/casechasecsgo_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/casechasecsgo_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1322245968,
+            "name": "TikTokLRD",
+            "version": "45.5.0",
+            "size": 876446051,
+            "icon": "img/tiktoklrd.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/tiktoklrd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/tiktoklrd.ipa",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- حفظ الفيديو بدون علامة مائية .\r\n ⁃ مشاركة الفيديو .\r\n ⁃ إخفاء واجهة المستخدم .\r\n ⁃ تشغيل الفيديو التالي تلقائيًا .\r\n ⁃ تخطي البث المباشر أثناء المشاهدة تلقائيًا .\r\n ⁃ إظهار شريط التقدم للفيديو .\r\n ⁃ إمكانية رفع الفيديو ذو الجودة العالية .\r\n ⁃ حفظ صورة الملف الشخصي .\r\n ⁃ إظهار عدد فيديوهات المُستخدم .\r\n ⁃ إنشاء مجموعات داخل المُفضلة .\r\n ⁃ زيادة عدد الأحرف في التعليقات .\r\n ⁃ إظهار رمز الدولة للفيديو .\r\n ⁃ إمكانية نسخ اسم المستخدم ، الوصف ، اسم الحساب .\r\n ⁃ إمكانية اظهار التعليقات بشكل شبه شفاف .\r\n ⁃ إخفاء الاعلانات المُزعجة .\r\n ⁃ تغيير الموقع .\r\n ⁃ إظهار نافذة تأكيد عند المتابعة والإعجاب .\r\n ⁃ وضع كلمة سر للتطبيق . \r\n- تقبل التكرار وتسجيل الدخول للحساب .\r\n- إضافة خاصية التكبيس.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tiktoklrd.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "45.5.0",
+                    "date": "2026-11-08T08:01:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/tiktoklrd.ipa",
+                    "size": 876446051,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktoklrd_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1217084578,
+            "name": "Tile Wars TD",
+            "version": "1.0.6",
+            "size": 302004632,
+            "icon": "img/tilewarstd.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/tilewarstd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/tilewarstd.ipa",
+            "bundleIdentifier": "com.tree.hybrid.routedefense",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- جواهر غير محدودة\r\n- جواهر حمراء غير محدودة\r\n- حجر غير محدود\r\n- طاقة غير محدودة\r\n- عملات معركة غير محدودة\r\n- بطاقات أبراج غير محدودة\r\n- نقاط حياة القاعدة\r\n- قوة هجوم البرج\r\n\r\n\r\n- Unlimited Gems\r\n- Unlimited Red Gems\r\n- Unlimited Stone\r\n- Unlimited Energy\r\n- Unlimited Battle Coins\r\n- Unlimited Tower Cards\r\n- Base HP\r\n- Tower ATK",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tilewarstd.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilewarstd_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilewarstd_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilewarstd_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilewarstd_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilewarstd_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilewarstd_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilewarstd_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilewarstd_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.6",
+                    "date": "2026-11-08T08:00:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/tilewarstd.ipa",
+                    "size": 302004632,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilewarstd_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilewarstd_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilewarstd_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilewarstd_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1543236094,
+            "name": "Idle Train Empire - Idle Games",
+            "version": "1.10.11",
+            "size": 227823266,
+            "icon": "img/idletrainempireidlegames.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/idletrainempireidlegames.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/idletrainempireidlegames.ipa",
+            "bundleIdentifier": "com.idle.train.empire.sim.tycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة\r\n- عمليات شراء داخل التطبيق مجانية (قم بتفعيلها من قائمة تعديل المنيو أولاً)\r\n\r\n- Infinite Currencies\r\n- Free iAP ( Turn on inside Mod Menu first )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idletrainempireidlegames.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrainempireidlegames_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrainempireidlegames_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrainempireidlegames_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrainempireidlegames_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrainempireidlegames_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrainempireidlegames_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrainempireidlegames_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrainempireidlegames_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.10.11",
+                    "date": "2026-11-08T08:00:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/idletrainempireidlegames.ipa",
+                    "size": 227823266,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrainempireidlegames_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrainempireidlegames_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrainempireidlegames_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrainempireidlegames_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1426221762,
+            "name": "Idle Monster TD",
+            "version": "108",
+            "size": 161378164,
+            "icon": "img/idlemonstertd.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/idlemonstertd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/idlemonstertd.ipa",
+            "bundleIdentifier": "com.ironhorsegames.idlemonstertd",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- قتل بضربة واحدة\r\n- ذهب لا نهائي\r\n- جواهر لا نهائية\r\n- جوهر لا نهائي\r\n- عمليات شراء مجانية داخل التطبيق (فعّلها من قائمة المنيو)\r\n\r\n- One Hit Kill\r\n- Infinite Gold\r\n- Infinite Gem\r\n- Infinite Essence\r\n- Free iAP (Turn on inside Mod Menu)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlemonstertd.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemonstertd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemonstertd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemonstertd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemonstertd_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemonstertd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemonstertd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemonstertd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemonstertd_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "108",
+                    "date": "2026-11-08T08:00:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/idlemonstertd.ipa",
+                    "size": 161378164,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemonstertd_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemonstertd_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemonstertd_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemonstertd_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1509070986,
+            "name": "Dragon Barrage",
+            "version": "1.1.8",
+            "size": 363123602,
+            "icon": "img/dragonbarrage.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/dragonbarrage.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/dragonbarrage.ipa",
+            "bundleIdentifier": "game01.hosistem.ne",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- أقصى هجوم\r\n- تعطيل التصويب التلقائي\r\n- فوز تلقائي\r\n- جواهر غير محدودة\r\n- طاقة غير محدودة\r\n- تجميد الأعداء\r\n\r\n- ATK MAX\r\n- Auto ADS NO\r\n- Auto Win\r\n- Unlimited Gems\r\n- Unlimited Energy\r\n- Enemy Freeze",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dragonbarrage.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dragonbarrage_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dragonbarrage_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dragonbarrage_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dragonbarrage_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dragonbarrage_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dragonbarrage_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dragonbarrage_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dragonbarrage_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.8",
+                    "date": "2026-11-08T07:59:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/dragonbarrage.ipa",
+                    "size": 363123602,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dragonbarrage_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dragonbarrage_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dragonbarrage_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dragonbarrage_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1723121108,
             "name": "Jalsah",
             "version": "23",
