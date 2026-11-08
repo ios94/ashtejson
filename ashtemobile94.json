@@ -10,6 +10,342 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1175965364,
+            "name": "Miya",
+            "version": "1.4",
+            "size": 1569525620,
+            "icon": "img/miya.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/miya.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/miya.ipa",
+            "bundleIdentifier": "com.kunju.miya",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "* تجميد الموارد",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/miya.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miya_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miya_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miya_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miya_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miya_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miya_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miya_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miya_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4",
+                    "date": "2026-11-08T15:28:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/miya.ipa",
+                    "size": 1569525620,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miya_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miya_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miya_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miya_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1471900531,
+            "name": "Save the Masters",
+            "version": "1.1.4",
+            "size": 389899633,
+            "icon": "img/savethemasters.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/savethemasters.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/savethemasters.ipa",
+            "bundleIdentifier": "com.inape.savethemasters",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "* نقود لا محدودة\r\n* فتح جميع الأزياء\r\n* بدون اعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/savethemasters.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethemasters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethemasters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethemasters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethemasters_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethemasters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethemasters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethemasters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethemasters_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.4",
+                    "date": "2026-11-08T15:26:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/savethemasters.ipa",
+                    "size": 389899633,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethemasters_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethemasters_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethemasters_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethemasters_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1308069903,
+            "name": "Car Sale Simulator Dealership",
+            "version": "1.18",
+            "size": 843840716,
+            "icon": "img/carsalesimulatordealership.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/carsalesimulatordealership.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/carsalesimulatordealership.ipa",
+            "bundleIdentifier": "com.ta.car.dealershipgame3d.offline",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني بالكامل \r\n\r\nتنبية :\r\n&#34; شراء ثم إلغاء &#34;\r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carsalesimulatordealership.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsalesimulatordealership_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsalesimulatordealership_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsalesimulatordealership_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsalesimulatordealership_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsalesimulatordealership_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsalesimulatordealership_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsalesimulatordealership_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsalesimulatordealership_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.18",
+                    "date": "2026-11-08T15:26:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/carsalesimulatordealership.ipa",
+                    "size": 843840716,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsalesimulatordealership_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsalesimulatordealership_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsalesimulatordealership_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carsalesimulatordealership_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1185856022,
+            "name": "Wing Fighter",
+            "version": "1.7.791",
+            "size": 955154130,
+            "icon": "img/wingfighter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/wingfighter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/wingfighter.ipa",
+            "bundleIdentifier": "com.joyfort.windfighter.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "•لا تموت \r\n•موارد لا محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wingfighter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingfighter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingfighter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingfighter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingfighter_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingfighter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingfighter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingfighter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingfighter_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.791",
+                    "date": "2026-11-08T15:25:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/wingfighter.ipa",
+                    "size": 955154130,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingfighter_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingfighter_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingfighter_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingfighter_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1684201759,
+            "name": "كن ملكا",
+            "version": "2.4.08011073",
+            "size": 280844394,
+            "icon": "img/appd4fa76f699.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/appd4fa76f699.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/appd4fa76f699.ipa",
+            "bundleIdentifier": "com.szckhd.jwgly.iosarab",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "هل تريد ترتيب الجيوش وقيادة المعركة؟ هل تريد المُلك في يديك؟ هل تريد أن يكون هناك جميلات محيطات بك؟ تعال معنا تكن ملكا في الصين القديمة، وتتمتع بمتعة المعارك، وبهجة ترقية المناصب، واللحظات السعيدة مع الجميلات...... هيا! كن ملكا في هذه الأرض!\r\n\r\n”كن ملكا“ - هذه اللعبة لديها طرق اللعب المختلفة، فمنها: خوض المعركة، البحث والمصاهرة، الزواج والإنجاب، إنشاء التحالف، منافسة التصنيف، ترتيب البطل، وفضلا عن ذلك يمكن أن تصادف الأصدقاء الجدد من خلالها، وإلى جانب ذلك يجب أن يكون هناك طريقة تجذب انتباهك.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/appd4fa76f699.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd4fa76f699_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd4fa76f699_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd4fa76f699_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd4fa76f699_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd4fa76f699_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd4fa76f699_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd4fa76f699_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd4fa76f699_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.08011073",
+                    "date": "2026-11-08T15:23:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/appd4fa76f699.ipa",
+                    "size": 280844394,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd4fa76f699_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd4fa76f699_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd4fa76f699_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd4fa76f699_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1240416089,
+            "name": "Gun Run: Auto Shooting Sniper",
+            "version": "1.0.27",
+            "size": 315670726,
+            "icon": "img/gunrunautoshootingsniper.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/gunrunautoshootingsniper.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/gunrunautoshootingsniper.ipa",
+            "bundleIdentifier": "com.zitga.gunrun.auto.shooting.sniper.action.game",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "* طاقة متجددة ?\r\n* أضف الذهب ⚱️\r\n[ الإعدادات -> اضغط على الاتصال بالدعم ]\r\n* إضافة الأحجار الكريمة ?\r\n[ الإعدادات -> اضغط على الصوت ]\r\n* فتح جميع الأبطال ?\r\n[ الإعدادات -> اضغط على الموسيقى ]\r\n* فتح جميع العناصر ?\r\n[ الإعدادات -> اضغط على &#34;الاهتزاز&#34; ]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gunrunautoshootingsniper.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunrunautoshootingsniper_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunrunautoshootingsniper_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunrunautoshootingsniper_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunrunautoshootingsniper_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunrunautoshootingsniper_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunrunautoshootingsniper_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunrunautoshootingsniper_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunrunautoshootingsniper_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.27",
+                    "date": "2026-11-08T15:23:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/gunrunautoshootingsniper.ipa",
+                    "size": 315670726,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunrunautoshootingsniper_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunrunautoshootingsniper_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunrunautoshootingsniper_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunrunautoshootingsniper_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1478684100,
+            "name": "Cat Garden",
+            "version": "1.0.4",
+            "size": 334180646,
+            "icon": "img/catgarden.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/catgarden.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/catgarden.ipa",
+            "bundleIdentifier": "com.daerigame.nekomakase",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "* ذهب غير محدود\r\n[ انتقل إلى الإعدادات وقم بتبديل زر المؤثرات الصوتية ]\r\n* جواهر غير محدودة\r\n[ توجه إلى الإعدادات وقم بتبديل زر BGM ]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/catgarden.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catgarden_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catgarden_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catgarden_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catgarden_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catgarden_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catgarden_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catgarden_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catgarden_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.4",
+                    "date": "2026-11-08T15:23:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/catgarden.ipa",
+                    "size": 334180646,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catgarden_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catgarden_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catgarden_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catgarden_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1436642798,
             "name": "جوابك جوابهم",
             "version": "2.5.21",
