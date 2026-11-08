@@ -10,6 +10,483 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1601663984,
+            "name": "PicPlayPost",
+            "version": "9.13",
+            "size": 179372419,
+            "icon": "img/picplaypost.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/picplaypost.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/picplaypost.ipa",
+            "bundleIdentifier": "com.flambestudios.videoinframe",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق للتعديل على الصور مع كامل المزايا . \r\n- اضغط شراء ثم الغاء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/picplaypost.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/picplaypost_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/picplaypost_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/picplaypost_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/picplaypost_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/picplaypost_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/picplaypost_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/picplaypost_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/picplaypost_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "9.13",
+                    "date": "2026-11-08T19:28:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/picplaypost.ipa",
+                    "size": 179372419,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/picplaypost_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/picplaypost_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/picplaypost_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/picplaypost_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1939977423,
+            "name": "Photo Translator",
+            "version": "4.2.7",
+            "size": 137916913,
+            "icon": "img/phototranslator.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/phototranslator.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/phototranslator.ipa",
+            "bundleIdentifier": "kldev.PhotoTranslator",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "ترجمه الصور و الكلام المكتوب على الصور \r\n\r\n- مفتوح المميزات \r\n( اضغط شراء ثم إلغاء )\r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/phototranslator.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phototranslator_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phototranslator_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phototranslator_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phototranslator_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phototranslator_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phototranslator_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phototranslator_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phototranslator_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.2.7",
+                    "date": "2026-11-08T19:28:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/phototranslator.ipa",
+                    "size": 137916913,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phototranslator_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phototranslator_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phototranslator_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phototranslator_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1619092723,
+            "name": "EWA English",
+            "version": "7.105.0",
+            "size": 465973211,
+            "icon": "img/ewaenglish.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/ewaenglish.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/ewaenglish.ipa",
+            "bundleIdentifier": "com.ewa.ewaapp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتعلم اللغات بواسطه الذكاء الاصطناعي\r\n\r\n- مفتوح المميزات ( اضغط على شراء ثم إلغاء ) .\r\n- يدعم اصدار ios16 وطالع .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ewaenglish.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ewaenglish_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ewaenglish_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ewaenglish_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ewaenglish_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ewaenglish_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ewaenglish_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ewaenglish_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ewaenglish_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.105.0",
+                    "date": "2026-11-08T19:28:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/ewaenglish.ipa",
+                    "size": 465973211,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ewaenglish_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ewaenglish_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ewaenglish_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ewaenglish_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1250351056,
+            "name": "Tahani - تهاني",
+            "version": "4.53",
+            "size": 63212464,
+            "icon": "img/tahani.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/tahani.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/tahani.ipa",
+            "bundleIdentifier": "com.rommanapps.panorama.eid",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لتصميم بطاقات الدعوه والتهاني \r\nيوجد الكثر من القوالب داخل التطبيق .. \r\n\r\nمفتوح المميزات - ( اضغط شراء ثم الغاء ) \r\n،",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tahani.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tahani_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tahani_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tahani_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tahani_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tahani_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tahani_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tahani_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tahani_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.53",
+                    "date": "2026-11-08T19:27:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/tahani.ipa",
+                    "size": 63212464,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tahani_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tahani_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tahani_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tahani_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1229007936,
+            "name": "Dramasl",
+            "version": "1.1",
+            "size": 17312185,
+            "icon": "img/dramasl.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/dramasl.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/dramasl.ipa",
+            "bundleIdentifier": "com.drama.dramaslios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لمتابعة الدراما والافلام الكوريه واليابانيه والصينيه \r\n\r\n- بدون اعلانات \r\n\r\nتنبية : \r\nيجب تحميل مشغل الافلام من ابل ستور \r\n- اسم التطبيق FileManager \r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dramasl.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dramasl_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dramasl_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dramasl_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dramasl_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dramasl_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dramasl_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2026-11-08T19:27:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/dramasl.ipa",
+                    "size": 17312185,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dramasl_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dramasl_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dramasl_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1916119588,
+            "name": "Amer Go Racing",
+            "version": "0.3.1",
+            "size": 600359798,
+            "icon": "img/amergoracing.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/amergoracing.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/amergoracing.ipa",
+            "bundleIdentifier": "io.madhook.amerkarting",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة السباقات مع عامر \r\n\r\nلعبة سباق حماسيه وممتعه \r\n\r\nالمميزات: \r\nمتجر مجاني بالكامل \r\nإضغط شراء ثم إلغاء . \r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amergoracing.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amergoracing_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amergoracing_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amergoracing_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amergoracing_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amergoracing_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amergoracing_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amergoracing_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amergoracing_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.3.1",
+                    "date": "2026-11-08T19:27:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/amergoracing.ipa",
+                    "size": 600359798,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amergoracing_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amergoracing_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amergoracing_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amergoracing_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1723731759,
+            "name": "UnTrap",
+            "version": "90",
+            "size": 44713993,
+            "icon": "img/untrap.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/untrap.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/untrap.ipa",
+            "bundleIdentifier": "me.swifter.ytdistract",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق خاص لموقع اليوتيوب في متصفح سفاري لاضافة بعض المميزات .\r\n( يتم تفعيله فالملحقات في الاعدادات ) .\r\n\r\n- تطبيق مدفوع في ابل ستور . \r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/untrap.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/untrap_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/untrap_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/untrap_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/untrap_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/untrap_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/untrap_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/untrap_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/untrap_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "90",
+                    "date": "2026-11-08T19:26:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/untrap.ipa",
+                    "size": 44713993,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/untrap_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/untrap_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/untrap_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/untrap_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1959218984,
+            "name": "Merge Legends",
+            "version": "1.19.12",
+            "size": 549189583,
+            "icon": "img/mergelegends.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/mergelegends.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/mergelegends.ipa",
+            "bundleIdentifier": "com.merge.legends.dragon.dailyfun",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة -> تزيد عند الاستخدام .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergelegends.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelegends_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelegends_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelegends_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelegends_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelegends_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelegends_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelegends_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelegends_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.19.12",
+                    "date": "2026-11-08T19:26:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/mergelegends.ipa",
+                    "size": 549189583,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelegends_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelegends_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelegends_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelegends_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1212092292,
+            "name": "Tinder",
+            "version": "15.12.0",
+            "size": 225372497,
+            "icon": "img/tinder.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/tinder.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/tinder.ipa",
+            "bundleIdentifier": "com.cardify.tinder",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "نسخه خام \r\n\r\nلتخطي حظر ip\r\nبدون اي مميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tinder.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinder_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinder_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinder_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinder_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinder_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinder_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinder_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinder_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "15.12.0",
+                    "date": "2026-11-08T19:25:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/tinder.ipa",
+                    "size": 225372497,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinder_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinder_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinder_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinder_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1703004194,
+            "name": "iTranslate",
+            "version": "17.4.3",
+            "size": 205871904,
+            "icon": "img/itranslate.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/itranslate.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/itranslate.ipa",
+            "bundleIdentifier": "com.outerspaceapps.itranslate",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "من افضل تطبيقات الترجمة لترجمة النصوص والصوت والمحادثات وصور الكاميرا. \nيمكنك بسهولة الترجمة إلى أكثر من 100 لغة .\n\nالمميزات :\n• كامل المميزات . \nسجل دخولك داخل التطبيق لتفعيل المميزات .\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/itranslate.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/itranslate_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/itranslate_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/itranslate_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/itranslate_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/itranslate_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/itranslate_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/itranslate_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/itranslate_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "17.4.3",
+                    "date": "2026-11-08T19:25:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/itranslate.ipa",
+                    "size": 205871904,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/itranslate_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/itranslate_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/itranslate_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/itranslate_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1483354407,
             "name": "AmigoWorld",
             "version": "1.0.6",
