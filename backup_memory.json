@@ -10,6 +10,483 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1517749431,
+            "name": "Block Puzzle",
+            "version": "1.7.1",
+            "size": 185622427,
+            "icon": "img/blockpuzzle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/blockpuzzle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/blockpuzzle.ipa",
+            "bundleIdentifier": "com.wood.block.puzzle.games",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blockpuzzle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpuzzle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpuzzle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpuzzle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpuzzle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpuzzle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpuzzle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpuzzle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpuzzle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.1",
+                    "date": "2026-11-08T05:01:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/blockpuzzle.ipa",
+                    "size": 185622427,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpuzzle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpuzzle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpuzzle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpuzzle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1826954596,
+            "name": "Glove Power",
+            "version": "0.7.1",
+            "size": 207847757,
+            "icon": "img/glovepower.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/glovepower.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/glovepower.ipa",
+            "bundleIdentifier": "com.YsoCorp.GlovePower",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود \n- الغاء الأعلانات\n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/glovepower.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glovepower_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glovepower_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glovepower_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glovepower_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glovepower_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glovepower_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.7.1",
+                    "date": "2026-11-08T05:01:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/glovepower.ipa",
+                    "size": 207847757,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glovepower_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glovepower_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glovepower_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1603167504,
+            "name": "DiamondPainting",
+            "version": "6.9.0",
+            "size": 321527398,
+            "icon": "img/diamondpainting.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/diamondpainting.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/diamondpainting.ipa",
+            "bundleIdentifier": "com.diamond.painting.by.number",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود \n- الغاء الأعلانات\n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/diamondpainting.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/diamondpainting_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/diamondpainting_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/diamondpainting_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/diamondpainting_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/diamondpainting_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/diamondpainting_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/diamondpainting_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/diamondpainting_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.9.0",
+                    "date": "2026-11-08T05:01:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/diamondpainting.ipa",
+                    "size": 321527398,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/diamondpainting_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/diamondpainting_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/diamondpainting_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/diamondpainting_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1797673841,
+            "name": "Bike Blast",
+            "version": "4.15.1",
+            "size": 161167114,
+            "icon": "img/bikeblast.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/bikeblast.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/bikeblast.ipa",
+            "bundleIdentifier": "com.aceviral.bmxblast",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bikeblast.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikeblast_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikeblast_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikeblast_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikeblast_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikeblast_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikeblast_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikeblast_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikeblast_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.15.1",
+                    "date": "2026-11-08T05:00:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/bikeblast.ipa",
+                    "size": 161167114,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikeblast_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikeblast_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikeblast_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikeblast_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1447578936,
+            "name": "الحاسبة الوردية",
+            "version": "2.3.1",
+            "size": 52600911,
+            "icon": "img/app64030c6a97.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/app64030c6a97.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/app64030c6a97.ipa",
+            "bundleIdentifier": "cc.hayah.rosycalc",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الأعلانات\n\n#حصريا \n\n وصف التطبيق : \n\nتطبيق الحاسبة الوردية هو تطبيق عدة تطبيقات نسائية خاصه بالمرأة مقدمة من شبكة حياة النسائية الهدف من تطبيق الحاسبة الوردية هو حساب اوقات الدورة الشهرية الحالية والقادمة و ايام التبويض و الحمل و غيرها من الامور المتعلقه بها. كما يقدم التطبيق تنبيهات متقدمه تساعدك في التنبه لوقت حدوثها و افضل ايام للحمل ( للمتزوجات )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app64030c6a97.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app64030c6a97_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app64030c6a97_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app64030c6a97_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app64030c6a97_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app64030c6a97_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app64030c6a97_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app64030c6a97_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app64030c6a97_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.3.1",
+                    "date": "2026-11-08T05:00:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/app64030c6a97.ipa",
+                    "size": 52600911,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app64030c6a97_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app64030c6a97_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app64030c6a97_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app64030c6a97_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1413115826,
+            "name": "House Design",
+            "version": "26.52",
+            "size": 60810080,
+            "icon": "img/housedesign.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/housedesign.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/housedesign.ipa",
+            "bundleIdentifier": "com.icandesignapp.all",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- تفعيل مميزات التطبيق ( يرجى ضغط شراء وثم الغاء )\n\nلتصميم المنازل يمكنك استخدامه دون اتصال بالإنترنت لإنشاء وتصميم منزل أحلامك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/housedesign.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/housedesign_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/housedesign_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/housedesign_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/housedesign_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/housedesign_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/housedesign_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/housedesign_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/housedesign_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "26.52",
+                    "date": "2026-11-08T05:00:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/housedesign.ipa",
+                    "size": 60810080,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/housedesign_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/housedesign_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/housedesign_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/housedesign_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1300521842,
+            "name": "A+AI",
+            "version": "1.0.9",
+            "size": 18570710,
+            "icon": "img/aai.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/aai.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/aai.ipa",
+            "bundleIdentifier": "app.aplusai",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- تفعيل مميزات التطبيق ( يرجى ضغط شراء وثم الغاء )\n\nوصف التطبيق:\n\n يستخدم A+AI الذكاء الاصطناعي ليمنحك إجابات سريعة ودقيقة لأسئلتك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aai.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aai_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aai_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.9",
+                    "date": "2026-11-08T05:00:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/aai.ipa",
+                    "size": 18570710,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aai_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aai_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aai_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aai_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1499646957,
+            "name": "Crunch Workout",
+            "version": "6.3.2",
+            "size": 339925806,
+            "icon": "img/crunchworkout.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/crunchworkout.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/crunchworkout.ipa",
+            "bundleIdentifier": "com.oneothergame.7min-abs",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات\r\n\r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات تلقائي ام شراء داخلي او اضافة موارد سوف ينبهك بذالك\r\n\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n\r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crunchworkout.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crunchworkout_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crunchworkout_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crunchworkout_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crunchworkout_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crunchworkout_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crunchworkout_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crunchworkout_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crunchworkout_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "6.3.2",
+                    "date": "2026-11-08T05:00:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/crunchworkout.ipa",
+                    "size": 339925806,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crunchworkout_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crunchworkout_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crunchworkout_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crunchworkout_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1365597518,
+            "name": "Gang Up",
+            "version": "1.1.8",
+            "size": 589717217,
+            "icon": "img/gangup.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/gangup.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/gangup.ipa",
+            "bundleIdentifier": "com.DoubleBubble.GangUp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gangup.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gangup_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gangup_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gangup_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gangup_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gangup_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gangup_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gangup_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gangup_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.8",
+                    "date": "2026-11-08T04:59:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/gangup.ipa",
+                    "size": 589717217,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gangup_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gangup_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gangup_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gangup_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1940942843,
+            "name": "Expense",
+            "version": "3.9",
+            "size": 40552261,
+            "icon": "img/expense.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/expense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/expense.ipa",
+            "bundleIdentifier": "com.money.budget.expensemanager",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- تفعيل مميزات التطبيق ( يرجى ضغط شراء وثم الغاء )\n\nلمعرفة وكيفية تخزين اموالك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/expense.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/expense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/expense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/expense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/expense_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/expense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/expense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/expense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/expense_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.9",
+                    "date": "2026-11-08T04:59:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/expense.ipa",
+                    "size": 40552261,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/expense_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/expense_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/expense_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/expense_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1257100038,
             "name": "Find Journey",
             "version": "0.7.5",
