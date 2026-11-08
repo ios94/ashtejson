@@ -87,11 +87,22 @@ def release_tag_of(app):
 
 
 def load_state():
+    """{ناوی_بچووک: {"fv": وەشانی فید، "sig": size|etag|date}}"""
     try:
         with open(STATE_FILE, encoding="utf-8") as f:
-            return json.load(f)
+            raw = json.load(f)
     except Exception:
         return {}
+    return {k: (v if isinstance(v, dict) else {"sig": v}) for k, v in raw.items()}
+
+
+def feed_version_of(it):
+    v = str(it.get("version") or "").strip()
+    if not v:
+        vs = it.get("versions")
+        if isinstance(vs, list) and vs and isinstance(vs[0], dict):
+            v = str(vs[0].get("version") or "").strip()
+    return v
 
 
 def check_one(game, app, state):
@@ -99,6 +110,8 @@ def check_one(game, app, state):
     ١) GET ی ئاسایی (وەک admin_adder) و تەنها هێدەرەکان دەخوێنرێنەوە، بەبێ دابەزاندنی فایل
     ٢) ئەگەر سێرڤەر Accept-Ranges: bytes ی هەبوو، وەشانی ڕاستەقینە لە Info.plist دەخوێنرێتەوە
     ٣) ئەگەر نا: size/ETag/Last-Modified بەراورد دەکرێت لەگەڵ جاری پێشوو (update_state.json)"""
+    if game.get("fv"):  # فیدەکە خۆی وەشانی هەیە: هیچ داواکارییەکی تر پێویست نیە (خێراترین ڕێگا)
+        return "feed", game["fv"], None
     url = game["ipa"]
     if not url.lower().startswith("http"):
         return "skip", None, None
@@ -120,9 +133,10 @@ def check_one(game, app, state):
         except Exception:
             pass  # دەچینە ڕێگای sig
     key = app["name"].strip().lower()
-    if key not in state:
+    old_sig = state.get(key, {}).get("sig")
+    if old_sig is None:
         return "baseline", None, sig  # یەکەم جار: تەنها تۆمار دەکرێت
-    if state[key] != sig:
+    if old_sig != sig:
         return "sig-changed", "?", sig
     return "unchanged", None, sig
 
@@ -137,7 +151,14 @@ def gather_feed():
             if raw:
                 print("🧪 sample feed item keys:", list(raw[0].keys()) if isinstance(raw[0], dict) else type(raw[0]))
                 print("🧪 sample:", json.dumps(raw[0], ensure_ascii=False)[:600])
-            got = sync.normalize(raw)
+            got = []
+            for it in raw:
+                if not isinstance(it, dict):
+                    continue
+                name, ipa = sync.pick(it, sync.NAME_KEYS), sync.pick_ipa(it)
+                if name and ipa:
+                    got.append({"name": name, "ipa": ipa, "desc": sync.pick(it, sync.DESC_KEYS),
+                                "fv": feed_version_of(it)})
         except SystemExit:
             print(f"⚠️ feed not available: {url}")
             continue
@@ -173,18 +194,32 @@ def prepare():
             kind = how.split(":")[0] if not how.startswith("error") else how
             stats[kind] = stats.get(kind, 0) + 1
             old_v = app.get("version", "")
+            key = app["name"].strip().lower()
+            seen_fv = state.get(key, {}).get("fv")
             queued = False
-            if how == "sig-changed" or (new_v and is_newer(new_v, old_v)):
+            if how == "feed":
+                # نوێتر لە وەشانی JSON و هێشتا ئەم وەشانەی فید ئابدەیت نەکراوە (ڕێگری لە ئابدەیتی بێ کۆتا)
+                do_update = is_newer(new_v, old_v) and new_v != seen_fv
+            else:
+                do_update = how == "sig-changed" or bool(new_v and is_newer(new_v, old_v))
+            if do_update:
                 tag = release_tag_of(app)
                 if tag:
                     queued = True
                     found.append({"name": app["name"], "ipa": g["ipa"], "desc": g.get("desc", ""),
-                                  "old_version": old_v, "new_version": new_v, "tag": tag, "sig": sig})
-                    print(f"🆕 {app['name']}: {old_v} -> {new_v}  [{tag}]")
+                                  "old_version": old_v, "new_version": new_v, "tag": tag,
+                                  "sig": sig, "fv": g.get("fv", "")})
+                    print(f"🆕 {app['name']}: {old_v} -> {new_v}  [{tag}]  ({how})")
+                else:
+                    print(f"⚠️ no release tag for {app['name']}, skipped")
             elif how.startswith("error") and len(errors) < 15:
                 errors.append(f"{app['name']}: {how}  <- {g['ipa'][:120]}")
-            if sig and not queued:
-                state[app["name"].strip().lower()] = sig
+            if not queued:
+                entry = state.setdefault(key, {})
+                if sig:
+                    entry["sig"] = sig
+                if how == "feed":
+                    entry["fv"] = new_v
             done += 1
             if done % 200 == 0:
                 print(f"   {done}/{len(games)} checked ({int(time.time() - start)}s)")
@@ -263,9 +298,9 @@ def merge():
         data = json.load(f)
     try:
         with open(QUEUE_FILE, encoding="utf-8") as f:
-            sigs = {it["name"]: it.get("sig") for b in json.load(f) for it in b["items"]}
+            queued_items = {it["name"]: it for b in json.load(f) for it in b["items"]}
     except Exception:
-        sigs = {}
+        queued_items = {}
     state, merged = load_state(), 0
 
     for new in new_apps:
@@ -284,8 +319,12 @@ def merge():
             apps.insert(0, old)  # ئابدەیتکراو دەچێتە سەرەوە
             merged += 1
             print(f"🔄 {new['name']} -> {old['version']}")
-        if sigs.get(new["name"]):
-            state[new["name"].strip().lower()] = sigs[new["name"]]
+        q = queued_items.get(new["name"], {})
+        entry = state.setdefault(new["name"].strip().lower(), {})
+        if q.get("sig"):
+            entry["sig"] = q["sig"]
+        if q.get("fv"):
+            entry["fv"] = q["fv"]  # هەمان وەشانی فید جارێکی تر ئابدەیت ناکرێت
 
     for path in (JSON_FILE, BACKUP_FILE):
         with open(path, "w", encoding="utf-8") as f:
