@@ -10,6 +10,99 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1348132608,
+            "name": "Evertale",
+            "version": "2.0.100",
+            "size": 162588807,
+            "icon": "img/evertale.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/evertale.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/evertale.ipa",
+            "bundleIdentifier": "com.zigzagame.evertale",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "• الأعداء لا يهاجمون ❗️\r\n • زيادة الطاقه ?\r\n • مكافأة فضية عالية بعد المعركة ?\r\n • ضمان التقاط ✅\r\n • 999 تكلفة الفريق ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evertale.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evertale_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evertale_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evertale_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evertale_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evertale_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evertale_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.100",
+                    "date": "2026-11-08T16:16:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/evertale.ipa",
+                    "size": 162588807,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evertale_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evertale_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evertale_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1615168434,
+            "name": "Darkrise",
+            "version": "0.18.8",
+            "size": 178717552,
+            "icon": "img/darkrise.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/darkrise.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/darkrise.ipa",
+            "bundleIdentifier": "com.Roika.Darkrise",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Darkrise\r\n\r\nالمميزات :\r\n* يمكن أن تحمل الأحجار الكريمة\r\n* يمكن أن تحمل الذهب\r\n* ترقيات مجانية\r\n* العناصر لا تنقص",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/darkrise.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkrise_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkrise_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkrise_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkrise_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkrise_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkrise_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkrise_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkrise_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.18.8",
+                    "date": "2026-11-08T16:13:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/darkrise.ipa",
+                    "size": 178717552,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkrise_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkrise_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkrise_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/darkrise_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1892713654,
             "name": "Ultraman",
             "version": "1.2.90",
