@@ -10,6 +10,453 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1676774705,
+            "name": "Tutorials for Scratch",
+            "version": "1.6",
+            "size": 490808675,
+            "icon": "img/tutorialsforscratch.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/tutorialsforscratch.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/tutorialsforscratch.ipa",
+            "bundleIdentifier": "com.phillips.ScratchKids",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيقات مدفوعة مساعدة لتعليم البرمجة للاطفال",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tutorialsforscratch.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tutorialsforscratch.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tutorialsforscratch.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6",
+                    "date": "2026-11-08T12:59:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/tutorialsforscratch.ipa",
+                    "size": 490808675,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tutorialsforscratch.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1188681406,
+            "name": "Marvis",
+            "version": "10.1.1",
+            "size": 77155205,
+            "icon": "img/marvis.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/marvis.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/marvis.ipa",
+            "bundleIdentifier": "com.adityarajveer.Marvis",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $19.99\nRequires 18.1 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $19.99\nيتطلب اصدار 18.1 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/marvis.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marvis_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marvis_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marvis_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marvis_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marvis_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marvis_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marvis_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marvis_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "10.1.1",
+                    "date": "2026-11-08T12:58:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/marvis.ipa",
+                    "size": 77155205,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marvis_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marvis_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marvis_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marvis_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1125023494,
+            "name": "Scratch 2 games",
+            "version": "2.0",
+            "size": 345973457,
+            "icon": "img/scratch2games.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/scratch2games.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/scratch2games.ipa",
+            "bundleIdentifier": "com.phillips.TeachStudent",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيقات مدفوعة مساعدة لتعليم البرمجة للاطفال",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/scratch2games.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/scratch2games.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/scratch2games.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0",
+                    "date": "2026-11-08T12:58:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/scratch2games.ipa",
+                    "size": 345973457,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/scratch2games.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1785702138,
+            "name": "Scratch Tutorials",
+            "version": "1.0",
+            "size": 538387709,
+            "icon": "img/scratchtutorials.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/scratchtutorials.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/scratchtutorials.ipa",
+            "bundleIdentifier": "com.app.scratchtutorial.videoapp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيقات مدفوعة مساعدة لتعليم البرمجة للاطفال",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/scratchtutorials.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/scratchtutorials.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/scratchtutorials.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2026-11-08T12:57:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/scratchtutorials.ipa",
+                    "size": 538387709,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/scratchtutorials.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1185823037,
+            "name": "دليلة البر",
+            "version": "1.2",
+            "size": 40659702,
+            "icon": "img/app42bc10da35.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/app42bc10da35.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/app42bc10da35.ipa",
+            "bundleIdentifier": "com.mohasalah.daleel",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات:\r\nازالة الاعلانات \r\n(من اعدادات التطبيق اشتري الاعلانات واضغط الغاء).",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app42bc10da35.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app42bc10da35_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app42bc10da35_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app42bc10da35_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app42bc10da35_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app42bc10da35_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app42bc10da35_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app42bc10da35_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app42bc10da35_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-08T12:57:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/app42bc10da35.ipa",
+                    "size": 40659702,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app42bc10da35_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app42bc10da35_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app42bc10da35_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app42bc10da35_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1792844037,
+            "name": "OpenInYT",
+            "version": "1.10",
+            "size": 3196474,
+            "icon": "img/openinyt.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/openinyt.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/openinyt.ipa",
+            "bundleIdentifier": "com.relax.OpenInYT",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "•فتح الروابط في تطبيقات التواصل المعدلة .\r\n\r\n•حمل التطبيق وافتحه اول مره فقط\r\n•ادخل :\r\nاعدادات/سفاري/الملحقات/ وفعل البرنامج\r\n•افتح متصفح سفاري وفعل الاضافة الموضحة بالصورة التالية :",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/openinyt.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/openinyt_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/openinyt_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/openinyt_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/openinyt_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/openinyt_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/openinyt_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.10",
+                    "date": "2026-11-08T12:57:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/openinyt.ipa",
+                    "size": 3196474,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/openinyt_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/openinyt_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/openinyt_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1896842059,
+            "name": "iScanner",
+            "version": "5.32",
+            "size": 193421346,
+            "icon": "img/iscanner.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/iscanner.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/iscanner.ipa",
+            "bundleIdentifier": "net.iscannerapp.pro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق iScanner Pro مدفوع \r\n\r\n ✅ iScanner Pro النسخة المدفوعة\r\nمسح ضوئي للأوراق بصورة واضحة PDF \r\nمع تصفية الصفحات وازالة الظلال والإنعكاسات\r\nتحرير ملفات PDF - اضافة توقيع - كتابه \r\n - اخفاء - حذف واضافة صفحات \r\n— مكتب متنقل ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/iscanner.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iscanner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iscanner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iscanner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iscanner_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iscanner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iscanner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iscanner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iscanner_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.32",
+                    "date": "2026-11-08T12:57:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/iscanner.ipa",
+                    "size": 193421346,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iscanner_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iscanner_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iscanner_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iscanner_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1496108264,
+            "name": "OpenSooq 2",
+            "version": "9.3.00",
+            "size": 68809187,
+            "icon": "img/opensooq2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/opensooq2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/opensooq2.ipa",
+            "bundleIdentifier": "com.opensooq.App2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "OpenSooq 2",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/opensooq2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "9.3.00",
+                    "date": "2026-11-08T12:56:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/opensooq2.ipa",
+                    "size": 68809187,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opensooq2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1304786289,
+            "name": "Connected2",
+            "version": "1.349",
+            "size": 89785417,
+            "icon": "img/connected2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/connected2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/connected2.ipa",
+            "bundleIdentifier": "com.C2M.Connected2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "نسخه خام \r\nتقبل التكرار",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/connected2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connected2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connected2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connected2_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connected2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connected2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connected2_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.349",
+                    "date": "2026-11-08T12:56:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/connected2.ipa",
+                    "size": 89785417,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connected2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connected2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/connected2_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1909381914,
+            "name": "TuneIn Radio",
+            "version": "33.9.0",
+            "size": 176353189,
+            "icon": "img/tuneinradio.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/tuneinradio.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/tuneinradio.ipa",
+            "bundleIdentifier": "com.alexanderben.RadioIn",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق راديو للاستماع إلى جميع الأخبار المحليه والرياضة والموسيقى والبودكاست والراديو الذي تفضله من جميع أنحاء العالم . \n- تطبيق مدفوع في ابل ستور \n- الحد الأدنى للإصدار: iOS 15.0",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tuneinradio.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuneinradio_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuneinradio_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuneinradio_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuneinradio_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuneinradio_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuneinradio_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuneinradio_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuneinradio_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "33.9.0",
+                    "date": "2026-11-08T12:56:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/tuneinradio.ipa",
+                    "size": 176353189,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuneinradio_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuneinradio_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuneinradio_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tuneinradio_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1908113958,
             "name": "Temp Mail",
             "version": "4.0.6",
