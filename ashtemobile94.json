@@ -10,6 +10,474 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1210624307,
+            "name": "Last War: VN",
+            "version": "1.0.333",
+            "size": 936966644,
+            "icon": "img/lastwarvn.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/lastwarvn.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/lastwarvn.ipa",
+            "bundleIdentifier": "com.fun.lastwar.vn.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Never Die\n- High Damage (Always Active)\n\n- لا يموت أبداً\r\n- أضرار عالية (نشطة دائمًا)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lastwarvn.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lastwarvn.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lastwarvn.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.333",
+                    "date": "2026-11-08T11:36:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/lastwarvn.ipa",
+                    "size": 936966644,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lastwarvn.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1526042744,
+            "name": "Journeys",
+            "version": "3.0.34",
+            "size": 275124630,
+            "icon": "img/journeys.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/journeys.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/journeys.ipa",
+            "bundleIdentifier": "com.otherguys.journeys",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Free Premium Choices\n- Debug Menu Enabled -> Tap on the screen with 3 fingers to activate.\n\n- خيارات مميزة مجانية\r\n- تم تمكين قائمة التصحيح -> اضغط على الشاشة بثلاثة أصابع للتنشيط.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/journeys.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/journeys_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/journeys_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/journeys_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/journeys_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/journeys_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/journeys_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.0.34",
+                    "date": "2026-11-08T11:35:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/journeys.ipa",
+                    "size": 275124630,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/journeys_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/journeys_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/journeys_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1593627997,
+            "name": "RedHunt",
+            "version": "1.52.06",
+            "size": 885613026,
+            "icon": "img/redhunt.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/redhunt.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/redhunt.ipa",
+            "bundleIdentifier": "com.playstorm.redhuntroyal.reloaded",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "High Score\n- Take No Damage\n- Stars (increase when used)\n- Coins (increase when used)\n\n- درجة عالية\r\n- لا تأخذ أي ضرر\r\n- النجوم (زيادة عند استخدامها)\r\n- عملات معدنية (زيادة عند استخدامها)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/redhunt.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redhunt_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redhunt_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redhunt_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redhunt_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redhunt_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redhunt_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redhunt_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redhunt_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.52.06",
+                    "date": "2026-11-08T11:35:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/redhunt.ipa",
+                    "size": 885613026,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redhunt_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redhunt_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redhunt_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redhunt_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1546126976,
+            "name": "خدمات الموظفين | FakeGPS",
+            "version": "1.4.39",
+            "size": 198758244,
+            "icon": "img/fakegps.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/fakegps.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/fakegps.ipa",
+            "bundleIdentifier": "sa.gov.pv.internal",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "التطبيق الاصلي مدمج مع أداة FakeGPS Pro\nأداة قوية تساعد على تغيير الموقع الجغرافي داخل التطبيقات بشكل عام، وخصوصًا في تطبيقات الحضور والانصراف. (الاداة مدفوعة)\n\n🔹 المميزات:\n• تعمل بدون الحاجة إلى جلبريك\n• إمكانية حفظ عدة مواقع في قسم “المفضلة”\n• إخفاء زر الأداة من داخل التطبيق\n\n- يدعم جميع الاصدارات \n- يتطلب شراء كود لتفعيل المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fakegps.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakegps_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakegps_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakegps_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakegps_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakegps_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakegps_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakegps_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakegps_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.39",
+                    "date": "2026-11-08T11:34:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/fakegps.ipa",
+                    "size": 198758244,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakegps_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakegps_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakegps_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fakegps_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1240391259,
+            "name": "Great Conqueror: Rome",
+            "version": "3.8.0",
+            "size": 365739877,
+            "icon": "img/greatconquerorrome.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/greatconquerorrome.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/greatconquerorrome.ipa",
+            "bundleIdentifier": "com.zhangyue.rome",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ذهب غير محدود -> اكسب أو أنفق بعضه.\n- جواهر غير محدودة -> اكسب أو أنفق بعضه.\n- ميداليات غير محدودة -> اكسب أو أنفق بعضه.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/greatconquerorrome.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/greatconquerorrome_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/greatconquerorrome_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/greatconquerorrome_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/greatconquerorrome_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/greatconquerorrome_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/greatconquerorrome_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/greatconquerorrome_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/greatconquerorrome_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.8.0",
+                    "date": "2026-11-08T11:34:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/greatconquerorrome.ipa",
+                    "size": 365739877,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/greatconquerorrome_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/greatconquerorrome_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/greatconquerorrome_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/greatconquerorrome_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1801148895,
+            "name": "Cash Masters",
+            "version": "1.13.0",
+            "size": 351953314,
+            "icon": "img/cashmasters.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/cashmasters.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/cashmasters.ipa",
+            "bundleIdentifier": "com.uspex.hts",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n* النقد غير محدود \r\n( ستزيد بدلا من الانخفاض )\r\n* شراء مجاني داخل المتجر \r\n( تبديل على طريق iGMenu )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cashmasters.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashmasters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashmasters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashmasters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashmasters_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashmasters_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashmasters_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashmasters_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashmasters_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.13.0",
+                    "date": "2026-11-08T11:33:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/cashmasters.ipa",
+                    "size": 351953314,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashmasters_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashmasters_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashmasters_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cashmasters_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1613827135,
+            "name": "AttackHole",
+            "version": "1.30.0",
+            "size": 485935544,
+            "icon": "img/attackhole.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/attackhole.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/attackhole.ipa",
+            "bundleIdentifier": "com.redlinegames.attackhole",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات المود:\r\n\r\n* فتح المميزات اللعبة او التطبيق \r\nالمود سوف يكشف تلقائي اذا تطبيق كان يتطلب فتح مميزات ام شراء داخلي وسوف ينبهك بذالك\r\n* هل لديك مشكلة؟\r\n إمكانية التواصل السريع لحل أي مشكلة تواجهك داخل اللعبة.او تحديث التطبيق\r\n* سرعة اللعبة\r\n التحكم بسرعة اللعبة (تسريع / إبطاء/ ايقاف) حسب رغبتك \r\n* إعادة ضبط اللعبة\r\n إعادة تعيين جميع إعدادات اللعبة بسهولة والبدء من جديد.\r\n* تغيير اللغة\r\n تبديل لغة اللعبة بكل سهولة حسب تفضيلك.\r\n* قطع الإنترنت (ميزة إضافية)\r\n تشغيل/إيقاف الاتصال بالإنترنت داخل اللعبة لمنع الإعلانات أو اللعب بدون اتصال\r\n* الغاء الأعلانات داخل اللعبة\r\nالغاء الأعلانات عن اغلب برامج والتطبيقات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/attackhole.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackhole_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackhole_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackhole_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackhole_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackhole_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackhole_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackhole_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackhole_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.30.0",
+                    "date": "2026-11-08T11:33:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/attackhole.ipa",
+                    "size": 485935544,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackhole_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackhole_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackhole_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/attackhole_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1356707273,
+            "name": "Adventure Chef",
+            "version": "1.64.60",
+            "size": 243482242,
+            "icon": "img/adventurechef.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/adventurechef.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/adventurechef.ipa",
+            "bundleIdentifier": "com.adventurechef",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- IAP FREE [ Buy Anything ] ADS\n- Gems\n- Cash\n\n- إعلانات مجانية للشراء داخل التطبيق (شراء أي شيء).\n- جواهر\n- نقدا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/adventurechef.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventurechef_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventurechef_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventurechef_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventurechef_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventurechef_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventurechef_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventurechef_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventurechef_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.64.60",
+                    "date": "2026-11-08T11:32:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/adventurechef.ipa",
+                    "size": 243482242,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventurechef_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventurechef_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventurechef_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventurechef_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1350372869,
+            "name": "DH 2018",
+            "version": "5.2.22",
+            "size": 428506055,
+            "icon": "img/dh2018.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/dh2018.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/dh2018.ipa",
+            "bundleIdentifier": "com.glu.deerhunt16",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ذخيرة غير محدودة\r\n- تحديث فوري\r\n- بدون ارتداد\r\n- لا سواي\r\n- بدون تشتت\r\n- أشعة تحت الحمراء غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dh2018.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dh2018_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dh2018_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dh2018_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dh2018_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dh2018_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dh2018_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dh2018_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dh2018_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.2.22",
+                    "date": "2026-11-08T11:32:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/dh2018.ipa",
+                    "size": 428506055,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dh2018_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dh2018_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dh2018_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dh2018_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1878617698,
+            "name": "Tropicats",
+            "version": "2.5.1",
+            "size": 316219169,
+            "icon": "img/tropicats.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/tropicats.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/tropicats.ipa",
+            "bundleIdentifier": "net.wooga.tropicats-tropical-cats-puzzle-paradise",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- الماس\n- العملات المعدنية\n- حياة\n- الداعم\n- LVL\n- فوز تلقائي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tropicats.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicats_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicats_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicats_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicats_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicats_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicats_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicats_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicats_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.5.1",
+                    "date": "2026-11-08T11:31:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/tropicats.ipa",
+                    "size": 316219169,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicats_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicats_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicats_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tropicats_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1439785106,
             "name": "SnapEdit",
             "version": "6.8.1",
