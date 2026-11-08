@@ -6,10 +6,15 @@ on:
     - cron: '0 */3 * * *'
   workflow_dispatch:
     inputs:
+      site_url:
+        description: 'لینکی ماڵپەڕەکە (هەمان لینکی Import)'
+        required: true
+        default: 'https://ashtemobile.tututweak.com/index.html'
+        type: string
       data_urls:
-        description: 'لینکی فیدەکان (بە کۆما جیا بکرێنەوە)'
+        description: 'لینکی فید (JSON). ئەگەر بەتاڵ بێت، لە ماڵپەڕەکە دەیدۆزێتەوە'
         required: false
-        default: 'https://vip.appiraq.com/api/store/apps/index.php?limit=100&page=&type=games,https://vip.appiraq.com/api/store/apps/index.php?limit=100&page=&type=apps'
+        default: 'https://vip.appiraq.com/api/store/apps/index.php?limit=100&page='
         type: string
       inject_dylib:
         description: 'ئایا AlertAshte.dylib بخرێتە ناو IPA ی نوێ؟'
@@ -46,7 +51,8 @@ jobs:
       contents: write
 
     env:
-      DATA_URLS: ${{ github.event.inputs.data_urls || 'https://vip.appiraq.com/api/store/apps/index.php?limit=100&page=&type=games,https://vip.appiraq.com/api/store/apps/index.php?limit=100&page=&type=apps' }}
+      SITE_URL: ${{ github.event.inputs.site_url || 'https://ashtemobile.tututweak.com/index.html' }}
+      DATA_URLS: ${{ github.event.inputs.data_urls || 'https://vip.appiraq.com/api/store/apps/index.php?limit=100&page=' }}
       INJECT: ${{ github.event.inputs.inject_dylib || 'Yes' }}
       DRY_RUN: ${{ github.event.inputs.dry_run || 'No' }}
       MAX_UPDATES: ${{ github.event.inputs.max_updates || '60' }}
