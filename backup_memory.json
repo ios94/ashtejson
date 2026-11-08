@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1898291962,
+            "name": "Chefy-Chef",
+            "version": "1.0.16",
+            "size": 23182263,
+            "icon": "img/chefychef.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/chefychef.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/chefychef.ipa",
+            "bundleIdentifier": "com.crescentmoongames.chefychef",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة مدفوعة في اب ستور ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/chefychef.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chefychef_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chefychef_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chefychef_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chefychef_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chefychef_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chefychef_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chefychef_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chefychef_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.16",
+                    "date": "2026-11-08T16:39:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/chefychef.ipa",
+                    "size": 23182263,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chefychef_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chefychef_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chefychef_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chefychef_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1759902759,
             "name": "Beatstar",
             "version": "36.1.4",
