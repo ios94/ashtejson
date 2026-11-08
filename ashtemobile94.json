@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1519327000,
+            "name": "Midnight Dreamers",
+            "version": "1.6.12",
+            "size": 305642854,
+            "icon": "img/midnightdreamers.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/midnightdreamers.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/midnightdreamers.ipa",
+            "bundleIdentifier": "com.ArcaneChronicles.MidnightDreamers",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Gems -> Earn or spend some.\n- Unlimited Keys -> Earn or spend some.\n\n- جواهر غير محدودة (اكسب أو أنفق منها).\n- مفاتيح غير محدودة -> اكسب أو أنفق البعض.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/midnightdreamers.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.12",
+                    "date": "2026-11-08T23:31:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/midnightdreamers.ipa",
+                    "size": 305642854,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1991198730,
             "name": "Gym Mania Time Management Game",
             "version": "1.7.0",
@@ -127238,54 +127286,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacequest_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacequest_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacequest_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1519327000,
-            "name": "Midnight Dreamers",
-            "version": "1.6.11",
-            "size": 273632047,
-            "icon": "img/midnightdreamers.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/midnightdreamers.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/midnightdreamers.ipa",
-            "bundleIdentifier": "com.ArcaneChronicles.MidnightDreamers",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Gems -> Earn or spend some.\n- Unlimited Keys -> Earn or spend some.\n\n- جواهر غير محدودة (اكسب أو أنفق منها).\n- مفاتيح غير محدودة -> اكسب أو أنفق البعض.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/midnightdreamers.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1.6.11",
-                    "date": "2026-11-07T04:06:02+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/midnightdreamers.ipa",
-                    "size": 273632047,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightdreamers_screen_4.jpg"
                     ]
                 }
             ]
