@@ -10,6 +10,429 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1218540594,
+            "name": "Kiss Me Darling!",
+            "version": "1.0.5",
+            "size": 516701070,
+            "icon": "img/kissmedarling.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/kissmedarling.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/kissmedarling.ipa",
+            "bundleIdentifier": "carpe.story.kissmedarling.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Free Premium Choices\n-- No Ads\n\n-خيارات قسط مجانية\r\n- لا إعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kissmedarling.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kissmedarling_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kissmedarling_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kissmedarling_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kissmedarling_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kissmedarling_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kissmedarling_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kissmedarling_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kissmedarling_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.5",
+                    "date": "2026-11-08T09:53:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/kissmedarling.ipa",
+                    "size": 516701070,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kissmedarling_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kissmedarling_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kissmedarling_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kissmedarling_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1696664114,
+            "name": "Anipang Matchlike",
+            "version": "2.9.6",
+            "size": 492591805,
+            "icon": "img/anipangmatchlike.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/anipangmatchlike.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/anipangmatchlike.ipa",
+            "bundleIdentifier": "com.wemadeplay.anipang.matchlike",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "HP DMG DEF [ Just Equip & Unequip ]\r\n- Chapter Unlocked\r\n- Always Last Wave\n\n- HP DMG DEF [فقط تجهيز وفك]\r\n- الفصل مفتوح\r\n- دائما الموجة الأخيرة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/anipangmatchlike.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anipangmatchlike_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anipangmatchlike_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anipangmatchlike_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anipangmatchlike_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anipangmatchlike_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anipangmatchlike_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anipangmatchlike_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anipangmatchlike_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.9.6",
+                    "date": "2026-11-08T09:53:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/anipangmatchlike.ipa",
+                    "size": 492591805,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anipangmatchlike_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anipangmatchlike_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anipangmatchlike_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anipangmatchlike_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1677145349,
+            "name": "Frost World",
+            "version": "1.0.16",
+            "size": 1131412370,
+            "icon": "img/frostworld.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/frostworld.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/frostworld.ipa",
+            "bundleIdentifier": "com.winter.breaker",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Damage Multiplier\n- Defence Multiplier\n- Infinite Power Mode\n- Freeze Everything\n- Unlimited Everything -> Earn or spend some.\n- Tool Damage Multiplier\n- Speed Multiplier\n- Freeze Temperature\n\n- ضرر مضاعف\r\n- مضاعفة الدفاع\r\n- وضع الطاقة اللانهائي\r\n- تجميد كل شيء\r\n- كل شيء غير محدود -> اكسب أو أنفق بعض المال.\r\n- أداة مضاعفة الضرر\r\n- مضاعف السرعة\r\n- درجة حرارة التجميد",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/frostworld.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frostworld_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frostworld_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frostworld_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frostworld_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frostworld_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frostworld_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frostworld_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frostworld_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.16",
+                    "date": "2026-11-08T09:52:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/frostworld.ipa",
+                    "size": 1131412370,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frostworld_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frostworld_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frostworld_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frostworld_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1157481496,
+            "name": "Lost Enders",
+            "version": "1.11.1",
+            "size": 234406168,
+            "icon": "img/lostenders.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/lostenders.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/lostenders.ipa",
+            "bundleIdentifier": "jp.co.kurukurugames.lostenders",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا يموت\n- القتل بضربة واحدة\n- عملات غير محدودة -> ستزداد بدلاً من أن تنقص.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lostenders.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostenders_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostenders_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostenders_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostenders_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostenders_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostenders_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostenders_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostenders_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.11.1",
+                    "date": "2026-11-08T09:51:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/lostenders.ipa",
+                    "size": 234406168,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostenders_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostenders_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostenders_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostenders_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1767257501,
+            "name": "Zombie Tsunami",
+            "version": "4.7.2",
+            "size": 313362116,
+            "icon": "img/zombietsunami.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/zombietsunami.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/zombietsunami.ipa",
+            "bundleIdentifier": "net.mobigame.ZombieCarnaval",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- شراء iAP مجانًا (اضغط على &#34;شراء ثم إلغاء &#34;)\n-  (قم بالتشغيل من المنيو أولاً)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zombietsunami.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietsunami_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietsunami_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietsunami_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietsunami_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietsunami_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietsunami_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietsunami_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietsunami_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.7.2",
+                    "date": "2026-11-08T09:51:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/zombietsunami.ipa",
+                    "size": 313362116,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietsunami_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietsunami_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietsunami_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombietsunami_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1704475377,
+            "name": "AEW: Rise to the Top",
+            "version": "1.3.8",
+            "size": 978079675,
+            "icon": "img/aewrisetothetop.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/aewrisetothetop.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/aewrisetothetop.ipa",
+            "bundleIdentifier": "com.eastsidegames.idleaew",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه ‌AEW: Rise to the Top ‌مهكره\n\nالمميزات :\n• عملات غير محدودة ?\n[ سوف تزيد بدلا من النقصان ]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aewrisetothetop.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aewrisetothetop_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aewrisetothetop_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aewrisetothetop_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aewrisetothetop_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aewrisetothetop_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aewrisetothetop_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aewrisetothetop_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aewrisetothetop_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.8",
+                    "date": "2026-11-08T09:51:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/aewrisetothetop.ipa",
+                    "size": 978079675,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aewrisetothetop_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aewrisetothetop_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aewrisetothetop_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aewrisetothetop_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1155901218,
+            "name": "Mini Tennis",
+            "version": "1.8.7",
+            "size": 876164140,
+            "icon": "img/minitennis.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/minitennis.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/minitennis.ipa",
+            "bundleIdentifier": "com.miniclip.minitennis",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- سرعة حركة مخصصة (غير مشتركة مع الخصم)\r\n- تسديدات مثالية دائمًا (غير مشتركة مع الخصم)\r\n- قدرة تحمل غير محدودة (غير مشتركة مع الخصم)\r\n- احصل دائمًا على الحد الأقصى للمكافأة لوضع اللقطة المحظوظة\r\n- الهدف في وضع اللقطة المحظوظة لا يتحرك (يجعل من السهل ضربه)\r\n- ذكاء اصطناعي غبي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/minitennis.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minitennis_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minitennis_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minitennis_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minitennis_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minitennis_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minitennis_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minitennis_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minitennis_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.8.7",
+                    "date": "2026-11-08T09:50:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/minitennis.ipa",
+                    "size": 876164140,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minitennis_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minitennis_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minitennis_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minitennis_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1970689376,
+            "name": "Star Trek Lower Decks Mobile",
+            "version": "1.33.2",
+            "size": 390661989,
+            "icon": "img/startreklowerdecksmobile.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/startreklowerdecksmobile.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/startreklowerdecksmobile.ipa",
+            "bundleIdentifier": "com.eastsidegames.lowerdecks",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Unlimited Currencies -> Will increase instead of decrease.\r\n \n\n- عملات غير محدودة -> ستزيد بدلاً من النقصان.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/startreklowerdecksmobile.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/startreklowerdecksmobile.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/startreklowerdecksmobile.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.33.2",
+                    "date": "2026-11-08T09:49:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/startreklowerdecksmobile.ipa",
+                    "size": 390661989,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/startreklowerdecksmobile.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1434069218,
+            "name": "Keep the Crown:Tower DefenseTD",
+            "version": "1.0.195",
+            "size": 1157570570,
+            "icon": "img/keepthecrowntowerdefensetd.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/keepthecrowntowerdefensetd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/keepthecrowntowerdefensetd.ipa",
+            "bundleIdentifier": "com.deviloper.capybara.tower.defense.kingdom.td.rpg.strategy",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تجميد العملات\r\n- عملات غير محدودة -> سيزداد بدلاً من أن ينقص\r\n- عملات داخل اللعبة غير محدودة -> سيزداد بدلاً من أن ينقص\r\n- فتح جميع المراحل\r\n- فتح جميع الميزات\r\n- إكمال جميع الدروس التعليمية\r\n- إضافة جميع العناصر\r\n- إضافة جميع البطاقات\r\n- إضافة جميع العملات\r\n- قتل جميع الأعداء\r\n\r\n\r\n- Freeze Currencies\r\n- Unlimited Currencies -> Will increase instead of decrease.\r\n- Unlimited In-Game Coins -> Will increase instead of decrease.\r\n- Unlock All Stages\r\n- Unlock All Features\r\n- Complete All Tutorials\r\n- Add All Items\r\n- Add All Cards\r\n- Add All Currencies\r\n- Kill All Enemies",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/keepthecrowntowerdefensetd.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keepthecrowntowerdefensetd_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keepthecrowntowerdefensetd_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keepthecrowntowerdefensetd_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keepthecrowntowerdefensetd_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keepthecrowntowerdefensetd_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keepthecrowntowerdefensetd_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keepthecrowntowerdefensetd_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keepthecrowntowerdefensetd_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.195",
+                    "date": "2026-11-08T09:48:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/keepthecrowntowerdefensetd.ipa",
+                    "size": 1157570570,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keepthecrowntowerdefensetd_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keepthecrowntowerdefensetd_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keepthecrowntowerdefensetd_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keepthecrowntowerdefensetd_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1577478939,
             "name": "Swordash",
             "version": "2.3.1",
