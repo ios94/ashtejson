@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1791291565,
+            "name": "BennettTestFull",
+            "version": "2.5",
+            "size": 3289427,
+            "icon": "img/bennetttestfull.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/bennetttestfull.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/bennetttestfull.ipa",
+            "bundleIdentifier": "alexuvarov.BennetTest-Full",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق يهدف إلى قياس الذكاء الميكانيكي والقدرات الهندسية لدى المستخدم . \n\n- مدفوع في ابل ستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bennetttestfull.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bennetttestfull_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bennetttestfull_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bennetttestfull_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bennetttestfull_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bennetttestfull_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bennetttestfull_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bennetttestfull_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bennetttestfull_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.5",
+                    "date": "2026-11-08T22:37:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/bennetttestfull.ipa",
+                    "size": 3289427,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bennetttestfull_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bennetttestfull_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bennetttestfull_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bennetttestfull_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1214048817,
             "name": "Wizard AI",
             "version": "9.5.9",
