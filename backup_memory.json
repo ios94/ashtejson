@@ -10,6 +10,228 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1676184101,
+            "name": "POP TOWN",
+            "version": "1.21.3",
+            "size": 463848632,
+            "icon": "img/poptown.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/poptown.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/poptown.ipa",
+            "bundleIdentifier": "com.jamcity.joy",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Moves -> Enable, use a move then disable.\n- Unlimited Skill\n\n- تحركات غير محدودة -> تمكين، استخدم الحركة ثم قم بتعطيلها.\n- مهارة غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/poptown.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/poptown.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/poptown.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.21.3",
+                    "date": "2026-11-08T10:28:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/poptown.ipa",
+                    "size": 463848632,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/poptown.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1826823232,
+            "name": "FIFA Mobile",
+            "version": "27.0.01",
+            "size": 264934972,
+            "icon": "img/fifamobile.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/fifamobile.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/fifamobile.ipa",
+            "bundleIdentifier": "com.ea.ios.fifamobile",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "‏المميزات :\r\n‏• حارس الخصم نوب .\r\n‏• دفاع الخصم نوب .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fifamobile.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fifamobile_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fifamobile_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fifamobile_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fifamobile_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fifamobile_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fifamobile_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fifamobile_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fifamobile_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "27.0.01",
+                    "date": "2026-11-08T10:25:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/fifamobile.ipa",
+                    "size": 264934972,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fifamobile_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fifamobile_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fifamobile_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fifamobile_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1750593080,
+            "name": "Sketchbook",
+            "version": "6.2.8",
+            "size": 135312256,
+            "icon": "img/sketchbook.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/sketchbook.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/sketchbook.ipa",
+            "bundleIdentifier": "com.autodesk.ios.SketchBookPro3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق خاص بالـرسم \n\nالمميزات : \nتفعيل كامل المميزات \nإضغط شراء ثم إلغاء \n\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sketchbook.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchbook_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchbook_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchbook_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchbook_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchbook_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchbook_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchbook_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchbook_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.2.8",
+                    "date": "2026-11-08T10:25:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/sketchbook.ipa",
+                    "size": 135312256,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchbook_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchbook_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchbook_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchbook_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1315162012,
+            "name": "1xBet",
+            "version": "255.0",
+            "size": 259792788,
+            "icon": "img/1xbet.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/1xbet.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/1xbet.ipa",
+            "bundleIdentifier": "1-xbet.publish",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق مراهنات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/1xbet.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/1xbet.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/1xbet.png"
+            ],
+            "versions": [
+                {
+                    "version": "255.0",
+                    "date": "2026-11-08T10:24:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/1xbet.ipa",
+                    "size": 259792788,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/1xbet.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1763536704,
+            "name": "Forgotton Anne",
+            "version": "1.6",
+            "size": 1740464095,
+            "icon": "img/forgottonanne.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/forgottonanne.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/forgottonanne.ipa",
+            "bundleIdentifier": "com.hitcents.forgotton.anne",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Forgotton Anne",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/forgottonanne.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgottonanne_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgottonanne_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgottonanne_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgottonanne_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgottonanne_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgottonanne_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgottonanne_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgottonanne_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.6",
+                    "date": "2026-11-08T10:23:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/forgottonanne.ipa",
+                    "size": 1740464095,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgottonanne_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgottonanne_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgottonanne_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgottonanne_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1420002188,
             "name": "Chess",
             "version": "4.10.9",
