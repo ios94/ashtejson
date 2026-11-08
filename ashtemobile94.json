@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1714444318,
+            "name": "Square Fit",
+            "version": "1.62.0",
+            "size": 60855530,
+            "icon": "img/squarefit.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/squarefit.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/squarefit.ipa",
+            "bundleIdentifier": "com.cushwayapps.SquareAspect",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتصميم الصور .\n- الشراء مفعل .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/squarefit.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squarefit_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squarefit_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squarefit_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squarefit_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squarefit_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squarefit_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squarefit_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squarefit_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.62.0",
+                    "date": "2026-11-08T09:13:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/squarefit.ipa",
+                    "size": 60855530,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squarefit_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squarefit_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squarefit_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squarefit_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1315850481,
+            "name": "GlamUp",
+            "version": "1.0.7",
+            "size": 100869339,
+            "icon": "img/glamup.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/glamup.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/glamup.ipa",
+            "bundleIdentifier": "net.pixeltouch.filters",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتعديل على الصور .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/glamup.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glamup_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glamup_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glamup_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glamup_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glamup_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glamup_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glamup_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glamup_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.7",
+                    "date": "2026-11-08T09:13:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/glamup.ipa",
+                    "size": 100869339,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glamup_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glamup_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glamup_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/glamup_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1672165408,
+            "name": "Sand Draw",
+            "version": "5.1.1",
+            "size": 127637263,
+            "icon": "img/sanddraw.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/sanddraw.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/sanddraw.ipa",
+            "bundleIdentifier": "com.KalromSystems.SandDrawLite",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "للكتابة على الرمل .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sanddraw.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sanddraw_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sanddraw_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sanddraw_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sanddraw_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sanddraw_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sanddraw_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sanddraw_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sanddraw_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.1.1",
+                    "date": "2026-11-08T09:13:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/sanddraw.ipa",
+                    "size": 127637263,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sanddraw_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sanddraw_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sanddraw_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sanddraw_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1850451828,
+            "name": "RolePlai",
+            "version": "2.17.36",
+            "size": 14835187,
+            "icon": "img/roleplai.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/roleplai.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/roleplai.ipa",
+            "bundleIdentifier": "io.aichat.ios.eo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "للدردشة مع الذكاء الاصطناعي .\n- الشراء مفعل .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roleplai.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roleplai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roleplai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roleplai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roleplai_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roleplai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roleplai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roleplai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roleplai_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.17.36",
+                    "date": "2026-11-08T09:13:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/roleplai.ipa",
+                    "size": 14835187,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roleplai_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roleplai_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roleplai_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roleplai_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1572478368,
+            "name": "Blurr",
+            "version": "2.3",
+            "size": 50784946,
+            "icon": "img/blurr.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/blurr.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/blurr.ipa",
+            "bundleIdentifier": "com.blurphoto.editor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تمويه الصور أو جزء منها .\n- اضغط شراء ثم إلغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blurr.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurr_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurr_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurr_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurr_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurr_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurr_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurr_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurr_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.3",
+                    "date": "2026-11-08T09:13:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/blurr.ipa",
+                    "size": 50784946,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurr_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurr_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurr_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blurr_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1954304789,
+            "name": "delogo",
+            "version": "5.0.9",
+            "size": 42986442,
+            "icon": "img/delogo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/delogo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/delogo.ipa",
+            "bundleIdentifier": "dyy.david.delogo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تحرير الفيديوهات . \n\n- مفتوح المميزات - شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/delogo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delogo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delogo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delogo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delogo_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delogo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delogo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delogo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delogo_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.0.9",
+                    "date": "2026-11-08T09:13:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/delogo.ipa",
+                    "size": 42986442,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delogo_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delogo_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delogo_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/delogo_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1570610560,
+            "name": "Photo Blender",
+            "version": "2.0",
+            "size": 30083681,
+            "icon": "img/photoblender.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/photoblender.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/photoblender.ipa",
+            "bundleIdentifier": "com.insiderapps.Photoblender",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتعديل على الصور .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/photoblender.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoblender_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoblender_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoblender_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoblender_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoblender_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoblender_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoblender_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoblender_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.0",
+                    "date": "2026-11-08T09:13:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/photoblender.ipa",
+                    "size": 30083681,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoblender_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoblender_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoblender_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoblender_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1417454339,
+            "name": "Oceans Board Game",
+            "version": "2.4.2",
+            "size": 364092491,
+            "icon": "img/oceansboardgame.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/oceansboardgame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/oceansboardgame.ipa",
+            "bundleIdentifier": "com.northstargames.oceans",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Oceans Board Game",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/oceansboardgame.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oceansboardgame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oceansboardgame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oceansboardgame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oceansboardgame_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oceansboardgame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oceansboardgame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oceansboardgame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oceansboardgame_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.2",
+                    "date": "2026-11-08T09:13:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/oceansboardgame.ipa",
+                    "size": 364092491,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oceansboardgame_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oceansboardgame_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oceansboardgame_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oceansboardgame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1672212405,
+            "name": "Hoop World",
+            "version": "1.98",
+            "size": 594027292,
+            "icon": "img/hoopworld.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/hoopworld.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/hoopworld.ipa",
+            "bundleIdentifier": "com.tapped.dunkworld",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )\n\nوصف التطبيق : \n\nاقفز واغطس في طريقك عبر البوابات المذهلة في مغامرة ملحمية! هل سبق لك أن قمت بالقفز الأمامي الثلاثي أثناء السفر عبر بوابة إلى عالم جديد؟",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hoopworld.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopworld_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopworld_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopworld_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopworld_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopworld_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopworld_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopworld_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopworld_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.98",
+                    "date": "2026-11-08T09:12:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/hoopworld.ipa",
+                    "size": 594027292,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopworld_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopworld_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopworld_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hoopworld_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1800018057,
+            "name": "Merge Matters",
+            "version": "20.1.04",
+            "size": 258452447,
+            "icon": "img/mergematters.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/mergematters.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/mergematters.ipa",
+            "bundleIdentifier": "puzzle.merge.family.mansion",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "After first cooldown you can speed up the main cooldown generators for 1 Diamond only.\r\n- Bubbles Cost 1 Diamond only to Burts \r\n- Gives 99 Splitters\r\n- Gives 999 Energy (use it once to change then spend some then turn cheat off, When running low turn on again).\n\n- بعد التباطؤ الأول ، يمكنك تسريع مولدات التباطؤ الرئيسية لماس واحد فقط.\r\n- تكلفة الفقاعات 1 الماس فقط للبناء \r\n- يعطي 99 انقسام\r\n- يعطي 999 طاقة (استخدمها مرة واحدة للتغيير ، ثم قضاء بعضها ثم قم بإيقاف تشغيل الغش ، عند التشغيل المنخفض مرة أخرى).",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergematters.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergematters.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergematters.png"
+            ],
+            "versions": [
+                {
+                    "version": "20.1.04",
+                    "date": "2026-11-08T09:11:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/mergematters.ipa",
+                    "size": 258452447,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergematters.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1314887914,
             "name": "Will Hero Enjoy",
             "version": "3.5.8",
