@@ -10,6 +10,342 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1230291585,
+            "name": "Future Fight",
+            "version": "11.7.1",
+            "size": 1384760929,
+            "icon": "img/futurefight.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/futurefight.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/futurefight.ipa",
+            "bundleIdentifier": "com.netmarble.mheros",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مهارة فورية\r\n- لا يوجد وقت إعادة شحن مساعد\r\n- لا يوجد وقت إعادة شحن للتبديل\r\n- لا يوجد وقت إعادة شحن خاص\r\n- مستوى البطل 60\r\n- وقت تعزيز لا نهائي / لا يموت\r\n- تجميد الأعداء\r\n- نقاط حياة لا نهائية / لا يموت\r\n- مضاعف الهجوم\r\n- مضاعف الدفاع\r\n- وقت إعادة الشحن أسرع بخمس مرات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/futurefight.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futurefight_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futurefight_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futurefight_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futurefight_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futurefight_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futurefight_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futurefight_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futurefight_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "11.7.1",
+                    "date": "2026-11-08T20:02:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/futurefight.ipa",
+                    "size": 1384760929,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futurefight_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futurefight_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futurefight_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/futurefight_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1807711482,
+            "name": "Super Sword Idle",
+            "version": "1.0.58",
+            "size": 286362485,
+            "icon": "img/superswordidle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/superswordidle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/superswordidle.ipa",
+            "bundleIdentifier": "com.voxgames.supersword",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر\n- مضاعف الدفاع\n- إضافة سحر \n- إضافة جوهرة \n- إضافة ذهب \n- إضافة خيار عشوائي \n- إضافة فرعي رون \n- إضافة كتاب مهارات \n- إضافة بطاقة استدعاء \n- إضافة سحر تذكرة \n- إضافة مستوى اللاعب \n\n* الإعدادات → اضغط على اللمس",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/superswordidle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superswordidle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superswordidle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superswordidle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superswordidle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superswordidle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superswordidle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superswordidle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superswordidle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.58",
+                    "date": "2026-11-08T19:59:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/superswordidle.ipa",
+                    "size": 286362485,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superswordidle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superswordidle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superswordidle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superswordidle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1582921168,
+            "name": "Truecaller",
+            "version": "13.23.5",
+            "size": 230883422,
+            "icon": "img/truecaller.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/truecaller.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/truecaller.ipa",
+            "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "جديد و حصرياً ....\r\nTrueCaller Premium \r\nمفتوح مميزات بريميوم بالكامل\r\nملاحظة : اولا قم بتثبيت التطبيق من الاب ستور .. ثم فعل مميزات التطبيق من الاعدادات بعدها تطبيق الهاتف ثم حظر المكالمات و التعرف عليها ثم احذف التطبيق\r\nبعدها ثبت النسخة المهكرة \r\n\r\n#حصريات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/truecaller.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truecaller_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truecaller_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truecaller_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truecaller_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truecaller_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truecaller_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truecaller_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truecaller_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "13.23.5",
+                    "date": "2026-11-08T19:59:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/truecaller.ipa",
+                    "size": 230883422,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truecaller_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truecaller_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truecaller_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truecaller_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1590953065,
+            "name": "اقرأ",
+            "version": "7.0.11",
+            "size": 40290025,
+            "icon": "img/app9347eb88fe.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/app9347eb88fe.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/app9347eb88fe.ipa",
+            "bundleIdentifier": "com.bee.pdfReader",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لقراءه القصص والكتب والروايات الالكترونيه \r\n\r\nمفتوح جميع المميزات \r\nآضغط شراء ثم الغاء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app9347eb88fe.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app9347eb88fe_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app9347eb88fe_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app9347eb88fe_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app9347eb88fe_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app9347eb88fe_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app9347eb88fe_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app9347eb88fe_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app9347eb88fe_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.0.11",
+                    "date": "2026-11-08T19:58:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/app9347eb88fe.ipa",
+                    "size": 40290025,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app9347eb88fe_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app9347eb88fe_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app9347eb88fe_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app9347eb88fe_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1672095425,
+            "name": "Godus",
+            "version": "1.28999",
+            "size": 358752856,
+            "icon": "img/godus.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/godus.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/godus.ipa",
+            "bundleIdentifier": "com.mobage.ww.a1913.godusios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تجميد الموارد\n- الماس اللانهائي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/godus.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/godus_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/godus_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/godus_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/godus_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/godus_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/godus_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/godus_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/godus_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.28999",
+                    "date": "2026-11-08T19:58:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/godus.ipa",
+                    "size": 358752856,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/godus_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/godus_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/godus_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/godus_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1692147448,
+            "name": "Triple Treats: Tile Match Game",
+            "version": "4.0.2",
+            "size": 482012679,
+            "icon": "img/tripletreatstilematchgame.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/tripletreatstilematchgame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/tripletreatstilematchgame.ipa",
+            "bundleIdentifier": "com.game.triple.treats.tile.zen.busters.masters.match.mahjong.puzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة → الإنفاق/الكسب\r\n- لا إعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tripletreatstilematchgame.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tripletreatstilematchgame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tripletreatstilematchgame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tripletreatstilematchgame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tripletreatstilematchgame_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tripletreatstilematchgame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tripletreatstilematchgame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tripletreatstilematchgame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tripletreatstilematchgame_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.0.2",
+                    "date": "2026-11-08T19:58:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/tripletreatstilematchgame.ipa",
+                    "size": 482012679,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tripletreatstilematchgame_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tripletreatstilematchgame_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tripletreatstilematchgame_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tripletreatstilematchgame_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1518939720,
+            "name": "WWA RTS",
+            "version": "1.35.1",
+            "size": 1066160629,
+            "icon": "img/wwarts.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/wwarts.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/wwarts.ipa",
+            "bundleIdentifier": "com.hypemasters.rts",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "موارد تجنيد الجيش لا تنقص \nلا يوجد انتظار لتجهيز الجيش",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wwarts.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wwarts_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wwarts_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wwarts_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wwarts_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wwarts_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wwarts_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wwarts_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wwarts_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.35.1",
+                    "date": "2026-11-08T19:57:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/wwarts.ipa",
+                    "size": 1066160629,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wwarts_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wwarts_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wwarts_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wwarts_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1949743037,
             "name": "Add Text to Photos",
             "version": "12.9",
