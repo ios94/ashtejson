@@ -10,6 +10,150 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1892713654,
+            "name": "Ultraman",
+            "version": "1.2.90",
+            "size": 252801653,
+            "icon": "img/ultraman.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/ultraman.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/ultraman.ipa",
+            "bundleIdentifier": "com.dayamonz.ultraman",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة ULTRAMAN  \r\n \r\nالمميزات : \r\n- فوز تـلقائي  \r\nاضغط على زر الإيقاف المؤقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ultraman.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultraman_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultraman_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultraman_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultraman_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultraman_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultraman_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultraman_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultraman_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.90",
+                    "date": "2026-11-08T16:03:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/ultraman.ipa",
+                    "size": 252801653,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultraman_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultraman_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultraman_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultraman_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1458371781,
+            "name": "Speed Demons",
+            "version": "1.5.2",
+            "size": 199461125,
+            "icon": "img/speeddemons.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/speeddemons.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/speeddemons.ipa",
+            "bundleIdentifier": "com.radiangames.speeddemons",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n • إصدار آبل آركيد ☑️",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/speeddemons.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speeddemons_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speeddemons_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speeddemons_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speeddemons_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speeddemons_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speeddemons_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speeddemons_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speeddemons_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.2",
+                    "date": "2026-11-08T16:02:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/speeddemons.ipa",
+                    "size": 199461125,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speeddemons_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speeddemons_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speeddemons_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speeddemons_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1292366286,
+            "name": "Melvor Idle",
+            "version": "2.4",
+            "size": 5949992,
+            "icon": "img/melvoridle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/melvoridle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/melvoridle.ipa",
+            "bundleIdentifier": "com.gamesbymalcs.melvoridle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/melvoridle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/melvoridle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/melvoridle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/melvoridle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/melvoridle_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/melvoridle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/melvoridle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/melvoridle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/melvoridle_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.4",
+                    "date": "2026-11-08T16:00:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/melvoridle.ipa",
+                    "size": 5949992,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/melvoridle_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/melvoridle_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/melvoridle_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/melvoridle_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1377774525,
             "name": "SimpleRockets",
             "version": "1.6.16",
