@@ -10,6 +10,372 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1437535339,
+            "name": "ToonMe",
+            "version": "0.11.36",
+            "size": 183418490,
+            "icon": "img/toonme.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/toonme.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/toonme.ipa",
+            "bundleIdentifier": "com.informelab.toonme",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتحويل صورك إلى رسوم متحركة رائعة \nوالكثير من الأدوات الاحترافية لتحرير الصور..\n\n- مفتوح المميزات\nانقر فوق شراء ثم قم بالإلغاء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/toonme.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toonme_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toonme_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toonme_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toonme_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toonme_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toonme_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toonme_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toonme_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.11.36",
+                    "date": "2026-11-08T02:49:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/toonme.ipa",
+                    "size": 183418490,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toonme_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toonme_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toonme_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toonme_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1672183685,
+            "name": "iQTele",
+            "version": "12.9.4",
+            "size": 77604169,
+            "icon": "img/iqtele.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/iqtele.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/iqtele.ipa",
+            "bundleIdentifier": "ph.telegra.Telegraph",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تآتي ببميزات عديدة\n- وضع الشبح (الرسائل والقصص)\n- إبقاء الرسائل المحذوفة\n- تسجيل المكالمات (الصوتية والمرئية)\n- رفع الرسائل الصوتية من الملفات أو الاستوديو أو يوتيوب\n- تنزيل الوسائط المؤقتة\n- ترجمة الرسائل\n- سجل تعديل الرسائل\nتليجرام\nتلي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/iqtele.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/iqtele.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/iqtele.png"
+            ],
+            "versions": [
+                {
+                    "version": "12.9.4",
+                    "date": "2026-11-08T02:48:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/iqtele.ipa",
+                    "size": 77604169,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/iqtele.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1822393819,
+            "name": "iQSwift",
+            "version": "12.9.2",
+            "size": 82808123,
+            "icon": "img/iqswift.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/iqswift.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/iqswift.ipa",
+            "bundleIdentifier": "app.swiftgram.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تيليجرام\nتآتي ببميزات عديدة\n- وضع الشبح (الرسائل والقصص)\n- إبقاء الرسائل المحذوفة\n- تسجيل المكالمات (الصوتية والمرئية)\n- رفع الرسائل الصوتية من الملفات أو الاستوديو أو يوتيوب\n- تنزيل الوسائط المؤقتة\n- ترجمة الرسائل\n- سجل تعديل الرسائل\nتلي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/iqswift.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqswift_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqswift_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqswift_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqswift_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqswift_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqswift_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqswift_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqswift_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "12.9.2",
+                    "date": "2026-11-08T02:48:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/iqswift.ipa",
+                    "size": 82808123,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqswift_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqswift_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqswift_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqswift_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1628195219,
+            "name": "MySAFF",
+            "version": "1.0.80",
+            "size": 209600808,
+            "icon": "img/mysaff.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/mysaff.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/mysaff.ipa",
+            "bundleIdentifier": "com.saff.sa",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Gps",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mysaff.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mysaff.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mysaff.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.80",
+                    "date": "2026-11-08T02:48:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/mysaff.ipa",
+                    "size": 209600808,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mysaff.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1377395882,
+            "name": "PineBox",
+            "version": "1.0.4",
+            "size": 45877736,
+            "icon": "img/pinebox.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/pinebox.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/pinebox.ipa",
+            "bundleIdentifier": "com.pinebox.app",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "افلام ومسلسلات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pinebox.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinebox_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinebox_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinebox_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinebox_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinebox_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinebox_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinebox_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinebox_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.4",
+                    "date": "2026-11-08T02:48:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/pinebox.ipa",
+                    "size": 45877736,
+                    "buildVersion": null,
+                    "minOSVersion": "15.6",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinebox_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinebox_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinebox_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinebox_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1249494882,
+            "name": "iQTv",
+            "version": "3",
+            "size": 21696233,
+            "icon": "img/iqtv.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/iqtv.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/iqtv.ipa",
+            "bundleIdentifier": "night.ntv1.iQTv",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "افلام ومسلسلات وبث مباشر",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/iqtv.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqtv_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqtv_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqtv_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqtv_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqtv_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqtv_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqtv_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqtv_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3",
+                    "date": "2026-11-08T02:48:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/iqtv.ipa",
+                    "size": 21696233,
+                    "buildVersion": null,
+                    "minOSVersion": "16.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqtv_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqtv_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqtv_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iqtv_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1133647776,
+            "name": "Roblox",
+            "version": "2.733.988",
+            "size": 268345648,
+            "icon": "img/roblox.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/roblox.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/roblox.ipa",
+            "bundleIdentifier": "com.gloop.deltamobile",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تم رفعه واستخراجه تلقائياً",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roblox.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.733.988",
+                    "date": "2026-11-08T02:48:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/roblox.ipa",
+                    "size": 268345648,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roblox_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1917385109,
+            "name": "Shahiid Anime",
+            "version": "1.0",
+            "size": 6687960,
+            "icon": "img/shahiidanime.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V7/shahiidanime.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V7/shahiidanime.ipa",
+            "bundleIdentifier": "ipasoon.iQ-anime",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تم رفعه واستخراجه تلقائياً",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shahiidanime.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahiidanime_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahiidanime_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahiidanime_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahiidanime_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahiidanime_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahiidanime_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahiidanime_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahiidanime_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2026-11-08T02:48:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V7/shahiidanime.ipa",
+                    "size": 6687960,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahiidanime_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahiidanime_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahiidanime_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shahiidanime_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1822926325,
             "name": "Monsters Lab Enjoy",
             "version": "1.1.30",
