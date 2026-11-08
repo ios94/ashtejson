@@ -10,6 +10,468 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1870563493,
+            "name": "MADFUT",
+            "version": "1.2.1",
+            "size": 242977770,
+            "icon": "img/madfut.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/madfut.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/madfut.ipa",
+            "bundleIdentifier": "com.madfut.madfut24",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه MADFUT مهكره\r\n\r\nالمميزات :\r\n* عملات غير محدودة ?\r\n* حزم غير محدود ?\r\n* الرموز غير محدود ♾\r\nتفعيل المميزات : [ انفق بعض / لتكسب بعض ]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/madfut.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/madfut_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/madfut_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/madfut_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/madfut_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/madfut_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/madfut_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/madfut_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/madfut_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.1",
+                    "date": "2026-11-08T17:55:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/madfut.ipa",
+                    "size": 242977770,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/madfut_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/madfut_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/madfut_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/madfut_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1270558013,
+            "name": "Forza Customs",
+            "version": "7.0.14670",
+            "size": 1056114630,
+            "icon": "img/forzacustoms.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/forzacustoms.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/forzacustoms.ipa",
+            "bundleIdentifier": "com.hutchgames.ccw",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n* عملات غير محدودة\r\n* حياة غير محدودة ( أنفق البعض )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/forzacustoms.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzacustoms_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzacustoms_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzacustoms_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzacustoms_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzacustoms_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzacustoms_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzacustoms_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzacustoms_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.0.14670",
+                    "date": "2026-11-08T17:55:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/forzacustoms.ipa",
+                    "size": 1056114630,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzacustoms_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzacustoms_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzacustoms_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forzacustoms_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1681803617,
+            "name": "Episode",
+            "version": "26.71",
+            "size": 539185486,
+            "icon": "img/episode.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/episode.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/episode.ipa",
+            "bundleIdentifier": "com.neonfun.catalog",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "• خيارات بريميوم مجانية \r\n• تجميد التصاريح \r\n• قائمة التصحيح",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/episode.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/episode_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/episode_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/episode_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/episode_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/episode_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/episode_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/episode_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/episode_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "26.71",
+                    "date": "2026-11-08T17:54:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/episode.ipa",
+                    "size": 539185486,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/episode_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/episode_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/episode_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/episode_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1262974976,
+            "name": "Idle Survivor Fortress Tycoon",
+            "version": "1.5.6",
+            "size": 588652323,
+            "icon": "img/idlesurvivorfortresstycoon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/idlesurvivorfortresstycoon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/idlesurvivorfortresstycoon.ipa",
+            "bundleIdentifier": "com.lbhk.idlesurvivorfortresstycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه ‌Idle Survivor Fortress Tycoon \r\n\r\nالمميزات :\r\n* النقد غير محدود ?\r\n* الماس غير محدود ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlesurvivorfortresstycoon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlesurvivorfortresstycoon_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlesurvivorfortresstycoon_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlesurvivorfortresstycoon_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlesurvivorfortresstycoon_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlesurvivorfortresstycoon_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlesurvivorfortresstycoon_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlesurvivorfortresstycoon_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlesurvivorfortresstycoon_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.6",
+                    "date": "2026-11-08T17:53:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/idlesurvivorfortresstycoon.ipa",
+                    "size": 588652323,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlesurvivorfortresstycoon_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlesurvivorfortresstycoon_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlesurvivorfortresstycoon_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlesurvivorfortresstycoon_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1185707614,
+            "name": "Danchro",
+            "version": "1.9.0",
+            "size": 469166492,
+            "icon": "img/danchro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/danchro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/danchro.ipa",
+            "bundleIdentifier": "com.aiming.danmachi.danchro.global",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Danchro مهكره\r\n\r\nالمميزات :\r\n* أضرار عالية ?\r\n* طاقة متجددة ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/danchro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/danchro.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/danchro.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.0",
+                    "date": "2026-11-08T17:53:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/danchro.ipa",
+                    "size": 469166492,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/danchro.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1699090981,
+            "name": "FINAL FANTASY BE:WOTV",
+            "version": "11.3.6",
+            "size": 413215055,
+            "icon": "img/finalfantasybewotv.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/finalfantasybewotv.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/finalfantasybewotv.ipa",
+            "bundleIdentifier": "com.square-enix.WOTVffbeww",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- الأعداء لا يهاجمون\r\n- القتل بضربة واحدة\r\n- الحركة على الخريطة بالكامل\r\n\r\nملاحظة:\r\nأكمل البرنامج التعليمي قبل استخدام الاختراق",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/finalfantasybewotv.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/finalfantasybewotv.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/finalfantasybewotv.png"
+            ],
+            "versions": [
+                {
+                    "version": "11.3.6",
+                    "date": "2026-11-08T17:52:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/finalfantasybewotv.ipa",
+                    "size": 413215055,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/finalfantasybewotv.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1889819559,
+            "name": "Water Power",
+            "version": "2.0.6",
+            "size": 277172487,
+            "icon": "img/waterpower.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/waterpower.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/waterpower.ipa",
+            "bundleIdentifier": "io.playphoria.waterpower",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n* بدون اعلانات \n* نقود لانهائية \n* عملات لانهائية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/waterpower.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterpower_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterpower_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterpower_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterpower_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterpower_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterpower_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterpower_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterpower_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.6",
+                    "date": "2026-11-08T17:52:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/waterpower.ipa",
+                    "size": 277172487,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterpower_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterpower_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterpower_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterpower_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1539957065,
+            "name": "Battle Bay",
+            "version": "5.3.4",
+            "size": 791852522,
+            "icon": "img/battlebay.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/battlebay.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/battlebay.ipa",
+            "bundleIdentifier": "com.rovio.battlebay",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Battle Bay\r\n\r\nالمميزات :\r\n* x10 رشاقة ?‍♀️\r\n* سرعة x10 ?\r\n* السرعة المستهدفة x10 ?",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/battlebay.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlebay_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlebay_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlebay_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlebay_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlebay_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlebay_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlebay_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlebay_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.3.4",
+                    "date": "2026-11-08T17:51:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/battlebay.ipa",
+                    "size": 791852522,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlebay_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlebay_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlebay_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlebay_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1389708621,
+            "name": "Merge Life",
+            "version": "2.0.0",
+            "size": 399358551,
+            "icon": "img/mergelife.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/mergelife.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/mergelife.ipa",
+            "bundleIdentifier": "cc.lionstudios.mergelife",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergelife.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelife_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelife_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelife_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelife_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelife_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelife_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelife_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelife_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.0",
+                    "date": "2026-11-08T17:51:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/mergelife.ipa",
+                    "size": 399358551,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelife_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelife_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelife_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergelife_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1975594787,
+            "name": "Pocket Knights 2",
+            "version": "3.4.22",
+            "size": 629027999,
+            "icon": "img/pocketknights2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/pocketknights2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/pocketknights2.ipa",
+            "bundleIdentifier": "com.mngo.knights",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه Pocket Knights 2\r\n\r\nالمميزات :\r\n* ضربة واحدة تقتل ?\r\n* طاقه متجدده ?\r\n* مهارات غير محدودة ?‍♀️",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pocketknights2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketknights2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketknights2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketknights2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketknights2_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketknights2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketknights2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketknights2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketknights2_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.4.22",
+                    "date": "2026-11-08T17:50:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/pocketknights2.ipa",
+                    "size": 629027999,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketknights2_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketknights2_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketknights2_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketknights2_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1345327481,
             "name": "TempleRun+",
             "version": "1.17.0",
