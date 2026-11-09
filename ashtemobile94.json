@@ -10,6 +10,429 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1368695300,
+            "name": "Train Invasion",
+            "version": "0.3",
+            "size": 243916173,
+            "icon": "img/traininvasion.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/traininvasion.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/traininvasion.ipa",
+            "bundleIdentifier": "com.kiwert.traininvasion",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ذهب غير محدود",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/traininvasion.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traininvasion_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traininvasion_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traininvasion_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traininvasion_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traininvasion_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traininvasion_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traininvasion_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traininvasion_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.3",
+                    "date": "2026-11-09T04:26:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/traininvasion.ipa",
+                    "size": 243916173,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traininvasion_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traininvasion_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traininvasion_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/traininvasion_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1482042072,
+            "name": "Zombie Hunter",
+            "version": "0.3.0",
+            "size": 471778709,
+            "icon": "img/zombiehunter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/zombiehunter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/zombiehunter.ipa",
+            "bundleIdentifier": "com.horusent.zombie.war",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- نقاط الصحة\n- الدرع\n- ذخيرة المدفع M\n- ضرر المدفع M\n- معدل إطلاق النار للمدفع M",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zombiehunter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiehunter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiehunter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiehunter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiehunter_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiehunter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiehunter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiehunter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiehunter_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.3.0",
+                    "date": "2026-11-09T04:26:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/zombiehunter.ipa",
+                    "size": 471778709,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiehunter_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiehunter_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiehunter_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiehunter_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1854396824,
+            "name": "BraveFrontierVS",
+            "version": "1.0.6",
+            "size": 288438105,
+            "icon": "img/bravefrontiervs.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/bravefrontiervs.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/bravefrontiervs.ipa",
+            "bundleIdentifier": "jp.co.gcgames.bc",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- وضع الطاقة اللانهائي\n- مضاعفة الهجوم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bravefrontiervs.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bravefrontiervs.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bravefrontiervs.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.6",
+                    "date": "2026-11-09T04:25:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/bravefrontiervs.ipa",
+                    "size": 288438105,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bravefrontiervs.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1194064766,
+            "name": "Hospital +",
+            "version": "1.6.0",
+            "size": 548196555,
+            "icon": "img/hospital.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/hospital.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/hospital.ipa",
+            "bundleIdentifier": "com.fme.happy.hospital.clinic.games",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- شراء داخل التطبيق مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hospital.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hospital_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hospital_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hospital_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hospital_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hospital_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hospital_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hospital_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hospital_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.0",
+                    "date": "2026-11-09T04:25:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/hospital.ipa",
+                    "size": 548196555,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hospital_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hospital_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hospital_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hospital_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1529428876,
+            "name": "Meow Hunter",
+            "version": "1.0.4",
+            "size": 743794932,
+            "icon": "img/meowhunter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/meowhunter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/meowhunter.ipa",
+            "bundleIdentifier": "com.chillyroom.meow.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "-  لا تموت أبدًا  \n- قتل بضربة واحدة  \n- روح لا نهائية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/meowhunter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowhunter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowhunter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowhunter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowhunter_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowhunter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowhunter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowhunter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowhunter_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.4",
+                    "date": "2026-11-09T04:24:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/meowhunter.ipa",
+                    "size": 743794932,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowhunter_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowhunter_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowhunter_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowhunter_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1754850645,
+            "name": "Rescue Dash",
+            "version": "2.44.0",
+            "size": 478337672,
+            "icon": "img/rescuedash.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/rescuedash.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/rescuedash.ipa",
+            "bundleIdentifier": "com.matryoshka.rescueteam",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- شراء مجاني داخل التطبيق",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rescuedash.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuedash_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuedash_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuedash_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuedash_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuedash_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuedash_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuedash_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuedash_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.44.0",
+                    "date": "2026-11-09T04:23:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/rescuedash.ipa",
+                    "size": 478337672,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuedash_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuedash_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuedash_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuedash_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1947872821,
+            "name": "Transport Master!",
+            "version": "2.0.6",
+            "size": 287275796,
+            "icon": "img/transportmaster.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/transportmaster.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/transportmaster.ipa",
+            "bundleIdentifier": "com.transport.master",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- شراء مجاني داخل التطبيق لإزالة الإعلانات\n- اربح الكثير من العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/transportmaster.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transportmaster_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transportmaster_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transportmaster_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transportmaster_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transportmaster_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transportmaster_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transportmaster_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transportmaster_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.6",
+                    "date": "2026-11-09T04:22:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/transportmaster.ipa",
+                    "size": 287275796,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transportmaster_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transportmaster_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transportmaster_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/transportmaster_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1816494960,
+            "name": "Dice Lords",
+            "version": "1.7.1",
+            "size": 578862060,
+            "icon": "img/dicelords.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/dicelords.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/dicelords.ipa",
+            "bundleIdentifier": "com.oxvgames.dicelords",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ADS NO / Rewards Free\n- Unlimited Gems Green\n- Unlimited Gems Red\n- Unlimited Coins\n- DMG / Roll Dice\n\n- لا يوجد إعلانات / مكافآت مجانية\n- عدد غير محدود من الجواهر الخضراء\n- عدد غير محدود من الجواهر الحمراء\n- عملات غير محدودة\n- DMG / لفة النرد",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dicelords.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dicelords_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dicelords_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dicelords_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dicelords_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dicelords_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dicelords_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dicelords_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dicelords_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.1",
+                    "date": "2026-11-09T04:22:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/dicelords.ipa",
+                    "size": 578862060,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dicelords_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dicelords_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dicelords_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dicelords_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1983627594,
+            "name": "Adventure Island Merge",
+            "version": "1.0.106",
+            "size": 1152209689,
+            "icon": "img/adventureislandmerge.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/adventureislandmerge.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/adventureislandmerge.ipa",
+            "bundleIdentifier": "com.flybirdgames.adventureislandmerge",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- السماح بترقية أي عنصر  \n- السماح بنسخ أي عنصر مجانًا  \n- السماح بتقسيم أي عنصر مجانًا  \n- المطالبة بمكافئات الجولد باس  \n- يمكن المطالبة بالبطاقة الأسبوعية  \n- تجميد الأحجار/الطاقة  \n- مضاعفة العملة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/adventureislandmerge.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureislandmerge_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureislandmerge_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureislandmerge_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureislandmerge_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureislandmerge_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureislandmerge_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureislandmerge_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureislandmerge_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.106",
+                    "date": "2026-11-09T04:21:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/adventureislandmerge.ipa",
+                    "size": 1152209689,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureislandmerge_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureislandmerge_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureislandmerge_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adventureislandmerge_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1829427845,
             "name": "Tactical Gambit",
             "version": "1.47.01",
