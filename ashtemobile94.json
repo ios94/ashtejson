@@ -10,6 +10,483 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1419463249,
+            "name": "AI Assistant",
+            "version": "2.0.33",
+            "size": 62950825,
+            "icon": "img/aiassistant.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/aiassistant.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/aiassistant.ipa",
+            "bundleIdentifier": "com.smashgamestudios.gptgenie",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لدردشة مع الذكاء الاصطناعي .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aiassistant.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiassistant_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiassistant_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiassistant_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiassistant_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiassistant_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiassistant_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiassistant_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiassistant_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.33",
+                    "date": "2026-11-09T20:39:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/aiassistant.ipa",
+                    "size": 62950825,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiassistant_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiassistant_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiassistant_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiassistant_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1494132123,
+            "name": "Beep Me",
+            "version": "5.4.2",
+            "size": 29689501,
+            "icon": "img/beepme.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/beepme.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/beepme.ipa",
+            "bundleIdentifier": "com.kalsky.beepme",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $19.99\nRequires 17.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $19.99\nيتطلب اصدار 17.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/beepme.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beepme_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beepme_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beepme_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beepme_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beepme_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beepme_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beepme_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beepme_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.4.2",
+                    "date": "2026-11-09T20:39:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/beepme.ipa",
+                    "size": 29689501,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beepme_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beepme_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beepme_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beepme_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1678766769,
+            "name": "Hex of Steel",
+            "version": "8.0.7",
+            "size": 522727462,
+            "icon": "img/hexofsteel.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/hexofsteel.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/hexofsteel.ipa",
+            "bundleIdentifier": "com.valentinstudio.operationcitadelforios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $9.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $9.99\nتتطلب اصدار 12.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hexofsteel.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexofsteel_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexofsteel_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexofsteel_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexofsteel_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexofsteel_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexofsteel_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexofsteel_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexofsteel_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "8.0.7",
+                    "date": "2026-11-09T20:39:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/hexofsteel.ipa",
+                    "size": 522727462,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexofsteel_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexofsteel_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexofsteel_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexofsteel_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1711080496,
+            "name": "OBD Connect",
+            "version": "1.7.4",
+            "size": 14211745,
+            "icon": "img/obdconnect.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/obdconnect.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/obdconnect.ipa",
+            "bundleIdentifier": "com.sasanian.Shift-OBD-Complete",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $19.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $19.99\nيتطلب اصدار 13.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/obdconnect.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdconnect_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdconnect_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdconnect_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdconnect_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdconnect_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdconnect_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdconnect_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdconnect_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.4",
+                    "date": "2026-11-09T20:38:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/obdconnect.ipa",
+                    "size": 14211745,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdconnect_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdconnect_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdconnect_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdconnect_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1535705377,
+            "name": "Bridges",
+            "version": "2.0.2",
+            "size": 34458595,
+            "icon": "img/bridges.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/bridges.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/bridges.ipa",
+            "bundleIdentifier": "com.onishry.Bridges",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $3.99\nRequires 26.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $3.99\nيتطلب اصدار 26.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bridges.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridges_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridges_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridges_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridges_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridges_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridges_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridges_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridges_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.2",
+                    "date": "2026-11-09T20:38:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/bridges.ipa",
+                    "size": 34458595,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridges_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridges_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridges_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bridges_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1637894869,
+            "name": "Word Search Games PRO",
+            "version": "7.0.0",
+            "size": 19732420,
+            "icon": "img/wordsearchgamespro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/wordsearchgamespro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/wordsearchgamespro.ipa",
+            "bundleIdentifier": "com.littlebigplay.games.wordsearchgamespro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $4.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $4.99\nتتطلب اصدار 12.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wordsearchgamespro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsearchgamespro_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsearchgamespro_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsearchgamespro_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsearchgamespro_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsearchgamespro_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsearchgamespro_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "7.0.0",
+                    "date": "2026-11-09T20:38:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/wordsearchgamespro.ipa",
+                    "size": 19732420,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsearchgamespro_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsearchgamespro_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsearchgamespro_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1684990463,
+            "name": "FILCA",
+            "version": "555",
+            "size": 161973463,
+            "icon": "img/filca.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/filca.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/filca.ipa",
+            "bundleIdentifier": "com.romocam",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $6.99\nRequires 17.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $6.99\nيتطلب اصدار 17.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/filca.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filca_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filca_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filca_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filca_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filca_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filca_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filca_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filca_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "555",
+                    "date": "2026-11-09T20:38:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/filca.ipa",
+                    "size": 161973463,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filca_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filca_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filca_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filca_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1746802312,
+            "name": "AR_Painter",
+            "version": "26.0",
+            "size": 29586700,
+            "icon": "img/arpainter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/arpainter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/arpainter.ipa",
+            "bundleIdentifier": "com.zinkevich.arpainter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $1.99\nRequires 16.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $1.99\nيتطلب اصدار 16.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/arpainter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arpainter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arpainter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arpainter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arpainter_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arpainter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arpainter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arpainter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arpainter_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "26.0",
+                    "date": "2026-11-09T20:38:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/arpainter.ipa",
+                    "size": 29586700,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arpainter_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arpainter_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arpainter_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arpainter_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1548267645,
+            "name": "Tap Knight",
+            "version": "1.9.6",
+            "size": 108424972,
+            "icon": "img/tapknight.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/tapknight.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/tapknight.ipa",
+            "bundleIdentifier": "com.pixelballoon.tapknight",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $1.99\nRequires 15.6 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $1.99\nتتطلب اصدار 15.6 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tapknight.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapknight_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapknight_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapknight_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapknight_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapknight_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapknight_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapknight_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapknight_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.6",
+                    "date": "2026-11-09T20:38:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/tapknight.ipa",
+                    "size": 108424972,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapknight_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapknight_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapknight_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tapknight_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1204215904,
+            "name": "Brotato:Premium",
+            "version": "1.3.163",
+            "size": 246438254,
+            "icon": "img/brotatopremium.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/brotatopremium.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/brotatopremium.ipa",
+            "bundleIdentifier": "com.brotato.shooting.survivors.games.paid.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $9.99\nRequires 11.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $9.99\nتتطلب اصدار 11.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/brotatopremium.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brotatopremium_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brotatopremium_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brotatopremium_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brotatopremium_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brotatopremium_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brotatopremium_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brotatopremium_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brotatopremium_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.163",
+                    "date": "2026-11-09T20:38:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/brotatopremium.ipa",
+                    "size": 246438254,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brotatopremium_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brotatopremium_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brotatopremium_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brotatopremium_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1661668034,
             "name": "Murphy Laws Guessing Game PRO",
             "version": "3.0.0",
