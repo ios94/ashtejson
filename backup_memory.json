@@ -10,6 +10,471 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1223134205,
+            "name": "Pocket Guardian",
+            "version": "0.8.4",
+            "size": 252771771,
+            "icon": "img/pocketguardian.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/pocketguardian.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/pocketguardian.ipa",
+            "bundleIdentifier": "com.newstory.PocketGuardian",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pocketguardian.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketguardian_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketguardian_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketguardian_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketguardian_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketguardian_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketguardian_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketguardian_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketguardian_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.8.4",
+                    "date": "2026-11-09T08:32:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/pocketguardian.ipa",
+                    "size": 252771771,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketguardian_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketguardian_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketguardian_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketguardian_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1225949502,
+            "name": "People Flow",
+            "version": "1.1.9",
+            "size": 338142870,
+            "icon": "img/peopleflow.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/peopleflow.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/peopleflow.ipa",
+            "bundleIdentifier": "com.antlerex.peopleloop",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/peopleflow.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peopleflow_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peopleflow_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peopleflow_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peopleflow_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peopleflow_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peopleflow_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peopleflow_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peopleflow_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.9",
+                    "date": "2026-11-09T08:32:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/peopleflow.ipa",
+                    "size": 338142870,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peopleflow_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peopleflow_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peopleflow_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peopleflow_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1578449200,
+            "name": "Portals: Escape The Inifinity",
+            "version": "1.16",
+            "size": 172819693,
+            "icon": "img/portalsescapetheinifinity.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/portalsescapetheinifinity.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/portalsescapetheinifinity.ipa",
+            "bundleIdentifier": "com.xsgames.portalsorigins",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/portalsescapetheinifinity.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/portalsescapetheinifinity.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/portalsescapetheinifinity.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.16",
+                    "date": "2026-11-09T08:31:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/portalsescapetheinifinity.ipa",
+                    "size": 172819693,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/portalsescapetheinifinity.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1237147769,
+            "name": "Pop It",
+            "version": "3.7",
+            "size": 305239876,
+            "icon": "img/popit.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/popit.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/popit.ipa",
+            "bundleIdentifier": "com.koolgames.popit",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/popit.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popit_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popit_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popit_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popit_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popit_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popit_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popit_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popit_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.7",
+                    "date": "2026-11-09T08:31:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/popit.ipa",
+                    "size": 305239876,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popit_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popit_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popit_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popit_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1380752703,
+            "name": "Paper Dungeon",
+            "version": "1.1.1",
+            "size": 451947525,
+            "icon": "img/paperdungeon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/paperdungeon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/paperdungeon.ipa",
+            "bundleIdentifier": "com.bermudagames.talefight",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Unlimited Gold\n- HP Max / Change Card\n- ATK Max / Change Card\n- DEF Max / Change Card\n- Criti Max / Change Card\n\n- ذهب غير محدود\r\n- بطاقة اتش بي ماكس / التغيير\r\n- ATK Max / تغيير البطاقة\r\n- DEF Max / تغيير البطاقة\r\n- كريتي ماكس / تغيير البطاقة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/paperdungeon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdungeon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdungeon_screen_2.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdungeon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdungeon_screen_2.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.1",
+                    "date": "2026-11-09T08:31:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/paperdungeon.ipa",
+                    "size": 451947525,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdungeon_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdungeon_screen_2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1893850443,
+            "name": "Mister Gun - Home Assault Age",
+            "version": "1.1",
+            "size": 111951006,
+            "icon": "img/mistergunhomeassaultage.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/mistergunhomeassaultage.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/mistergunhomeassaultage.ipa",
+            "bundleIdentifier": "com.holycowstudio.shootfurniture",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mistergunhomeassaultage.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mistergunhomeassaultage_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mistergunhomeassaultage_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mistergunhomeassaultage_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mistergunhomeassaultage_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mistergunhomeassaultage_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mistergunhomeassaultage_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mistergunhomeassaultage_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mistergunhomeassaultage_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2026-11-09T08:30:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/mistergunhomeassaultage.ipa",
+                    "size": 111951006,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mistergunhomeassaultage_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mistergunhomeassaultage_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mistergunhomeassaultage_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mistergunhomeassaultage_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1907213616,
+            "name": "Romantic Tiles: Love Stories",
+            "version": "2.2.8",
+            "size": 584637369,
+            "icon": "img/romantictileslovestories.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/romantictileslovestories.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/romantictileslovestories.ipa",
+            "bundleIdentifier": "ios.romantic.tiles.makeover.story.zen.buster.match",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )\n\nوصف التطبيق: \n\nانطلق في رحلة يغذيها الحب مع البلاط الرومانسي: قصص الحب!\nعندما تنهار خطط زوي لطلب الزواج في مواجهة خيانة غير متوقعة، تتدخل صديقتها المفضلة للمساعدة في إصلاح قلبها المكسور. انضم إلى زوي في رحلة آسرة من الحب والدراما والقدر!",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/romantictileslovestories.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/romantictileslovestories_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/romantictileslovestories_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/romantictileslovestories_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/romantictileslovestories_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/romantictileslovestories_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/romantictileslovestories_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/romantictileslovestories_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/romantictileslovestories_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.2.8",
+                    "date": "2026-11-09T08:30:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/romantictileslovestories.ipa",
+                    "size": 584637369,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/romantictileslovestories_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/romantictileslovestories_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/romantictileslovestories_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/romantictileslovestories_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1404170958,
+            "name": "Ragdoll Arena Party",
+            "version": "1.0",
+            "size": 200850279,
+            "icon": "img/ragdollarenaparty.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/ragdollarenaparty.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/ragdollarenaparty.ipa",
+            "bundleIdentifier": "com.psvios.sandboxarena.ragdollparty",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ragdollarenaparty.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollarenaparty_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollarenaparty_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollarenaparty_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollarenaparty_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollarenaparty_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollarenaparty_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollarenaparty_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollarenaparty_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2026-11-09T08:29:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/ragdollarenaparty.ipa",
+                    "size": 200850279,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollarenaparty_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollarenaparty_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollarenaparty_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdollarenaparty_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1599539041,
+            "name": "Weed Boss",
+            "version": "2.10.2",
+            "size": 127275888,
+            "icon": "img/weedboss.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/weedboss.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/weedboss.ipa",
+            "bundleIdentifier": "com.romit.makeitrainweed",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/weedboss.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.10.2",
+                    "date": "2026-11-09T08:29:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/weedboss.ipa",
+                    "size": 127275888,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1416254581,
+            "name": "Satisfying Coloring",
+            "version": "23.8",
+            "size": 219677477,
+            "icon": "img/satisfyingcoloring.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/satisfyingcoloring.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/satisfyingcoloring.ipa",
+            "bundleIdentifier": "com.genz.drawing.coloring.page",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود \n- الغاء الأعلانات\n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/satisfyingcoloring.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satisfyingcoloring_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satisfyingcoloring_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satisfyingcoloring_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satisfyingcoloring_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satisfyingcoloring_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satisfyingcoloring_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satisfyingcoloring_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satisfyingcoloring_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "23.8",
+                    "date": "2026-11-09T08:28:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/satisfyingcoloring.ipa",
+                    "size": 219677477,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satisfyingcoloring_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satisfyingcoloring_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satisfyingcoloring_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/satisfyingcoloring_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1749984649,
             "name": "Social Network Tycoon",
             "version": "1.15",
