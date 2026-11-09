@@ -10,6 +10,387 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1140125804,
+            "name": "HungryHeartsRamen",
+            "version": "1.0.1",
+            "size": 266427939,
+            "icon": "img/hungryheartsramen.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/hungryheartsramen.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/hungryheartsramen.ipa",
+            "bundleIdentifier": "jp.co.gagex.betelgeuse",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": ".\n- عملات غير محدودة -> أنفق بعض المال.\n- قلوب غير محدودة -> أنفق بعض المال.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hungryheartsramen.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryheartsramen_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryheartsramen_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryheartsramen_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryheartsramen_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryheartsramen_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryheartsramen_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryheartsramen_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryheartsramen_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.1",
+                    "date": "2026-11-09T03:02:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/hungryheartsramen.ipa",
+                    "size": 266427939,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryheartsramen_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryheartsramen_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryheartsramen_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hungryheartsramen_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1631870911,
+            "name": "Dead Shell",
+            "version": "1.5.4",
+            "size": 298864030,
+            "icon": "img/deadshell.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/deadshell.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/deadshell.ipa",
+            "bundleIdentifier": "com.herocraft.game.free.deadshell",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ضربه واحده تقتل\n- لا يموت ابدا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/deadshell.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadshell_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadshell_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadshell_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadshell_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadshell_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadshell_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadshell_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadshell_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.4",
+                    "date": "2026-11-09T03:01:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/deadshell.ipa",
+                    "size": 298864030,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadshell_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadshell_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadshell_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadshell_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1861862734,
+            "name": "Quantum Wars",
+            "version": "0.21.37",
+            "size": 233673454,
+            "icon": "img/quantumwars.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/quantumwars.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/quantumwars.ipa",
+            "bundleIdentifier": "io.adisoft.quantumwars",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "IGG",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quantumwars.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumwars_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumwars_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumwars_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumwars_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumwars_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumwars_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumwars_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumwars_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.21.37",
+                    "date": "2026-11-09T03:01:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/quantumwars.ipa",
+                    "size": 233673454,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumwars_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumwars_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumwars_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumwars_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1785902188,
+            "name": "Poker World",
+            "version": "2.1.2",
+            "size": 374245373,
+            "icon": "img/pokerworld.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/pokerworld.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/pokerworld.ipa",
+            "bundleIdentifier": "com.youdagames.pokerworld",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- شريحة غير محدودة / تعطيل بعد الاختراق\n- تذكرة ذهبية غير محدودة / تعطيل بعد الاختراق\n- تذكرة دوران غير محدودة / تعطيل بعد الاختراق\n- خبرة غير محدودة / مكافآت مطابقة، رفع مستوى أسرع\n- شريحة غير محدودة / مكافآت مطابقة\n- شريحة مراهنة غير محدودة / اربح رهانًا واحدًا في المباراة ثم عُطِّل بعد الاختراق",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pokerworld.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerworld_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerworld_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerworld_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerworld_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerworld_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerworld_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerworld_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerworld_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.2",
+                    "date": "2026-11-09T03:01:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/pokerworld.ipa",
+                    "size": 374245373,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerworld_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerworld_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerworld_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pokerworld_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1173498110,
+            "name": "Dino Park",
+            "version": "2.29",
+            "size": 350265631,
+            "icon": "img/dinopark.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/dinopark.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/dinopark.ipa",
+            "bundleIdentifier": "pl.idreams.DinoPark",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تجميد العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dinopark.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinopark_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinopark_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinopark_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinopark_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinopark_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinopark_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinopark_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinopark_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.29",
+                    "date": "2026-11-09T03:00:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/dinopark.ipa",
+                    "size": 350265631,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinopark_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinopark_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinopark_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinopark_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1801857890,
+            "name": "Home Pin",
+            "version": "1.1.4",
+            "size": 746461648,
+            "icon": "img/homepin.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/homepin.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/homepin.ipa",
+            "bundleIdentifier": "com.home.escape.homepin.pullpin",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/homepin.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homepin_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homepin_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homepin_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homepin_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homepin_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homepin_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homepin_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homepin_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.4",
+                    "date": "2026-11-09T03:00:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/homepin.ipa",
+                    "size": 746461648,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homepin_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homepin_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homepin_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/homepin_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1491602322,
+            "name": "Smoq Games 26",
+            "version": "2.40",
+            "size": 222729793,
+            "icon": "img/smoqgames26.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/smoqgames26.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/smoqgames26.ipa",
+            "bundleIdentifier": "com.fivedragonsgames.smoqgames26",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة -> اربح بعضًا منها.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smoqgames26.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames26_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames26_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames26_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames26_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames26_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames26_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames26_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames26_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.40",
+                    "date": "2026-11-09T02:59:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/smoqgames26.ipa",
+                    "size": 222729793,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames26_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames26_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames26_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames26_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1274986954,
+            "name": "Grand Strike",
+            "version": "0.9.11",
+            "size": 568498905,
+            "icon": "img/grandstrike.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/grandstrike.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/grandstrike.ipa",
+            "bundleIdentifier": "com.ndkgames.grandstrike",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مُضاعِف سرعة الحركة\n- مُقسِّم سرعة حركة العدو (روبوتات؟)\n- قفزة غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/grandstrike.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandstrike_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandstrike_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandstrike_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandstrike_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandstrike_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandstrike_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.9.11",
+                    "date": "2026-11-09T02:58:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/grandstrike.ipa",
+                    "size": 568498905,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandstrike_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandstrike_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandstrike_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1805580309,
             "name": "Screw Pin",
             "version": "1.7.8",
