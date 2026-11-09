@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1401316270,
+            "name": "Paper Doll",
+            "version": "2.0.7",
+            "size": 436267081,
+            "icon": "img/paperdoll.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/paperdoll.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/paperdoll.ipa",
+            "bundleIdentifier": "pion.paper.doll.dress.up.diy.makeup.design.house",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل اللعبة مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/paperdoll.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdoll_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdoll_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdoll_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdoll_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdoll_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdoll_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdoll_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdoll_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.7",
+                    "date": "2026-11-09T16:11:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/paperdoll.ipa",
+                    "size": 436267081,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdoll_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdoll_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdoll_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdoll_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1602531678,
+            "name": "Aquapark",
+            "version": "1.6.2",
+            "size": 194876479,
+            "icon": "img/aquapark.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/aquapark.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/aquapark.ipa",
+            "bundleIdentifier": "com.unicogames.gummybear.aquapark",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "نقود لا نهائية.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aquapark.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquapark_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquapark_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquapark_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquapark_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquapark_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquapark_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquapark_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquapark_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.2",
+                    "date": "2026-11-09T16:10:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/aquapark.ipa",
+                    "size": 194876479,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquapark_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquapark_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquapark_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aquapark_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1519472360,
+            "name": "Reload Rush",
+            "version": "1.2.1",
+            "size": 255524513,
+            "icon": "img/reloadrush.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/reloadrush.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/reloadrush.ipa",
+            "bundleIdentifier": "com.mondayoff.reloadrush",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/reloadrush.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reloadrush_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reloadrush_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reloadrush_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reloadrush_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reloadrush_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reloadrush_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reloadrush_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reloadrush_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.1",
+                    "date": "2026-11-09T16:10:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/reloadrush.ipa",
+                    "size": 255524513,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reloadrush_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reloadrush_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reloadrush_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/reloadrush_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1866669915,
+            "name": "Watcher of Realms",
+            "version": "1.4.66",
+            "size": 353311594,
+            "icon": "img/watcherofrealms.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/watcherofrealms.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/watcherofrealms.ipa",
+            "bundleIdentifier": "com.td.watcherofrealms",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n - ضربة واحدة تقتل\n\n#حصريااا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/watcherofrealms.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealms_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealms_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealms_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealms_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealms_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealms_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealms_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealms_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.66",
+                    "date": "2026-11-09T16:10:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/watcherofrealms.ipa",
+                    "size": 353311594,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealms_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealms_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealms_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/watcherofrealms_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1398897635,
+            "name": "TalkingHelloKitty",
+            "version": "2.1.0",
+            "size": 211831792,
+            "icon": "img/talkinghellokitty.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/talkinghellokitty.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/talkinghellokitty.ipa",
+            "bundleIdentifier": "com.unicogames.talking.hellokitty",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل اللعبة مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )\n\nوصف التطبيق : \n\nمن الاستوديو الذي قدم لك لعبة My Talking Gummy Bear، تأتي لعبة فيديو ناطق جديدة للأطفال، My Talking Hello Kitty!\nتحقق من هذه اللعبة الرائعة، حيث تدعوك الشخصية الشهيرة هالو كيتي إلى منزلها وتلعب معك الألعاب!",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/talkinghellokitty.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkinghellokitty_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkinghellokitty_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkinghellokitty_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkinghellokitty_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkinghellokitty_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkinghellokitty_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkinghellokitty_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkinghellokitty_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.0",
+                    "date": "2026-11-09T16:09:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/talkinghellokitty.ipa",
+                    "size": 211831792,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkinghellokitty_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkinghellokitty_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkinghellokitty_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkinghellokitty_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1222600077,
+            "name": "Death Tycoon",
+            "version": "2023.1.2",
+            "size": 178371581,
+            "icon": "img/deathtycoon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/deathtycoon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/deathtycoon.ipa",
+            "bundleIdentifier": "com.vivastudios.deathtycoon.idle.tycoon.money.clicker",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "الغاء اعلانات \n- متجر مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/deathtycoon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deathtycoon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deathtycoon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deathtycoon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deathtycoon_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deathtycoon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deathtycoon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deathtycoon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deathtycoon_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2023.1.2",
+                    "date": "2026-11-09T16:09:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/deathtycoon.ipa",
+                    "size": 178371581,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deathtycoon_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deathtycoon_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deathtycoon_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deathtycoon_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1818424481,
+            "name": "Fish.IO",
+            "version": "2.0.1",
+            "size": 460139295,
+            "icon": "img/fishio.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/fishio.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/fishio.ipa",
+            "bundleIdentifier": "com.mpt.narwhal",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\nـ الغاء الأعلانات\nـ اخذ الجوائز بدون اعلانات\nـ طاقة لا نهائي\nـ شراء كل العروض في اللعبة\nـ فتح جميع الأسماك\nـ فتح جميع انواع الذيل\nـ انعاش مجانا\n\n#حصرياا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fishio.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishio_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishio_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishio_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishio_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishio_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishio_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishio_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishio_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.1",
+                    "date": "2026-11-09T16:09:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/fishio.ipa",
+                    "size": 460139295,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishio_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishio_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishio_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishio_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1657864676,
+            "name": "Ramboat 2",
+            "version": "2.5.1",
+            "size": 175275444,
+            "icon": "img/ramboat2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/ramboat2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/ramboat2.ipa",
+            "bundleIdentifier": "com.generagames.ramboat2.bestarcadeshooter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ramboat2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ramboat2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ramboat2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ramboat2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ramboat2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ramboat2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ramboat2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ramboat2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ramboat2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.5.1",
+                    "date": "2026-11-09T16:08:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/ramboat2.ipa",
+                    "size": 175275444,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ramboat2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ramboat2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ramboat2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ramboat2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1162064079,
+            "name": "Number Store : Idle",
+            "version": "3.5",
+            "size": 394273314,
+            "icon": "img/numberstoreidle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/numberstoreidle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/numberstoreidle.ipa",
+            "bundleIdentifier": "com.mondayoff.numberstoreidle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/numberstoreidle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/numberstoreidle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/numberstoreidle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/numberstoreidle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/numberstoreidle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/numberstoreidle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/numberstoreidle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/numberstoreidle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/numberstoreidle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.5",
+                    "date": "2026-11-09T16:08:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/numberstoreidle.ipa",
+                    "size": 394273314,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/numberstoreidle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/numberstoreidle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/numberstoreidle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/numberstoreidle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1938707592,
+            "name": "Talking Crazy Bob",
+            "version": "1.1.15",
+            "size": 195118803,
+            "icon": "img/talkingcrazybob.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/talkingcrazybob.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/talkingcrazybob.ipa",
+            "bundleIdentifier": "com.unicogames.talking.crazybob",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/talkingcrazybob.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkingcrazybob_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkingcrazybob_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkingcrazybob_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkingcrazybob_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkingcrazybob_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkingcrazybob_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkingcrazybob_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkingcrazybob_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.15",
+                    "date": "2026-11-09T16:07:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/talkingcrazybob.ipa",
+                    "size": 195118803,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkingcrazybob_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkingcrazybob_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkingcrazybob_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/talkingcrazybob_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1709191294,
             "name": "Mansion Cafe",
             "version": "4.12",
