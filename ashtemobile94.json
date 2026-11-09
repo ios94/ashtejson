@@ -10,6 +10,429 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1603211881,
+            "name": "Pew Pew Slime",
+            "version": "36",
+            "size": 1281589440,
+            "icon": "img/pewpewslime.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/pewpewslime.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/pewpewslime.ipa",
+            "bundleIdentifier": "com.xlegend.pewpewslime.global",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لاعب لا يتضرر \r\n- مضاعفة الهجوم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pewpewslime.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pewpewslime_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pewpewslime_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pewpewslime_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pewpewslime_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pewpewslime_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pewpewslime_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pewpewslime_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pewpewslime_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "36",
+                    "date": "2026-11-09T05:18:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/pewpewslime.ipa",
+                    "size": 1281589440,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pewpewslime_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pewpewslime_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pewpewslime_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pewpewslime_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1167752741,
+            "name": "Vampire&#39;s Fall: Origins",
+            "version": "1.18.122",
+            "size": 355649867,
+            "icon": "img/vampire39sfallorigins.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/vampire39sfallorigins.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/vampire39sfallorigins.ipa",
+            "bundleIdentifier": "com.earlymorningstudio.vampiresfall2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- طاقة غير محدودة\r\n- تركيز غير محدود\r\n- 10 آلاف حجر دم\r\n- 10 آلاف حجر روح",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/vampire39sfallorigins.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampire39sfallorigins_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampire39sfallorigins_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampire39sfallorigins_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampire39sfallorigins_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampire39sfallorigins_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampire39sfallorigins_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampire39sfallorigins_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampire39sfallorigins_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.18.122",
+                    "date": "2026-11-09T05:17:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/vampire39sfallorigins.ipa",
+                    "size": 355649867,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampire39sfallorigins_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampire39sfallorigins_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampire39sfallorigins_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vampire39sfallorigins_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1123870075,
+            "name": "Ayakashi Rise: AFK Demon Hunt",
+            "version": "1.1.012208",
+            "size": 472566018,
+            "icon": "img/ayakashiriseafkdemonhunt.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/ayakashiriseafkdemonhunt.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/ayakashiriseafkdemonhunt.ipa",
+            "bundleIdentifier": "com.clovergames.ayakashirise",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مُضاعِف الضرر\r\n- مُضاعِف الدفاع\r\n- لا تموت أبدًا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ayakashiriseafkdemonhunt.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ayakashiriseafkdemonhunt.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ayakashiriseafkdemonhunt.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.012208",
+                    "date": "2026-11-09T05:16:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/ayakashiriseafkdemonhunt.ipa",
+                    "size": 472566018,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ayakashiriseafkdemonhunt.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1295988903,
+            "name": "KUBOOM",
+            "version": "7.60",
+            "size": 223955978,
+            "icon": "img/kuboom.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/kuboom.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/kuboom.ipa",
+            "bundleIdentifier": "com.Nobodyshot.kuboom",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- آيمبوت (تصويب صامت)\r\n- إي إس بي\r\n- لا ارتداد\r\n- لا تشتت\r\n- ضبط السلاح\r\n- اذا طلب تسجيل حساب اضغط على متابعه",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kuboom.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kuboom_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kuboom_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kuboom_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kuboom_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kuboom_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kuboom_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kuboom_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kuboom_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.60",
+                    "date": "2026-11-09T05:16:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/kuboom.ipa",
+                    "size": 223955978,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kuboom_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kuboom_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kuboom_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kuboom_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1749178469,
+            "name": "Mini Golf Club",
+            "version": "1.0.4",
+            "size": 353433269,
+            "icon": "img/minigolfclub.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/minigolfclub.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/minigolfclub.ipa",
+            "bundleIdentifier": "mini.golf.sports.club.games",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- قائمة التصحيح -> توجه إلى الإعدادات وقم بتبديل شريط تمرير الموسيقى.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/minigolfclub.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minigolfclub_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minigolfclub_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minigolfclub_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minigolfclub_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minigolfclub_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minigolfclub_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minigolfclub_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minigolfclub_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.4",
+                    "date": "2026-11-09T05:16:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/minigolfclub.ipa",
+                    "size": 353433269,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minigolfclub_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minigolfclub_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minigolfclub_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minigolfclub_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1419367501,
+            "name": "WildWorld",
+            "version": "1.44",
+            "size": 535630967,
+            "icon": "img/wildworld.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/wildworld.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/wildworld.ipa",
+            "bundleIdentifier": "com.pujiagames.deeeersimulatorwild",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- أوراق ذهبية غير محدودة\r\n- أوراق فضية غير محدودة\r\n- عناصر المخزون غير محدود\r\n- لا عطشان\r\n- لا جائع\r\n- تعديل جيد\r\n- سعيد دائما\r\n- دمج عالي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wildworld.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildworld_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildworld_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildworld_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildworld_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildworld_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildworld_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildworld_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildworld_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.44",
+                    "date": "2026-11-09T05:15:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/wildworld.ipa",
+                    "size": 535630967,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildworld_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildworld_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildworld_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildworld_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1586715196,
+            "name": "Unfolded",
+            "version": "1.9",
+            "size": 1015912616,
+            "icon": "img/unfolded.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/unfolded.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/unfolded.ipa",
+            "bundleIdentifier": "com.nanobitsoftware.webtoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Freeze CurrenciesVIP\n- Debug Menu -> Head into Settings and toggle the Support button.\n\n- تجميد العملاتVIP\n- قائمة التصحيح -> توجه إلى الإعدادات وقم بتبديل زر الدعم.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/unfolded.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unfolded_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unfolded_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unfolded_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unfolded_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unfolded_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unfolded_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unfolded_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unfolded_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.9",
+                    "date": "2026-11-09T05:15:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/unfolded.ipa",
+                    "size": 1015912616,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unfolded_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unfolded_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unfolded_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/unfolded_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1198665801,
+            "name": "Shapeshifter",
+            "version": "27",
+            "size": 396287707,
+            "icon": "img/shapeshifter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/shapeshifter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/shapeshifter.ipa",
+            "bundleIdentifier": "com.rikzu.shapeshifter.animal.run",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة → الإنفاق/الربح\r\n- شراء داخل التطبيق مجانًا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shapeshifter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shapeshifter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shapeshifter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shapeshifter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shapeshifter_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shapeshifter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shapeshifter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shapeshifter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shapeshifter_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "27",
+                    "date": "2026-11-09T05:13:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/shapeshifter.ipa",
+                    "size": 396287707,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shapeshifter_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shapeshifter_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shapeshifter_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shapeshifter_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1344838626,
+            "name": "Hero Age",
+            "version": "6.2.10",
+            "size": 185394263,
+            "icon": "img/heroage.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/heroage.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/heroage.ipa",
+            "bundleIdentifier": "com.gnik.heroage",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ضربة قاضية\r\n- اضبط الألماس على 100000\r\n- العدو لا يتحرك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heroage.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroage_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroage_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroage_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroage_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroage_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroage_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroage_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroage_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "6.2.10",
+                    "date": "2026-11-09T05:13:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/heroage.ipa",
+                    "size": 185394263,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroage_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroage_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroage_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroage_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1213851063,
             "name": "Arrows & Cats: Rescue Puzzle",
             "version": "1.5.2",
