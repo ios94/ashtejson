@@ -10,6 +10,483 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1499571777,
+            "name": "FS 20+",
+            "version": "1.1.14",
+            "size": 711960132,
+            "icon": "img/fs20.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/fs20.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/fs20.ipa",
+            "bundleIdentifier": "com.giants-software.fs20plus",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة مُحاكي المُزارع ، نسخة الآركيد .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fs20.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fs20_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fs20_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fs20_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fs20_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fs20_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fs20_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fs20_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fs20_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.14",
+                    "date": "2026-11-09T11:59:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/fs20.ipa",
+                    "size": 711960132,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fs20_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fs20_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fs20_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fs20_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1942343140,
+            "name": "Forager",
+            "version": "1.0.5",
+            "size": 171482273,
+            "icon": "img/forager.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/forager.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/forager.ipa",
+            "bundleIdentifier": "com.humblebundle.Forager",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مدفوعة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/forager.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forager_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forager_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forager_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forager_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forager_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forager_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.5",
+                    "date": "2026-11-09T11:58:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/forager.ipa",
+                    "size": 171482273,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forager_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forager_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forager_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1416428116,
+            "name": "Monsters AutoWin",
+            "version": "15.2.4",
+            "size": 174470169,
+            "icon": "img/monstersautowin.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/monstersautowin.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/monstersautowin.ipa",
+            "bundleIdentifier": "es.socialpoint.MonsterCity2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تقييم عالي ( 3 نجوم دومًا ) .\r\n- فوز تلقائي .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monstersautowin.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersautowin_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersautowin_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersautowin_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersautowin_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersautowin_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersautowin_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersautowin_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersautowin_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "15.2.4",
+                    "date": "2026-11-09T11:58:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/monstersautowin.ipa",
+                    "size": 174470169,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersautowin_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersautowin_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersautowin_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstersautowin_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1484164577,
+            "name": "Kitchen Swipe",
+            "version": "0.4.50",
+            "size": 473408348,
+            "icon": "img/kitchenswipe.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/kitchenswipe.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/kitchenswipe.ipa",
+            "bundleIdentifier": "com.sugarcup.leswipe",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kitchenswipe.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kitchenswipe_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kitchenswipe_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kitchenswipe_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kitchenswipe_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kitchenswipe_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kitchenswipe_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kitchenswipe_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kitchenswipe_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.4.50",
+                    "date": "2026-11-09T11:57:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/kitchenswipe.ipa",
+                    "size": 473408348,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kitchenswipe_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kitchenswipe_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kitchenswipe_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kitchenswipe_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1396177931,
+            "name": "Bear Party",
+            "version": "2.5",
+            "size": 406605209,
+            "icon": "img/bearparty.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/bearparty.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/bearparty.ipa",
+            "bundleIdentifier": "com.games.bearparty",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bearparty.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bearparty_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bearparty_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bearparty_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bearparty_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bearparty_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bearparty_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bearparty_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bearparty_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.5",
+                    "date": "2026-11-09T11:57:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/bearparty.ipa",
+                    "size": 406605209,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bearparty_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bearparty_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bearparty_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bearparty_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1285205227,
+            "name": "Balls Out 3D",
+            "version": "97",
+            "size": 217579809,
+            "icon": "img/ballsout3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/ballsout3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/ballsout3d.ipa",
+            "bundleIdentifier": "com.games.ballsout3d",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ballsout3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsout3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsout3d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsout3d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsout3d_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsout3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsout3d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsout3d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsout3d_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "97",
+                    "date": "2026-11-09T11:56:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/ballsout3d.ipa",
+                    "size": 217579809,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsout3d_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsout3d_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsout3d_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballsout3d_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1463317671,
+            "name": "BeautyShop3D",
+            "version": "1.0.2",
+            "size": 328026823,
+            "icon": "img/beautyshop3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/beautyshop3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/beautyshop3d.ipa",
+            "bundleIdentifier": "com.millecrepestudios.beautyshop",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/beautyshop3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beautyshop3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beautyshop3d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beautyshop3d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beautyshop3d_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beautyshop3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beautyshop3d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beautyshop3d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beautyshop3d_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.2",
+                    "date": "2026-11-09T11:56:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/beautyshop3d.ipa",
+                    "size": 328026823,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beautyshop3d_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beautyshop3d_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beautyshop3d_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beautyshop3d_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1985309116,
+            "name": "Circle the Fish",
+            "version": "0.6.8",
+            "size": 153162797,
+            "icon": "img/circlethefish.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/circlethefish.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/circlethefish.ipa",
+            "bundleIdentifier": "circle.fishing",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/circlethefish.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circlethefish_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circlethefish_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circlethefish_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circlethefish_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circlethefish_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circlethefish_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circlethefish_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circlethefish_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.6.8",
+                    "date": "2026-11-09T11:56:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/circlethefish.ipa",
+                    "size": 153162797,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circlethefish_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circlethefish_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circlethefish_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circlethefish_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1212024965,
+            "name": "Join Numbers",
+            "version": "2.2",
+            "size": 327889349,
+            "icon": "img/joinnumbers.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/joinnumbers.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/joinnumbers.ipa",
+            "bundleIdentifier": "com.noorgames.joinnumbers",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/joinnumbers.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/joinnumbers_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/joinnumbers_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/joinnumbers_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/joinnumbers_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/joinnumbers_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/joinnumbers_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/joinnumbers_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/joinnumbers_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.2",
+                    "date": "2026-11-09T11:55:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/joinnumbers.ipa",
+                    "size": 327889349,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/joinnumbers_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/joinnumbers_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/joinnumbers_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/joinnumbers_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1274312984,
+            "name": "Epic Conquest",
+            "version": "6.1",
+            "size": 686367355,
+            "icon": "img/epicconquest.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/epicconquest.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/epicconquest.ipa",
+            "bundleIdentifier": "com.gacogames.epiccon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات:\n• اللاعب لا يموت .\n• اضافة الذهب .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/epicconquest.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicconquest_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicconquest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicconquest_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicconquest_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicconquest_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicconquest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicconquest_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicconquest_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.1",
+                    "date": "2026-11-09T11:55:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/epicconquest.ipa",
+                    "size": 686367355,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicconquest_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicconquest_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicconquest_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicconquest_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1865053379,
             "name": "Ninja Assassin",
             "version": "1.3.0",
