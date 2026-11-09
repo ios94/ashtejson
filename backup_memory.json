@@ -10,6 +10,468 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1619459430,
+            "name": "Canary",
+            "version": "4.63.0",
+            "size": 141623193,
+            "icon": "img/canary.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/canary.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/canary.ipa",
+            "bundleIdentifier": "Mailroom.Canary-iOS",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لتصفح البريد الإلكتروني مع كامل المزايا .\n\n- ملاحظة : التطبيق يُعد من أفضل التطبيقات لأنه يرسل لك إشعار في حال الطرف الآخر فتح الإيميل اللي ارسلته له 👍🏻 .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/canary.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/canary_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/canary_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/canary_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/canary_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/canary_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/canary_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/canary_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/canary_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.63.0",
+                    "date": "2026-11-09T16:58:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/canary.ipa",
+                    "size": 141623193,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/canary_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/canary_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/canary_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/canary_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1615461065,
+            "name": "Parlor",
+            "version": "5.6.8",
+            "size": 117520366,
+            "icon": "img/parlor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/parlor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/parlor.ipa",
+            "bundleIdentifier": "fm.parlor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "خاص بالمكالمات والدردشه\n\nمَلاحظة : إضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/parlor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parlor_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parlor_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parlor_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parlor_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parlor_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parlor_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parlor_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parlor_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.6.8",
+                    "date": "2026-11-09T16:58:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/parlor.ipa",
+                    "size": 117520366,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parlor_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parlor_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parlor_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parlor_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1690569435,
+            "name": "NxB NV",
+            "version": "11.9.0",
+            "size": 249952169,
+            "icon": "img/nxbnv.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/nxbnv.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/nxbnv.ipa",
+            "bundleIdentifier": "jp.co.bandainamcoent.BNEI0306",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مضاعفة الهجوم\n- مضاعفة الدفاع\n- مانا لا محدود\n- مهارة فورية (استخدم بحذر، معدل الحظر مرتفع)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nxbnv.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nxbnv.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nxbnv.png"
+            ],
+            "versions": [
+                {
+                    "version": "11.9.0",
+                    "date": "2026-11-09T16:57:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/nxbnv.ipa",
+                    "size": 249952169,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nxbnv.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1313084814,
+            "name": "Shoof Tv",
+            "version": "6.0",
+            "size": 36019306,
+            "icon": "img/shooftv.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/shooftv.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/shooftv.ipa",
+            "bundleIdentifier": "org.app.shoof.tv",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لمشاهدة الافلامّ اللليبية . \n\n- بدون إعلانات .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shooftv.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shooftv_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shooftv_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shooftv_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shooftv_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shooftv_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shooftv_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shooftv_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shooftv_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.0",
+                    "date": "2026-11-09T16:57:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/shooftv.ipa",
+                    "size": 36019306,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shooftv_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shooftv_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shooftv_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shooftv_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1195219228,
+            "name": "Space Justice",
+            "version": "14.1.7331",
+            "size": 751148387,
+            "icon": "img/spacejustice.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/spacejustice.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/spacejustice.ipa",
+            "bundleIdentifier": "com.my.space.justice",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n- ضربة واحدة تقتل .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spacejustice.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacejustice_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacejustice_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacejustice_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacejustice_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacejustice_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacejustice_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacejustice_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacejustice_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "14.1.7331",
+                    "date": "2026-11-09T16:57:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/spacejustice.ipa",
+                    "size": 751148387,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacejustice_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacejustice_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacejustice_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spacejustice_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1356973208,
+            "name": "トレクル",
+            "version": "14.2.0",
+            "size": 112989478,
+            "icon": "img/app95f35fa8b0.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/app95f35fa8b0.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/app95f35fa8b0.ipa",
+            "bundleIdentifier": "jp.co.bandainamcogames.NBGI0199",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n- ضربة واحدة تقتل .\n- لايموت .\n- مربع كبار الشخصيات .\n- الفوز التلقائي بالمهارة .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app95f35fa8b0.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app95f35fa8b0.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app95f35fa8b0.png"
+            ],
+            "versions": [
+                {
+                    "version": "14.2.0",
+                    "date": "2026-11-09T16:56:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/app95f35fa8b0.ipa",
+                    "size": 112989478,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app95f35fa8b0.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1991320767,
+            "name": "King's Party",
+            "version": "2.5",
+            "size": 801389260,
+            "icon": "img/kingsparty.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/kingsparty.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/kingsparty.ipa",
+            "bundleIdentifier": "com.inwave.kingparty.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )\n\nوصف التطبيق: \n\nKing Party هو لاعب مكون من 6 لاعبين عبر الإنترنت ولديه سلسلة من الألعاب المصغرة المثيرة. تعد لعبة Battle Royale النهائية للحفلات ممتعة حقًا، مع إضافة أفكار وأوضاع لعب جديدة، وهي عبارة عن الكثير من الألعاب التي يمكن الوصول إليها بسهولة.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kingsparty.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsparty_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsparty_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsparty_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsparty_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsparty_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsparty_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsparty_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsparty_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.5",
+                    "date": "2026-11-09T16:56:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/kingsparty.ipa",
+                    "size": 801389260,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsparty_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsparty_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsparty_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsparty_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1889091861,
+            "name": "Pop Adventure",
+            "version": "2.2.6",
+            "size": 315982314,
+            "icon": "img/popadventure.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/popadventure.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/popadventure.ipa",
+            "bundleIdentifier": "com.BPDragon.PopAdventure",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )\n\nوصف التطبيق : \n\nBubble Shooter - Pop Adventure هي لعبة إطلاق الفقاعات الأكثر شعبية ويمكنك الانضمام إلى المغامرة الآن.\nأطلق النار على الفقاعات وفرقعها في ثلاثة لاستكشاف اللعبة الغامضة المحيرة. قم بتفجير الفقاعات وتطابقها وفرقعةها لكسر الأواني وجمع جميع أنواع الأحجار الكريمة وتربية كلبك الأليف.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/popadventure.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popadventure_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popadventure_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popadventure_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popadventure_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popadventure_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popadventure_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popadventure_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popadventure_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.2.6",
+                    "date": "2026-11-09T16:55:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/popadventure.ipa",
+                    "size": 315982314,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popadventure_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popadventure_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popadventure_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popadventure_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1143129011,
+            "name": "Love Choices",
+            "version": "2.2.2",
+            "size": 604032901,
+            "icon": "img/lovechoices.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/lovechoices.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/lovechoices.ipa",
+            "bundleIdentifier": "ios.love.choices.makeover.story.merge.stylist",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )\n\nوصف التطبيق:\n\n مرحبًا بك في \"Love Choices\"، لعبة الأزياء المثالية حيث يمكنك إنشاء أسلوبك الفريد واستكشاف قصص رومانسية مختلفة. في هذه اللعبة، يمكنك دمج الملابس وتغييرها لإنشاء مظهر خاص بك تمامًا. مع مجموعة واسعة من خيارات الملابس، بما في ذلك الفساتين والتنانير والقمصان والأحذية والإكسسوارات، فإن الاحتمالات لا حصر لها.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lovechoices.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovechoices_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovechoices_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovechoices_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovechoices_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovechoices_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovechoices_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovechoices_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovechoices_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.2.2",
+                    "date": "2026-11-09T16:55:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/lovechoices.ipa",
+                    "size": 604032901,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovechoices_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovechoices_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovechoices_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovechoices_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1784311355,
+            "name": "Multido Sorting",
+            "version": "1.0.0",
+            "size": 364350459,
+            "icon": "img/multidosorting.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/multidosorting.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/multidosorting.ipa",
+            "bundleIdentifier": "com.multido.sweet.sort",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )\n\nوصف التطبيق: \n\nيسعد Multi DO Sort أن يأخذك على متن الطائرة لمغامرة فرز الألوان النهائية. اكتشف أحجية ملونة ذات طابع خاص يسهل التقاطها ومن المستحيل تركها. قم بتنشيط وضع فرز الكعك الخاص بك وشحذ عقلك من خلال تنظيم مجموعات من الحلوى السكرية. إنها مثل لعبة التنظيم المفضلة لديك، ولكنها أحلى، مع الشوكولاتة والسكر البودرة في الأعلى. دع الأوقات الجيدة تحلى بألعاب الفرز الجديدة.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/multidosorting.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/multidosorting_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/multidosorting_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/multidosorting_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/multidosorting_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/multidosorting_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/multidosorting_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/multidosorting_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/multidosorting_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "date": "2026-11-09T16:54:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/multidosorting.ipa",
+                    "size": 364350459,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/multidosorting_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/multidosorting_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/multidosorting_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/multidosorting_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1426188902,
             "name": "Autokill Sandbox",
             "version": "1.1",
