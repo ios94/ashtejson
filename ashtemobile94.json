@@ -10,6 +10,429 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1570053119,
+            "name": "Build Your Vehicle",
+            "version": "1.4.0",
+            "size": 279726434,
+            "icon": "img/buildyourvehicle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/buildyourvehicle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/buildyourvehicle.ipa",
+            "bundleIdentifier": "com.clapclap.buildyourvehicle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل التطبيق مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )\n\nوصف التطبيق: \n\nقم ببناء سيارة أحلامك اليوم، في لعبة Build Your Vehicle! هل سئمت من كومة الخردة المتراكمة؟ حان الوقت لتبديله والاستمتاع على طول الطريق! تسابق حتى خط النهاية، واستعرض رحلتك الجديدة الرائعة في أحدث ابتكاراتنا الناجحة! مع بعض الضبط الدقيق، هل ستصل سيارتك إلى نهاية الطريق؟",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/buildyourvehicle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/buildyourvehicle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/buildyourvehicle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/buildyourvehicle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/buildyourvehicle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/buildyourvehicle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/buildyourvehicle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/buildyourvehicle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/buildyourvehicle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.0",
+                    "date": "2026-11-09T10:11:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/buildyourvehicle.ipa",
+                    "size": 279726434,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/buildyourvehicle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/buildyourvehicle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/buildyourvehicle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/buildyourvehicle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1487468780,
+            "name": "미소녀 도굴단: 방치형 RPG",
+            "version": "1.0.8",
+            "size": 976763438,
+            "icon": "img/rpg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/rpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/rpg.ipa",
+            "bundleIdentifier": "com.joApps.MinerRPG",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Damage Multiplier\n- Infinite Power Mode\n- Freeze CurrenciesVIP\n- Unlimited Currencies -> Will increase instead of decrease.\n- Add Currencies -> Head into Settings and toggle any FPS button.\n\n- ضرر مضاعف\r\n- وضع الطاقة اللانهائي\r\n- تجميد العملاتVIP\r\n- عملات غير محدودة (تزيد ماتنقص).\r\n- أضف العملات -> توجه إلى الإعدادات وقم بتبديل أي زر FPS.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rpg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rpg.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rpg.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.8",
+                    "date": "2026-11-09T10:10:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/rpg.ipa",
+                    "size": 976763438,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rpg.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1173768137,
+            "name": "Al Quran",
+            "version": "1.43",
+            "size": 20099596,
+            "icon": "img/alquran.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/alquran.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/alquran.ipa",
+            "bundleIdentifier": "com.romanApps.umair.AlQuranEnglish",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/alquran.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alquran_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alquran_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alquran_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alquran_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alquran_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alquran_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alquran_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alquran_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.43",
+                    "date": "2026-11-09T10:09:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/alquran.ipa",
+                    "size": 20099596,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alquran_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alquran_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alquran_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alquran_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1135029687,
+            "name": "مصمم صور",
+            "version": "1.2",
+            "size": 126196116,
+            "icon": "img/appbaecdeb59d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/appbaecdeb59d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/appbaecdeb59d.ipa",
+            "bundleIdentifier": "com.rommanapps.TahnieaTwo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك\r\n\r\n#حصريا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/appbaecdeb59d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbaecdeb59d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbaecdeb59d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbaecdeb59d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbaecdeb59d_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbaecdeb59d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbaecdeb59d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbaecdeb59d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbaecdeb59d_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-09T10:09:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/appbaecdeb59d.ipa",
+                    "size": 126196116,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbaecdeb59d_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbaecdeb59d_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbaecdeb59d_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbaecdeb59d_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1263780244,
+            "name": "فوتو",
+            "version": "1.0",
+            "size": 45511034,
+            "icon": "img/appc7ffaa7c11.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/appc7ffaa7c11.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/appc7ffaa7c11.ipa",
+            "bundleIdentifier": "com.rommanapps.Phonto",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/appc7ffaa7c11.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc7ffaa7c11_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc7ffaa7c11_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc7ffaa7c11_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc7ffaa7c11_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc7ffaa7c11_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc7ffaa7c11_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc7ffaa7c11_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc7ffaa7c11_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2026-11-09T10:09:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/appc7ffaa7c11.ipa",
+                    "size": 45511034,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc7ffaa7c11_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc7ffaa7c11_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc7ffaa7c11_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc7ffaa7c11_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1433546353,
+            "name": "المحترف",
+            "version": "1.4",
+            "size": 156499132,
+            "icon": "img/appd70e798aef.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/appd70e798aef.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/appd70e798aef.ipa",
+            "bundleIdentifier": "com.rommanapps.almohtaref",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك\r\n\r\n#حصريا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/appd70e798aef.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd70e798aef_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd70e798aef_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd70e798aef_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd70e798aef_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd70e798aef_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd70e798aef_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd70e798aef_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd70e798aef_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4",
+                    "date": "2026-11-09T10:09:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/appd70e798aef.ipa",
+                    "size": 156499132,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd70e798aef_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd70e798aef_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd70e798aef_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appd70e798aef_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1291974914,
+            "name": "SaveTheGirl",
+            "version": "1.9.0",
+            "size": 408410826,
+            "icon": "img/savethegirl.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/savethegirl.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/savethegirl.ipa",
+            "bundleIdentifier": "com.xmgame.savethegirl",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "الفلوس لا نهائي.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/savethegirl.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethegirl_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethegirl_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethegirl_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethegirl_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethegirl_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethegirl_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethegirl_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethegirl_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.0",
+                    "date": "2026-11-09T10:08:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/savethegirl.ipa",
+                    "size": 408410826,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethegirl_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethegirl_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethegirl_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/savethegirl_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1247805071,
+            "name": "My Success",
+            "version": "3.5.1",
+            "size": 198373924,
+            "icon": "img/mysuccess.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/mysuccess.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/mysuccess.ipa",
+            "bundleIdentifier": "ios.simulation.winner.master",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mysuccess.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccess_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccess_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccess_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccess_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccess_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccess_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccess_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccess_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.5.1",
+                    "date": "2026-11-09T10:08:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/mysuccess.ipa",
+                    "size": 198373924,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccess_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccess_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccess_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysuccess_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1918519420,
+            "name": "Cleaning Idle",
+            "version": "2.9.8",
+            "size": 243194786,
+            "icon": "img/cleaningidle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/cleaningidle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/cleaningidle.ipa",
+            "bundleIdentifier": "com.AppSwim.CleaningIdle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cleaningidle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaningidle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaningidle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaningidle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaningidle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaningidle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaningidle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaningidle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaningidle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.9.8",
+                    "date": "2026-11-09T10:08:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/cleaningidle.ipa",
+                    "size": 243194786,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaningidle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaningidle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaningidle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleaningidle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1690559075,
             "name": "WordBlobs",
             "version": "1.4.6",
