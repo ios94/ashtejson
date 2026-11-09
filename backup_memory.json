@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1426330984,
+            "name": "Monster Attack 3D",
+            "version": "1.0.11",
+            "size": 339062201,
+            "icon": "img/monsterattack3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/monsterattack3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/monsterattack3d.ipa",
+            "bundleIdentifier": "com.monster.archer.attack.sniper.shooter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الاعلانات\n- طلقة واحدة تقتل \n- ذخيرة لا نهائي\n\nوصف التطبيق:\n\n ادخل إلى عالم \"Monster Archer\" المثير! في هذه اللعبة، عليك أن تصبح رامي السهام الذي يجب عليه هزيمة الوحوش العملاقة عن طريق الانتقال من مكان للاختباء إلى آخر. الأمر كله يتعلق بالركض والاختباء والقضاء على الأعداء الهائلين!",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monsterattack3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterattack3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterattack3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterattack3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterattack3d_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterattack3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterattack3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterattack3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterattack3d_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.11",
+                    "date": "2026-11-09T16:40:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/monsterattack3d.ipa",
+                    "size": 339062201,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterattack3d_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterattack3d_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterattack3d_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterattack3d_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1963232603,
+            "name": "Dino Run",
+            "version": "10.4",
+            "size": 494220371,
+            "icon": "img/dinorun.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/dinorun.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/dinorun.ipa",
+            "bundleIdentifier": "com.spiky.DinoRun",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- اموال عدد لا نهائي\n- الغاء الأعلانات\n\nوصف التطبيق: \n\nمرحبًا بك في لعبة Dino Run، لعبة الجري المثالية التي تأخذك في رحلة مذهلة عبر عالم ما قبل التاريخ. هذه ليست مجرد لعبة ديناصورات عادية؛ إنها لعبة هروب دينو مليئة بالإثارة والتي ستبقيك على حافة مقعدك.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dinorun.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinorun_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinorun_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinorun_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinorun_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinorun_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinorun_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinorun_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinorun_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "10.4",
+                    "date": "2026-11-09T16:40:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/dinorun.ipa",
+                    "size": 494220371,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinorun_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinorun_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinorun_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinorun_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1671889187,
+            "name": "Robbery Rampage",
+            "version": "1.0.6",
+            "size": 277086678,
+            "icon": "img/robberyrampage.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/robberyrampage.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/robberyrampage.ipa",
+            "bundleIdentifier": "studio.tg.robbery.rampage",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- النقود عدد لا نهائي \n- الذهب عدد لا نهائي\n- الغاء الأعلانات\n\n- تنبية عند دخول للعبة اقفلها وادخل من جديد ليتفعل الهاك \n\nوصف التطبيق:\n\n انغمس في قلب الحدث مع لعبة Robbery Rampage، حيث تكون كل عملية سرقة عبارة عن لعبة استراتيجية وقوة نارية عالية المخاطر. اختر أهدافك، من البنوك إلى المتاحف، وخطط لنهجك. جهز ترسانة واسعة من الأسلحة، وخصص نفسك بمهارات فريدة، وتغلب على التحديات باستخدام التخفي أو الأسلحة النارية. بفضل الرسومات المذهلة واللعب الغامر، تدفعك كل مهمة إلى أن تصبح العقل المدبر الإجرامي للعالم السفلي.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/robberyrampage.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robberyrampage_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robberyrampage_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robberyrampage_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robberyrampage_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robberyrampage_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robberyrampage_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robberyrampage_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robberyrampage_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.6",
+                    "date": "2026-11-09T16:39:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/robberyrampage.ipa",
+                    "size": 277086678,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robberyrampage_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robberyrampage_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robberyrampage_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robberyrampage_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1890624728,
+            "name": "رشاقة",
+            "version": "14.2",
+            "size": 333208118,
+            "icon": "img/app4eb02184bf.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/app4eb02184bf.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/app4eb02184bf.ipa",
+            "bundleIdentifier": "com.madarsoft.fitness",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "#مطلوب\n\nللرشاقة واللياقة البدنية\n\nمفتوح المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app4eb02184bf.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app4eb02184bf_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app4eb02184bf_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app4eb02184bf_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app4eb02184bf_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app4eb02184bf_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app4eb02184bf_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app4eb02184bf_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app4eb02184bf_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "14.2",
+                    "date": "2026-11-09T16:39:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/app4eb02184bf.ipa",
+                    "size": 333208118,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app4eb02184bf_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app4eb02184bf_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app4eb02184bf_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app4eb02184bf_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1997240914,
+            "name": "Alphabetris",
+            "version": "12.0.3",
+            "size": 477317645,
+            "icon": "img/alphabetris.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/alphabetris.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/alphabetris.ipa",
+            "bundleIdentifier": "com.emrenayir.alphabetrisios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- اموال عدد لا محدود\n- الغاء الأعلانات\n\nوصف التطبيق:\n\n انغمس في عالم Alphabatris! إنها مغامرة أبجدية مع الحروف الهجائية المبهجة. انقر، وقم بالتبديل، ومطابقة كتل الحروف، وتكوين الكلمات، ومسح اللوحة، ورفع درجاتك العالية! افتح شكا من القوة، ومستويات التحدي، واستمتع بمتعة مثيرة للعقل. العب مئات الألغاز",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/alphabetris.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alphabetris_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alphabetris_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alphabetris_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alphabetris_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alphabetris_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alphabetris_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alphabetris_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alphabetris_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "12.0.3",
+                    "date": "2026-11-09T16:38:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/alphabetris.ipa",
+                    "size": 477317645,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alphabetris_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alphabetris_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alphabetris_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alphabetris_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1307375268,
+            "name": "Mortar Clash 3D",
+            "version": "2.10.1",
+            "size": 279733784,
+            "icon": "img/mortarclash3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/mortarclash3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/mortarclash3d.ipa",
+            "bundleIdentifier": "com.matchingham.mortarclash",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا نهائي \n- الغاء الأعلانات\n\nوصف التطبيق :\n\n استمتع بلعبة الحرب هذه حيث يجب عليك تدمير الدبابات والطائرات والمروحيات والأهداف بمجموعة من آلات الحرب المذهلة، وخاصة قذائف الهاون! هل أنت مستعد للعمل لتكون سيد ألعاب المعركة؟",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mortarclash3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mortarclash3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mortarclash3d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mortarclash3d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mortarclash3d_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mortarclash3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mortarclash3d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mortarclash3d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mortarclash3d_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.10.1",
+                    "date": "2026-11-09T16:37:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/mortarclash3d.ipa",
+                    "size": 279733784,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mortarclash3d_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mortarclash3d_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mortarclash3d_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mortarclash3d_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1773818210,
+            "name": "Wedding Judge",
+            "version": "6.7",
+            "size": 348996895,
+            "icon": "img/weddingjudge.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/weddingjudge.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/weddingjudge.ipa",
+            "bundleIdentifier": "com.hitgames.weddingjudge.os",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود عدد لا محدود ( اكسب بعض النقود ثم اغلق اللعبة واعد فتحها وسوف تحصل على النقود )\n\nوصف التطبيق: \n\nهل تبحث عن لعبة ممتعة وجذابة تختبر مهاراتك في اتخاذ القرار؟ لا تبحث أبعد من أحدث ألعاب الزواج لدينا! في هذه اللعبة، ستتم تكليفك باتخاذ قرار بشأن ما إذا كان ينبغي للزوجين الزواج أم لا بناءً على توافقهم ووضعهم المالي وتفضيلاتهم الشخصية. مع مجموعة واسعة من الشخصيات للاختيار من بينها وإمكانيات لا حصر لها",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/weddingjudge.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weddingjudge_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weddingjudge_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weddingjudge_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weddingjudge_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weddingjudge_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weddingjudge_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weddingjudge_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weddingjudge_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.7",
+                    "date": "2026-11-09T16:37:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/weddingjudge.ipa",
+                    "size": 348996895,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weddingjudge_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weddingjudge_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weddingjudge_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weddingjudge_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1285404884,
+            "name": "Craft And Merge",
+            "version": "1.12",
+            "size": 369328404,
+            "icon": "img/craftandmerge.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/craftandmerge.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/craftandmerge.ipa",
+            "bundleIdentifier": "com.FurtleGame.CraftMerge",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- اموال عدد لا نهائي\n- تكتات عدد لا نهائي\n\nوصف التطبيق:\n\n بطلك يحتاج إليك. هل يمكنك مساعدته في هذا الكون المكعب؟\nاكسر البيض وأنشئ الوحوش ودافع عن قاعدتك.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/craftandmerge.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/craftandmerge_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/craftandmerge_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/craftandmerge_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/craftandmerge_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/craftandmerge_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/craftandmerge_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/craftandmerge_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/craftandmerge_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.12",
+                    "date": "2026-11-09T16:37:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/craftandmerge.ipa",
+                    "size": 369328404,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/craftandmerge_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/craftandmerge_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/craftandmerge_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/craftandmerge_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1209925255,
+            "name": "Furniverse: Swedish Furnishing",
+            "version": "1.6.16",
+            "size": 285420889,
+            "icon": "img/furniverseswedishfurnishing.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/furniverseswedishfurnishing.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/furniverseswedishfurnishing.ipa",
+            "bundleIdentifier": "com.spacetimelevel4.furniverse",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود عدد لا محدود ( اكسب بعض النقود ثم اغلق اللعبة واعد فتحها وسوف تحصل على النقود )\n- الغاء الأعلانات \n\nوصف التطبيق : \n\nمرحبًا بك في تجربة تسوق الأثاث المثالية! انغمس في عالم التصميم الداخلي وإدارة الأعمال من خلال لعبتنا الغامرة، حيث تصبح المالك الفخور لمتجر أثاث مزدحم. قم بإدارة متجرك وتلبية احتياجات العملاء وشاهد عملك يزدهر بينما تكسب الأرباح وتوسع مخزونك بقطع أثاث فريدة وأنيقة.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/furniverseswedishfurnishing.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/furniverseswedishfurnishing.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/furniverseswedishfurnishing.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.16",
+                    "date": "2026-11-09T16:36:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/furniverseswedishfurnishing.ipa",
+                    "size": 285420889,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/furniverseswedishfurnishing.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1817874210,
+            "name": "Widgy",
+            "version": "4.0.3",
+            "size": 176813270,
+            "icon": "img/widgy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/widgy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/widgy.ipa",
+            "bundleIdentifier": "com.woodsign.Widgy",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "#مطلوب \nلتعديل واضافة الويدجت ومميزات كثيرة \n\nملاحظة : اضغط شراء ثم الغاء لفتح المزايا .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/widgy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/widgy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/widgy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/widgy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/widgy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/widgy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/widgy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/widgy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/widgy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.0.3",
+                    "date": "2026-11-09T16:36:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/widgy.ipa",
+                    "size": 176813270,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/widgy_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/widgy_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/widgy_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/widgy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1755346879,
             "name": "Help Me",
             "version": "1.6.1",
