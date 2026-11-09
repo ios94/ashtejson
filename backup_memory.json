@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1813846578,
+            "name": "Flexy Ring",
+            "version": "1.0.49",
+            "size": 232489723,
+            "icon": "img/flexyring.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/flexyring.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/flexyring.ipa",
+            "bundleIdentifier": "flexy.rings.game",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "الغاء الإعلانات.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/flexyring.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flexyring_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flexyring_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flexyring_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flexyring_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flexyring_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flexyring_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flexyring_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flexyring_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.49",
+                    "date": "2026-11-09T13:35:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/flexyring.ipa",
+                    "size": 232489723,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flexyring_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flexyring_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flexyring_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flexyring_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1643171445,
+            "name": "How to loot",
+            "version": "6.5",
+            "size": 148735415,
+            "icon": "img/howtoloot.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/howtoloot.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/howtoloot.ipa",
+            "bundleIdentifier": "com.BANANA.HowToLoot",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/howtoloot.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/howtoloot_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/howtoloot_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/howtoloot_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/howtoloot_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/howtoloot_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/howtoloot_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/howtoloot_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/howtoloot_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.5",
+                    "date": "2026-11-09T13:34:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/howtoloot.ipa",
+                    "size": 148735415,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/howtoloot_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/howtoloot_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/howtoloot_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/howtoloot_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1595177859,
+            "name": "Theme Park Rush",
+            "version": "0.0.5",
+            "size": 120107880,
+            "icon": "img/themeparkrush.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/themeparkrush.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/themeparkrush.ipa",
+            "bundleIdentifier": "com.dtg.themeparkrush",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "فلوس لا نهائي .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/themeparkrush.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themeparkrush_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themeparkrush_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themeparkrush_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themeparkrush_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themeparkrush_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themeparkrush_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themeparkrush_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themeparkrush_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.5",
+                    "date": "2026-11-09T13:34:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/themeparkrush.ipa",
+                    "size": 120107880,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themeparkrush_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themeparkrush_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themeparkrush_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themeparkrush_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1138581028,
+            "name": "Kelime Gezmece",
+            "version": "4.6.19",
+            "size": 236014018,
+            "icon": "img/kelimegezmece.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/kelimegezmece.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/kelimegezmece.ipa",
+            "bundleIdentifier": "com.bigstarkids.wordtravelturkish",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kelimegezmece.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kelimegezmece_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kelimegezmece_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kelimegezmece_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kelimegezmece_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kelimegezmece_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kelimegezmece_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kelimegezmece_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kelimegezmece_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.6.19",
+                    "date": "2026-11-09T13:34:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/kelimegezmece.ipa",
+                    "size": 236014018,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kelimegezmece_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kelimegezmece_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kelimegezmece_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kelimegezmece_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1451972333,
+            "name": "Pool Ride - Water Park Racing",
+            "version": "3.2",
+            "size": 304125364,
+            "icon": "img/poolridewaterparkracing.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/poolridewaterparkracing.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/poolridewaterparkracing.ipa",
+            "bundleIdentifier": "com.arillabs.pool.ride.water.park.racing",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/poolridewaterparkracing.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/poolridewaterparkracing.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/poolridewaterparkracing.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.2",
+                    "date": "2026-11-09T13:34:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/poolridewaterparkracing.ipa",
+                    "size": 304125364,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/poolridewaterparkracing.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1452445687,
+            "name": "My Burger House",
+            "version": "1.0.27",
+            "size": 445787681,
+            "icon": "img/myburgerhouse.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/myburgerhouse.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/myburgerhouse.ipa",
+            "bundleIdentifier": "com.jeeneesoft.myburgershopsimulator",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/myburgerhouse.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myburgerhouse_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myburgerhouse_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myburgerhouse_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myburgerhouse_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myburgerhouse_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myburgerhouse_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myburgerhouse_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myburgerhouse_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.27",
+                    "date": "2026-11-09T13:33:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/myburgerhouse.ipa",
+                    "size": 445787681,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myburgerhouse_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myburgerhouse_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myburgerhouse_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myburgerhouse_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1546059248,
+            "name": "Merchant Mike",
+            "version": "1.0.9",
+            "size": 285087551,
+            "icon": "img/merchantmike.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/merchantmike.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/merchantmike.ipa",
+            "bundleIdentifier": "com.merchant.mike",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/merchantmike.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantmike_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantmike_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantmike_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantmike_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantmike_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantmike_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantmike_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantmike_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.9",
+                    "date": "2026-11-09T13:33:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/merchantmike.ipa",
+                    "size": 285087551,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantmike_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantmike_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantmike_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantmike_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1205507085,
+            "name": "Color Monster DOP Story",
+            "version": "1.0.25",
+            "size": 179909359,
+            "icon": "img/colormonsterdopstory.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/colormonsterdopstory.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/colormonsterdopstory.ipa",
+            "bundleIdentifier": "com.rainbow.bluemonster.deleteonepart",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/colormonsterdopstory.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colormonsterdopstory_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colormonsterdopstory_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colormonsterdopstory_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colormonsterdopstory_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colormonsterdopstory_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colormonsterdopstory_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colormonsterdopstory_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colormonsterdopstory_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.25",
+                    "date": "2026-11-09T13:32:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/colormonsterdopstory.ipa",
+                    "size": 179909359,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colormonsterdopstory_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colormonsterdopstory_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colormonsterdopstory_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colormonsterdopstory_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1911928270,
+            "name": "BrainUp",
+            "version": "1.0.36",
+            "size": 193058448,
+            "icon": "img/brainup.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/brainup.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/brainup.ipa",
+            "bundleIdentifier": "com.brainup.thinkoutside",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/brainup.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brainup_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brainup_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brainup_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brainup_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brainup_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brainup_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brainup_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brainup_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.36",
+                    "date": "2026-11-09T13:32:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/brainup.ipa",
+                    "size": 193058448,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brainup_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brainup_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brainup_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/brainup_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1331518188,
+            "name": "Zoo - Happy Animals",
+            "version": "1.4.10",
+            "size": 547873544,
+            "icon": "img/zoohappyanimals.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/zoohappyanimals.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/zoohappyanimals.ipa",
+            "bundleIdentifier": "su.canoe.zoo.elephant",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء االأعلانات\n\nوصف التطبيق : \n\nهل سبق لك أن أردت حلق شعر الألبكة، أو الاستحمام بعجل فيل رائع ولكنه قذر، أو قيادة عمود من الشمبانزي البهلوانية على طول الطريق إلى كومة الموز، أو رمي البطيخ إلى فرس النهر المفترس؟ هذه ليست سوى عدد قليل من المهام المجنونة واللطيفة والممتعة للغاية التي سيتعين عليك القيام بها لإبقاء الحيوانات سعيدة في محاكي حديقة الحيوان الملون والمبهج هذا الذي يقدم مجموعة كاملة من الألعاب المصغرة المسلية التي تتحدى وتسحر وتسلية بنفس القدر يغطي جميع جوانب الحياة في حديقة الحيوان ورعاية الحيوانات.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zoohappyanimals.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zoohappyanimals_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zoohappyanimals_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zoohappyanimals_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zoohappyanimals_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zoohappyanimals_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zoohappyanimals_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zoohappyanimals_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zoohappyanimals_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.10",
+                    "date": "2026-11-09T13:31:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/zoohappyanimals.ipa",
+                    "size": 547873544,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zoohappyanimals_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zoohappyanimals_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zoohappyanimals_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zoohappyanimals_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1689737132,
             "name": "Trivia.io",
             "version": "16.0.5",
