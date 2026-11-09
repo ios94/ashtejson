@@ -10,6 +10,450 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1408257449,
+            "name": "Cannon Heroes",
+            "version": "1.2.27",
+            "size": 254005248,
+            "icon": "img/cannonheroes.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/cannonheroes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/cannonheroes.ipa",
+            "bundleIdentifier": "com.ig.cannon.heroes",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- شراء داخل التطبيق مجانًا\r\n- لا تموت ابدا\r\n- قائمة التصحيح (فعّلها مرة واحدة ثم أعد تشغيل اللعبة. فعّلها مرة أخرى وستظهر قائمة التصحيح)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cannonheroes.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cannonheroes_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cannonheroes_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cannonheroes_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cannonheroes_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cannonheroes_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cannonheroes_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cannonheroes_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cannonheroes_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.27",
+                    "date": "2026-11-09T00:23:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/cannonheroes.ipa",
+                    "size": 254005248,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cannonheroes_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cannonheroes_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cannonheroes_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cannonheroes_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1441384830,
+            "name": "KINK Paradise",
+            "version": "1.4.0",
+            "size": 253073016,
+            "icon": "img/kinkparadise.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/kinkparadise.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/kinkparadise.ipa",
+            "bundleIdentifier": "com.DrGame.Kink",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا يموت أبداً\n- تجميد التحركات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kinkparadise.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kinkparadise.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kinkparadise.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.0",
+                    "date": "2026-11-09T00:22:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/kinkparadise.ipa",
+                    "size": 253073016,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kinkparadise.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1982308851,
+            "name": "UnderSurvival",
+            "version": "2.0.1",
+            "size": 425466902,
+            "icon": "img/undersurvival.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/undersurvival.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/undersurvival.ipa",
+            "bundleIdentifier": "com.dreamplay.undersurvival.apple",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تجميد الإشعاع (الاستكشاف)\n- لا تموت أبدا (استكشاف)\n- قتل ضربة واحدة (استكشاف)\n- قتل ضربة واحدة (دفاع الوحش)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/undersurvival.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/undersurvival.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/undersurvival.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.1",
+                    "date": "2026-11-09T00:22:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/undersurvival.ipa",
+                    "size": 425466902,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/undersurvival.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1930424194,
+            "name": "City Of Survivors",
+            "version": "1.5.18",
+            "size": 608755924,
+            "icon": "img/cityofsurvivors.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/cityofsurvivors.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/cityofsurvivors.ipa",
+            "bundleIdentifier": "com.gatherfun.cityofsurvivors",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- أضف الذهب\r\n- أضف الماس\r\n- أضف الخشب\r\n- أضف لوحا\r\n- إضافة رمز استكشاف\r\n- إضافة قسيمة تخطي الإعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cityofsurvivors.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cityofsurvivors_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cityofsurvivors_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cityofsurvivors_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cityofsurvivors_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cityofsurvivors_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cityofsurvivors_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cityofsurvivors_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cityofsurvivors_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.18",
+                    "date": "2026-11-09T00:22:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/cityofsurvivors.ipa",
+                    "size": 608755924,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cityofsurvivors_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cityofsurvivors_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cityofsurvivors_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cityofsurvivors_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1728875562,
+            "name": "Tiny Reaper: Reborn",
+            "version": "1.2.22",
+            "size": 1034350037,
+            "icon": "img/tinyreaperreborn.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/tinyreaperreborn.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/tinyreaperreborn.ipa",
+            "bundleIdentifier": "com.daerigame.babysasin",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Power Mode\n- One-Hit Kill\n- No Skill Cooldown\n- Dumb Enemies\n\n- وضع الطاقة اللانهائي\n- قتل بضربة واحدة\n- لا يوجد تهدئة المهارة\n- أعداء أغبياء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tinyreaperreborn.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tinyreaperreborn.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tinyreaperreborn.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.22",
+                    "date": "2026-11-09T00:21:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/tinyreaperreborn.ipa",
+                    "size": 1034350037,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tinyreaperreborn.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1214141098,
+            "name": "Hero Z",
+            "version": "0.0.7",
+            "size": 326397948,
+            "icon": "img/heroz.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/heroz.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/heroz.ipa",
+            "bundleIdentifier": "com.cyberjoy.heroz",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا تموت أبدا\r\n- تفعيل بطاقة الخصوصية / بطاقة المزايا (لا يمكنك استلام الألماسات، لكن جميع المزايا مفعلة. تخطي الإعلانات، زيادة الحد الأقصى للطاقة، إلخ)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heroz.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heroz.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heroz.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.7",
+                    "date": "2026-11-09T00:20:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/heroz.ipa",
+                    "size": 326397948,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heroz.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1146800877,
+            "name": "Rebel Inc.",
+            "version": "1.16.1",
+            "size": 328692669,
+            "icon": "img/rebelinc.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/rebelinc.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/rebelinc.ipa",
+            "bundleIdentifier": "com.ndemiccreations.peaceinc",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- جميع DLCS تم شراؤها\n- نقود غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rebelinc.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rebelinc_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rebelinc_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rebelinc_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rebelinc_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rebelinc_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rebelinc_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rebelinc_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rebelinc_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.16.1",
+                    "date": "2026-11-09T00:20:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/rebelinc.ipa",
+                    "size": 328692669,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rebelinc_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rebelinc_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rebelinc_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rebelinc_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1354424357,
+            "name": "Little Defenders",
+            "version": "0.0.30",
+            "size": 285841797,
+            "icon": "img/littledefenders.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/littledefenders.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/littledefenders.ipa",
+            "bundleIdentifier": "com.sisheshidu.guardian",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا تموت أبدًا\n- أضف عملة (داخل المعركة)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/littledefenders.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littledefenders_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littledefenders_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littledefenders_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littledefenders_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littledefenders_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littledefenders_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littledefenders_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littledefenders_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.30",
+                    "date": "2026-11-09T00:20:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/littledefenders.ipa",
+                    "size": 285841797,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littledefenders_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littledefenders_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littledefenders_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/littledefenders_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1862490745,
+            "name": "Forest Survival",
+            "version": "4.7",
+            "size": 157997981,
+            "icon": "img/forestsurvival.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/forestsurvival.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/forestsurvival.ipa",
+            "bundleIdentifier": "com.g1.forest.survival",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا يستطيع العدو الهجوم\n- إضافة موارد\n- الفوز التلقائي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/forestsurvival.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestsurvival_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestsurvival_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestsurvival_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestsurvival_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestsurvival_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestsurvival_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestsurvival_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestsurvival_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.7",
+                    "date": "2026-11-09T00:20:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/forestsurvival.ipa",
+                    "size": 157997981,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestsurvival_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestsurvival_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestsurvival_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forestsurvival_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1469957597,
+            "name": "Smoq Games 25",
+            "version": "5.01",
+            "size": 204560176,
+            "icon": "img/smoqgames25.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/smoqgames25.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/smoqgames25.ipa",
+            "bundleIdentifier": "com.fivedragonsgames.smoqgames25",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات معدنية غير محدودة -> اكسب البعض.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smoqgames25.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames25_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames25_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames25_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames25_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames25_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames25_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames25_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames25_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.01",
+                    "date": "2026-11-09T00:19:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/smoqgames25.ipa",
+                    "size": 204560176,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames25_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames25_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames25_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smoqgames25_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1130885973,
             "name": "Waldur: Monster Hunter",
             "version": "1.8",
