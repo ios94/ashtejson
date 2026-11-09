@@ -10,6 +10,483 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1447589004,
+            "name": "TicketToRide",
+            "version": "1.9.2",
+            "size": 840487043,
+            "icon": "img/tickettoride.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/tickettoride.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/tickettoride.ipa",
+            "bundleIdentifier": "com.marmalade.tickettoride",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $9.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $9.99\nتتطلب اصدار 13.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tickettoride.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tickettoride_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tickettoride_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tickettoride_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tickettoride_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tickettoride_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tickettoride_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tickettoride_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tickettoride_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.2",
+                    "date": "2026-11-09T21:47:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/tickettoride.ipa",
+                    "size": 840487043,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tickettoride_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tickettoride_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tickettoride_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tickettoride_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1529168857,
+            "name": "Remote",
+            "version": "3.4",
+            "size": 20280711,
+            "icon": "img/remote.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/remote.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/remote.ipa",
+            "bundleIdentifier": "de.2kit.remote-roku",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتحكم بتلفاز .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/remote.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/remote_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/remote_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/remote_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/remote_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/remote_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/remote_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/remote_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/remote_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.4",
+                    "date": "2026-11-09T21:46:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/remote.ipa",
+                    "size": 20280711,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/remote_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/remote_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/remote_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/remote_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1851590606,
+            "name": "Monster Mahjong",
+            "version": "1.1.39",
+            "size": 181789781,
+            "icon": "img/monstermahjong.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/monstermahjong.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/monstermahjong.ipa",
+            "bundleIdentifier": "com.YsoCorp.MonsterMahjong",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود \n- الغاء الأعلانات\n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monstermahjong.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstermahjong_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstermahjong_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstermahjong_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstermahjong_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstermahjong_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstermahjong_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.39",
+                    "date": "2026-11-09T21:46:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/monstermahjong.ipa",
+                    "size": 181789781,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstermahjong_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstermahjong_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monstermahjong_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1586855935,
+            "name": "Hundred Days",
+            "version": "1.2.7",
+            "size": 399653853,
+            "icon": "img/hundreddays.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/hundreddays.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/hundreddays.ipa",
+            "bundleIdentifier": "com.pixmain.hundreddays",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $9.99\nRequires 11.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $9.99\nتتطلب اصدار 11.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hundreddays.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hundreddays_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hundreddays_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hundreddays_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hundreddays_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hundreddays_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hundreddays_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hundreddays_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hundreddays_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.7",
+                    "date": "2026-11-09T21:45:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/hundreddays.ipa",
+                    "size": 399653853,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hundreddays_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hundreddays_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hundreddays_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hundreddays_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1729193692,
+            "name": "Riot Escape",
+            "version": "1.1.39",
+            "size": 222148863,
+            "icon": "img/riotescape.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/riotescape.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/riotescape.ipa",
+            "bundleIdentifier": "com.YsoCorp.RiotEscape",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود \n- الغاء الأعلانات\n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/riotescape.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riotescape_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riotescape_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riotescape_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riotescape_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riotescape_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riotescape_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riotescape_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riotescape_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.39",
+                    "date": "2026-11-09T21:45:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/riotescape.ipa",
+                    "size": 222148863,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riotescape_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riotescape_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riotescape_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riotescape_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1343207922,
+            "name": "Puppet Lord 3D",
+            "version": "1.1.39",
+            "size": 263625532,
+            "icon": "img/puppetlord3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/puppetlord3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/puppetlord3d.ipa",
+            "bundleIdentifier": "com.lavalimestudios.PuppetLord3D",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود \n- الغاء الأعلانات\n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/puppetlord3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puppetlord3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puppetlord3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puppetlord3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puppetlord3d_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puppetlord3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puppetlord3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puppetlord3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puppetlord3d_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.39",
+                    "date": "2026-11-09T21:45:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/puppetlord3d.ipa",
+                    "size": 263625532,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puppetlord3d_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puppetlord3d_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puppetlord3d_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/puppetlord3d_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1993031883,
+            "name": "Baby Prank",
+            "version": "1.1.39",
+            "size": 238845488,
+            "icon": "img/babyprank.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/babyprank.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/babyprank.ipa",
+            "bundleIdentifier": "com.arkhe.babyprank",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود \n- الغاء الأعلانات\n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/babyprank.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babyprank_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babyprank_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babyprank_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babyprank_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babyprank_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babyprank_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babyprank_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babyprank_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.39",
+                    "date": "2026-11-09T21:44:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/babyprank.ipa",
+                    "size": 238845488,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babyprank_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babyprank_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babyprank_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babyprank_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1553574277,
+            "name": "Monster Box",
+            "version": "1.1.39",
+            "size": 240509220,
+            "icon": "img/monsterbox.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/monsterbox.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/monsterbox.ipa",
+            "bundleIdentifier": "com.YsoCorp.MonsterBall",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود \n- الغاء الأعلانات\n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monsterbox.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterbox_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterbox_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterbox_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterbox_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterbox_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterbox_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterbox_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterbox_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.39",
+                    "date": "2026-11-09T21:44:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/monsterbox.ipa",
+                    "size": 240509220,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterbox_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterbox_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterbox_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monsterbox_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1591659358,
+            "name": "About Love and Hate 2",
+            "version": "1.2.1",
+            "size": 247620353,
+            "icon": "img/aboutloveandhate2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/aboutloveandhate2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/aboutloveandhate2.ipa",
+            "bundleIdentifier": "com.blackpants.loveandhate2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $4.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $4.99\nتتطلب اصدار 13.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aboutloveandhate2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aboutloveandhate2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aboutloveandhate2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aboutloveandhate2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aboutloveandhate2_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aboutloveandhate2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aboutloveandhate2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aboutloveandhate2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aboutloveandhate2_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.1",
+                    "date": "2026-11-09T21:44:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/aboutloveandhate2.ipa",
+                    "size": 247620353,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aboutloveandhate2_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aboutloveandhate2_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aboutloveandhate2_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aboutloveandhate2_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1513492587,
+            "name": "BaroRecorder",
+            "version": "1.8.0",
+            "size": 12091086,
+            "icon": "img/barorecorder.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/barorecorder.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/barorecorder.ipa",
+            "bundleIdentifier": "com.jupyland.BaroRecorder",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 17.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 17.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/barorecorder.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/barorecorder_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/barorecorder_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/barorecorder_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/barorecorder_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/barorecorder_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/barorecorder_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/barorecorder_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/barorecorder_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.8.0",
+                    "date": "2026-11-09T21:44:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/barorecorder.ipa",
+                    "size": 12091086,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/barorecorder_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/barorecorder_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/barorecorder_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/barorecorder_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1182560357,
             "name": "Fliqlo",
             "version": "2.2.2",
