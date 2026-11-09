@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1832705352,
+            "name": "Maker Valley",
+            "version": "8.5",
+            "size": 945191960,
+            "icon": "img/makervalley.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V3/makervalley.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V3/makervalley.ipa",
+            "bundleIdentifier": "com.littleleafgames.makervalley",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Currencies → will increase instead of decrease\n- Freeze Moves → lock your action count\n- Auto Win → complete levels instantly",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/makervalley.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "8.5",
+                    "date": "2026-11-09T05:30:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V3/makervalley.ipa",
+                    "size": 945191960,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1116612719,
             "name": "The Walking Dead: Aftermath",
             "version": "3.0.3",
@@ -172095,54 +172143,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/simonscatmatch_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/simonscatmatch_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/simonscatmatch_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1832705352,
-            "name": "Maker Valley",
-            "version": "8.4",
-            "size": 945287408,
-            "icon": "img/makervalley.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V3/makervalley.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V3/makervalley.ipa",
-            "bundleIdentifier": "com.littleleafgames.makervalley",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Currencies → will increase instead of decrease\n- Freeze Moves → lock your action count\n- Auto Win → complete levels instantly",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/makervalley.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "8.4",
-                    "date": "2026-11-05T10:39:31+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V3/makervalley.ipa",
-                    "size": 945287408,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makervalley_screen_4.jpg"
                     ]
                 }
             ]
