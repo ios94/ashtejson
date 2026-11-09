@@ -10,6 +10,411 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1386236665,
+            "name": "WittleDefender",
+            "version": "1.1.8",
+            "size": 845385156,
+            "icon": "img/wittledefender.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/wittledefender.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/wittledefender.ipa",
+            "bundleIdentifier": "com.game.kingrush",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر\r\n- مضاعف الدفاع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wittledefender.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wittledefender_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wittledefender_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wittledefender_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wittledefender_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wittledefender_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wittledefender_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wittledefender_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wittledefender_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.8",
+                    "date": "2026-11-09T01:21:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/wittledefender.ipa",
+                    "size": 845385156,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wittledefender_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wittledefender_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wittledefender_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wittledefender_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120698056,
+            "name": "Zombie Infinity",
+            "version": "2.4.2",
+            "size": 812074196,
+            "icon": "img/zombieinfinity.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/zombieinfinity.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/zombieinfinity.ipa",
+            "bundleIdentifier": "jp.kamasu.oread",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ADS Pass\n- Energy Pass\n- Premium Pass\n- Currency\n- Hero Status [ HP - DMG ]\n\n- ممر الإعلانات\n- ممر الطاقة\n- بريميوم باس\n- العملة\n- حالة البطل [ HP - DMG ]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zombieinfinity.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieinfinity_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieinfinity_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieinfinity_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieinfinity_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieinfinity_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieinfinity_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieinfinity_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieinfinity_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.2",
+                    "date": "2026-11-09T01:20:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/zombieinfinity.ipa",
+                    "size": 812074196,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieinfinity_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieinfinity_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieinfinity_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieinfinity_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1808992917,
+            "name": "IdlePocketMonster",
+            "version": "164",
+            "size": 340065862,
+            "icon": "img/idlepocketmonster.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/idlepocketmonster.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/idlepocketmonster.ipa",
+            "bundleIdentifier": "com.oneorwa.idlepocketmonster",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملة\n- موارد",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlepocketmonster.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlepocketmonster.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlepocketmonster.png"
+            ],
+            "versions": [
+                {
+                    "version": "164",
+                    "date": "2026-11-09T01:19:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/idlepocketmonster.ipa",
+                    "size": 340065862,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlepocketmonster.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1299784392,
+            "name": "Hidden Heroes",
+            "version": "1.2.2",
+            "size": 1080690490,
+            "icon": "img/hiddenheroes.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/hiddenheroes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/hiddenheroes.ipa",
+            "bundleIdentifier": "com.dreamplay.hiddenheroes.apple",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- One Hit Kill\n- Infinite Power Mode\n- Freeze Currencies\n\n- قتل بضربة واحدة\n- وضع الطاقة اللانهائي\n- تجميد العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hiddenheroes.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hiddenheroes.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hiddenheroes.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.2",
+                    "date": "2026-11-09T01:19:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/hiddenheroes.ipa",
+                    "size": 1080690490,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hiddenheroes.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1668451149,
+            "name": "Classroom of the Elite",
+            "version": "1.0.4",
+            "size": 652498879,
+            "icon": "img/classroomoftheelite.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/classroomoftheelite.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/classroomoftheelite.ipa",
+            "bundleIdentifier": "com.crunchyroll.gv.classroomoftheelite",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تجميد الطاقة\n- تجميد الأحجار الكريمة\n- فوز تلقائي\n- تم فتح اللعبة الكاملة\n- عملات غير محدودة-> كسب بعض.\n- جواهر غير محدودة-> قضاء بعض.\n- طاقة غير محدودة- كسب بعض.\n- غير محدود XP-> كسب بعض.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/classroomoftheelite.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/classroomoftheelite_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/classroomoftheelite_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/classroomoftheelite_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/classroomoftheelite_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/classroomoftheelite_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/classroomoftheelite_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/classroomoftheelite_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/classroomoftheelite_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.4",
+                    "date": "2026-11-09T01:18:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/classroomoftheelite.ipa",
+                    "size": 652498879,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/classroomoftheelite_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/classroomoftheelite_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/classroomoftheelite_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/classroomoftheelite_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1639420452,
+            "name": "Red Bull Playgrounds",
+            "version": "1.2.0",
+            "size": 493340170,
+            "icon": "img/redbullplaygrounds.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/redbullplaygrounds.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/redbullplaygrounds.ipa",
+            "bundleIdentifier": "com.red.bull.playgrounds",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف النتيجة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/redbullplaygrounds.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/redbullplaygrounds.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/redbullplaygrounds.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.0",
+                    "date": "2026-11-09T01:17:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/redbullplaygrounds.ipa",
+                    "size": 493340170,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/redbullplaygrounds.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1819070413,
+            "name": "GEARS: War Machine",
+            "version": "1.16",
+            "size": 293453188,
+            "icon": "img/gearswarmachine.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/gearswarmachine.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/gearswarmachine.ipa",
+            "bundleIdentifier": "gears.of.war.tanks",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- إزالة الإعلانات (غير مكافئة)\n- تفعيل البطاقة المميزة\n- الفوز التلقائي (تفعيل المعارك الداخلية)\n- تجميد العناصر (العملة، العناصر)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gearswarmachine.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gearswarmachine_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gearswarmachine_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gearswarmachine_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gearswarmachine_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gearswarmachine_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gearswarmachine_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gearswarmachine_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gearswarmachine_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.16",
+                    "date": "2026-11-09T01:17:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/gearswarmachine.ipa",
+                    "size": 293453188,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gearswarmachine_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gearswarmachine_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gearswarmachine_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gearswarmachine_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1837271816,
+            "name": "Robot Breaker",
+            "version": "0.2.3",
+            "size": 212773385,
+            "icon": "img/robotbreaker.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/robotbreaker.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/robotbreaker.ipa",
+            "bundleIdentifier": "com.chargedmonkey.robotbreaker",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- زيادة مستوى الأداة\n- عدم عرض الإعلانات (بدون مكافآت)\n- تخطي المهمة الحالية\n- موارد غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/robotbreaker.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robotbreaker_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robotbreaker_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robotbreaker_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robotbreaker_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robotbreaker_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robotbreaker_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robotbreaker_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robotbreaker_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.2.3",
+                    "date": "2026-11-09T01:16:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/robotbreaker.ipa",
+                    "size": 212773385,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robotbreaker_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robotbreaker_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robotbreaker_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/robotbreaker_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1680872002,
+            "name": "Scolopendra",
+            "version": "1.0.1",
+            "size": 261773154,
+            "icon": "img/scolopendra.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/scolopendra.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/scolopendra.ipa",
+            "bundleIdentifier": "com.game.scolopendra",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- قائمة تصحيح الأخطاء (ستظهر قائمة تمكين وتصحيح الأخطاء) .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/scolopendra.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scolopendra_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scolopendra_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scolopendra_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scolopendra_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scolopendra_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scolopendra_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scolopendra_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scolopendra_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.1",
+                    "date": "2026-11-09T01:16:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/scolopendra.ipa",
+                    "size": 261773154,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scolopendra_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scolopendra_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scolopendra_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scolopendra_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1550928403,
             "name": "Raising Reincarnated SwordMage",
             "version": "1.23.3",
