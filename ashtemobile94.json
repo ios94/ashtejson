@@ -10,6 +10,235 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1893749511,
+            "name": "Color Block Jam",
+            "version": "11.2.0",
+            "size": 751094855,
+            "icon": "img/colorblockjam.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/colorblockjam.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/colorblockjam.ipa",
+            "bundleIdentifier": "com.GybeGames.ColorBlockJam",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Free Store (Buy then Cancel)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/colorblockjam.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "11.2.0",
+                    "date": "2026-11-09T00:30:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/colorblockjam.ipa",
+                    "size": 751094855,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1659585884,
+            "name": "Trophy Hunter: Sniper Game",
+            "version": "3.32.0",
+            "size": 449041330,
+            "icon": "img/trophyhuntersnipergame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/trophyhuntersnipergame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/trophyhuntersnipergame.ipa",
+            "bundleIdentifier": "trophy.hunter.hunting.games.sniper.shooting",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Animal Vitals ESP (Extra Sensory Perception, wallhack) Always On → see target weak points at all times",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/trophyhuntersnipergame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.32.0",
+                    "date": "2026-11-09T00:30:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/trophyhuntersnipergame.ipa",
+                    "size": 449041330,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1384337759,
+            "name": "Digi Merge",
+            "version": "3.33.1",
+            "size": 300117895,
+            "icon": "img/digimerge.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/digimerge.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/digimerge.ipa",
+            "bundleIdentifier": "com.gibygames.digimerge",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "This app has iGameGod Jailed enabled so you can use the iOS Cheat Engine, Speed Hack Manager or Auto Touch Recorder to your liking! If you would like to add iGameGod Jailed to your app",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/digimerge.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "3.33.1",
+                    "date": "2026-11-09T00:29:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/digimerge.ipa",
+                    "size": 300117895,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/digimerge_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/digimerge_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/digimerge_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/digimerge_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1369037014,
+            "name": "Jelly Busters: Puzzle Game",
+            "version": "220000.1.211",
+            "size": 300687872,
+            "icon": "img/jellybusterspuzzlegame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/jellybusterspuzzlegame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/jellybusterspuzzlegame.ipa",
+            "bundleIdentifier": "com.moonactive.jellybusters",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto ADS NO → removes ad interruptions\n- Unlimited Coins → spend freely without running out\n- Unlimited Booster → use power-ups without restriction",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jellybusterspuzzlegame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "220000.1.211",
+                    "date": "2026-11-09T00:29:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/jellybusterspuzzlegame.ipa",
+                    "size": 300687872,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1207789314,
+            "name": "My Car Empire: Idle Tycoon 3D",
+            "version": "0.0.209",
+            "size": 452437236,
+            "icon": "img/mycarempireidletycoon3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mycarempireidletycoon3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mycarempireidletycoon3d.ipa",
+            "bundleIdentifier": "com.deviloper.car.empire.idle.tycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Currency Freeze → lock your cash balance in place\n- Currency Enough → maintain abundant funds for upgrades",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mycarempireidletycoon3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.209",
+                    "date": "2026-11-09T00:29:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mycarempireidletycoon3d.ipa",
+                    "size": 452437236,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1998059767,
             "name": "Feed the Deep",
             "version": "1.0.6",
@@ -159128,54 +159357,6 @@
             ]
         },
         {
-            "id": 1893749511,
-            "name": "Color Block Jam",
-            "version": "10.6.0",
-            "size": 300421789,
-            "icon": "img/colorblockjam.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/colorblockjam.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/colorblockjam.ipa",
-            "bundleIdentifier": "com.GybeGames.ColorBlockJam",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Free Store (Buy then Cancel)",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/colorblockjam.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "10.6.0",
-                    "date": "2026-10-30T13:50:54+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/colorblockjam.ipa",
-                    "size": 300421789,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colorblockjam_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1333748354,
             "name": "Dice Dreams™",
             "version": "1.115.0",
@@ -160263,54 +160444,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/penguinisle_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/penguinisle_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/penguinisle_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1659585884,
-            "name": "Trophy Hunter: Sniper Game",
-            "version": "3.31.2",
-            "size": 236839286,
-            "icon": "img/trophyhuntersnipergame.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/trophyhuntersnipergame.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/trophyhuntersnipergame.ipa",
-            "bundleIdentifier": "trophy.hunter.hunting.games.sniper.shooting",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Animal Vitals ESP (Extra Sensory Perception, wallhack) Always On → see target weak points at all times",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/trophyhuntersnipergame.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "3.31.2",
-                    "date": "2026-10-30T13:37:40+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/trophyhuntersnipergame.ipa",
-                    "size": 236839286,
-                    "buildVersion": null,
-                    "minOSVersion": "15.6",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trophyhuntersnipergame_screen_4.png"
                     ]
                 }
             ]
@@ -175001,54 +175134,6 @@
             ]
         },
         {
-            "id": 1369037014,
-            "name": "Jelly Busters: Puzzle Game",
-            "version": "220000.1.210",
-            "size": 141621092,
-            "icon": "img/jellybusterspuzzlegame.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/jellybusterspuzzlegame.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/jellybusterspuzzlegame.ipa",
-            "bundleIdentifier": "com.moonactive.jellybusters",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Auto ADS NO → removes ad interruptions\n- Unlimited Coins → spend freely without running out\n- Unlimited Booster → use power-ups without restriction",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jellybusterspuzzlegame.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "220000.1.210",
-                    "date": "2026-10-25T11:35:02+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/jellybusterspuzzlegame.ipa",
-                    "size": 141621092,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellybusterspuzzlegame_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1232188789,
             "name": "Idle Apartment Tycoon",
             "version": "0.00.98",
@@ -180771,54 +180856,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wastelandlifesurvivalidle_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wastelandlifesurvivalidle_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wastelandlifesurvivalidle_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1207789314,
-            "name": "My Car Empire: Idle Tycoon 3D",
-            "version": "0.0.191",
-            "size": 200427479,
-            "icon": "img/mycarempireidletycoon3d.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mycarempireidletycoon3d.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mycarempireidletycoon3d.ipa",
-            "bundleIdentifier": "com.deviloper.car.empire.idle.tycoon",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Currency Freeze → lock your cash balance in place\n- Currency Enough → maintain abundant funds for upgrades",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mycarempireidletycoon3d.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "0.0.191",
-                    "date": "2026-10-16T11:26:49+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mycarempireidletycoon3d.ipa",
-                    "size": 200427479,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycarempireidletycoon3d_screen_4.jpg"
                     ]
                 }
             ]
@@ -187531,37 +187568,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/geardefenders.ipa",
                     "size": 205804011,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1384337759,
-            "name": "Digi Merge",
-            "version": "3.30.2",
-            "size": "125.19 MB",
-            "icon": "img/digimerge.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/digimerge.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/digimerge.ipa",
-            "bundleIdentifier": "com.gibygames.digimerge",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "This app has iGameGod Jailed enabled so you can use the iOS Cheat Engine, Speed Hack Manager or Auto Touch Recorder to your liking! If you would like to add iGameGod Jailed to your app",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/digimerge.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "3.30.2",
-                    "date": "2026-10-10T23:46:46+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/digimerge.ipa",
-                    "size": 131271229,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
