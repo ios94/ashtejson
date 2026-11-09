@@ -10,6 +10,474 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1142768827,
+            "name": "Domino Smash",
+            "version": "1.8.16",
+            "size": 216645590,
+            "icon": "img/dominosmash.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/dominosmash.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/dominosmash.ipa",
+            "bundleIdentifier": "com.harmonybit.domino",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني.\n-الفلوس 90 مليون .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dominosmash.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dominosmash_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dominosmash_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dominosmash_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dominosmash_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dominosmash_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dominosmash_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dominosmash_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dominosmash_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.8.16",
+                    "date": "2026-11-09T11:32:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/dominosmash.ipa",
+                    "size": 216645590,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dominosmash_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dominosmash_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dominosmash_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dominosmash_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1539782771,
+            "name": "WCF",
+            "version": "1.4.1",
+            "size": 866113414,
+            "icon": "img/wcf.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/wcf.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/wcf.ipa",
+            "bundleIdentifier": "com.snowman.wcf",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مدفوعة من ابل ستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wcf.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wcf_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wcf_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wcf_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wcf_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wcf_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wcf_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.1",
+                    "date": "2026-11-09T11:32:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/wcf.ipa",
+                    "size": 866113414,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wcf_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wcf_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wcf_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1726834485,
+            "name": "SixGuns",
+            "version": "3.0.6",
+            "size": 724680163,
+            "icon": "img/sixguns.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/sixguns.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/sixguns.ipa",
+            "bundleIdentifier": "com.gameloft.Bullet",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "نجوم لامحدودة .</ br>- نقود لامحدودة .</ br></ br>Description : </ br>- Unlimited Stars .</ br>- Unlimited Coins .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sixguns.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sixguns_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sixguns_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sixguns_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sixguns_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sixguns_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sixguns_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sixguns_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sixguns_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.0.6",
+                    "date": "2026-11-09T11:31:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/sixguns.ipa",
+                    "size": 724680163,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sixguns_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sixguns_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sixguns_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sixguns_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1554823258,
+            "name": "FarmFrenzy3",
+            "version": "1.3.2",
+            "size": 118675891,
+            "icon": "img/farmfrenzy3.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/farmfrenzy3.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/farmfrenzy3.ipa",
+            "bundleIdentifier": "com.Alawar.FarmFrenzy3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات IGG",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmfrenzy3.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmfrenzy3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmfrenzy3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.2",
+                    "date": "2026-11-09T11:30:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/farmfrenzy3.ipa",
+                    "size": 118675891,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/farmfrenzy3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1795819508,
+            "name": "The White Door",
+            "version": "1.1.20",
+            "size": 145899301,
+            "icon": "img/thewhitedoor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/thewhitedoor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/thewhitedoor.ipa",
+            "bundleIdentifier": "com.RustyLake.TheWhiteDoor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "</ br>- لعبة الغاز جميلة ، مدفوعة بالاب ستور .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/thewhitedoor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewhitedoor_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewhitedoor_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewhitedoor_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewhitedoor_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewhitedoor_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewhitedoor_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewhitedoor_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewhitedoor_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.20",
+                    "date": "2026-11-09T11:30:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/thewhitedoor.ipa",
+                    "size": 145899301,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewhitedoor_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewhitedoor_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewhitedoor_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewhitedoor_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1252861887,
+            "name": "City Survival",
+            "version": "1.0.5",
+            "size": 1107864449,
+            "icon": "img/citysurvival.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/citysurvival.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/citysurvival.ipa",
+            "bundleIdentifier": "abandoned.city.survival",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "</ br>- مصادر لامحدودة .</ br>- طعام لامحدود .</ br>- إلتقاط أغراض أكثر .</ br>- بناء فوري .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/citysurvival.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/citysurvival_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/citysurvival_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/citysurvival_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/citysurvival_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/citysurvival_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/citysurvival_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/citysurvival_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/citysurvival_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.5",
+                    "date": "2026-11-09T11:29:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/citysurvival.ipa",
+                    "size": 1107864449,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/citysurvival_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/citysurvival_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/citysurvival_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/citysurvival_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1927528207,
+            "name": "Piano",
+            "version": "1.2.7",
+            "size": 50827085,
+            "icon": "img/piano.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/piano.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/piano.ipa",
+            "bundleIdentifier": "com.yokee.piano",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تعلم البيانو \r\nعلامات \r\nطاقة لا نهائية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/piano.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piano_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piano_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piano_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piano_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piano_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piano_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piano_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piano_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.7",
+                    "date": "2026-11-09T11:28:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/piano.ipa",
+                    "size": 50827085,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piano_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piano_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piano_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piano_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1856562220,
+            "name": "Machinarium",
+            "version": "2.4.3",
+            "size": 261794549,
+            "icon": "img/machinarium.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/machinarium.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/machinarium.ipa",
+            "bundleIdentifier": "net.machinarium.Machinarium",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة ألغاز جميلة جدًا،مدفوعة في الـ App Store.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/machinarium.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/machinarium_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/machinarium_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/machinarium_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/machinarium_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/machinarium_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/machinarium_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/machinarium_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/machinarium_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.3",
+                    "date": "2026-11-09T11:28:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/machinarium.ipa",
+                    "size": 261794549,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/machinarium_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/machinarium_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/machinarium_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/machinarium_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1207285261,
+            "name": "Murder Mystery Machine",
+            "version": "1.20",
+            "size": 1374450838,
+            "icon": "img/murdermysterymachine.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/murdermysterymachine.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/murdermysterymachine.ipa",
+            "bundleIdentifier": "com.blazinggriffin.mmmm",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة ألغاز وتحقيق مُمتعة ، نسخة الآركيد .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/murdermysterymachine.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murdermysterymachine_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murdermysterymachine_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murdermysterymachine_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murdermysterymachine_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murdermysterymachine_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murdermysterymachine_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murdermysterymachine_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murdermysterymachine_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.20",
+                    "date": "2026-11-09T11:28:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/murdermysterymachine.ipa",
+                    "size": 1374450838,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murdermysterymachine_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murdermysterymachine_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murdermysterymachine_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/murdermysterymachine_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1769673219,
+            "name": "Banana Kong 2",
+            "version": "1.1.7",
+            "size": 179486853,
+            "icon": "img/bananakong2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/bananakong2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/bananakong2.ipa",
+            "bundleIdentifier": "com.FDGEntertainment.BananaKong2.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يمكنك شراء وزيادة مبلغك داخل اللعبة وشراء م تريد . \r\n- 65 الف موز .\r\n- اندفاع لامحدود.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bananakong2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bananakong2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bananakong2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bananakong2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bananakong2_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bananakong2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bananakong2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bananakong2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bananakong2_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.7",
+                    "date": "2026-11-09T11:26:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/bananakong2.ipa",
+                    "size": 179486853,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bananakong2_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bananakong2_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bananakong2_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bananakong2_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1936230304,
             "name": "Butter Royale",
             "version": "1.1.0",
