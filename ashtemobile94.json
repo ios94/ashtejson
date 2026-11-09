@@ -10,6 +10,102 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1500066098,
+            "name": "Last Combat: Z Shooter",
+            "version": "1.1.2",
+            "size": 343150581,
+            "icon": "img/lastcombatzshooter.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V2/lastcombatzshooter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V2/lastcombatzshooter.ipa",
+            "bundleIdentifier": "com.sg.lastaura.army.zombie.shooter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto Win\n- Unlimited Gems\n- Unlimited Coins\n- ADD Gems\n- ADD Coins\n- High Damage\n- Damage Multiplier",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lastcombatzshooter.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.2",
+                    "date": "2026-11-09T00:34:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V2/lastcombatzshooter.ipa",
+                    "size": 343150581,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1302314581,
+            "name": "Magical Survivor",
+            "version": "1.0.9",
+            "size": 594714678,
+            "icon": "img/magicalsurvivor.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V2/magicalsurvivor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V2/magicalsurvivor.ipa",
+            "bundleIdentifier": "jp.j-o-e.survivor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Never Die → take no damage from enemies\n- OHK → defeat any enemy in a single hit",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/magicalsurvivor.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.9",
+                    "date": "2026-11-09T00:33:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V2/magicalsurvivor.ipa",
+                    "size": 594714678,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1893749511,
             "name": "Color Block Jam",
             "version": "11.2.0",
@@ -164742,54 +164838,6 @@
             ]
         },
         {
-            "id": 1302314581,
-            "name": "Magical Survivor",
-            "version": "1.0.8",
-            "size": 204700481,
-            "icon": "img/magicalsurvivor.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V2/magicalsurvivor.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V2/magicalsurvivor.ipa",
-            "bundleIdentifier": "jp.j-o-e.survivor",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Never Die → take no damage from enemies\n- OHK → defeat any enemy in a single hit",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/magicalsurvivor.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.8",
-                    "date": "2026-10-28T23:12:07+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V2/magicalsurvivor.ipa",
-                    "size": 204700481,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicalsurvivor_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1709321890,
             "name": "Arcana Blade : Idle RPG",
             "version": "2.0.12",
@@ -175747,54 +175795,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/headsoccer_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/headsoccer_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/headsoccer_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1500066098,
-            "name": "Last Combat: Z Shooter",
-            "version": "1.1.1",
-            "size": 151053686,
-            "icon": "img/lastcombatzshooter.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V2/lastcombatzshooter.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V2/lastcombatzshooter.ipa",
-            "bundleIdentifier": "com.sg.lastaura.army.zombie.shooter",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Auto Win\n- Unlimited Gems\n- Unlimited Coins\n- ADD Gems\n- ADD Coins\n- High Damage\n- Damage Multiplier",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lastcombatzshooter.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.1.1",
-                    "date": "2026-10-25T11:29:14+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V2/lastcombatzshooter.ipa",
-                    "size": 151053686,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastcombatzshooter_screen_4.png"
                     ]
                 }
             ]
