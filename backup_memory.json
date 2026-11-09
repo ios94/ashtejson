@@ -10,6 +10,396 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1606721639,
+            "name": "2048 Hoops",
+            "version": "1.6.2",
+            "size": 159929825,
+            "icon": "img/2048hoops.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/2048hoops.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/2048hoops.ipa",
+            "bundleIdentifier": "com.malvo.hoopses",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/2048hoops.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/2048hoops.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/2048hoops.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.2",
+                    "date": "2026-11-09T18:50:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/2048hoops.ipa",
+                    "size": 159929825,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/2048hoops.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1447541127,
+            "name": "Mudder Trucker 3D",
+            "version": "1.5.0",
+            "size": 196142810,
+            "icon": "img/muddertrucker3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/muddertrucker3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/muddertrucker3d.ipa",
+            "bundleIdentifier": "com.kwalee.muddertrucker3d",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الأعلانات\n\nتنبية مهم : في بعض الأحيان لايضهر المتجر مباشرة عند اللعب لأول مره يجب ان تلعب لمدة ليضهر المتجر وتقوم بأزالة الأعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/muddertrucker3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/muddertrucker3d.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/muddertrucker3d.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.0",
+                    "date": "2026-11-09T18:50:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/muddertrucker3d.ipa",
+                    "size": 196142810,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/muddertrucker3d.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1390901698,
+            "name": "Chainsaw Craft",
+            "version": "1.2.1",
+            "size": 179894573,
+            "icon": "img/chainsawcraft.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/chainsawcraft.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/chainsawcraft.ipa",
+            "bundleIdentifier": "com.kwalee.chainsaw",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الأعلانات\n\nتنبية مهم : في بعض الأحيان لايضهر المتجر مباشرة عند اللعب لأول مره يجب ان تلعب لمدة ليضهر المتجر وتقوم بأزالة الأعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/chainsawcraft.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/chainsawcraft.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/chainsawcraft.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.1",
+                    "date": "2026-11-09T18:50:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/chainsawcraft.ipa",
+                    "size": 179894573,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/chainsawcraft.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1524513338,
+            "name": "Monster City Merge",
+            "version": "1.9.0",
+            "size": 183996482,
+            "icon": "img/monstercitymerge.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/monstercitymerge.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/monstercitymerge.ipa",
+            "bundleIdentifier": "com.cheddarbox.monstercitysmash",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الأعلانات\n\nتنبية مهم : في بعض الأحيان لايضهر المتجر مباشرة عند اللعب لأول مره يجب ان تلعب لمدة ليضهر المتجر وتقوم بأزالة الأعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monstercitymerge.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monstercitymerge.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monstercitymerge.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.0",
+                    "date": "2026-11-09T18:49:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/monstercitymerge.ipa",
+                    "size": 183996482,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monstercitymerge.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1792974407,
+            "name": "Drop and Smash",
+            "version": "1.5.0",
+            "size": 179191440,
+            "icon": "img/dropandsmash.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/dropandsmash.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/dropandsmash.ipa",
+            "bundleIdentifier": "com.kwalee.dropstuff",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الأعلانات\n\nتنبية مهم : في بعض الأحيان لايضهر المتجر مباشرة عند اللعب لأول مره يجب ان تلعب لمدة ليضهر المتجر وتقوم بأزالة الأعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dropandsmash.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dropandsmash.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dropandsmash.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.0",
+                    "date": "2026-11-09T18:49:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/dropandsmash.ipa",
+                    "size": 179191440,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dropandsmash.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1406104101,
+            "name": "Police Story 3D",
+            "version": "1.2.6",
+            "size": 265199377,
+            "icon": "img/policestory3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/policestory3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/policestory3d.ipa",
+            "bundleIdentifier": "com.kwalee.firstpersoncop",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الأعلانات\n\nتنبية مهم : في بعض الأحيان لايضهر المتجر مباشرة عند اللعب لأول مره يجب ان تلعب لمدة ليضهر المتجر وتقوم بأزالة الأعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/policestory3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/policestory3d.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/policestory3d.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.6",
+                    "date": "2026-11-09T18:49:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/policestory3d.ipa",
+                    "size": 265199377,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/policestory3d.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1416674655,
+            "name": "Jet Set Explorer",
+            "version": "1.5.3",
+            "size": 177562618,
+            "icon": "img/jetsetexplorer.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/jetsetexplorer.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/jetsetexplorer.ipa",
+            "bundleIdentifier": "com.kwalee.jetsetexplorer",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الأعلانات\n\nتنبية مهم : في بعض الأحيان لايضهر المتجر مباشرة عند اللعب لأول مره يجب ان تلعب لمدة ليضهر المتجر وتقوم بأزالة الأعلانات\n\nاللعبة محذوفة من آب ستور.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jetsetexplorer.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jetsetexplorer.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jetsetexplorer.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.3",
+                    "date": "2026-11-09T18:49:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/jetsetexplorer.ipa",
+                    "size": 177562618,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jetsetexplorer.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1447057984,
+            "name": "Doodle Run",
+            "version": "1.4.2",
+            "size": 181070870,
+            "icon": "img/doodlerun.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/doodlerun.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/doodlerun.ipa",
+            "bundleIdentifier": "com.jhulse.doodlerun",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل التطبيق مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )\n\n- اللعبة محذوفة من اب ستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/doodlerun.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/doodlerun.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/doodlerun.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.2",
+                    "date": "2026-11-09T18:48:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/doodlerun.ipa",
+                    "size": 181070870,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/doodlerun.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1297632005,
+            "name": "Hospital Simulator 3D",
+            "version": "1.2.4",
+            "size": 190977739,
+            "icon": "img/hospitalsimulator3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/hospitalsimulator3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/hospitalsimulator3d.ipa",
+            "bundleIdentifier": "com.cheddarbox.hospitalrun",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الأعلانات\n\nتنبية مهم : في بعض الأحيان لايضهر المتجر مباشرة عند اللعب لأول مره يجب ان تلعب لمدة ليضهر المتجر وتقوم بأزالة الأعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hospitalsimulator3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hospitalsimulator3d.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hospitalsimulator3d.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.4",
+                    "date": "2026-11-09T18:48:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/hospitalsimulator3d.ipa",
+                    "size": 190977739,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hospitalsimulator3d.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1272510954,
+            "name": "Dark Sword Rising",
+            "version": "1.1.05",
+            "size": 516541067,
+            "icon": "img/darkswordrising.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/darkswordrising.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/darkswordrising.ipa",
+            "bundleIdentifier": "com.daerigame.darksword",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Damage Multiplier\r\n- Never Die\r\n- Cheat Menu\r\n \n\n- مضاعفة الضرر\r\n- لا يموت د\r\n- قائمة الغش",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/darkswordrising.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/darkswordrising.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/darkswordrising.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.05",
+                    "date": "2026-11-09T18:48:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/darkswordrising.ipa",
+                    "size": 516541067,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/darkswordrising.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1700667204,
             "name": "Human Flip",
             "version": "1.27.4",
