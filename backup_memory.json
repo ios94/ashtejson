@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1524415154,
+            "name": "Scythe",
+            "version": "2.1.4",
+            "size": 394090035,
+            "icon": "img/scythe.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/scythe.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/scythe.ipa",
+            "bundleIdentifier": "com.asmodee-digital.scytheios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة مدفوعه في ابل ستور \r\n- الحد الأدنى للإصدار: iOS 13.0\r\n- تطبيق مدفوع بقيمة : $9.99",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/scythe.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scythe_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scythe_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scythe_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scythe_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scythe_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scythe_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scythe_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scythe_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.4",
+                    "date": "2026-11-09T01:34:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/scythe.ipa",
+                    "size": 394090035,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scythe_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scythe_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scythe_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scythe_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1128729779,
+            "name": "Ancient Gods",
+            "version": "1.19.0",
+            "size": 624808004,
+            "icon": "img/ancientgods.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/ancientgods.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/ancientgods.ipa",
+            "bundleIdentifier": "com.hexpion.6p02",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة (إنفق تكسب)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ancientgods.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ancientgods_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ancientgods_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ancientgods_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ancientgods_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ancientgods_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ancientgods_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ancientgods_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ancientgods_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.19.0",
+                    "date": "2026-11-09T01:34:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/ancientgods.ipa",
+                    "size": 624808004,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ancientgods_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ancientgods_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ancientgods_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ancientgods_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1472513673,
+            "name": "Safety Note Pro",
+            "version": "7.8.19",
+            "size": 70555890,
+            "icon": "img/safetynotepro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/safetynotepro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/safetynotepro.ipa",
+            "bundleIdentifier": "com.eightythree.SafetyNote",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق أمان يتيح للمستخدمين حماية ملاحظاتهم الشخصية بكلمات مرور أو البيومترية، مع ميزات تنظيم ونسخ احتياطي، \r\n\r\n- الحد الأدنى للإصدار: iOS 15.0\r\n- تطبيق مدفوع بقيمة : $3.99",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/safetynotepro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/safetynotepro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/safetynotepro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/safetynotepro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/safetynotepro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/safetynotepro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/safetynotepro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/safetynotepro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/safetynotepro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.8.19",
+                    "date": "2026-11-09T01:34:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/safetynotepro.ipa",
+                    "size": 70555890,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/safetynotepro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/safetynotepro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/safetynotepro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/safetynotepro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1603659329,
+            "name": "Shadow Knight: Frontier War td",
+            "version": "1.0.19",
+            "size": 849104638,
+            "icon": "img/shadowknightfrontierwartd.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/shadowknightfrontierwartd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/shadowknightfrontierwartd.ipa",
+            "bundleIdentifier": "com.ezg006.shadow.war.tower.defense.strategy.game.td",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Currency [ No Need ]\n- Resources [ No Need ]\n- Energy Cost 0\n- Spin Free\n- Silver Coin [ Build Then Get ] Disable After Hacked\n- HP\n- ATK\n\n- العملة [لا حاجة]\r\n- الموارد [لا حاجة]\r\n- تكلفة الطاقة 0\r\n- تدور حرة\r\n- عملة فضية [بناء ثم احصل على] تعطيل بعد اختراقها\r\n- HP\r\n- ATK",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shadowknightfrontierwartd.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shadowknightfrontierwartd.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shadowknightfrontierwartd.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.19",
+                    "date": "2026-11-09T01:33:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/shadowknightfrontierwartd.ipa",
+                    "size": 849104638,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shadowknightfrontierwartd.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1909674845,
+            "name": "Noir",
+            "version": "2025.2.5",
+            "size": 16046190,
+            "icon": "img/noir.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/noir.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/noir.ipa",
+            "bundleIdentifier": "nl.jeffreykuiken.NoirApp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لإضافة نمط الدارك مود على متصفح سفاري \r\n- الحد الأدنى للإصدار: iOS 15.0\r\n- تطبيق مدفوع بقيمة : $2.99",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/noir.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noir_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noir_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noir_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noir_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noir_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noir_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noir_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noir_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2025.2.5",
+                    "date": "2026-11-09T01:33:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/noir.ipa",
+                    "size": 16046190,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noir_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noir_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noir_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/noir_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1772853825,
+            "name": "OSnap! Pro",
+            "version": "4259",
+            "size": 12510503,
+            "icon": "img/osnappro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/osnappro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/osnappro.ipa",
+            "bundleIdentifier": "com.headofthemule.OSnap-",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $19.99\nRequires 15.5 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $19.99\nيتطلب اصدار 15.5 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/osnappro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osnappro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osnappro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osnappro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osnappro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osnappro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osnappro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osnappro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osnappro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4259",
+                    "date": "2026-11-09T01:33:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/osnappro.ipa",
+                    "size": 12510503,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osnappro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osnappro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osnappro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/osnappro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1538083214,
+            "name": "MyRadar Pro",
+            "version": "7.114.0",
+            "size": 186760855,
+            "icon": "img/myradarpro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/myradarpro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/myradarpro.ipa",
+            "bundleIdentifier": "com.fboweb.MyRadarPro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لعرض حالة الطقس \r\n\r\n- الحد الأدنى للإصدار: iOS 16.6\r\n- تطبيق مدفوع بقيمة : $5.99",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/myradarpro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myradarpro_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myradarpro_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myradarpro_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myradarpro_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myradarpro_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myradarpro_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myradarpro_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myradarpro_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "7.114.0",
+                    "date": "2026-11-09T01:33:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/myradarpro.ipa",
+                    "size": 186760855,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myradarpro_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myradarpro_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myradarpro_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myradarpro_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1931012155,
+            "name": "Astrea",
+            "version": "1.2.739",
+            "size": 698350512,
+            "icon": "img/astrea.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/astrea.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/astrea.ipa",
+            "bundleIdentifier": "com.littleleogames.astreasixsidedoracles",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ضرر مضاعف\r\n- مضاعفة الدفاع\r\n- وضع الطاقة اللانهائي\r\n- تجميد القلوب\r\n- شظايا نجمة غير محدودة-> كسب بعض.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/astrea.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astrea_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astrea_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astrea_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astrea_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astrea_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astrea_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astrea_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astrea_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.739",
+                    "date": "2026-11-09T01:32:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/astrea.ipa",
+                    "size": 698350512,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astrea_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astrea_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astrea_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astrea_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1505626665,
+            "name": "KEV WB",
+            "version": "6.5.2",
+            "size": 13893971,
+            "icon": "img/kevwb.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/kevwb.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/kevwb.ipa",
+            "bundleIdentifier": "com.silverseahog.kev",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق مفيد ودقيق لتحديد درجة حرارة اللون والتوازن الأبيض باستخدام كاميرا الآيفون أو الآيباد، وهو موجه للمصورين ومحترفي الفيديو .\r\n- الحد الأدنى للإصدار: iOS 13.0\r\n- تطبيق مدفوع بقيمة : $2.99",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kevwb.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kevwb_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kevwb_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kevwb_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kevwb_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kevwb_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kevwb_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kevwb_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kevwb_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "6.5.2",
+                    "date": "2026-11-09T01:32:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/kevwb.ipa",
+                    "size": 13893971,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kevwb_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kevwb_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kevwb_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kevwb_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1956494818,
+            "name": "Level Devil",
+            "version": "1.33.0",
+            "size": 70622974,
+            "icon": "img/leveldevil.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/leveldevil.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/leveldevil.ipa",
+            "bundleIdentifier": "com.unept.leveldevil",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تم إزالة الاعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/leveldevil.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveldevil_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveldevil_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveldevil_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveldevil_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveldevil_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveldevil_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveldevil_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveldevil_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.33.0",
+                    "date": "2026-11-09T01:32:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/leveldevil.ipa",
+                    "size": 70622974,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveldevil_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveldevil_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveldevil_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/leveldevil_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1471892567,
             "name": "TurboScan",
             "version": "3.3.8",
