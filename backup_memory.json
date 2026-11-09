@@ -10,6 +10,381 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1174998430,
+            "name": "Dungeon Crusher",
+            "version": "7.3.9",
+            "size": 238447676,
+            "icon": "img/dungeoncrusher.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/dungeoncrusher.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/dungeoncrusher.ipa",
+            "bundleIdentifier": "com.towardsmars.dungeoncrusher.v2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "free hero upgrade\n\n- ترقية البطل مجانًا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dungeoncrusher.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dungeoncrusher_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dungeoncrusher_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dungeoncrusher_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dungeoncrusher_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dungeoncrusher_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dungeoncrusher_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dungeoncrusher_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dungeoncrusher_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.3.9",
+                    "date": "2026-11-09T07:29:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/dungeoncrusher.ipa",
+                    "size": 238447676,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dungeoncrusher_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dungeoncrusher_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dungeoncrusher_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dungeoncrusher_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1721476137,
+            "name": "TileDefense",
+            "version": "1.0.2",
+            "size": 330608613,
+            "icon": "img/tiledefense.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/tiledefense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/tiledefense.ipa",
+            "bundleIdentifier": "com.maf.TileDefense",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "One-Hit Kill\n- Freeze Currencies\n- Unlimited Currencies -> Will increase instead of decrease.\n- No Summon Cost\n- No Upgrade Cost\n- No Troop Limit\n- Score Multiplier\n\n- قتل بضربة واحدة\r\n- تجميد العملات\r\n- عملات غير محدودة (تزيد ماتنقص).\r\n- لا تكلفة الاستدعاء\r\n- لا تكلفة الترقية\r\n- لا يوجد حد للقوات\r\n- مضاعف النتيجة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tiledefense.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tiledefense.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tiledefense.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.2",
+                    "date": "2026-11-09T07:28:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/tiledefense.ipa",
+                    "size": 330608613,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tiledefense.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1871388822,
+            "name": "Spirit Summoners",
+            "version": "1.0.1156",
+            "size": 1461024646,
+            "icon": "img/spiritsummoners.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/spiritsummoners.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/spiritsummoners.ipa",
+            "bundleIdentifier": "com.f5game.ss",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Damage Multiplier\n- Defence Multiplier\n- Infinite Power Mode\n- No Skill CooldownRequires a certificate / Signulous / App+ etc to play. Sideloadly will not work!\n\n- ضرر مضاعف\r\n- مضاعفة الدفاع\r\n- وضع الطاقة اللانهائي\r\n- لا توجد مهارة تتطلب شهادة / Signulous / App+ وما إلى ذلك للعب. Sideloadly لن يعمل!",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spiritsummoners.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritsummoners_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritsummoners_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritsummoners_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritsummoners_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritsummoners_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritsummoners_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritsummoners_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritsummoners_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.1156",
+                    "date": "2026-11-09T07:28:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/spiritsummoners.ipa",
+                    "size": 1461024646,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritsummoners_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritsummoners_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritsummoners_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiritsummoners_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1121165783,
+            "name": "CookingLive",
+            "version": "0.42.0",
+            "size": 348818893,
+            "icon": "img/cookinglive.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/cookinglive.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/cookinglive.ipa",
+            "bundleIdentifier": "com.matryoshka.cookingliveprod",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "NO ADS\n- Unlimited Gems\n- Unlimited Coins\n- Unlimited Star\n- Groceries Max\n- Booster Max / Unlocked\n\n- بدون إعلانات\r\n- جواهر غير محدودة\r\n- عملات غير محدودة\r\n- نجمة غير محدودة\r\n- بقالة ماكس\r\n- الداعم ماكس / مفتوح",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cookinglive.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookinglive_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookinglive_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookinglive_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookinglive_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookinglive_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookinglive_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookinglive_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookinglive_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.42.0",
+                    "date": "2026-11-09T07:26:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/cookinglive.ipa",
+                    "size": 348818893,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookinglive_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookinglive_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookinglive_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cookinglive_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1626470691,
+            "name": "BEYBLADE X XONE",
+            "version": "1.0.1",
+            "size": 1189977255,
+            "icon": "img/beybladexxone.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/beybladexxone.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/beybladexxone.ipa",
+            "bundleIdentifier": "com.crunchyroll.gv.beybladexxone",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Full Game Unlocked\n\n- لعبة كاملة مقفلة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/beybladexxone.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beybladexxone_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beybladexxone_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beybladexxone_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beybladexxone_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beybladexxone_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beybladexxone_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beybladexxone_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beybladexxone_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.1",
+                    "date": "2026-11-09T07:26:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/beybladexxone.ipa",
+                    "size": 1189977255,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beybladexxone_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beybladexxone_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beybladexxone_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beybladexxone_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1474743819,
+            "name": "Family Farming",
+            "version": "1.5.3",
+            "size": 384346894,
+            "icon": "img/familyfarming.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/familyfarming.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/familyfarming.ipa",
+            "bundleIdentifier": "com.fansipan.family.adventure.farming.simulation.tycoon.game",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Gems\n- ​​​​​​​- Energy\n- Max Level\n- Max EXP\n- Max Capacity\n\n- جواهر\r\n- ​​​​​​- الطاقة\r\n- المستوى الأقصى\r\n- ماكس إكسب\r\n- السعة القصوى",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/familyfarming.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyfarming_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyfarming_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyfarming_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyfarming_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyfarming_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyfarming_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyfarming_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyfarming_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.3",
+                    "date": "2026-11-09T07:24:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/familyfarming.ipa",
+                    "size": 384346894,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyfarming_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyfarming_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyfarming_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/familyfarming_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1317473458,
+            "name": "Defence Turret",
+            "version": "0.6.6",
+            "size": 217810507,
+            "icon": "img/defenceturret.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/defenceturret.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/defenceturret.ipa",
+            "bundleIdentifier": "com.v.DefenseTurret",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/defenceturret.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenceturret_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenceturret_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenceturret_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenceturret_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenceturret_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenceturret_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenceturret_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenceturret_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.6.6",
+                    "date": "2026-11-09T07:24:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/defenceturret.ipa",
+                    "size": 217810507,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenceturret_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenceturret_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenceturret_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defenceturret_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1725484771,
+            "name": "Pocket Survivor Expansion",
+            "version": "6.2.1",
+            "size": 254663090,
+            "icon": "img/pocketsurvivorexpansion.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/pocketsurvivorexpansion.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/pocketsurvivorexpansion.ipa",
+            "bundleIdentifier": "develop.pocket.survivor.expansion",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "UNLIMITED ALL OFF\n\n- الكل غير محدود",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pocketsurvivorexpansion.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsurvivorexpansion_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsurvivorexpansion_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsurvivorexpansion_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsurvivorexpansion_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsurvivorexpansion_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsurvivorexpansion_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsurvivorexpansion_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsurvivorexpansion_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.2.1",
+                    "date": "2026-11-09T07:22:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/pocketsurvivorexpansion.ipa",
+                    "size": 254663090,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsurvivorexpansion_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsurvivorexpansion_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsurvivorexpansion_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsurvivorexpansion_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1700844862,
             "name": "Knit Unravel",
             "version": "0.0.4",
