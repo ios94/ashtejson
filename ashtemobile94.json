@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1842177790,
+            "name": "RainViewer",
+            "version": "8.7",
+            "size": 109708464,
+            "icon": "img/rainviewer.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/rainviewer.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/rainviewer.ipa",
+            "bundleIdentifier": "com.lucky-apps.RainViewer",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n  من افضل تطبيقات الطقس \r\n• تفعيل النسخة المميزة Pro\r\n- بدون اعلانات \r\n\r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rainviewer.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "8.7",
+                    "date": "2026-11-09T00:37:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/rainviewer.ipa",
+                    "size": 109708464,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1500066098,
             "name": "Last Combat: Z Shooter",
             "version": "1.1.2",
@@ -146461,54 +146509,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergemansionpuzzlesstory_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergemansionpuzzlesstory_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergemansionpuzzlesstory_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1842177790,
-            "name": "RainViewer",
-            "version": "8.4",
-            "size": 67409098,
-            "icon": "img/rainviewer.png",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/rainviewer.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/rainviewer.ipa",
-            "bundleIdentifier": "com.lucky-apps.RainViewer",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "المميزات :\r\n  من افضل تطبيقات الطقس \r\n• تفعيل النسخة المميزة Pro\r\n- بدون اعلانات \r\n\r\n.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rainviewer.png",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "8.4",
-                    "date": "2026-11-06T22:08:36+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/rainviewer.ipa",
-                    "size": 67409098,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rainviewer_screen_4.jpg"
                     ]
                 }
             ]
