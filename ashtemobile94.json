@@ -10,6 +10,420 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1921835697,
+            "name": "Cats And The Forest",
+            "version": "2.0.02",
+            "size": 225455398,
+            "icon": "img/catsandtheforest.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/catsandtheforest.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/catsandtheforest.ipa",
+            "bundleIdentifier": "com.SuperCarrot.CatsAndTheForest",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا تموت أبدًا\n- مكافأة رتبة غير محدودة (جواهر غير محدودة)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/catsandtheforest.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catsandtheforest_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catsandtheforest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catsandtheforest_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catsandtheforest_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catsandtheforest_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catsandtheforest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catsandtheforest_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catsandtheforest_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.02",
+                    "date": "2026-11-09T03:09:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/catsandtheforest.ipa",
+                    "size": 225455398,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catsandtheforest_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catsandtheforest_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catsandtheforest_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catsandtheforest_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1164817563,
+            "name": "Zombie Blast",
+            "version": "3.4.20",
+            "size": 598453057,
+            "icon": "img/zombieblast.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/zombieblast.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/zombieblast.ipa",
+            "bundleIdentifier": "com.sngict.zblast",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- فوز تلقائي\n- الحد الأقصى لنقاط صحة البطل\n- الحد الأقصى لنقاط هجوم البطل",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zombieblast.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieblast_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieblast_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieblast_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieblast_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieblast_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieblast_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieblast_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieblast_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.4.20",
+                    "date": "2026-11-09T03:08:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/zombieblast.ipa",
+                    "size": 598453057,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieblast_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieblast_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieblast_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieblast_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1622338760,
+            "name": "RaidtheDungeon",
+            "version": "1.88.1",
+            "size": 419947250,
+            "icon": "img/raidthedungeon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/raidthedungeon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/raidthedungeon.ipa",
+            "bundleIdentifier": "kr.co.questgames.druwadungeonig",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ضرر مضاعف\n- لا يموت أبداً",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/raidthedungeon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/raidthedungeon.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/raidthedungeon.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.88.1",
+                    "date": "2026-11-09T03:08:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/raidthedungeon.ipa",
+                    "size": 419947250,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/raidthedungeon.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1411684916,
+            "name": "ResQRush",
+            "version": "3.3.1",
+            "size": 676628461,
+            "icon": "img/resqrush.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/resqrush.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/resqrush.ipa",
+            "bundleIdentifier": "com.wgame.resqrush",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا تموت أبدًا\n- ضربة واحدة تقتل",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/resqrush.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resqrush_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resqrush_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resqrush_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resqrush_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resqrush_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resqrush_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resqrush_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resqrush_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.3.1",
+                    "date": "2026-11-09T03:07:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/resqrush.ipa",
+                    "size": 676628461,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resqrush_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resqrush_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resqrush_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resqrush_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1856741029,
+            "name": "Super Hero Ready!",
+            "version": "1.0",
+            "size": 243566360,
+            "icon": "img/superheroready.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/superheroready.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/superheroready.ipa",
+            "bundleIdentifier": "com.RonixGames.Super.Hero.Ready",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا تموت أبدًا\n- هجوم مضاعف\n- مهارات فورية\n- تجميد العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/superheroready.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superheroready_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superheroready_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superheroready_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superheroready_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superheroready_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superheroready_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superheroready_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superheroready_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2026-11-09T03:06:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/superheroready.ipa",
+                    "size": 243566360,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superheroready_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superheroready_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superheroready_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superheroready_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1498143080,
+            "name": "TvMate IPTV: Smarters Stream",
+            "version": "6.0",
+            "size": 81106271,
+            "icon": "img/tvmateiptvsmartersstream.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/tvmateiptvsmartersstream.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/tvmateiptvsmartersstream.ipa",
+            "bundleIdentifier": "com.ramesh.plixPlayer",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مشغّل اشتراكات IPTV متقدم يُتيح لك استيراد قوائم تشغيل M3U ومشاهدة البث الحي أو المحتوى عند الطلب، مع تصميم حديث وتجربة سلسة. تنويه: التطبيق لا يتضمّن قنوات جاهزة بل المستخدم هو من يضيف قائمة التشغيل الخاصة به.\n- الحد الأدنى للإصدار: iOS 15.6\n- مفتوح المميزات .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tvmateiptvsmartersstream.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmateiptvsmartersstream_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmateiptvsmartersstream_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmateiptvsmartersstream_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmateiptvsmartersstream_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmateiptvsmartersstream_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmateiptvsmartersstream_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmateiptvsmartersstream_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmateiptvsmartersstream_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "6.0",
+                    "date": "2026-11-09T03:06:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/tvmateiptvsmartersstream.ipa",
+                    "size": 81106271,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmateiptvsmartersstream_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmateiptvsmartersstream_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmateiptvsmartersstream_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tvmateiptvsmartersstream_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1855103071,
+            "name": "Vampire Bistro",
+            "version": "1.2.5",
+            "size": 349281550,
+            "icon": "img/vampirebistro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/vampirebistro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/vampirebistro.ipa",
+            "bundleIdentifier": "com.riftsky.bar.gb.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- كل شيء غير محدود",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/vampirebistro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/vampirebistro.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/vampirebistro.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.5",
+                    "date": "2026-11-09T03:06:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/vampirebistro.ipa",
+                    "size": 349281550,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/vampirebistro.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1662745291,
+            "name": "Luck be a Landlord",
+            "version": "1.2.15",
+            "size": 122066243,
+            "icon": "img/luckbealandlord.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/luckbealandlord.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/luckbealandlord.ipa",
+            "bundleIdentifier": "com.trampolinetales.luckbealandlord",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة مدفوعه في ابل ستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/luckbealandlord.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/luckbealandlord_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/luckbealandlord_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/luckbealandlord_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/luckbealandlord_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/luckbealandlord_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/luckbealandlord_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/luckbealandlord_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/luckbealandlord_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.15",
+                    "date": "2026-11-09T03:05:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/luckbealandlord.ipa",
+                    "size": 122066243,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/luckbealandlord_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/luckbealandlord_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/luckbealandlord_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/luckbealandlord_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1597717801,
+            "name": "Photo Artwork",
+            "version": "2.9",
+            "size": 36249209,
+            "icon": "img/photoartwork.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/photoartwork.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/photoartwork.ipa",
+            "bundleIdentifier": "com.photoeditor.PhotoArtWork",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "حول صورك إلى لوحات فنية: يمكنك تحويل صورتك إلى رسم بالقلم الرصاص، رسم زيتي، رسوم متحركة أو أنماط فنانين معروفين مثل فان جوخ أو بيكاسو وغيرها في ثوان باستخدام الذكاء الاصطناعي. كما يحتوي على أدوات تحرير للصور مثل: إضافة نصوص، فلاتر، تأثيرات، إطارات وملصقات.\n- الحد الأدنى للإصدار: iOS 15.0\n- مفتوح المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/photoartwork.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoartwork_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoartwork_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoartwork_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoartwork_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoartwork_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoartwork_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoartwork_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoartwork_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.9",
+                    "date": "2026-11-09T03:05:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/photoartwork.ipa",
+                    "size": 36249209,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoartwork_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoartwork_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoartwork_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoartwork_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1140125804,
             "name": "HungryHeartsRamen",
             "version": "1.0.1",
