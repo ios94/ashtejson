@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1934991195,
+            "name": "Amnesia Escape",
+            "version": "2.1",
+            "size": 246465954,
+            "icon": "img/amnesiaescape.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/amnesiaescape.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/amnesiaescape.ipa",
+            "bundleIdentifier": "com.escape.adventure.amnesia",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amnesiaescape.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amnesiaescape_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amnesiaescape_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amnesiaescape_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amnesiaescape_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amnesiaescape_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amnesiaescape_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amnesiaescape_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amnesiaescape_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.1",
+                    "date": "2026-11-09T08:19:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/amnesiaescape.ipa",
+                    "size": 246465954,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amnesiaescape_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amnesiaescape_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amnesiaescape_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amnesiaescape_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1863290745,
+            "name": "Airport Security",
+            "version": "2.8.7",
+            "size": 347650298,
+            "icon": "img/airportsecurity.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/airportsecurity.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/airportsecurity.ipa",
+            "bundleIdentifier": "com.strawberrypepper.bordersecurity",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الأعلانات\n\nتنبية مهم : في بعض الأحيان لايضهر المتجر مباشرة عند اللعب لأول مره يجب ان تلعب لمدة ليضهر المتجر وتقوم بأزالة الأعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/airportsecurity.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airportsecurity_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airportsecurity_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airportsecurity_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airportsecurity_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airportsecurity_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airportsecurity_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airportsecurity_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airportsecurity_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.8.7",
+                    "date": "2026-11-09T08:18:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/airportsecurity.ipa",
+                    "size": 347650298,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airportsecurity_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airportsecurity_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airportsecurity_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airportsecurity_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1445593716,
+            "name": "Annoying Brain Game",
+            "version": "1.0.55",
+            "size": 319352891,
+            "icon": "img/annoyingbraingame.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/annoyingbraingame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/annoyingbraingame.ipa",
+            "bundleIdentifier": "com.stuntverse.annoyingpuzzle.braingame",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- تفعيل vip",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/annoyingbraingame.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/annoyingbraingame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/annoyingbraingame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/annoyingbraingame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/annoyingbraingame_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/annoyingbraingame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/annoyingbraingame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/annoyingbraingame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/annoyingbraingame_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.55",
+                    "date": "2026-11-09T08:18:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/annoyingbraingame.ipa",
+                    "size": 319352891,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/annoyingbraingame_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/annoyingbraingame_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/annoyingbraingame_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/annoyingbraingame_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1528338749,
+            "name": "Clean Up 3D",
+            "version": "1.6.0",
+            "size": 237636003,
+            "icon": "img/cleanup3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/cleanup3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/cleanup3d.ipa",
+            "bundleIdentifier": "com.bwm.idlecleaner",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الأعلانات\n\nتنبية مهم : في بعض الأحيان لايضهر المتجر مباشرة عند اللعب لأول مره يجب ان تلعب لمدة ليضهر المتجر وتقوم بأزالة الأعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cleanup3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleanup3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleanup3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleanup3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleanup3d_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleanup3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleanup3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleanup3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleanup3d_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.0",
+                    "date": "2026-11-09T08:17:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/cleanup3d.ipa",
+                    "size": 237636003,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleanup3d_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleanup3d_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleanup3d_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cleanup3d_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1734527610,
+            "name": "WeedBoss2",
+            "version": "1.2",
+            "size": 65765502,
+            "icon": "img/weedboss2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/weedboss2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/weedboss2.ipa",
+            "bundleIdentifier": "com.theholycowstudio.weedboss2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/weedboss2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-09T08:17:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/weedboss2.ipa",
+                    "size": 65765502,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weedboss2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1291670741,
+            "name": "Video Game Tycoon",
+            "version": "3.4.4",
+            "size": 318174928,
+            "icon": "img/videogametycoon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/videogametycoon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/videogametycoon.ipa",
+            "bundleIdentifier": "com.holycowstudio.gamedevtycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/videogametycoon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogametycoon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogametycoon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogametycoon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogametycoon_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogametycoon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogametycoon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogametycoon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogametycoon_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.4.4",
+                    "date": "2026-11-09T08:17:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/videogametycoon.ipa",
+                    "size": 318174928,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogametycoon_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogametycoon_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogametycoon_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogametycoon_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1277913669,
+            "name": "Push Hero",
+            "version": "0.41.2",
+            "size": 503212157,
+            "icon": "img/pushhero.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/pushhero.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/pushhero.ipa",
+            "bundleIdentifier": "com.malang.store.finalidle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Infinite Power Mode\n- Multiply Attack\n- Freeze Currencies\n- Premium\n- Support English\n\n- وضع الطاقة اللانهائي\r\n- مضاعفة الهجوم\r\n- تجميد العملات\r\n- بريميوم\r\n- دعم اللغة الإنجليزية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pushhero.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushhero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushhero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushhero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushhero_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushhero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushhero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushhero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushhero_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.41.2",
+                    "date": "2026-11-09T08:17:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/pushhero.ipa",
+                    "size": 503212157,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushhero_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushhero_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushhero_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushhero_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1254229250,
+            "name": "Tiger Evolution",
+            "version": "1.5",
+            "size": 142681004,
+            "icon": "img/tigerevolution.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/tigerevolution.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/tigerevolution.ipa",
+            "bundleIdentifier": "com.ns.tigerevolution",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tigerevolution.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tigerevolution_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tigerevolution_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tigerevolution_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tigerevolution_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tigerevolution_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tigerevolution_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tigerevolution_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tigerevolution_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5",
+                    "date": "2026-11-09T08:16:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/tigerevolution.ipa",
+                    "size": 142681004,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tigerevolution_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tigerevolution_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tigerevolution_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tigerevolution_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1653936700,
+            "name": "Golden Desire",
+            "version": "1.2.1",
+            "size": 299451552,
+            "icon": "img/goldendesire.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/goldendesire.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/goldendesire.ipa",
+            "bundleIdentifier": "com.storytaco.c20client",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Free Premium Choices\n\n- خيارات مميزة مجانية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/goldendesire.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldendesire_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldendesire_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldendesire_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldendesire_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldendesire_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldendesire_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldendesire_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldendesire_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.1",
+                    "date": "2026-11-09T08:16:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/goldendesire.ipa",
+                    "size": 299451552,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldendesire_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldendesire_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldendesire_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/goldendesire_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1382385328,
+            "name": "immortalrising2k",
+            "version": "1.4.13",
+            "size": 644673874,
+            "icon": "img/immortalrising2k.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/immortalrising2k.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/immortalrising2k.ipa",
+            "bundleIdentifier": "com.badbeans.immortalrising2k",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Infinite Power Mode\n- Increase Damage\n- Instant Skills\n- Freeze Combo Kill\n- Freeze Currencies\n\n- وضع الطاقة اللانهائي\r\n- زيادة الضرر\r\n- مهارات فورية\r\n- تجميد التحرير والسرد قتل\r\n- تجميد العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/immortalrising2k.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/immortalrising2k.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/immortalrising2k.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.13",
+                    "date": "2026-11-09T08:15:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/immortalrising2k.ipa",
+                    "size": 644673874,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/immortalrising2k.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1393183696,
             "name": "KpopAcademy",
             "version": "1.4.0",
