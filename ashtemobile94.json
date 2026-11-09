@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1769909582,
+            "name": "Ultimate Magnet",
+            "version": "1.6",
+            "size": 188492579,
+            "icon": "img/ultimatemagnet.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/ultimatemagnet.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/ultimatemagnet.ipa",
+            "bundleIdentifier": "com.mondayoff.magnet",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ultimatemagnet.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultimatemagnet_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultimatemagnet_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultimatemagnet_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultimatemagnet_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultimatemagnet_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultimatemagnet_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultimatemagnet_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultimatemagnet_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6",
+                    "date": "2026-11-09T16:18:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/ultimatemagnet.ipa",
+                    "size": 188492579,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultimatemagnet_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultimatemagnet_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultimatemagnet_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ultimatemagnet_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1637127403,
+            "name": "Arcade Dairy",
+            "version": "5.2.7",
+            "size": 242261213,
+            "icon": "img/arcadedairy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/arcadedairy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/arcadedairy.ipa",
+            "bundleIdentifier": "com.aq.arcadedairy",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/arcadedairy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcadedairy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcadedairy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcadedairy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcadedairy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcadedairy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcadedairy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcadedairy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcadedairy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.2.7",
+                    "date": "2026-11-09T16:18:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/arcadedairy.ipa",
+                    "size": 242261213,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcadedairy_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcadedairy_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcadedairy_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arcadedairy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1507994306,
+            "name": "PinBall Pong!",
+            "version": "1.2.6",
+            "size": 307030631,
+            "icon": "img/pinballpong.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/pinballpong.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/pinballpong.ipa",
+            "bundleIdentifier": "com.mondayoff.pinball",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pinballpong.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinballpong_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinballpong_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinballpong_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinballpong_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinballpong_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinballpong_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinballpong_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinballpong_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.6",
+                    "date": "2026-11-09T16:18:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/pinballpong.ipa",
+                    "size": 307030631,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinballpong_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinballpong_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinballpong_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pinballpong_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1486315387,
+            "name": "Popcorn Pop!",
+            "version": "2.2.0",
+            "size": 200765703,
+            "icon": "img/popcornpop.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/popcornpop.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/popcornpop.ipa",
+            "bundleIdentifier": "com.mondayoff.popcorn",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "الغاء اعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/popcornpop.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popcornpop_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popcornpop_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popcornpop_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popcornpop_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popcornpop_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popcornpop_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popcornpop_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popcornpop_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.2.0",
+                    "date": "2026-11-09T16:17:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/popcornpop.ipa",
+                    "size": 200765703,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popcornpop_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popcornpop_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popcornpop_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popcornpop_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1244186351,
+            "name": "Rush Army",
+            "version": "1.3.0",
+            "size": 303911064,
+            "icon": "img/rusharmy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/rusharmy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/rusharmy.ipa",
+            "bundleIdentifier": "com.mondayoff.rusharmy",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rusharmy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rusharmy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rusharmy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rusharmy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rusharmy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rusharmy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rusharmy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rusharmy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rusharmy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.0",
+                    "date": "2026-11-09T16:17:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/rusharmy.ipa",
+                    "size": 303911064,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rusharmy_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rusharmy_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rusharmy_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rusharmy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1535125792,
+            "name": "Be a pong",
+            "version": "1.3.0",
+            "size": 197970367,
+            "icon": "img/beapong.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/beapong.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/beapong.ipa",
+            "bundleIdentifier": "com.mondayoff.beerpong",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/beapong.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beapong_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beapong_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beapong_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beapong_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beapong_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beapong_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beapong_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beapong_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.0",
+                    "date": "2026-11-09T16:16:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/beapong.ipa",
+                    "size": 197970367,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beapong_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beapong_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beapong_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beapong_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1244815146,
+            "name": "Wild Zoo",
+            "version": "1.1.1",
+            "size": 313597521,
+            "icon": "img/wildzoo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/wildzoo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/wildzoo.ipa",
+            "bundleIdentifier": "com.mondayoff.wildzoo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "الغاء اعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wildzoo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildzoo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildzoo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildzoo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildzoo_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildzoo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildzoo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildzoo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildzoo_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.1",
+                    "date": "2026-11-09T16:16:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/wildzoo.ipa",
+                    "size": 313597521,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildzoo_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildzoo_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildzoo_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wildzoo_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1564028548,
+            "name": "Milk Factory",
+            "version": "2.1.1",
+            "size": 263686416,
+            "icon": "img/milkfactory.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/milkfactory.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/milkfactory.ipa",
+            "bundleIdentifier": "com.idlemilk.factory",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/milkfactory.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/milkfactory_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/milkfactory_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/milkfactory_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/milkfactory_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/milkfactory_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/milkfactory_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/milkfactory_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/milkfactory_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.1",
+                    "date": "2026-11-09T16:16:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/milkfactory.ipa",
+                    "size": 263686416,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/milkfactory_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/milkfactory_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/milkfactory_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/milkfactory_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1624401718,
+            "name": "Car Master 3D",
+            "version": "1.2.10",
+            "size": 248721357,
+            "icon": "img/carmaster3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/carmaster3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/carmaster3d.ipa",
+            "bundleIdentifier": "com.supergame.ohmycar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "إلغاء الإعلانات.\n- فلوس لا نهائي.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carmaster3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmaster3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmaster3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmaster3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmaster3d_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmaster3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmaster3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmaster3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmaster3d_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.10",
+                    "date": "2026-11-09T16:15:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/carmaster3d.ipa",
+                    "size": 248721357,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmaster3d_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmaster3d_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmaster3d_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carmaster3d_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1620555404,
+            "name": "Paper Doll House",
+            "version": "1.0.9",
+            "size": 407539434,
+            "icon": "img/paperdollhouse.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/paperdollhouse.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/paperdollhouse.ipa",
+            "bundleIdentifier": "pion.diy.paper.doll.house.dress.up.makeup",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/paperdollhouse.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdollhouse_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdollhouse_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdollhouse_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdollhouse_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdollhouse_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdollhouse_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdollhouse_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdollhouse_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.9",
+                    "date": "2026-11-09T16:15:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/paperdollhouse.ipa",
+                    "size": 407539434,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdollhouse_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdollhouse_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdollhouse_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paperdollhouse_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1401316270,
             "name": "Paper Doll",
             "version": "2.0.7",
