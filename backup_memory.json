@@ -10,6 +10,435 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1447005341,
+            "name": "INMOST",
+            "version": "2.68",
+            "size": 1273083907,
+            "icon": "img/inmost.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/inmost.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/inmost.ipa",
+            "bundleIdentifier": "com.chucklefish.inmost",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لعبة كاملة مجانية \n- لا تموت أبدًا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/inmost.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inmost_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inmost_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inmost_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inmost_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inmost_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inmost_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inmost_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inmost_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.68",
+                    "date": "2026-11-09T03:28:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/inmost.ipa",
+                    "size": 1273083907,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inmost_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inmost_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inmost_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inmost_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1464938063,
+            "name": "ledget reborn",
+            "version": "0.77.32",
+            "size": 290211614,
+            "icon": "img/ledgetreborn.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/ledgetreborn.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/ledgetreborn.ipa",
+            "bundleIdentifier": "com.basement.ledget-reborn",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ضرر مضاعف\n- لا يموت أبداً\n- عملات غير محدودة (إنفق تكسب)\n- شراء داخل التطبيق مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ledgetreborn.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ledgetreborn_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ledgetreborn_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ledgetreborn_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ledgetreborn_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ledgetreborn_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ledgetreborn_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ledgetreborn_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ledgetreborn_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.77.32",
+                    "date": "2026-11-09T03:26:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/ledgetreborn.ipa",
+                    "size": 290211614,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ledgetreborn_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ledgetreborn_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ledgetreborn_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ledgetreborn_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1340731946,
+            "name": "VolleyGirls",
+            "version": "1.17.4",
+            "size": 328324752,
+            "icon": "img/volleygirls.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/volleygirls.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/volleygirls.ipa",
+            "bundleIdentifier": "com.daerigame.volleygirls",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Freeze Currenices\n\n- ضرر مضاعف\n- تجميد العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/volleygirls.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/volleygirls_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/volleygirls_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/volleygirls_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/volleygirls_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/volleygirls_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/volleygirls_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/volleygirls_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/volleygirls_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.17.4",
+                    "date": "2026-11-09T03:26:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/volleygirls.ipa",
+                    "size": 328324752,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/volleygirls_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/volleygirls_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/volleygirls_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/volleygirls_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1795711711,
+            "name": "Zombie Apocalypse",
+            "version": "1.63.6",
+            "size": 528722224,
+            "icon": "img/zombieapocalypse.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/zombieapocalypse.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/zombieapocalypse.ipa",
+            "bundleIdentifier": "com.RastleksGames.TheShootout",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- قائمة التصحيح -> انتقل إلى الإعدادات وقم بتبديل زر اللمس.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zombieapocalypse.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieapocalypse_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieapocalypse_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieapocalypse_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieapocalypse_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieapocalypse_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieapocalypse_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieapocalypse_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieapocalypse_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.63.6",
+                    "date": "2026-11-09T03:25:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/zombieapocalypse.ipa",
+                    "size": 528722224,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieapocalypse_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieapocalypse_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieapocalypse_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombieapocalypse_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1538967932,
+            "name": "Archer Heroes",
+            "version": "1.0.18",
+            "size": 534647120,
+            "icon": "img/archerheroes.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/archerheroes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/archerheroes.ipa",
+            "bundleIdentifier": "com.pokokoStudio.ArcherDefense",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تجميد العملة / شراء الطاقة فقط / تعطيل قبل المعركة\n- تجميد الموارد / الترقية فقط / تعطيل قبل المعركة\n- بناء البرج / لا حاجة للخشب\n- ضرر",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/archerheroes.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archerheroes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archerheroes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archerheroes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archerheroes_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archerheroes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archerheroes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archerheroes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archerheroes_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.18",
+                    "date": "2026-11-09T03:25:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/archerheroes.ipa",
+                    "size": 534647120,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archerheroes_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archerheroes_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archerheroes_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archerheroes_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1326152206,
+            "name": "Polysphere",
+            "version": "1.22.0",
+            "size": 337905269,
+            "icon": "img/polysphere.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/polysphere.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/polysphere.ipa",
+            "bundleIdentifier": "com.playgendary.polyspherecoolgame",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- PREMIUM ( فتح جميع الصور )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/polysphere.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polysphere_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polysphere_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polysphere_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polysphere_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polysphere_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polysphere_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polysphere_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polysphere_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.22.0",
+                    "date": "2026-11-09T03:24:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/polysphere.ipa",
+                    "size": 337905269,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polysphere_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polysphere_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polysphere_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/polysphere_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1364713488,
+            "name": "Crime City",
+            "version": "2405.21.178",
+            "size": 387124131,
+            "icon": "img/crimecity.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/crimecity.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/crimecity.ipa",
+            "bundleIdentifier": "com.gamegears.robberysniper",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- شراء داخل التطبيق مجاني\n- ترقية مجانية للمعدات\n- ذخيرة غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crimecity.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crimecity_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crimecity_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crimecity_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crimecity_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crimecity_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crimecity_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "2405.21.178",
+                    "date": "2026-11-09T03:24:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/crimecity.ipa",
+                    "size": 387124131,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crimecity_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crimecity_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crimecity_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1610699244,
+            "name": "Pop&#39;s World",
+            "version": "2.8.2",
+            "size": 1030109450,
+            "icon": "img/pop39sworld.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/pop39sworld.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/pop39sworld.ipa",
+            "bundleIdentifier": "com.one.m1.world",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- إضافة عملات\n- إضافة أرواح\n- إزالة الإعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pop39sworld.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pop39sworld_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pop39sworld_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pop39sworld_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pop39sworld_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pop39sworld_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pop39sworld_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pop39sworld_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pop39sworld_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.8.2",
+                    "date": "2026-11-09T03:23:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/pop39sworld.ipa",
+                    "size": 1030109450,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pop39sworld_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pop39sworld_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pop39sworld_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pop39sworld_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1140246124,
+            "name": "Solitaire Master",
+            "version": "1.2.1",
+            "size": 409189805,
+            "icon": "img/solitairemaster.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/solitairemaster.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/solitairemaster.ipa",
+            "bundleIdentifier": "com.solitairemanor.secrets",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة\n- تذاكر غير محدودة\n- تراجع غير محدود\n- بطاقات إضافية غير محدودة\n- بطاقة ذهبية غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/solitairemaster.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/solitairemaster_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/solitairemaster_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/solitairemaster_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/solitairemaster_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/solitairemaster_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/solitairemaster_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/solitairemaster_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/solitairemaster_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.1",
+                    "date": "2026-11-09T03:22:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/solitairemaster.ipa",
+                    "size": 409189805,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/solitairemaster_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/solitairemaster_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/solitairemaster_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/solitairemaster_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1146959807,
             "name": "Guns and Girls",
             "version": "2.4",
