@@ -10,6 +10,474 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1469586405,
+            "name": "King's Raid",
+            "version": "5.10.0",
+            "size": 455568608,
+            "icon": "img/kingsraid.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/kingsraid.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/kingsraid.ipa",
+            "bundleIdentifier": "com.vespainteractive.KingsRaid",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "God Mode\n- No Mana Consume\n- No Skills Cooldown\n \n\n- اللاعب لا يموت\n- لا تستهلك مانا\n- لا يوجد تباطؤ للمهارات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kingsraid.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsraid_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsraid_screen_2.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsraid_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsraid_screen_2.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.10.0",
+                    "date": "2026-11-09T18:58:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/kingsraid.ipa",
+                    "size": 455568608,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsraid_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingsraid_screen_2.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1163897776,
+            "name": "BimmerCode",
+            "version": "4.3",
+            "size": 85538871,
+            "icon": "img/bimmercode.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/bimmercode.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/bimmercode.ipa",
+            "bundleIdentifier": "com.bimmerlink.BimmerLinkCoder",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل التطبيق مجاني ( يرجى ضغط شراء وثم الغاء )\n\nوصف التطبيق: \n\nمع BimmerCode، يمكنك بسهولة برمجة سيارتك BMW أو MINI أو Toyota Supra بنفسك وتكوينها بشكل فردي للحصول على تجربة قيادة لا مثيل لها. اكتشف الميزات المخفية وقم بتخصيص سيارتك وفقًا لتفضيلاتك الشخصية.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bimmercode.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bimmercode_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bimmercode_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bimmercode_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bimmercode_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bimmercode_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bimmercode_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bimmercode_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bimmercode_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.3",
+                    "date": "2026-11-09T18:58:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/bimmercode.ipa",
+                    "size": 85538871,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bimmercode_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bimmercode_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bimmercode_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bimmercode_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1961930738,
+            "name": "Car OBDII",
+            "version": "1.51",
+            "size": 13007799,
+            "icon": "img/carobdii.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/carobdii.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/carobdii.ipa",
+            "bundleIdentifier": "com.phpsmarter.obd2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل التطبيق مجاني ( يرجى ضغط شراء وثم الغاء )\n\nوصف التطبيق: \n\nهذا الماسح الضوئي OBD2 Bluetooth .\nالميزات الجديدة...\nسجل إحصائياتك المباشرة واحفظها للمستقبل.\nسجل إطار التجميد واحفظه للمستقبل.\nستكون بياناتك المباشرة والمراقبة مثل لقطة شاشة لجميع أسماء البيانات والقيم.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carobdii.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carobdii_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carobdii_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carobdii_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carobdii_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carobdii_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carobdii_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carobdii_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carobdii_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.51",
+                    "date": "2026-11-09T18:58:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/carobdii.ipa",
+                    "size": 13007799,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carobdii_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carobdii_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carobdii_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carobdii_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1781180539,
+            "name": "Cartomizer",
+            "version": "1.1.3",
+            "size": 53888854,
+            "icon": "img/cartomizer.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/cartomizer.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/cartomizer.ipa",
+            "bundleIdentifier": "app.cartomizer",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل التطبيق مجاني ( يرجى ضغط شراء وثم الغاء )\n\nوصف التطبيق: \n\nهل تساءلت يومًا عن العجلات التي تبدو أفضل لسيارتك؟ هل تبحث عن شراء مجموعة من العجلات البديلة لتميزك عن الآخرين ولكنك لا تستطيع اتخاذ القرار حقًا؟",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cartomizer.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cartomizer_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cartomizer_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cartomizer_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cartomizer_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cartomizer_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cartomizer_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cartomizer_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cartomizer_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.3",
+                    "date": "2026-11-09T18:58:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/cartomizer.ipa",
+                    "size": 53888854,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cartomizer_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cartomizer_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cartomizer_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cartomizer_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1366592631,
+            "name": "Auto Car Scanner Pro - OBD2",
+            "version": "1.2.0",
+            "size": 16161695,
+            "icon": "img/autocarscannerproobd2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/autocarscannerproobd2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/autocarscannerproobd2.ipa",
+            "bundleIdentifier": "com.seojin.auto.AutoCarDoctor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الأشتراك مفعل\n\nوصف التطبيق :\n\nAuto Car Scanner Pro هو أداة تشخيصية وماسح ضوئي يستخدم محول OBD II Bluetooth 4.0 (Bluetooth LE) للاتصال بإدارة محرك OBD2 / وحدة التحكم الإلكترونية والمزيد.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/autocarscannerproobd2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autocarscannerproobd2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autocarscannerproobd2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autocarscannerproobd2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autocarscannerproobd2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autocarscannerproobd2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autocarscannerproobd2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autocarscannerproobd2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autocarscannerproobd2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.0",
+                    "date": "2026-11-09T18:57:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/autocarscannerproobd2.ipa",
+                    "size": 16161695,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autocarscannerproobd2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autocarscannerproobd2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autocarscannerproobd2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autocarscannerproobd2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1838458744,
+            "name": "OBDII Codes",
+            "version": "3.0",
+            "size": 61795474,
+            "icon": "img/obdiicodes.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/obdiicodes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/obdiicodes.ipa",
+            "bundleIdentifier": "NoM.OBDII-Codes-Lite",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الأشتراك مفعل\n\nوصف التطبيق:\n\n هذا التطبيق هو قاعدة بيانات تعريفات أكواد تشخيص أعطال OBD II (EOBD) الأكثر اكتمالاً. هذا إصدار Lite مدعوم بالإعلانات، والذي يحتوي فقط على 2553 وصفًا للأكواد العامة (P0...). إذا كان الكود الموسع متاحًا في الإصدار الكامل، فستتلقى رسالة \"هذا الوصف متاح في الإصدار الكامل\"",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/obdiicodes.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdiicodes_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdiicodes_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdiicodes_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdiicodes_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdiicodes_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdiicodes_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.0",
+                    "date": "2026-11-09T18:57:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/obdiicodes.ipa",
+                    "size": 61795474,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdiicodes_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdiicodes_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/obdiicodes_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1560052025,
+            "name": "Red & Blue Stick",
+            "version": "2.2",
+            "size": 290641718,
+            "icon": "img/redbluestick.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/redbluestick.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/redbluestick.ipa",
+            "bundleIdentifier": "com.dmobin.redblue.stickman",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- فلوس لا نهائي\n- إلغاء الإعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/redbluestick.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redbluestick_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redbluestick_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redbluestick_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redbluestick_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redbluestick_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redbluestick_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redbluestick_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redbluestick_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.2",
+                    "date": "2026-11-09T18:57:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/redbluestick.ipa",
+                    "size": 290641718,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redbluestick_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redbluestick_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redbluestick_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/redbluestick_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1749884505,
+            "name": "Torque App: Car Check, Tracker",
+            "version": "1.1",
+            "size": 9925241,
+            "icon": "img/torqueappcarchecktracker.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/torqueappcarchecktracker.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/torqueappcarchecktracker.ipa",
+            "bundleIdentifier": "com.nguyenhaianhhy.torqueapp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الأشتراك مفعل\n\nوصف التطبيق : \n\nTorque App هو تطبيق يساعدك على استخدام سيارتك وتتبع وفحص جداول الصيانة وأنظمة الوقود / الزيت والملاحة ومواقف السيارات بالإضافة إلى الأدوات المالية في عمليات شراء السيارات.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/torqueappcarchecktracker.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torqueappcarchecktracker_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torqueappcarchecktracker_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torqueappcarchecktracker_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torqueappcarchecktracker_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torqueappcarchecktracker_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torqueappcarchecktracker_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2026-11-09T18:57:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/torqueappcarchecktracker.ipa",
+                    "size": 9925241,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torqueappcarchecktracker_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torqueappcarchecktracker_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/torqueappcarchecktracker_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1464706924,
+            "name": "OplMonitor",
+            "version": "1.2.51",
+            "size": 111268926,
+            "icon": "img/oplmonitor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/oplmonitor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/oplmonitor.ipa",
+            "bundleIdentifier": "com.insigniadpf.OplMonitor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل التطبيق مجاني ( يرجى ضغط شراء وثم الغاء )\n\nوصف التطبيق :\n\n تطبيق مخصص لمستخدمي Opel / Vauxhall Insignia A و B أو Astra J و K. يتيح لك مراقبة المعلمات المتعلقة بمرشح الجسيمات DPF باستخدام ELM327 أو iCar أو vLinker BT أو WiFi.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/oplmonitor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oplmonitor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oplmonitor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oplmonitor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oplmonitor_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oplmonitor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oplmonitor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oplmonitor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oplmonitor_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.51",
+                    "date": "2026-11-09T18:57:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/oplmonitor.ipa",
+                    "size": 111268926,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oplmonitor_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oplmonitor_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oplmonitor_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/oplmonitor_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1931488485,
+            "name": "FourStroke",
+            "version": "8.1.0",
+            "size": 21016186,
+            "icon": "img/fourstroke.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/fourstroke.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/fourstroke.ipa",
+            "bundleIdentifier": "com.migee.FourStroke",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الأشتراك مفعل\n\nوصف التطبيق: \n\nFourStroke هي أداة قوية تقوم بتحليل وعرض أجهزة استشعار السيارة والبيانات في الوقت الفعلي من خلال منفذ OBD2 الخاص بسيارتك، وهو منفذ قياسي في معظم السيارات في جميع أنحاء العالم. يتطلب استخدام هذا التطبيق محول OBD2 Wifi أو Bluetooth BLE من جهة خارجية. تطبيقنا مجاني لسحب ومسح أكواد المحرك إلى جانب معظم الوظائف الأخرى!",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fourstroke.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fourstroke_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fourstroke_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fourstroke_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fourstroke_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fourstroke_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fourstroke_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fourstroke_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fourstroke_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "8.1.0",
+                    "date": "2026-11-09T18:57:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/fourstroke.ipa",
+                    "size": 21016186,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fourstroke_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fourstroke_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fourstroke_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fourstroke_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1773301726,
             "name": "Torque OBD2",
             "version": "1.1",
