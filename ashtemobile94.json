@@ -10,6 +10,483 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1362622372,
+            "name": "Frisbee® 2",
+            "version": "1.2.1",
+            "size": 111255256,
+            "icon": "img/frisbee2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/frisbee2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/frisbee2.ipa",
+            "bundleIdentifier": "com.kiloo.frisbeeforever2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "كوينز لا نهائي \r\nمفتوحة المصدر \r\nمكركة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/frisbee2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frisbee2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frisbee2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frisbee2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frisbee2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frisbee2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frisbee2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frisbee2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frisbee2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.1",
+                    "date": "2026-11-09T11:00:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/frisbee2.ipa",
+                    "size": 111255256,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frisbee2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frisbee2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frisbee2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frisbee2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1918273163,
+            "name": "Curvy Punch 3D",
+            "version": "1.16",
+            "size": 213425296,
+            "icon": "img/curvypunch3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/curvypunch3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/curvypunch3d.ipa",
+            "bundleIdentifier": "com.501.curvypunch3d",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مفتوحة المصدر \r\nنسخة مكركة بدون اعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/curvypunch3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/curvypunch3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/curvypunch3d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/curvypunch3d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/curvypunch3d_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/curvypunch3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/curvypunch3d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/curvypunch3d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/curvypunch3d_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.16",
+                    "date": "2026-11-09T11:00:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/curvypunch3d.ipa",
+                    "size": 213425296,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/curvypunch3d_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/curvypunch3d_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/curvypunch3d_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/curvypunch3d_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1925819421,
+            "name": "Gunfire Ops",
+            "version": "1.1.5",
+            "size": 1157250886,
+            "icon": "img/gunfireops.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/gunfireops.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/gunfireops.ipa",
+            "bundleIdentifier": "com.vivastudios.sniper.crisis.tactical.shooter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gunfireops.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfireops_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfireops_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfireops_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfireops_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfireops_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfireops_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfireops_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfireops_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.5",
+                    "date": "2026-11-09T11:00:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/gunfireops.ipa",
+                    "size": 1157250886,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfireops_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfireops_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfireops_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunfireops_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1982300971,
+            "name": "Sword Hunter",
+            "version": "1.2.6",
+            "size": 218701992,
+            "icon": "img/swordhunter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/swordhunter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/swordhunter.ipa",
+            "bundleIdentifier": "com.potatoplay.swordhunter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مُضاعفة الضرر x50.\r</ br>- مُضاعفة الطاقة x50.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/swordhunter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordhunter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordhunter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordhunter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordhunter_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordhunter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordhunter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordhunter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordhunter_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.6",
+                    "date": "2026-11-09T10:58:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/swordhunter.ipa",
+                    "size": 218701992,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordhunter_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordhunter_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordhunter_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swordhunter_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1287563385,
+            "name": "Car Stunts 3D",
+            "version": "3.3",
+            "size": 146037336,
+            "icon": "img/carstunts3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/carstunts3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/carstunts3d.ipa",
+            "bundleIdentifier": "com.abi.carracer.racing.free",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "علامات \r\nطاقة \r\nبدون اعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/carstunts3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carstunts3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carstunts3d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carstunts3d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carstunts3d_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carstunts3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carstunts3d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carstunts3d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carstunts3d_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.3",
+                    "date": "2026-11-09T10:58:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/carstunts3d.ipa",
+                    "size": 146037336,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carstunts3d_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carstunts3d_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carstunts3d_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/carstunts3d_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1744033871,
+            "name": "Crashy Cops 3D",
+            "version": "2.7.1",
+            "size": 245275241,
+            "icon": "img/crashycops3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/crashycops3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/crashycops3d.ipa",
+            "bundleIdentifier": "pampam.crashy.cops",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crashycops3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crashycops3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crashycops3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crashycops3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crashycops3d_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crashycops3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crashycops3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crashycops3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crashycops3d_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.7.1",
+                    "date": "2026-11-09T10:58:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/crashycops3d.ipa",
+                    "size": 245275241,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crashycops3d_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crashycops3d_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crashycops3d_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crashycops3d_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1217969848,
+            "name": "Lost City",
+            "version": "1.1.4",
+            "size": 182390655,
+            "icon": "img/lostcity.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/lostcity.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/lostcity.ipa",
+            "bundleIdentifier": "com.snowman.altos-odyssey.lost-city",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة مغامرات جميلة،نسخة الأركيد.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lostcity.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostcity_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostcity_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostcity_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostcity_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostcity_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostcity_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostcity_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostcity_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.4",
+                    "date": "2026-11-09T10:57:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/lostcity.ipa",
+                    "size": 182390655,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostcity_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostcity_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostcity_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lostcity_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1741260586,
+            "name": "Crazy Bob runner",
+            "version": "1.0.4",
+            "size": 159253220,
+            "icon": "img/crazybobrunner.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/crazybobrunner.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/crazybobrunner.ipa",
+            "bundleIdentifier": "com.unicogames.crazy.bob.runner",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crazybobrunner.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazybobrunner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazybobrunner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazybobrunner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazybobrunner_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazybobrunner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazybobrunner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazybobrunner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazybobrunner_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.4",
+                    "date": "2026-11-09T10:57:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/crazybobrunner.ipa",
+                    "size": 159253220,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazybobrunner_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazybobrunner_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazybobrunner_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazybobrunner_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1234051421,
+            "name": "Elementix",
+            "version": "1.0.9",
+            "size": 228880776,
+            "icon": "img/elementix.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/elementix.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/elementix.ipa",
+            "bundleIdentifier": "com.pampam.elementix",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/elementix.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementix_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementix_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementix_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementix_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementix_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementix_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementix_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementix_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.9",
+                    "date": "2026-11-09T10:57:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/elementix.ipa",
+                    "size": 228880776,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementix_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementix_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementix_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementix_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1658165539,
+            "name": "ZHunter2",
+            "version": "0.9.74",
+            "size": 1371964536,
+            "icon": "img/zhunter2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/zhunter2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/zhunter2.ipa",
+            "bundleIdentifier": "com.onemb.zombie.hunter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zhunter2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zhunter2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zhunter2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zhunter2_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zhunter2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zhunter2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zhunter2_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.9.74",
+                    "date": "2026-11-09T10:57:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/zhunter2.ipa",
+                    "size": 1371964536,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zhunter2_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zhunter2_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zhunter2_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1911226017,
             "name": "Energy Billionaire",
             "version": "1.2.59",
