@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1872140159,
+            "name": "athkari - اذكاري",
+            "version": "4.0.0",
+            "size": 89093649,
+            "icon": "img/athkari.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/athkari.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/athkari.ipa",
+            "bundleIdentifier": "com.mbh.athkari",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق أذكاري هو رفيقك اليومي لتذكّر أذكارك بسهولة وجمال في كل وقت، مع تنبيهات ذكية، مسبحة إلكترونية، وبوصلة قبلة بدون إنترنت ليُعزِّز روحانيتك ويقربك من الله كل يوم.\r\n- مفتوح المميزات ( اضغط على استعاده المشتريات اذا لم يتفعل بشكل تلقائي )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/athkari.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.0.0",
+                    "date": "2026-11-09T06:57:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/athkari.ipa",
+                    "size": 89093649,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1248501426,
+            "name": "Documents",
+            "version": "8.22.12",
+            "size": 418297383,
+            "icon": "img/documents.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/documents.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/documents.ipa",
+            "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "التطبيق الأول لإدارة الملفات\r\n\r\nالمميزات :\r\n• مفتوح جميع المميزات \r\n\r\n\r\n.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/documents.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "8.22.12",
+                    "date": "2026-11-09T06:57:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/documents.ipa",
+                    "size": 418297383,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1119486785,
+            "name": "التقويم الهجري",
+            "version": "9.4.1",
+            "size": 101313504,
+            "icon": "img/app82d097be93.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/app82d097be93.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/app82d097be93.ipa",
+            "bundleIdentifier": "com.enseeyab.HijriCalendar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لمعرفة التاريخ الهجري دقيق\nومعرفة اوقات الصلاة\nومعرفة احتفالات السعودية وغيره الكثير..\n\n • تفعيل المميزات كاملة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app82d097be93.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "9.4.1",
+                    "date": "2026-11-09T06:56:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/app82d097be93.ipa",
+                    "size": 101313504,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1654092879,
+            "name": "Merge Tile",
+            "version": "1.4.4",
+            "size": 852279641,
+            "icon": "img/mergetile.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/mergetile.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/mergetile.ipa",
+            "bundleIdentifier": "com.starfish.mergevia.tile.match.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Everything\n\n- كل شيء غير محدود",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergetile.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.4",
+                    "date": "2026-11-09T06:55:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/mergetile.ipa",
+                    "size": 852279641,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1710883345,
+            "name": "Endless Clash: Strategy RPG",
+            "version": "2.0.9",
+            "size": 490390780,
+            "icon": "img/endlessclashstrategyrpg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/endlessclashstrategyrpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/endlessclashstrategyrpg.ipa",
+            "bundleIdentifier": "com.brnmetaverse.endlessclash",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لاعب لا يتضرر → تحمل أي مواجهة بدون هزيمة\n- مضاعف الضرر → عزز هجمات أبطالك\n- مضاعف الدفاع → قلل الضرر الوارد\nيعمل فقط في PVE",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/endlessclashstrategyrpg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.9",
+                    "date": "2026-11-09T06:54:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/endlessclashstrategyrpg.ipa",
+                    "size": 490390780,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1249230089,
+            "name": "Onnect Enjoy",
+            "version": "75.14.3",
+            "size": 502633840,
+            "icon": "img/onnectenjoy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/onnectenjoy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/onnectenjoy.ipa",
+            "bundleIdentifier": "com.gamebility.onet",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onnectenjoy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "75.14.3",
+                    "date": "2026-11-09T06:54:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/onnectenjoy.ipa",
+                    "size": 502633840,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1507436887,
+            "name": "Mochi Burst",
+            "version": "1.0.11",
+            "size": 788147200,
+            "icon": "img/mochiburst.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/mochiburst.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/mochiburst.ipa",
+            "bundleIdentifier": "net.gameduo.eh",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر - زيادة قوة الهجوم\n- مضاعف الدفاع - تعزيز الإحصائيات الدفاعية\n- لاعب لايتضرر - يصبح منيعا\n- قائمة التصحيح - الخيارات باللغة الكورية، ستحتاج إلى الترجمة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mochiburst.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.11",
+                    "date": "2026-11-09T06:53:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/mochiburst.ipa",
+                    "size": 788147200,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1509326318,
+            "name": "Tile Explorer Enjoy",
+            "version": "2.7.2",
+            "size": 444765462,
+            "icon": "img/tileexplorerenjoy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/tileexplorerenjoy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/tileexplorerenjoy.ipa",
+            "bundleIdentifier": "com.oakever.tiletrip",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tileexplorerenjoy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.7.2",
+                    "date": "2026-11-09T06:52:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/tileexplorerenjoy.ipa",
+                    "size": 444765462,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1684969252,
+            "name": "Plato",
+            "version": "7.9.0",
+            "size": 327440103,
+            "icon": "img/plato.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/plato.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/plato.ipa",
+            "bundleIdentifier": "com.platoapp.Plato",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "نسخه خام للتكرار فقط",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/plato.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "7.9.0",
+                    "date": "2026-11-09T06:51:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/plato.ipa",
+                    "size": 327440103,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1617905787,
             "name": "Soccer Spirits",
             "version": "2.6.3",
@@ -143430,54 +143862,6 @@
             ]
         },
         {
-            "id": 1684969252,
-            "name": "Plato",
-            "version": "7.8.1",
-            "size": 333272627,
-            "icon": "img/plato.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/plato.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/plato.ipa",
-            "bundleIdentifier": "com.platoapp.Plato",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "نسخه خام للتكرار فقط",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/plato.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "7.8.1",
-                    "date": "2026-11-07T08:16:10+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/plato.ipa",
-                    "size": 333272627,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plato_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1515522710,
             "name": "Planner 5D",
             "version": "5.13.1",
@@ -149071,54 +149455,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsortcoinpuzzleenjoy_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsortcoinpuzzleenjoy_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pocketsortcoinpuzzleenjoy_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1249230089,
-            "name": "Onnect Enjoy",
-            "version": "75.13.1",
-            "size": 468689208,
-            "icon": "img/onnectenjoy.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/onnectenjoy.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/onnectenjoy.ipa",
-            "bundleIdentifier": "com.gamebility.onet",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onnectenjoy.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "75.13.1",
-                    "date": "2026-11-07T06:23:28+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/onnectenjoy.ipa",
-                    "size": 468689208,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onnectenjoy_screen_4.png"
                     ]
                 }
             ]
@@ -159870,54 +160206,6 @@
             ]
         },
         {
-            "id": 1509326318,
-            "name": "Tile Explorer Enjoy",
-            "version": "2.7.0",
-            "size": 444758440,
-            "icon": "img/tileexplorerenjoy.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/tileexplorerenjoy.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/tileexplorerenjoy.ipa",
-            "bundleIdentifier": "com.oakever.tiletrip",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tileexplorerenjoy.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "2.7.0",
-                    "date": "2026-11-07T02:11:43+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/tileexplorerenjoy.ipa",
-                    "size": 444758440,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tileexplorerenjoy_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1520225276,
             "name": "Eras",
             "version": "1.0.49",
@@ -163743,54 +164031,6 @@
             ]
         },
         {
-            "id": 1507436887,
-            "name": "Mochi Burst",
-            "version": "1.0.9",
-            "size": 777040957,
-            "icon": "img/mochiburst.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/mochiburst.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/mochiburst.ipa",
-            "bundleIdentifier": "net.gameduo.eh",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- مضاعف الضرر - زيادة قوة الهجوم\n- مضاعف الدفاع - تعزيز الإحصائيات الدفاعية\n- لاعب لايتضرر - يصبح منيعا\n- قائمة التصحيح - الخيارات باللغة الكورية، ستحتاج إلى الترجمة",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mochiburst.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.9",
-                    "date": "2026-11-07T00:30:42+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/mochiburst.ipa",
-                    "size": 777040957,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mochiburst_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1964517597,
             "name": "Age of Spirits",
             "version": "1.1.3",
@@ -165855,54 +166095,6 @@
             ]
         },
         {
-            "id": 1710883345,
-            "name": "Endless Clash: Strategy RPG",
-            "version": "2.0.7",
-            "size": 485321118,
-            "icon": "img/endlessclashstrategyrpg.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/endlessclashstrategyrpg.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/endlessclashstrategyrpg.ipa",
-            "bundleIdentifier": "com.brnmetaverse.endlessclash",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- لاعب لا يتضرر → تحمل أي مواجهة بدون هزيمة\n- مضاعف الضرر → عزز هجمات أبطالك\n- مضاعف الدفاع → قلل الضرر الوارد\nيعمل فقط في PVE",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/endlessclashstrategyrpg.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "2.0.7",
-                    "date": "2026-11-06T23:39:19+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/endlessclashstrategyrpg.ipa",
-                    "size": 485321118,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1441398321,
             "name": "HeckfireTycoon",
             "version": "1.2.0",
@@ -166519,54 +166711,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moviepro_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moviepro_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moviepro_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1248501426,
-            "name": "Documents",
-            "version": "8.22.11",
-            "size": 418285751,
-            "icon": "img/documents.png",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/documents.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/documents.ipa",
-            "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "التطبيق الأول لإدارة الملفات\r\n\r\nالمميزات :\r\n• مفتوح جميع المميزات \r\n\r\n\r\n.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/documents.png",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "8.22.11",
-                    "date": "2026-11-06T23:24:26+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/documents.ipa",
-                    "size": 418285751,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documents_screen_4.jpg"
                     ]
                 }
             ]
@@ -169300,54 +169444,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tarteel_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tarteel_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tarteel_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1654092879,
-            "name": "Merge Tile",
-            "version": "1.4.3",
-            "size": 831701668,
-            "icon": "img/mergetile.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/mergetile.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/mergetile.ipa",
-            "bundleIdentifier": "com.starfish.mergevia.tile.match.ios",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Everything\n\n- كل شيء غير محدود",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergetile.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.4.3",
-                    "date": "2026-11-06T22:08:06+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/mergetile.ipa",
-                    "size": 831701668,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_4.png"
                     ]
                 }
             ]
@@ -174879,54 +174975,6 @@
             ]
         },
         {
-            "id": 1872140159,
-            "name": "athkari - اذكاري",
-            "version": "3.8.46",
-            "size": 87929100,
-            "icon": "img/athkari.png",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/athkari.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/athkari.ipa",
-            "bundleIdentifier": "com.mbh.athkari",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "تطبيق أذكاري هو رفيقك اليومي لتذكّر أذكارك بسهولة وجمال في كل وقت، مع تنبيهات ذكية، مسبحة إلكترونية، وبوصلة قبلة بدون إنترنت ليُعزِّز روحانيتك ويقربك من الله كل يوم.\r\n- مفتوح المميزات ( اضغط على استعاده المشتريات اذا لم يتفعل بشكل تلقائي )",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/athkari.png",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "3.8.46",
-                    "date": "2026-11-06T20:05:03+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/athkari.ipa",
-                    "size": 87929100,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/athkari_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1154187561,
             "name": "Caravan Carnage: Fruity Road",
             "version": "1.0024",
@@ -175402,54 +175450,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scannerpro_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scannerpro_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scannerpro_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1119486785,
-            "name": "التقويم الهجري",
-            "version": "9.4",
-            "size": 101245578,
-            "icon": "img/app82d097be93.png",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/app82d097be93.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/app82d097be93.ipa",
-            "bundleIdentifier": "com.enseeyab.HijriCalendar",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "لمعرفة التاريخ الهجري دقيق\nومعرفة اوقات الصلاة\nومعرفة احتفالات السعودية وغيره الكثير..\n\n • تفعيل المميزات كاملة",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app82d097be93.png",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "9.4",
-                    "date": "2026-11-06T19:57:26+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/app82d097be93.ipa",
-                    "size": 101245578,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app82d097be93_screen_4.jpg"
                     ]
                 }
             ]
