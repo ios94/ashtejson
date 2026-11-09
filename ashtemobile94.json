@@ -10,6 +10,429 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1154278931,
+            "name": "Squad Heroes",
+            "version": "5.2",
+            "size": 215078809,
+            "icon": "img/squadheroes.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/squadheroes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/squadheroes.ipa",
+            "bundleIdentifier": "com.tapugo.squadheroes",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عدد غير محدود من الأحجار الكريمة\n- عدد غير محدود من الذهب\n- طاقة غير محدودة\n- ماغنتا غير محدود\n- أقصى قوة هجوم\n- أقصى قوة دفاع\n- أقصى سرعة هجوم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/squadheroes.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squadheroes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squadheroes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squadheroes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squadheroes_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squadheroes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squadheroes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squadheroes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squadheroes_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.2",
+                    "date": "2026-11-09T02:18:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/squadheroes.ipa",
+                    "size": 215078809,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squadheroes_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squadheroes_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squadheroes_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squadheroes_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1967336955,
+            "name": "RiftCraft",
+            "version": "2.52.22",
+            "size": 328929815,
+            "icon": "img/riftcraft.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/riftcraft.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/riftcraft.ipa",
+            "bundleIdentifier": "com.sneakypanda.riftcraft",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- فوز تلقائي  لاعب ضد لاعب ومرحلة \n- إعلانات  مكافآت مجانية \n- جواهر\n- رموز",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/riftcraft.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftcraft_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftcraft_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftcraft_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftcraft_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftcraft_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftcraft_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftcraft_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftcraft_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.52.22",
+                    "date": "2026-11-09T02:18:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/riftcraft.ipa",
+                    "size": 328929815,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftcraft_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftcraft_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftcraft_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftcraft_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1571412453,
+            "name": "ProMovieRecorder",
+            "version": "1.11.10",
+            "size": 4106258,
+            "icon": "img/promovierecorder.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/promovierecorder.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/promovierecorder.ipa",
+            "bundleIdentifier": "com.liaoyuan.huo.FKCamera.Full",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "برنامج للتصوير الاحترافي \n- الحد الأدنى للإصدار: iOS 13.0\n- تطبيق مدفوع بقيمة : $2.99",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/promovierecorder.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/promovierecorder_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/promovierecorder_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/promovierecorder_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/promovierecorder_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/promovierecorder_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/promovierecorder_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/promovierecorder_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/promovierecorder_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.11.10",
+                    "date": "2026-11-09T02:18:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/promovierecorder.ipa",
+                    "size": 4106258,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/promovierecorder_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/promovierecorder_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/promovierecorder_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/promovierecorder_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1335209648,
+            "name": "Moflex",
+            "version": "3.0.0",
+            "size": 17303867,
+            "icon": "img/moflex.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/moflex.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/moflex.ipa",
+            "bundleIdentifier": "com.entertainment.moflex",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لمشاهده الافلام والمسلسلات \n- بدون اعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/moflex.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moflex_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moflex_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moflex_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moflex_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moflex_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moflex_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moflex_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moflex_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.0.0",
+                    "date": "2026-11-09T02:18:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/moflex.ipa",
+                    "size": 17303867,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moflex_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moflex_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moflex_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moflex_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1584246099,
+            "name": "Universe Invader 2: Alien War",
+            "version": "1.0.32",
+            "size": 449611111,
+            "icon": "img/universeinvader2alienwar.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/universeinvader2alienwar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/universeinvader2alienwar.ipa",
+            "bundleIdentifier": "com.GCenter.com.universe.invaders.alien.war.attack.V2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- فوز تلقائي\n- نقاط كبار الشخصيات\n- جواهر\n- عملات معدنية\n- طاقة\n- معزز\n- مفاتيح +٢\n- حياة\n- ضرر\n- فتح منطقة لا حاجة لنجمة\n- تكلفة فتح السفن والطائرات بدون طيار ٠",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/universeinvader2alienwar.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/universeinvader2alienwar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/universeinvader2alienwar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/universeinvader2alienwar_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/universeinvader2alienwar_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/universeinvader2alienwar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/universeinvader2alienwar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/universeinvader2alienwar_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/universeinvader2alienwar_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.32",
+                    "date": "2026-11-09T02:18:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/universeinvader2alienwar.ipa",
+                    "size": 449611111,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/universeinvader2alienwar_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/universeinvader2alienwar_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/universeinvader2alienwar_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/universeinvader2alienwar_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1531382212,
+            "name": "Readera Books",
+            "version": "2.0",
+            "size": 39302710,
+            "icon": "img/readerabooks.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/readerabooks.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/readerabooks.ipa",
+            "bundleIdentifier": "com.cynao.book.reader",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لمشاهده الافلام والمسلسلات \r\n- بدون اعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/readerabooks.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/readerabooks_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/readerabooks_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/readerabooks_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/readerabooks_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/readerabooks_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/readerabooks_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/readerabooks_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/readerabooks_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0",
+                    "date": "2026-11-09T02:17:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/readerabooks.ipa",
+                    "size": 39302710,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/readerabooks_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/readerabooks_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/readerabooks_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/readerabooks_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1911197930,
+            "name": "Chicken Police",
+            "version": "1.0.8",
+            "size": 1288856469,
+            "icon": "img/chickenpolice.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/chickenpolice.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/chickenpolice.ipa",
+            "bundleIdentifier": "com.hg.chickenpolice",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه مدفوعه في ابل ستور \n- الحد الأدنى للإصدار: iOS 13.0 . \n- تطبيق مدفوع بقيمة : 18 ريال .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/chickenpolice.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickenpolice_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickenpolice_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickenpolice_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickenpolice_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickenpolice_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickenpolice_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickenpolice_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickenpolice_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.8",
+                    "date": "2026-11-09T02:17:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/chickenpolice.ipa",
+                    "size": 1288856469,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickenpolice_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickenpolice_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickenpolice_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chickenpolice_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1571842558,
+            "name": "Dragoneer",
+            "version": "1.0.27",
+            "size": 951123143,
+            "icon": "img/dragoneer.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/dragoneer.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/dragoneer.ipa",
+            "bundleIdentifier": "com.daerigame.dragon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مُضاعِف الضرر\n- مُضاعِف الدفاع\n- لا تموت أبدًا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dragoneer.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dragoneer.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dragoneer.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.27",
+                    "date": "2026-11-09T02:15:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/dragoneer.ipa",
+                    "size": 951123143,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dragoneer.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1706002811,
+            "name": "Night Slashers Remake",
+            "version": "1.0.6",
+            "size": 690793434,
+            "icon": "img/nightslashersremake.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/nightslashersremake.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/nightslashersremake.ipa",
+            "bundleIdentifier": "com.forever-entertainment.NightSlashersRemake",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا تموت أبدًا\n- قتل بضربة واحدة\n- مضاعف النقاط\n- عمليات شراء مجانية داخل التطبيق",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nightslashersremake.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightslashersremake_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightslashersremake_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightslashersremake_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightslashersremake_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightslashersremake_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightslashersremake_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightslashersremake_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightslashersremake_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.6",
+                    "date": "2026-11-09T02:15:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/nightslashersremake.ipa",
+                    "size": 690793434,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightslashersremake_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightslashersremake_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightslashersremake_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightslashersremake_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1741802129,
             "name": "Pic Scanner",
             "version": "5.96",
