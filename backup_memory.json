@@ -10,6 +10,465 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1750895210,
+            "name": "Live Player",
+            "version": "2.80",
+            "size": 124701698,
+            "icon": "img/liveplayer.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/liveplayer.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/liveplayer.ipa",
+            "bundleIdentifier": "com.mdcmedia.liveplayer.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتشغيل المقاطع وبثها .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/liveplayer.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/liveplayer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/liveplayer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/liveplayer_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/liveplayer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/liveplayer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/liveplayer_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.80",
+                    "date": "2026-11-09T21:40:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/liveplayer.ipa",
+                    "size": 124701698,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/liveplayer_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/liveplayer_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/liveplayer_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1782284375,
+            "name": "Easy Files",
+            "version": "1.8",
+            "size": 24452428,
+            "icon": "img/easyfiles.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/easyfiles.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/easyfiles.ipa",
+            "bundleIdentifier": "com.nch.EZTransfer",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتصفح ملفاتك ومشاركتها .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/easyfiles.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easyfiles_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easyfiles_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easyfiles_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easyfiles_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easyfiles_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easyfiles_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easyfiles_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easyfiles_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.8",
+                    "date": "2026-11-09T21:40:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/easyfiles.ipa",
+                    "size": 24452428,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easyfiles_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easyfiles_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easyfiles_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/easyfiles_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1681484838,
+            "name": "Guess & Find PRO",
+            "version": "3.0.0",
+            "size": 18774191,
+            "icon": "img/guessfindpro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/guessfindpro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/guessfindpro.ipa",
+            "bundleIdentifier": "com.littlebigplay.games.pro.guessandfind",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $3.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $3.99\nتتطلب اصدار 12.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guessfindpro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guessfindpro.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guessfindpro.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.0.0",
+                    "date": "2026-11-09T21:40:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/guessfindpro.ipa",
+                    "size": 18774191,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guessfindpro.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1787765203,
+            "name": "Words Everywhere PRO",
+            "version": "3.0.0",
+            "size": 19764267,
+            "icon": "img/wordseverywherepro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/wordseverywherepro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/wordseverywherepro.ipa",
+            "bundleIdentifier": "com.littlebigplay.games.pro.wordseverywhere",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $4.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $4.99\nتتطلب اصدار 12.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wordseverywherepro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordseverywherepro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordseverywherepro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordseverywherepro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordseverywherepro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordseverywherepro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordseverywherepro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordseverywherepro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordseverywherepro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.0.0",
+                    "date": "2026-11-09T21:40:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/wordseverywherepro.ipa",
+                    "size": 19764267,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordseverywherepro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordseverywherepro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordseverywherepro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordseverywherepro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1137586984,
+            "name": "Tricky 6",
+            "version": "1.3.1",
+            "size": 18302675,
+            "icon": "img/tricky6.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/tricky6.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/tricky6.ipa",
+            "bundleIdentifier": "de.benzzay.tricky",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $1.99\nRequires 9.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $1.99\nتتطلب اصدار 9.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tricky6.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tricky6_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tricky6_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tricky6_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tricky6_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tricky6_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tricky6_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tricky6_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tricky6_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.1",
+                    "date": "2026-11-09T21:39:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/tricky6.ipa",
+                    "size": 18302675,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tricky6_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tricky6_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tricky6_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tricky6_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1632272472,
+            "name": "Psychic Tarot",
+            "version": "2.5.3",
+            "size": 83886422,
+            "icon": "img/psychictarot.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/psychictarot.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/psychictarot.ipa",
+            "bundleIdentifier": "com.oceanhousemedia.OCardPsychicTarot",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $19.99\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $19.99\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/psychictarot.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psychictarot_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psychictarot_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psychictarot_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psychictarot_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psychictarot_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psychictarot_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psychictarot_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psychictarot_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.5.3",
+                    "date": "2026-11-09T21:39:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/psychictarot.ipa",
+                    "size": 83886422,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psychictarot_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psychictarot_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psychictarot_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/psychictarot_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1973135930,
+            "name": "Ableton Note",
+            "version": "1.6",
+            "size": 921869693,
+            "icon": "img/abletonnote.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/abletonnote.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/abletonnote.ipa",
+            "bundleIdentifier": "com.ableton.note",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $12.99\nRequires 15.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $12.99\nيتطلب اصدار 15.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/abletonnote.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/abletonnote_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/abletonnote_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/abletonnote_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/abletonnote_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/abletonnote_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/abletonnote_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/abletonnote_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/abletonnote_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.6",
+                    "date": "2026-11-09T21:39:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/abletonnote.ipa",
+                    "size": 921869693,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/abletonnote_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/abletonnote_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/abletonnote_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/abletonnote_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1791978813,
+            "name": "PeakFinder",
+            "version": "4.8.47",
+            "size": 36528466,
+            "icon": "img/peakfinder.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/peakfinder.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/peakfinder.ipa",
+            "bundleIdentifier": "ch.peakfinder.peakfinder-alps",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 13.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/peakfinder.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peakfinder_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peakfinder_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peakfinder_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peakfinder_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peakfinder_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peakfinder_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peakfinder_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peakfinder_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.8.47",
+                    "date": "2026-11-09T21:38:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/peakfinder.ipa",
+                    "size": 36528466,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peakfinder_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peakfinder_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peakfinder_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/peakfinder_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1873167994,
+            "name": "UberVault",
+            "version": "5.1",
+            "size": 30982060,
+            "icon": "img/ubervault.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/ubervault.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/ubervault.ipa",
+            "bundleIdentifier": "com.itrackmobile.UberVault",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $3.99\nRequires 16.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $3.99\nيتطلب اصدار 16.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ubervault.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ubervault.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ubervault.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.1",
+                    "date": "2026-11-09T21:38:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/ubervault.ipa",
+                    "size": 30982060,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ubervault.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1249094039,
+            "name": "YPWatchTV",
+            "version": "2.3",
+            "size": 23196945,
+            "icon": "img/ypwatchtv.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/ypwatchtv.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/ypwatchtv.ipa",
+            "bundleIdentifier": "com.hansen.watchtv",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $1.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $1.99\nيتطلب اصدار 12.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ypwatchtv.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ypwatchtv_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ypwatchtv_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ypwatchtv_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ypwatchtv_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ypwatchtv_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ypwatchtv_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ypwatchtv_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ypwatchtv_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.3",
+                    "date": "2026-11-09T21:38:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/ypwatchtv.ipa",
+                    "size": 23196945,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ypwatchtv_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ypwatchtv_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ypwatchtv_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ypwatchtv_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1569433058,
             "name": "PicTool",
             "version": "1.0.01",
