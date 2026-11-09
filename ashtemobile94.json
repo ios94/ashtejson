@@ -10,6 +10,246 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1228830411,
+            "name": "Smash Fest!",
+            "version": "797",
+            "size": 386437014,
+            "icon": "img/smashfest.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
+            "bundleIdentifier": "com.flow.cannon-ball",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Get Max Coin / Booster When Spent → coins and boosters refill instantly after use\n- No Ads → uninterrupted gameplay throughout\n- Infinite Ball → unlimited shots to complete every level",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "797",
+                    "date": "2026-11-09T06:27:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
+                    "size": 386437014,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1740559160,
+            "name": "Merge Ninja Star 2",
+            "version": "1.0.6630",
+            "size": 614303295,
+            "icon": "img/mergeninjastar2.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mergeninjastar2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mergeninjastar2.ipa",
+            "bundleIdentifier": "com.mouseduck.boomerang",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Add Ruby\n- Add Feather\n- Add Dark Stone\n- Add Ore\n- Add Pearl\n- Add Time Piece",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergeninjastar2.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.6630",
+                    "date": "2026-11-09T06:26:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mergeninjastar2.ipa",
+                    "size": 614303295,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1289350922,
+            "name": "GunzTower: Pixel Dungeon RPG",
+            "version": "1.24",
+            "size": 565815105,
+            "icon": "img/gunztowerpixeldungeonrpg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/gunztowerpixeldungeonrpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/gunztowerpixeldungeonrpg.ipa",
+            "bundleIdentifier": "com.fourdollars.dng",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → boost your firepower output\n- Defense Multiplier → reduce incoming damage taken",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gunztowerpixeldungeonrpg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.24",
+                    "date": "2026-11-09T06:25:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/gunztowerpixeldungeonrpg.ipa",
+                    "size": 565815105,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1352304604,
+            "name": "Endless Puncher",
+            "version": "1.7.04",
+            "size": 434835687,
+            "icon": "img/endlesspuncher.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/endlesspuncher.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/endlesspuncher.ipa",
+            "bundleIdentifier": "com.fubugames.endlesspuncher",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → boost your punch power\n- Defence Multiplier → reduce incoming damage\n- Never Die → become invincible\n- Currency Modifier → earn or spend freely",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/endlesspuncher.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.04",
+                    "date": "2026-11-09T06:24:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/endlesspuncher.ipa",
+                    "size": 434835687,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1524170019,
+            "name": "YouTube DL",
+            "version": "21.44.4",
+            "size": 351772142,
+            "icon": "img/youtubedl.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubedl.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubedl.ipa",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Download videos in multiple quality options\r\n\r\nDownload audio\r\n\r\nDownload stories (Stories)\r\n\r\nSave all downloaded media in YouTube under the DLTube tab with the option to save them to the Photos app\r\n\r\nRemove all types of ads\r\n\r\nBackground playback\r\n\r\nCopy texts (description, title, posts, comments)\r\n\r\nRemove recommended videos\r\n\r\nOpen links directly in Safari\r\n\r\nAuto-restart video after it ends\r\n\r\nDownload post images\r\n\r\nDisplay song lyrics\r\n\r\nEnable Picture-in-Picture (PiP) mode\r\n\r\nHide the \"Create Video\" button\r\n\r\nDownload video thumbnail image",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/youtubedl.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "21.44.4",
+                    "date": "2026-11-09T06:24:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/youtubedl.ipa",
+                    "size": 351772142,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1719008508,
             "name": "DQスマグロ",
             "version": "1.0.2",
@@ -191504,54 +191744,6 @@
             ]
         },
         {
-            "id": 1352304604,
-            "name": "Endless Puncher",
-            "version": "1.7.03",
-            "size": 230808891,
-            "icon": "img/endlesspuncher.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/endlesspuncher.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/endlesspuncher.ipa",
-            "bundleIdentifier": "com.fubugames.endlesspuncher",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Damage Multiplier → boost your punch power\n- Defence Multiplier → reduce incoming damage\n- Never Die → become invincible\n- Currency Modifier → earn or spend freely",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/endlesspuncher.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.7.03",
-                    "date": "2026-10-26T17:11:42+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/endlesspuncher.ipa",
-                    "size": 230808891,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlesspuncher_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1701871950,
             "name": "FAIRY TAIL Wizard Chronicle",
             "version": "2.0.0",
@@ -191739,54 +191931,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2countryescape_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2countryescape_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/farmville2countryescape_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1740559160,
-            "name": "Merge Ninja Star 2",
-            "version": "1.0.6610",
-            "size": 192145750,
-            "icon": "img/mergeninjastar2.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mergeninjastar2.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mergeninjastar2.ipa",
-            "bundleIdentifier": "com.mouseduck.boomerang",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Add Ruby\n- Add Feather\n- Add Dark Stone\n- Add Ore\n- Add Pearl\n- Add Time Piece",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergeninjastar2.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.6610",
-                    "date": "2026-10-26T17:08:33+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mergeninjastar2.ipa",
-                    "size": 192145750,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeninjastar2_screen_4.png"
                     ]
                 }
             ]
@@ -196188,54 +196332,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktokdl_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktokdl_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tiktokdl_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1524170019,
-            "name": "YouTube DL",
-            "version": "21.16.2",
-            "size": 146143840,
-            "icon": "img/youtubedl.jpg",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubedl.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/youtubedl.ipa",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Download videos in multiple quality options\r\n\r\nDownload audio\r\n\r\nDownload stories (Stories)\r\n\r\nSave all downloaded media in YouTube under the DLTube tab with the option to save them to the Photos app\r\n\r\nRemove all types of ads\r\n\r\nBackground playback\r\n\r\nCopy texts (description, title, posts, comments)\r\n\r\nRemove recommended videos\r\n\r\nOpen links directly in Safari\r\n\r\nAuto-restart video after it ends\r\n\r\nDownload post images\r\n\r\nDisplay song lyrics\r\n\r\nEnable Picture-in-Picture (PiP) mode\r\n\r\nHide the \"Create Video\" button\r\n\r\nDownload video thumbnail image",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/youtubedl.jpg",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "21.16.2",
-                    "date": "2026-10-16T14:33:47+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/youtubedl.ipa",
-                    "size": 146143840,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedl_screen_4.jpg"
                     ]
                 }
             ]
@@ -201689,54 +201785,6 @@
             ]
         },
         {
-            "id": 1228830411,
-            "name": "Smash Fest!",
-            "version": "717",
-            "size": 125500471,
-            "icon": "img/smashfest.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
-            "bundleIdentifier": "com.flow.cannon-ball",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Get Max Coin / Booster When Spent → coins and boosters refill instantly after use\n- No Ads → uninterrupted gameplay throughout\n- Infinite Ball → unlimited shots to complete every level",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smashfest.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "717",
-                    "date": "2026-10-15T02:32:54+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/smashfest.ipa",
-                    "size": 125500471,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smashfest_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1196556518,
             "name": "Tropicats: Match 3 Puzzle Game",
             "version": "2.5.11",
@@ -202260,54 +202308,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grandmountainadventure2_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1289350922,
-            "name": "GunzTower: Pixel Dungeon RPG",
-            "version": "1.22",
-            "size": 338965954,
-            "icon": "img/gunztowerpixeldungeonrpg.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/gunztowerpixeldungeonrpg.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/gunztowerpixeldungeonrpg.ipa",
-            "bundleIdentifier": "com.fourdollars.dng",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Damage Multiplier → boost your firepower output\n- Defense Multiplier → reduce incoming damage taken",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gunztowerpixeldungeonrpg.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1.22",
-                    "date": "2026-10-15T01:09:37+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/gunztowerpixeldungeonrpg.ipa",
-                    "size": 338965954,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_4.jpg"
                     ]
                 }
             ]
