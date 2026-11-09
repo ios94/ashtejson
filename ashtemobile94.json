@@ -10,6 +10,465 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1731504882,
+            "name": "BMI Calculator",
+            "version": "1.0.3",
+            "size": 31988410,
+            "icon": "img/bmicalculator.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/bmicalculator.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/bmicalculator.ipa",
+            "bundleIdentifier": "com.leapfitness.BMICalculator",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الأعلانات\n\nوصف التطبيق: \n\nباستخدام حاسبة مؤشر كتلة الجسم المجانية هذه، يمكنك حساب وتقييم مؤشر كتلة الجسم (BMI) الخاص بك ببساطة عن طريق إدخال العمر والجنس والطول والوزن. وهي تدعم النظام المتري أو الإمبراطوري ومصممة بناءً على تصنيف مؤشر كتلة الجسم لمنظمة الصحة العالمية.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bmicalculator.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmicalculator_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmicalculator_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmicalculator_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmicalculator_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmicalculator_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmicalculator_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.3",
+                    "date": "2026-11-09T19:09:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/bmicalculator.ipa",
+                    "size": 31988410,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmicalculator_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmicalculator_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmicalculator_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1558159010,
+            "name": "Stack N Sort",
+            "version": "1.13",
+            "size": 197461834,
+            "icon": "img/stacknsort.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/stacknsort.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/stacknsort.ipa",
+            "bundleIdentifier": "com.hegames.stacknsort",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل اللعبة مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stacknsort.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stacknsort_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stacknsort_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stacknsort_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stacknsort_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stacknsort_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stacknsort_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stacknsort_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stacknsort_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.13",
+                    "date": "2026-11-09T19:09:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/stacknsort.ipa",
+                    "size": 197461834,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stacknsort_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stacknsort_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stacknsort_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stacknsort_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1615901524,
+            "name": "Nap",
+            "version": "1.0.3",
+            "size": 22786804,
+            "icon": "img/nap.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/nap.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/nap.ipa",
+            "bundleIdentifier": "berton.united.nap",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- فتح الأشتراك\n\n#حصرياا\n\nوصف التطبيق: \n\nاكتشف أسرار النوم الأفضل! لقد جربت العديد من تطبيقات النوم، لكن Nap هو التطبيق الوحيد الذي يفهم احتياجاتي حقًا. لم أنم أبدًا بشكل أفضل!\" - سارة م.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nap.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nap_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nap_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nap_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nap_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nap_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nap_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nap_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nap_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.3",
+                    "date": "2026-11-09T19:09:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/nap.ipa",
+                    "size": 22786804,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nap_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nap_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nap_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nap_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1654926497,
+            "name": "Perfect Smile 3D",
+            "version": "1.4.8",
+            "size": 270267000,
+            "icon": "img/perfectsmile3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/perfectsmile3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/perfectsmile3d.ipa",
+            "bundleIdentifier": "com.midnightcasual.perfectsmile",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الأعلانات\n\nتنبية مهم : في بعض الأحيان لايضهر المتجر مباشرة عند اللعب لأول مره يجب ان تلعب لمدة ليضهر المتجر وتقوم بأزالة الأعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/perfectsmile3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/perfectsmile3d.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/perfectsmile3d.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.8",
+                    "date": "2026-11-09T19:09:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/perfectsmile3d.ipa",
+                    "size": 270267000,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/perfectsmile3d.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1444455311,
+            "name": "Tiny Quest",
+            "version": "1.10.3",
+            "size": 387445347,
+            "icon": "img/tinyquest.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/tinyquest.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/tinyquest.ipa",
+            "bundleIdentifier": "com.superbox.ios.hitrealidle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Weak Enemies\r\n \n\n- أعداء ضعفاء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tinyquest.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinyquest_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinyquest_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinyquest_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinyquest_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinyquest_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinyquest_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinyquest_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinyquest_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.10.3",
+                    "date": "2026-11-09T19:09:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/tinyquest.ipa",
+                    "size": 387445347,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinyquest_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinyquest_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinyquest_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinyquest_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1969178529,
+            "name": "Beastie Bay",
+            "version": "2.34",
+            "size": 119995841,
+            "icon": "img/beastiebay.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/beastiebay.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/beastiebay.ipa",
+            "bundleIdentifier": "com.kairosoft.gm79",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Infinite Money\r\n- Infinite Research Points (Wood, Food, Coins)\r\n- Get much PVE XP\r\n- Freeze Items/Consumables\r\n- Fast MoveSpeed\r\n- Fast Meeting Speed\r\n- Free IAP For No Ads\r\n \n\n- أموال لا حصر لها\r\n- نقاط البحث اللانهائية (الخشب ، الطعام ، العملات المعدنية)\r\n- احصل على الكثير من PVE XP\r\n- تجميد العناصر/المواد الاستهلاكية\r\n- سريع movespeed\r\n- سرعة الاجتماع السريع\r\n- IAP مجاني لعدم الإعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/beastiebay.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastiebay_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastiebay_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastiebay_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastiebay_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastiebay_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastiebay_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastiebay_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastiebay_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.34",
+                    "date": "2026-11-09T19:08:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/beastiebay.ipa",
+                    "size": 119995841,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastiebay_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastiebay_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastiebay_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastiebay_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1316426142,
+            "name": "Junkineering",
+            "version": "1.0.3",
+            "size": 255034206,
+            "icon": "img/junkineering.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/junkineering.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/junkineering.ipa",
+            "bundleIdentifier": "com.Coleplay.Junkineering",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Always Enough Currency\r\n- Always Can Level Up\r\n- Freeze Currency\r\n\r\nThis hack was made by @Cashlaz for .com!\r\n \n\n- دائما ما يكفي من العملة\r\n- يمكن دائمًا رفع مستوى\r\n- تجميد العملة\r\n\r\nتم اتخاذ هذا الاختراق بواسطة cashlaz لـ .com!",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/junkineering.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkineering_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkineering_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkineering_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkineering_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkineering_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkineering_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkineering_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkineering_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.3",
+                    "date": "2026-11-09T19:08:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/junkineering.ipa",
+                    "size": 255034206,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkineering_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkineering_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkineering_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/junkineering_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1663149274,
+            "name": "Heavenly Demon IDLE",
+            "version": "1.057",
+            "size": 1121995031,
+            "icon": "img/heavenlydemonidle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/heavenlydemonidle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/heavenlydemonidle.ipa",
+            "bundleIdentifier": "com.standegg.glcheonma",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Never Die\r\n- Reward Multiplier\r\n \n\n- لا يموت أبداً\r\n- مضاعفة المكافآت",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heavenlydemonidle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heavenlydemonidle.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heavenlydemonidle.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.057",
+                    "date": "2026-11-09T19:08:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/heavenlydemonidle.ipa",
+                    "size": 1121995031,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heavenlydemonidle.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1384069212,
+            "name": "Railways",
+            "version": "2.4.8",
+            "size": 131894302,
+            "icon": "img/railways.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/railways.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/railways.ipa",
+            "bundleIdentifier": "com.infinitygames.railways",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $3.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $3.99\nتتطلب اصدار 13.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/railways.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railways_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railways_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railways_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railways_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railways_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railways_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railways_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railways_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.8",
+                    "date": "2026-11-09T19:07:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/railways.ipa",
+                    "size": 131894302,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railways_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railways_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railways_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/railways_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1865218699,
+            "name": "Infinite DIY Alchemy Craft",
+            "version": "1.1.14",
+            "size": 182268651,
+            "icon": "img/infinitediyalchemycraft.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/infinitediyalchemycraft.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/infinitediyalchemycraft.ipa",
+            "bundleIdentifier": "com.infinite.craft.merge.alchemy",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\nمتجر مجاني ( اضغط شراء والغاء)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/infinitediyalchemycraft.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitediyalchemycraft_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitediyalchemycraft_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitediyalchemycraft_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitediyalchemycraft_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitediyalchemycraft_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitediyalchemycraft_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitediyalchemycraft_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitediyalchemycraft_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.14",
+                    "date": "2026-11-09T19:07:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/infinitediyalchemycraft.ipa",
+                    "size": 182268651,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitediyalchemycraft_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitediyalchemycraft_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitediyalchemycraft_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitediyalchemycraft_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1993534580,
             "name": "Critter Survivor: Amusing Time",
             "version": "1.0.4",
