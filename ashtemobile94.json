@@ -10,6 +10,474 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1238783962,
+            "name": "Oil Digging 3D",
+            "version": "1.5.3",
+            "size": 216174671,
+            "icon": "img/oildigging3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/oildigging3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/oildigging3d.ipa",
+            "bundleIdentifier": "com.tanderson.oildigging",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل التطبيق مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/oildigging3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/oildigging3d.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/oildigging3d.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.3",
+                    "date": "2026-11-09T19:19:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/oildigging3d.ipa",
+                    "size": 216174671,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/oildigging3d.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1755173411,
+            "name": "SocialDevStory",
+            "version": "2.45",
+            "size": 119800150,
+            "icon": "img/socialdevstory.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/socialdevstory.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/socialdevstory.ipa",
+            "bundleIdentifier": "net.kairosoft.iOS.snsdevEN",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Freeze Currency\r\n- Freeze Coins\r\n- Staff Cost Zero\r\n \n\n- تجميد العملة\r\n- تجميد العملات المعدنية\r\n- تكلفة الموظفين صفر",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/socialdevstory.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialdevstory_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialdevstory_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialdevstory_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialdevstory_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialdevstory_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialdevstory_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialdevstory_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialdevstory_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.45",
+                    "date": "2026-11-09T19:19:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/socialdevstory.ipa",
+                    "size": 119800150,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialdevstory_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialdevstory_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialdevstory_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialdevstory_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1200664790,
+            "name": "Taco Loco",
+            "version": "1.09",
+            "size": 255021736,
+            "icon": "img/tacoloco.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/tacoloco.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/tacoloco.ipa",
+            "bundleIdentifier": "com.SushiStudios.TacoLoco",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- توجيهات لا نهائي\n- اللعبة كاملة\n- الغاء ألاعلانات \n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tacoloco.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacoloco_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacoloco_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacoloco_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacoloco_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacoloco_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacoloco_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.09",
+                    "date": "2026-11-09T19:19:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/tacoloco.ipa",
+                    "size": 255021736,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacoloco_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacoloco_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacoloco_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1883640762,
+            "name": "Racing Car Master - Car Race 3D",
+            "version": "1.6.1",
+            "size": 354017927,
+            "icon": "img/racingcarmastercarrace3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/racingcarmastercarrace3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/racingcarmastercarrace3d.ipa",
+            "bundleIdentifier": "com.bc10.car.race.master.game3d.simulator",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل اللعبة مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/racingcarmastercarrace3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/racingcarmastercarrace3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/racingcarmastercarrace3d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/racingcarmastercarrace3d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/racingcarmastercarrace3d_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/racingcarmastercarrace3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/racingcarmastercarrace3d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/racingcarmastercarrace3d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/racingcarmastercarrace3d_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.1",
+                    "date": "2026-11-09T19:18:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/racingcarmastercarrace3d.ipa",
+                    "size": 354017927,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/racingcarmastercarrace3d_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/racingcarmastercarrace3d_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/racingcarmastercarrace3d_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/racingcarmastercarrace3d_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1792532693,
+            "name": "LegendsMatch",
+            "version": "1.4.2",
+            "size": 274633997,
+            "icon": "img/legendsmatch.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/legendsmatch.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/legendsmatch.ipa",
+            "bundleIdentifier": "com.zplayhk.LegendsMatch",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )\n\nوصف التطبيق :\n\n انطلق في مغامرة لا نهاية لها عبر متاهات الألغاز المتطابقة! تعاون مع رفاقك الفريدين من القصص الخيالية، واستخدم مهارات عشوائية بشكل استراتيجي، وتغلب على التحديات المختلفة للهروب من المتاهة!",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/legendsmatch.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendsmatch_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendsmatch_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendsmatch_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendsmatch_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendsmatch_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendsmatch_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendsmatch_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendsmatch_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.2",
+                    "date": "2026-11-09T19:18:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/legendsmatch.ipa",
+                    "size": 274633997,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendsmatch_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendsmatch_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendsmatch_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendsmatch_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1718613421,
+            "name": "Hello Hero Lionheart",
+            "version": "1.2.13",
+            "size": 490750802,
+            "icon": "img/helloherolionheart.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/helloherolionheart.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/helloherolionheart.ipa",
+            "bundleIdentifier": "com.skywalkgames.HelloHeroIdleGlobal",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Damage Multiplier\r\n- Never Die\r\n- Drop Multiplier\r\n \n\n- ضرر مضاعف\r\n- لا يموت أبداً\r\n- مضاعفة الغنائم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/helloherolionheart.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/helloherolionheart_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/helloherolionheart_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/helloherolionheart_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/helloherolionheart_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/helloherolionheart_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/helloherolionheart_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/helloherolionheart_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/helloherolionheart_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.13",
+                    "date": "2026-11-09T19:18:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/helloherolionheart.ipa",
+                    "size": 490750802,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/helloherolionheart_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/helloherolionheart_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/helloherolionheart_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/helloherolionheart_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1743404338,
+            "name": "Fish-Mish",
+            "version": "1.0.6",
+            "size": 222307575,
+            "icon": "img/fishmish.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/fishmish.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/fishmish.ipa",
+            "bundleIdentifier": "com.armnomads.fishmish",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )\n- اموال عدد لا محدود\n\nوصف التطبيق :\n\n استخدم شبكتك لصيد أكبر عدد ممكن من الأسماك. خذ صيدك إلى الخليج لبيعه وترقية سفينتك بالمال الذي تحصل عليه. استمتع بهذه التجربة المرضية والمريحة مع الرسومات الجذابة وطريقة اللعب البديهية.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fishmish.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishmish_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishmish_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishmish_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishmish_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishmish_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishmish_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishmish_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishmish_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.6",
+                    "date": "2026-11-09T19:17:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/fishmish.ipa",
+                    "size": 222307575,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishmish_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishmish_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishmish_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fishmish_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1416524440,
+            "name": "Pet Rescue",
+            "version": "3.13.3",
+            "size": 504893271,
+            "icon": "img/petrescue.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/petrescue.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/petrescue.ipa",
+            "bundleIdentifier": "com.midasplayer.apps.petrescuesaga",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Freeze Moves\r\n- Freeze Boosters\r\n- Unlimited Score -> Earn some.\r\n- Auto Win -> Rescue a pet.\r\n \n\n- تجميد التحركات\r\n- تجميد المعززات\r\n- نقاط غير محدودة -> اكسب بعضًا.\r\n- الفوز التلقائي -> إنقاذ حيوان أليف.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/petrescue.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrescue_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrescue_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrescue_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrescue_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrescue_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrescue_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrescue_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrescue_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.13.3",
+                    "date": "2026-11-09T19:17:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/petrescue.ipa",
+                    "size": 504893271,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrescue_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrescue_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrescue_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/petrescue_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1113186457,
+            "name": "Screw Stars",
+            "version": "1.1.3",
+            "size": 242117698,
+            "icon": "img/screwstars.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/screwstars.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/screwstars.ipa",
+            "bundleIdentifier": "com.playstrom.screwjam",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا نهائي\n- جميع المهارات لا نهائي\n- الغاء الأعلانات\n- قلوب لا نهائي\n\nوصف التطبيق:\n\nحرفيًا! ستشغلك هذه اللعبة الفيزيائية الصعبة لساعات بينما تحاول حل لغز بسيط للغاية: كل ما عليك فعله هو فك القطع بالترتيب الصحيح، مما يتسبب في سقوطها جميعًا إلى الأسفل. ما يبدو سهلاً سرعان ما يصبح تمرينًا عقليًا كبيرًا بينما تحاول شق طريقك إلى النجاح، برغيًا واحدًا وقطعة واحدة في كل مرة.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/screwstars.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screwstars_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screwstars_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screwstars_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screwstars_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screwstars_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screwstars_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screwstars_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screwstars_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.3",
+                    "date": "2026-11-09T19:16:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/screwstars.ipa",
+                    "size": 242117698,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screwstars_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screwstars_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screwstars_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/screwstars_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1477736027,
+            "name": "Infinite Knights",
+            "version": "1.1.28",
+            "size": 567254212,
+            "icon": "img/infiniteknights.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/infiniteknights.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/infiniteknights.ipa",
+            "bundleIdentifier": "com.lemonjamstudio.knights",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Unlimited MP\r\n- Unlimited Metarials - Increase When Use\r\n- Unlimited Potions - Increase When Use\r\n- Unlimited Diamonds\r\n- Unlimited Coins - Use Diamonds To Buy\r\n\r\nThis hack works on the latest x64 or ARM64 iDevices: iPhone 5s, 6, 6 Plus, 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus, X, Xr, Xs, Xs Max, SE, iPod Touch 6G, iPad Air, Air 2, Pro & iPad Mini 2, 3, 4 and later.\n\n- عدد غير محدود من النائب\r\n- المواد غير المحدودة - زيادة عند الاستخدام\r\n- جرعات غير محدودة - زيادة عند الاستخدام\r\n- الماس غير محدود\r\n- عملات غير محدودة - استخدم الماس للشراء\r\n\r\nيعمل هذا الاختراق على أحدث أجهزة iDevice x64 أو ARM64: iPhone 5s، 6، 6 Plus، 6s، 6s Plus، 7، 7 Plus، 8، 8 Plus، X، Xr، Xs، Xs Max، SE، iPod Touch 6G، iPad Air وAir 2 وPro وiPad Mini 2 و3 و4 والإصدارات الأحدث.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/infiniteknights.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infiniteknights_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infiniteknights_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infiniteknights_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infiniteknights_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infiniteknights_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infiniteknights_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infiniteknights_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infiniteknights_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.28",
+                    "date": "2026-11-09T19:16:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/infiniteknights.ipa",
+                    "size": 567254212,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infiniteknights_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infiniteknights_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infiniteknights_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infiniteknights_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1864416000,
             "name": "Pro Wrestler Story",
             "version": "1.16",
