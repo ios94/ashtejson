@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1973414853,
+            "name": "Bunny Tactics",
+            "version": "0.3.2",
+            "size": 187052194,
+            "icon": "img/bunnytactics.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/bunnytactics.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/bunnytactics.ipa",
+            "bundleIdentifier": "com.stellarjam.furry",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملة المعركة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bunnytactics.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnytactics_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnytactics_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnytactics_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnytactics_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnytactics_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnytactics_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnytactics_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnytactics_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.3.2",
+                    "date": "2026-11-09T01:50:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/bunnytactics.ipa",
+                    "size": 187052194,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnytactics_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnytactics_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnytactics_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnytactics_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1591629277,
+            "name": "Cat Mall",
+            "version": "1.0.26",
+            "size": 345287897,
+            "icon": "img/catmall.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/catmall.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/catmall.ipa",
+            "bundleIdentifier": "com.tree.idle.cat.mall",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعفات العملات ← تعطيل عند الإنفاق\n- لا إعلانات ← الإعدادات ← استعادة الشراء\n- تجميد العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/catmall.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catmall_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catmall_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catmall_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catmall_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catmall_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catmall_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catmall_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catmall_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.26",
+                    "date": "2026-11-09T01:49:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/catmall.ipa",
+                    "size": 345287897,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catmall_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catmall_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catmall_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catmall_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1874652524,
+            "name": "RCam Pro",
+            "version": "2.5.6",
+            "size": 187543808,
+            "icon": "img/rcampro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/rcampro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/rcampro.ipa",
+            "bundleIdentifier": "com.mm.RBroswerLite",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق مدفوع للتصوير الاحترافي . \r\n\r\n-  الحد الأدنى للإصدار: iOS 10.0\r\n- تطبيق مدفوع بقيمة : $5.99",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rcampro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rcampro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rcampro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rcampro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rcampro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rcampro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rcampro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rcampro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rcampro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.5.6",
+                    "date": "2026-11-09T01:49:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/rcampro.ipa",
+                    "size": 187543808,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rcampro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rcampro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rcampro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rcampro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1817622147,
+            "name": "Slay the Spire",
+            "version": "2.6.0",
+            "size": 915471881,
+            "icon": "img/slaythespire.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/slaythespire.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/slaythespire.ipa",
+            "bundleIdentifier": "com.humblebundle.slaythespire",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة مدفوعه في ابل ستور .\r\n\r\n-  الحد الأدنى للإصدار: iOS 12.0\r\n-  تطبيق مدفوع بقيمة : $9.99",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/slaythespire.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slaythespire_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slaythespire_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slaythespire_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slaythespire_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slaythespire_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slaythespire_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slaythespire_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slaythespire_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.6.0",
+                    "date": "2026-11-09T01:49:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/slaythespire.ipa",
+                    "size": 915471881,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slaythespire_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slaythespire_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slaythespire_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/slaythespire_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1575917401,
+            "name": "Magic Brick Wars",
+            "version": "1.4.2",
+            "size": 433820369,
+            "icon": "img/magicbrickwars.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/magicbrickwars.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/magicbrickwars.ipa",
+            "bundleIdentifier": "com.halfbrick.brickwars",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تكلفة المانا 0  ٠\r\n- وحدات نشر غير محدود\r\n- العدو لا يملك وحدات\r\n- العدو لا يملك حواجز",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/magicbrickwars.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicbrickwars_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicbrickwars_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicbrickwars_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicbrickwars_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicbrickwars_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicbrickwars_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicbrickwars_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicbrickwars_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.2",
+                    "date": "2026-11-09T01:48:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/magicbrickwars.ipa",
+                    "size": 433820369,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicbrickwars_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicbrickwars_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicbrickwars_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicbrickwars_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1567475910,
+            "name": "Respawnables",
+            "version": "11.4.1",
+            "size": 610783586,
+            "icon": "img/respawnables.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/respawnables.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/respawnables.ipa",
+            "bundleIdentifier": "com.zynga.digitallegends.respawnables",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ذهب غير محدود/لانهائي\r\n- نقود غير محدودة/لانهائية\r\n- جميع العملات الأخرى غير محدودة/لانهائية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/respawnables.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/respawnables_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/respawnables_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/respawnables_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/respawnables_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/respawnables_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/respawnables_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/respawnables_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/respawnables_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "11.4.1",
+                    "date": "2026-11-09T01:48:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/respawnables.ipa",
+                    "size": 610783586,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/respawnables_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/respawnables_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/respawnables_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/respawnables_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1391507171,
+            "name": "Mech Assemble",
+            "version": "1.6.48",
+            "size": 1357904860,
+            "icon": "img/mechassemble.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/mechassemble.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/mechassemble.ipa",
+            "bundleIdentifier": "com.ios.mecharogue.online",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- دفاع عالي\r\n- ضرر ×10\r\n- بدون إعادة تعبئة\r\n- معدل التقاط أعلى\r\n- معدل إطلاق نار عال",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mechassemble.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mechassemble_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mechassemble_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mechassemble_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mechassemble_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mechassemble_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mechassemble_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mechassemble_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mechassemble_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.48",
+                    "date": "2026-11-09T01:47:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/mechassemble.ipa",
+                    "size": 1357904860,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mechassemble_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mechassemble_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mechassemble_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mechassemble_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1902522832,
+            "name": "Joint Blitz",
+            "version": "1.0.20",
+            "size": 320315692,
+            "icon": "img/jointblitz.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/jointblitz.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/jointblitz.ipa",
+            "bundleIdentifier": "com.mojo.tuxi.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- إضافة ألماس\r\n- إضافة نقود\r\n- لا يمكن للعدو الهجوم\r\n- لا يوجد حد أقصى لعدد السكان\r\n- زيادة في الطاقة (من قتل الأعداء)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jointblitz.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jointblitz_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jointblitz_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jointblitz_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jointblitz_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jointblitz_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jointblitz_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jointblitz_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jointblitz_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.20",
+                    "date": "2026-11-09T01:46:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/jointblitz.ipa",
+                    "size": 320315692,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jointblitz_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jointblitz_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jointblitz_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jointblitz_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1803688285,
+            "name": "Mini Warrior Reborn!",
+            "version": "3.9.100",
+            "size": 1291048046,
+            "icon": "img/miniwarriorreborn.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/miniwarriorreborn.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/miniwarriorreborn.ipa",
+            "bundleIdentifier": "com.mwreborn",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا تموت أبدا\r\n- ضربة واحدة تقتل",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/miniwarriorreborn.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miniwarriorreborn_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miniwarriorreborn_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miniwarriorreborn_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miniwarriorreborn_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miniwarriorreborn_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miniwarriorreborn_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miniwarriorreborn_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miniwarriorreborn_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.9.100",
+                    "date": "2026-11-09T01:46:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/miniwarriorreborn.ipa",
+                    "size": 1291048046,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miniwarriorreborn_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miniwarriorreborn_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miniwarriorreborn_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/miniwarriorreborn_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1370484871,
+            "name": "Afterplace",
+            "version": "1.2.19",
+            "size": 260222906,
+            "icon": "img/afterplace.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/afterplace.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/afterplace.ipa",
+            "bundleIdentifier": "com.kice.afterplace",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبه مدفوعه في ابل ستور . \r\n\r\n-  الحد الأدنى للإصدار: iOS 12.0\r\n- تطبيق مدفوع بقيمة : $6.99",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/afterplace.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/afterplace_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/afterplace_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/afterplace_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/afterplace_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/afterplace_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/afterplace_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/afterplace_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/afterplace_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.19",
+                    "date": "2026-11-09T01:45:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/afterplace.ipa",
+                    "size": 260222906,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/afterplace_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/afterplace_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/afterplace_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/afterplace_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1935947803,
             "name": "Dungeon Tracer",
             "version": "2.1.9",
