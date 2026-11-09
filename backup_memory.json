@@ -10,6 +10,91 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1300667095,
+            "name": "Archero",
+            "version": "8.3.1",
+            "size": 1773261791,
+            "icon": "img/archero.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/archero.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/archero.ipa",
+            "bundleIdentifier": "com.habby.archero",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Multiply Defense (Enter Any Amount and Enable The Switch)\n- Multiply Attack (Enter Any Amount and Enable The Switch)\n- Never Die\n- One Hit Kill (Must use with God Mode or use Multiply Attack instead)\n- Freeze Enemies",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/archero.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "8.3.1",
+                    "date": "2026-11-09T15:17:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/archero.ipa",
+                    "size": 1773261791,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1283099085,
+            "name": "Legend of Mushroom",
+            "version": "2.0.86",
+            "size": 2049487058,
+            "icon": "img/legendofmushroom.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/legendofmushroom.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/legendofmushroom.ipa",
+            "bundleIdentifier": "com.us.mxdzz.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Multiply Attack\n- Never die\n- Fast Attack\n- Fast Skill Cooldown",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/legendofmushroom.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "2.0.86",
+                    "date": "2026-11-09T15:16:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/legendofmushroom.ipa",
+                    "size": 2049487058,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendofmushroom_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendofmushroom_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendofmushroom_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legendofmushroom_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1582897657,
             "name": "PentoMind",
             "version": "3.4",
@@ -223464,54 +223549,6 @@
             ]
         },
         {
-            "id": 1300667095,
-            "name": "Archero",
-            "version": "8.3.0",
-            "size": 858642818,
-            "icon": "img/archero.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/archero.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/archero.ipa",
-            "bundleIdentifier": "com.habby.archero",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Multiply Defense (Enter Any Amount and Enable The Switch)\n- Multiply Attack (Enter Any Amount and Enable The Switch)\n- Never Die\n- One Hit Kill (Must use with God Mode or use Multiply Attack instead)\n- Freeze Enemies",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/archero.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "8.3.0",
-                    "date": "2026-10-25T11:50:54+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/archero.ipa",
-                    "size": 858642818,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/archero_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1430465095,
             "name": "My Journey - Puzzles & Stories",
             "version": "1.48.1022",
@@ -235311,37 +235348,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/projectcleanearth.ipa",
                     "size": 119139205,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1283099085,
-            "name": "Legend of Mushroom",
-            "version": "2.0.84",
-            "size": "1.33 GB",
-            "icon": "img/legendofmushroom.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/legendofmushroom.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/legendofmushroom.ipa",
-            "bundleIdentifier": "com.us.mxdzz.ios",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Multiply Attack\n- Never die\n- Fast Attack\n- Fast Skill Cooldown",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/legendofmushroom.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "2.0.84",
-                    "date": "2026-10-10T23:31:52+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/legendofmushroom.ipa",
-                    "size": 1394606,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
