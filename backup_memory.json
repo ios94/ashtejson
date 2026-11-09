@@ -10,6 +10,483 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1607822549,
+            "name": "ChatGoPet",
+            "version": "3.4",
+            "size": 8795141,
+            "icon": "img/chatgopet.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/chatgopet.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/chatgopet.ipa",
+            "bundleIdentifier": "com.aibot.chatgopup",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لدردشة مع الذكاء الاصطناعي .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/chatgopet.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatgopet_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatgopet_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatgopet_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatgopet_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatgopet_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatgopet_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatgopet_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatgopet_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.4",
+                    "date": "2026-11-09T20:42:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/chatgopet.ipa",
+                    "size": 8795141,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatgopet_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatgopet_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatgopet_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/chatgopet_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1353779651,
+            "name": "Compress PDF",
+            "version": "1.3",
+            "size": 11464548,
+            "icon": "img/compresspdf.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/compresspdf.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/compresspdf.ipa",
+            "bundleIdentifier": "com.nkatrodiya.Compress-PDF",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لضغط الملفات وتحويلها الى PDF .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/compresspdf.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/compresspdf_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/compresspdf_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/compresspdf_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/compresspdf_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/compresspdf_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/compresspdf_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3",
+                    "date": "2026-11-09T20:42:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/compresspdf.ipa",
+                    "size": 11464548,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/compresspdf_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/compresspdf_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/compresspdf_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1443929040,
+            "name": "Photo Stitch!",
+            "version": "1.1.4",
+            "size": 6591046,
+            "icon": "img/photostitch.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/photostitch.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/photostitch.ipa",
+            "bundleIdentifier": "com.azubylabs.photostitch",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $4.99\nRequires 15 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $4.99\nيتطلب اصدار 15 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/photostitch.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photostitch_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photostitch_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photostitch_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photostitch_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photostitch_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photostitch_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photostitch_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photostitch_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.4",
+                    "date": "2026-11-09T20:42:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/photostitch.ipa",
+                    "size": 6591046,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photostitch_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photostitch_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photostitch_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photostitch_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1398610165,
+            "name": "My Coin Collection",
+            "version": "1.51",
+            "size": 4875047,
+            "icon": "img/mycoincollection.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/mycoincollection.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/mycoincollection.ipa",
+            "bundleIdentifier": "com.Rushtonintl.My-Coin-Collection",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $1.99\nRequires 12.4 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $1.99\nيتطلب اصدار 12.4 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mycoincollection.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycoincollection_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycoincollection_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycoincollection_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycoincollection_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycoincollection_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycoincollection_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycoincollection_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycoincollection_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.51",
+                    "date": "2026-11-09T20:41:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/mycoincollection.ipa",
+                    "size": 4875047,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycoincollection_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycoincollection_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycoincollection_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mycoincollection_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1348383492,
+            "name": "Fitingo",
+            "version": "2.9.8",
+            "size": 60432601,
+            "icon": "img/fitingo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/fitingo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/fitingo.ipa",
+            "bundleIdentifier": "com.fitingo.fitness",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "للتمارين الرياضية للنساء .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fitingo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitingo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitingo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitingo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitingo_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitingo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitingo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitingo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitingo_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.9.8",
+                    "date": "2026-11-09T20:41:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/fitingo.ipa",
+                    "size": 60432601,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitingo_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitingo_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitingo_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitingo_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1781102856,
+            "name": "PlaylistPort",
+            "version": "1.2.0",
+            "size": 23512260,
+            "icon": "img/playlistport.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/playlistport.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/playlistport.ipa",
+            "bundleIdentifier": "com.PlaylistPort.www.pro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $39.99\nRequires 15.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $39.99\nيتطلب اصدار 15.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/playlistport.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/playlistport_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/playlistport_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/playlistport_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/playlistport_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/playlistport_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/playlistport_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/playlistport_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/playlistport_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.0",
+                    "date": "2026-11-09T20:41:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/playlistport.ipa",
+                    "size": 23512260,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/playlistport_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/playlistport_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/playlistport_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/playlistport_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1271947667,
+            "name": "Video Gif",
+            "version": "1.3",
+            "size": 42628386,
+            "icon": "img/videogif.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/videogif.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/videogif.ipa",
+            "bundleIdentifier": "com.insiderapps.videotogif",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتحويل الفديو الى صيغة Gif .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/videogif.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogif_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogif_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogif_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogif_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogif_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogif_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogif_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogif_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.3",
+                    "date": "2026-11-09T20:41:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/videogif.ipa",
+                    "size": 42628386,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogif_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogif_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogif_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videogif_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1857834601,
+            "name": "Shelved",
+            "version": "1.2.2",
+            "size": 9380090,
+            "icon": "img/shelved.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/shelved.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/shelved.ipa",
+            "bundleIdentifier": "ai.ntl.shelved",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $1.99\nRequires 17.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $1.99\nيتطلب اصدار 17.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shelved.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shelved_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shelved_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shelved_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shelved_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shelved_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shelved_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shelved_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shelved_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.2",
+                    "date": "2026-11-09T20:41:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/shelved.ipa",
+                    "size": 9380090,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shelved_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shelved_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shelved_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shelved_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1712744118,
+            "name": "ترجملي",
+            "version": "1.4",
+            "size": 22835071,
+            "icon": "img/appc0caa892d7.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/appc0caa892d7.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/appc0caa892d7.ipa",
+            "bundleIdentifier": "com.rommanapps.mytranslator",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يحتوي على 100 لغة للترجمة المباشره .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/appc0caa892d7.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc0caa892d7_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc0caa892d7_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc0caa892d7_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc0caa892d7_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc0caa892d7_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc0caa892d7_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc0caa892d7_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc0caa892d7_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4",
+                    "date": "2026-11-09T20:41:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/appc0caa892d7.ipa",
+                    "size": 22835071,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc0caa892d7_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc0caa892d7_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc0caa892d7_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appc0caa892d7_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1694005477,
+            "name": "Quantumult X",
+            "version": "1.5.4",
+            "size": 20663131,
+            "icon": "img/quantumultx.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/quantumultx.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/quantumultx.ipa",
+            "bundleIdentifier": "com.crossutility.quantumult-x",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $19.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $19.99\nيتطلب اصدار 13.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quantumultx.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumultx_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumultx_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumultx_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumultx_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumultx_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumultx_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumultx_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumultx_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.4",
+                    "date": "2026-11-09T20:41:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/quantumultx.ipa",
+                    "size": 20663131,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumultx_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumultx_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumultx_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quantumultx_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1419463249,
             "name": "AI Assistant",
             "version": "2.0.33",
