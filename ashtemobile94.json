@@ -10,6 +10,342 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1156916591,
+            "name": "Hollywood",
+            "version": "14.0.1",
+            "size": 318030860,
+            "icon": "img/hollywood.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/hollywood.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/hollywood.ipa",
+            "bundleIdentifier": "com.nanobitsoftware.hollywoodstory",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- نقود لا نهائية\n- جوهرة لا نهائية\n- نقطة النجوم اللانهائية\n- تذكرة ذهبية لا نهائية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hollywood.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hollywood_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hollywood_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hollywood_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hollywood_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hollywood_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hollywood_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hollywood_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hollywood_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "14.0.1",
+                    "date": "2026-11-08T23:56:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/hollywood.ipa",
+                    "size": 318030860,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hollywood_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hollywood_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hollywood_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hollywood_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1389059049,
+            "name": "Hardcore Leveling Warrior",
+            "version": "1.4.4",
+            "size": 708598078,
+            "icon": "img/hardcorelevelingwarrior.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/hardcorelevelingwarrior.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/hardcorelevelingwarrior.ipa",
+            "bundleIdentifier": "com.superplanet.lucid3.global",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا يموت\n- القتل بضربة واحدة\n- مضاعفة الهجوم\n- مضاعفة الدفاع\n- مميز (بدون إعلانات، سرعة، إلخ..)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hardcorelevelingwarrior.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hardcorelevelingwarrior_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hardcorelevelingwarrior_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hardcorelevelingwarrior_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hardcorelevelingwarrior_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hardcorelevelingwarrior_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hardcorelevelingwarrior_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hardcorelevelingwarrior_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hardcorelevelingwarrior_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.4",
+                    "date": "2026-11-08T23:55:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/hardcorelevelingwarrior.ipa",
+                    "size": 708598078,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hardcorelevelingwarrior_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hardcorelevelingwarrior_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hardcorelevelingwarrior_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hardcorelevelingwarrior_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1518288603,
+            "name": "Idle Army",
+            "version": "1.21.0",
+            "size": 700628848,
+            "icon": "img/idlearmy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/idlearmy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/idlearmy.ipa",
+            "bundleIdentifier": "com.unimob.idle.army",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- موارد كافية دائمًا (جواهر، تخطي الإعلانات، إلخ.)\n- أقصى ذهب (تفعيل داخل اللعبة)\n- ضعف سرعة اللعبة (تفعيل داخل اللعبة)\n- قتل الوحوش (تفعيل داخل اللعبة)\n- إضافة جميع الحيوانات الأليفة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlearmy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearmy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearmy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearmy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearmy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearmy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearmy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearmy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearmy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.21.0",
+                    "date": "2026-11-08T23:55:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/idlearmy.ipa",
+                    "size": 700628848,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearmy_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearmy_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearmy_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlearmy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1732772324,
+            "name": "AI Math Scanner",
+            "version": "3.7",
+            "size": 162473060,
+            "icon": "img/aimathscanner.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/aimathscanner.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/aimathscanner.ipa",
+            "bundleIdentifier": "com.vasu.math.scanner.math.solver",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يوفر هذا التطبيق أداة ذكية وفعالة لحل جميع أنواع المسائل الرياضية بالذكاء الاصطناعي مع شرح مفصل لكل خطوة، مما يساعد الطلاب والمعلمين على فهم المفاهيم بشكل أفضل.\n\n- مفتوح المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aimathscanner.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aimathscanner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aimathscanner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aimathscanner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aimathscanner_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aimathscanner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aimathscanner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aimathscanner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aimathscanner_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.7",
+                    "date": "2026-11-08T23:54:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/aimathscanner.ipa",
+                    "size": 162473060,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aimathscanner_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aimathscanner_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aimathscanner_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aimathscanner_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1243904064,
+            "name": "IdleOutpost",
+            "version": "1.23.45",
+            "size": 313620241,
+            "icon": "img/idleoutpost.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/idleoutpost.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/idleoutpost.ipa",
+            "bundleIdentifier": "com.rockbite.zombieoutpost",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Freeze Coins\n- Freeze Gems\n- Cheap Upgrades\n- 10k Gems -> Spend some.\n- Unlimited Gems -> Spend some.\n- Free Shopping -> Currencies will go negative.\n\n-تجميد العملات المعدنية\r\n-تجميد الأحجار الكريمة\r\n-ترقيات رخيصة\r\n-10K GEMS-> قضاء بعض.\r\n- جواهر غير محدودة -> قضاء بعض.\r\n- التسوق المجاني -> العملات ستصبح سلبية.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idleoutpost.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleoutpost_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleoutpost_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleoutpost_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleoutpost_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleoutpost_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleoutpost_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleoutpost_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleoutpost_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.23.45",
+                    "date": "2026-11-08T23:54:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/idleoutpost.ipa",
+                    "size": 313620241,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleoutpost_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleoutpost_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleoutpost_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleoutpost_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1384388058,
+            "name": "Tools, Brushes & Fonts",
+            "version": "1.6",
+            "size": 23333846,
+            "icon": "img/toolsbrushesfonts.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/toolsbrushesfonts.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/toolsbrushesfonts.ipa",
+            "bundleIdentifier": "com.brushes.sketch.ios.app",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق يقدم مجموعة واسعة من الفرش والخطوط والطوابع وأدوات التصميم لتعزيز الإبداع والإنتاجية على جهاز iPad. \n\n- مفتوح المميزات \n( شراء ثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/toolsbrushesfonts.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolsbrushesfonts_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolsbrushesfonts_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolsbrushesfonts_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolsbrushesfonts_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolsbrushesfonts_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolsbrushesfonts_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolsbrushesfonts_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolsbrushesfonts_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6",
+                    "date": "2026-11-08T23:53:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/toolsbrushesfonts.ipa",
+                    "size": 23333846,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolsbrushesfonts_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolsbrushesfonts_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolsbrushesfonts_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/toolsbrushesfonts_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1600969381,
+            "name": "Hanuman Game",
+            "version": "1.1",
+            "size": 522146152,
+            "icon": "img/hanumangame.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/hanumangame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/hanumangame.ipa",
+            "bundleIdentifier": "com.vojoygames.hanumangame.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- العدو لا يستطيع الهجوم\n- ذهب غير محدود\n- فتح جميع المستويات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hanumangame.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hanumangame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hanumangame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hanumangame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hanumangame_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hanumangame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hanumangame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hanumangame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hanumangame_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2026-11-08T23:53:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/hanumangame.ipa",
+                    "size": 522146152,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hanumangame_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hanumangame_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hanumangame_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hanumangame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1368645520,
             "name": "Tiny Army: Merge Defense RPG",
             "version": "1.0.10",
