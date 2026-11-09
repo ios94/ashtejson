@@ -10,6 +10,189 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1632194283,
+            "name": "Tanaqol ECare",
+            "version": "1.11.1",
+            "size": 69512067,
+            "icon": "img/tanaqolecare.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/tanaqolecare.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/tanaqolecare.ipa",
+            "bundleIdentifier": "com.tanaqol.employee.tanaqolAttendance",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "التطبيق الاصلي مدمج مع أداة FakeGPS Pro\r\nأداة قوية تساعد على تغيير الموقع الجغرافي داخل التطبيقات بشكل عام، وخصوصًا في تطبيقات الحضور والانصراف. (الاداة مدفوعة)\r\n\r\n🔹 المميزات:\r\n• تعمل بدون الحاجة إلى جلبريك\r\n• إمكانية حفظ عدة مواقع في قسم “المفضلة”\r\n• إخفاء زر الأداة من داخل التطبيق",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tanaqolecare.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tanaqolecare.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tanaqolecare.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.11.1",
+                    "date": "2026-11-09T06:50:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/tanaqolecare.ipa",
+                    "size": 69512067,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tanaqolecare.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1291820824,
+            "name": "Soundscape",
+            "version": "11.1.8",
+            "size": 113703281,
+            "icon": "img/soundscape.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/soundscape.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/soundscape.ipa",
+            "bundleIdentifier": "com.soundscape.music",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق يُصمم بيئات صوتية مُخصصة لتحسين النوم والتركيز والاسترخاء باستخدام أصوات الطبيعة والتقنيات الصوتية. \n\n- مفتوح المميزات .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/soundscape.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "11.1.8",
+                    "date": "2026-11-09T06:48:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/soundscape.ipa",
+                    "size": 113703281,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1590353060,
+            "name": "Genius Scan",
+            "version": "8.16.1",
+            "size": 98302990,
+            "icon": "img/geniusscan.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/geniusscan.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/geniusscan.ipa",
+            "bundleIdentifier": "com.geniussoftware.GeniusScan",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق ماسح ضوئي يحول أي ورقة أمامك إلى ملف PDF متعدد الصفحات مباشرة من الكاميرا على جوالك. يتيح لك تصوير الفواتير، العقود، الملاحظات والمستندات بسرعة، تحسينها تلقائيًا وقصّها ثم حفظها أو مشاركتها عبر البريد أو الخدمات السحابية.\n\n- مفتوح المميزات \nفي حال لم يتم تفعيل التطبيق بشكل تلقائي \nاغلق النسخه واعد فتحها .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/geniusscan.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "8.16.1",
+                    "date": "2026-11-09T06:47:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/geniusscan.ipa",
+                    "size": 98302990,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1111299009,
+            "name": "Paraphrase",
+            "version": "1.8.0",
+            "size": 22453842,
+            "icon": "img/paraphrase.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/paraphrase.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/paraphrase.ipa",
+            "bundleIdentifier": "com.tr.paraphrasingtool.rewritertool.textrewriter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق متقدم لإعادة صياغة النصوص باستخدام الذكاء الاصطناعي، \n- مفتوح المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/paraphrase.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.8.0",
+                    "date": "2026-11-09T06:47:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/paraphrase.ipa",
+                    "size": 22453842,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1342598996,
             "name": "Pocket Land",
             "version": "0.130.0",
@@ -153129,54 +153312,6 @@
             ]
         },
         {
-            "id": 1291820824,
-            "name": "Soundscape",
-            "version": "11.1.7",
-            "size": 110807725,
-            "icon": "img/soundscape.png",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/soundscape.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/soundscape.ipa",
-            "bundleIdentifier": "com.soundscape.music",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "تطبيق يُصمم بيئات صوتية مُخصصة لتحسين النوم والتركيز والاسترخاء باستخدام أصوات الطبيعة والتقنيات الصوتية. \n\n- مفتوح المميزات .",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/soundscape.png",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "11.1.7",
-                    "date": "2026-11-07T04:47:29+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/soundscape.ipa",
-                    "size": 110807725,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soundscape_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1320245049,
             "name": "Coconote",
             "version": "2.52",
@@ -155425,45 +155560,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sherlock_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sherlock_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sherlock_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1632194283,
-            "name": "Tanaqol ECare",
-            "version": "1.11.0",
-            "size": 69512067,
-            "icon": "img/tanaqolecare.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/tanaqolecare.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/tanaqolecare.ipa",
-            "bundleIdentifier": "com.tanaqol.employee.tanaqolAttendance",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "التطبيق الاصلي مدمج مع أداة FakeGPS Pro\r\nأداة قوية تساعد على تغيير الموقع الجغرافي داخل التطبيقات بشكل عام، وخصوصًا في تطبيقات الحضور والانصراف. (الاداة مدفوعة)\r\n\r\n🔹 المميزات:\r\n• تعمل بدون الحاجة إلى جلبريك\r\n• إمكانية حفظ عدة مواقع في قسم “المفضلة”\r\n• إخفاء زر الأداة من داخل التطبيق",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tanaqolecare.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tanaqolecare.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tanaqolecare.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.11.0",
-                    "date": "2026-11-07T03:56:00+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/tanaqolecare.ipa",
-                    "size": 69512067,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tanaqolecare.png"
                     ]
                 }
             ]
@@ -167196,54 +167292,6 @@
             ]
         },
         {
-            "id": 1111299009,
-            "name": "Paraphrase",
-            "version": "1.7.9",
-            "size": 22196298,
-            "icon": "img/paraphrase.png",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/paraphrase.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/paraphrase.ipa",
-            "bundleIdentifier": "com.tr.paraphrasingtool.rewritertool.textrewriter",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "تطبيق متقدم لإعادة صياغة النصوص باستخدام الذكاء الاصطناعي، \n- مفتوح المميزات",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/paraphrase.png",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1.7.9",
-                    "date": "2026-11-06T22:55:57+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/paraphrase.ipa",
-                    "size": 22196298,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/paraphrase_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1871587247,
             "name": "Rest",
             "version": "3.209.0",
@@ -174157,54 +174205,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lyfta_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lyfta_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lyfta_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1590353060,
-            "name": "Genius Scan",
-            "version": "8.16",
-            "size": 97924742,
-            "icon": "img/geniusscan.png",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/geniusscan.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/geniusscan.ipa",
-            "bundleIdentifier": "com.geniussoftware.GeniusScan",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "تطبيق ماسح ضوئي يحول أي ورقة أمامك إلى ملف PDF متعدد الصفحات مباشرة من الكاميرا على جوالك. يتيح لك تصوير الفواتير، العقود، الملاحظات والمستندات بسرعة، تحسينها تلقائيًا وقصّها ثم حفظها أو مشاركتها عبر البريد أو الخدمات السحابية.\n\n- مفتوح المميزات \nفي حال لم يتم تفعيل التطبيق بشكل تلقائي \nاغلق النسخه واعد فتحها .",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/geniusscan.png",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "8.16",
-                    "date": "2026-11-06T20:22:30+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/geniusscan.ipa",
-                    "size": 97924742,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/geniusscan_screen_4.png"
                     ]
                 }
             ]
