@@ -10,6 +10,474 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1829427845,
+            "name": "Tactical Gambit",
+            "version": "1.47.01",
+            "size": 281390280,
+            "icon": "img/tacticalgambit.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/tacticalgambit.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/tacticalgambit.ipa",
+            "bundleIdentifier": "com.ysgames.pixelautobattler",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مُضاعِف الضرر\n- مُضاعِف الدفاع\n- لا تموت أبدًا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tacticalgambit.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tacticalgambit.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tacticalgambit.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.47.01",
+                    "date": "2026-11-09T04:15:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/tacticalgambit.ipa",
+                    "size": 281390280,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tacticalgambit.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1309658155,
+            "name": "ACECRAFT",
+            "version": "1.3.117",
+            "size": 345222260,
+            "icon": "img/acecraft.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/acecraft.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/acecraft.ipa",
+            "bundleIdentifier": "com.vizta.wefly",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا الموت أبداً\n- ضربة قاتلة في هجمة واحدة\n- زيادة كبيرة في الطاقة (مهارة فائقة)\n- مضاعف نقاط الخبرة\n- مضاعف قوة الهجوم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/acecraft.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acecraft_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acecraft_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acecraft_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acecraft_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acecraft_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acecraft_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acecraft_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acecraft_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.117",
+                    "date": "2026-11-09T04:14:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/acecraft.ipa",
+                    "size": 345222260,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acecraft_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acecraft_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acecraft_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acecraft_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1117504816,
+            "name": "Inkvasion",
+            "version": "1.0.1",
+            "size": 528434225,
+            "icon": "img/inkvasion.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/inkvasion.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/inkvasion.ipa",
+            "bundleIdentifier": "com.chillyroom.inkvasion",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- العدو لا يمكنه مهاجمة المبنى  \n- موارد المعركة غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/inkvasion.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inkvasion_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inkvasion_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inkvasion_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inkvasion_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inkvasion_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inkvasion_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inkvasion_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inkvasion_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.1",
+                    "date": "2026-11-09T04:14:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/inkvasion.ipa",
+                    "size": 528434225,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inkvasion_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inkvasion_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inkvasion_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/inkvasion_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1122792407,
+            "name": "Almost A Hero",
+            "version": "5.7.3",
+            "size": 412083963,
+            "icon": "img/almostahero.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/almostahero.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/almostahero.ipa",
+            "bundleIdentifier": "com.beesquare.almostahero",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- جميع العملات غير محدودة  تعطيل بعد الاختراق  \n- عناصر التاجر  الذهب - النقر التلقائي وما إلى ذلك. \n- فوز تلقائي\n- قائد المرحلة \n- قائد الموجة \n- ربان العدو \n- حالة البطل  سرعة الهجوم - ضرر الصحة  زيادة أسرع في مستوى ضرر الصحة \n- حالة العدو  ضرر الصحة 0",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/almostahero.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/almostahero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/almostahero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/almostahero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/almostahero_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/almostahero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/almostahero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/almostahero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/almostahero_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.7.3",
+                    "date": "2026-11-09T04:13:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/almostahero.ipa",
+                    "size": 412083963,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/almostahero_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/almostahero_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/almostahero_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/almostahero_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1502806410,
+            "name": "Bam Bam Squad",
+            "version": "1.1.4",
+            "size": 521674106,
+            "icon": "img/bambamsquad.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/bambamsquad.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/bambamsquad.ipa",
+            "bundleIdentifier": "com.bam.bam.squad.pigeon.wall.wow.clash.battle.game",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا تموت أبدًا  \n- قتل بضربة واحدة  \n- لا إعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bambamsquad.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bambamsquad_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bambamsquad_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bambamsquad_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bambamsquad_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bambamsquad_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bambamsquad_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bambamsquad_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bambamsquad_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.4",
+                    "date": "2026-11-09T04:13:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/bambamsquad.ipa",
+                    "size": 521674106,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bambamsquad_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bambamsquad_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bambamsquad_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bambamsquad_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1310577579,
+            "name": "Beach Volley Clash",
+            "version": "1.96",
+            "size": 717117379,
+            "icon": "img/beachvolleyclash.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/beachvolleyclash.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/beachvolleyclash.ipa",
+            "bundleIdentifier": "com.slowmo.twinvolley",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ترقيات بطاقات مجانية  \n- لا حاجة لبطاقات للترقيات  \n- فتح أكياس فوري  \n- مكافآت أحجار كريمة مخصصة من الأكياس  \n- لا إعلانات بعد المباريات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/beachvolleyclash.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachvolleyclash_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachvolleyclash_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachvolleyclash_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachvolleyclash_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachvolleyclash_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachvolleyclash_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachvolleyclash_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachvolleyclash_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.96",
+                    "date": "2026-11-09T04:12:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/beachvolleyclash.ipa",
+                    "size": 717117379,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachvolleyclash_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachvolleyclash_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachvolleyclash_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beachvolleyclash_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1403127285,
+            "name": "Counter Attack",
+            "version": "1.2.10",
+            "size": 686170642,
+            "icon": "img/counterattack.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/counterattack.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/counterattack.ipa",
+            "bundleIdentifier": "com.mgrigorov.3dShooter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- إيمبوت  \n- رادار\n- تعيين السلاح",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/counterattack.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/counterattack_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/counterattack_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/counterattack_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/counterattack_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/counterattack_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/counterattack_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/counterattack_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/counterattack_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.10",
+                    "date": "2026-11-09T04:11:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/counterattack.ipa",
+                    "size": 686170642,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/counterattack_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/counterattack_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/counterattack_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/counterattack_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1855942914,
+            "name": "Dead X Hero",
+            "version": "1.0.9",
+            "size": 452681340,
+            "icon": "img/deadxhero.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/deadxhero.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/deadxhero.ipa",
+            "bundleIdentifier": "com.superlevel.dead.hero",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- استخدام فوري للمهارة\n- شراء داخل التطبيق مجانًا\n- لا تموت أبدًا\n- قتل بضربة واحدة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/deadxhero.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadxhero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadxhero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadxhero_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadxhero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadxhero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadxhero_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.9",
+                    "date": "2026-11-09T04:11:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/deadxhero.ipa",
+                    "size": 452681340,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadxhero_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadxhero_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadxhero_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1211938502,
+            "name": "Baseball Club",
+            "version": "1.27.3",
+            "size": 316855732,
+            "icon": "img/baseballclub.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/baseballclub.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/baseballclub.ipa",
+            "bundleIdentifier": "com.baseball.club.pvp.tournament",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مكافحة الغش\n- لا إعلانات [ مكافآت مجانية ]\n- أحجار كريمة [ مرتبطة بالمكافآت ]\n- عملات [ مرتبطة بالمكافآت ]\n- صندوق [ مرتبط بالمكافآت ]\n- بطاقة مجانية [ مكافآت غير محدودة - أحجار كريمة، عملات، صناديق، كرات ]\n- عضوية النادي [ مكافآت غير محدودة - أحجار كريمة، عملات، صناديق، كرات ]\n- صندوق يومي مجاني [ مكافآت غير محدودة ]\n- طاقة كاملة [ لاعب واحد ]\n- رسوم الدخول [ 0 ]\n- ملابس مفتوحة\n- نقاط الخصم 0 [ عند وجود خصم، يتم تفعيل فقط ] فوز دائم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/baseballclub.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballclub_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballclub_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballclub_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballclub_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballclub_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballclub_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballclub_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballclub_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.27.3",
+                    "date": "2026-11-09T04:10:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/baseballclub.ipa",
+                    "size": 316855732,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballclub_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballclub_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballclub_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballclub_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1264436607,
+            "name": "BOWBLITZ",
+            "version": "1.0.537726",
+            "size": 448255872,
+            "icon": "img/bowblitz.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/bowblitz.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/bowblitz.ipa",
+            "bundleIdentifier": "com.ka60omgame.bowblitz",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- العب لا يتضرر\n- ضرر عالي ×10  \n- لا تبريد للرماية  \n- لا إعلانات + تخطي الإعلانات  \n- التشغيل التلقائي مفتوح",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bowblitz.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowblitz_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowblitz_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowblitz_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowblitz_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowblitz_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowblitz_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowblitz_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowblitz_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.537726",
+                    "date": "2026-11-09T04:10:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/bowblitz.ipa",
+                    "size": 448255872,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowblitz_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowblitz_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowblitz_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bowblitz_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1787210601,
             "name": "Big Helmets: Heroes of Destiny",
             "version": "1.0.10",
