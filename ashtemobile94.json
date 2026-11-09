@@ -10,6 +10,50 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1198996313,
+            "name": "Johnny Trigger",
+            "version": "1.12.62",
+            "size": 461821126,
+            "icon": "img/johnnytrigger.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V2/johnnytrigger.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V2/johnnytrigger.ipa",
+            "bundleIdentifier": "com.time.trigger",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Gems → Settings → Press Restore Purchase\n- Money → Settings → Press Music Button \n- VIP",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/johnnytrigger.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/johnnytrigger_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/johnnytrigger_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/johnnytrigger_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/johnnytrigger_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.12.62",
+                    "date": "2026-11-09T15:22:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V2/johnnytrigger.ipa",
+                    "size": 461821126,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/johnnytrigger_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/johnnytrigger_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/johnnytrigger_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/johnnytrigger_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1300667095,
             "name": "Archero",
             "version": "8.3.1",
@@ -224744,48 +224788,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happyclinichospitalgame_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happyclinichospitalgame_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/happyclinichospitalgame_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1198996313,
-            "name": "Johnny Trigger",
-            "version": "1.12.60",
-            "size": 142382087,
-            "icon": "img/johnnytrigger.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V2/johnnytrigger.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V2/johnnytrigger.ipa",
-            "bundleIdentifier": "com.time.trigger",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Gems → Settings → Press Restore Purchase\n- Money → Settings → Press Music Button \n- VIP",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/johnnytrigger.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/johnnytrigger_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/johnnytrigger_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/johnnytrigger_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/johnnytrigger_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.12.60",
-                    "date": "2026-10-25T11:28:48+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V2/johnnytrigger.ipa",
-                    "size": 142382087,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/johnnytrigger_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/johnnytrigger_screen_4.png"
                     ]
                 }
             ]
