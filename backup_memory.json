@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1530070432,
+            "name": "Grok",
+            "version": "1.2.7",
+            "size": 182013646,
+            "icon": "img/grok.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/grok.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/grok.ipa",
+            "bundleIdentifier": "ai.x.GrokApp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: 無料\nRequires 17 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور 無料\nيتطلب اصدار 17 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/grok.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grok_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grok_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grok_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grok_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grok_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grok_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grok_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grok_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.7",
+                    "date": "2026-11-09T19:57:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/grok.ipa",
+                    "size": 182013646,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grok_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grok_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grok_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/grok_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1546758912,
+            "name": "UGCapture",
+            "version": "1.5.2",
+            "size": 13034914,
+            "icon": "img/ugcapture.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/ugcapture.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/ugcapture.ipa",
+            "bundleIdentifier": "com.ugscan.objectcapture",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 17.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 17.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ugcapture.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ugcapture.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ugcapture.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.2",
+                    "date": "2026-11-09T19:57:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/ugcapture.ipa",
+                    "size": 13034914,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ugcapture.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1528777865,
+            "name": "AI Word Game",
+            "version": "1.7",
+            "size": 23571048,
+            "icon": "img/aiwordgame.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/aiwordgame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/aiwordgame.ipa",
+            "bundleIdentifier": "com.popmatchmergegame",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $9.99\nRequires 12.4 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $9.99\nتتطلب اصدار 12.4 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/aiwordgame.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiwordgame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiwordgame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiwordgame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiwordgame_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiwordgame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiwordgame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiwordgame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiwordgame_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7",
+                    "date": "2026-11-09T19:57:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/aiwordgame.ipa",
+                    "size": 23571048,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiwordgame_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiwordgame_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiwordgame_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/aiwordgame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1368384077,
+            "name": "Image Resize",
+            "version": "1.8",
+            "size": 5527683,
+            "icon": "img/imageresize.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/imageresize.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/imageresize.ipa",
+            "bundleIdentifier": "com.7color.imageResize",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $4.99\nRequires 11.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $4.99\nيتطلب اصدار 11.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/imageresize.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imageresize_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imageresize_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imageresize_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imageresize_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imageresize_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imageresize_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imageresize_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imageresize_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.8",
+                    "date": "2026-11-09T19:57:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/imageresize.ipa",
+                    "size": 5527683,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imageresize_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imageresize_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imageresize_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imageresize_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1519100579,
+            "name": "Bass Tuner Pro",
+            "version": "3.7.4",
+            "size": 14174646,
+            "icon": "img/basstunerpro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/basstunerpro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/basstunerpro.ipa",
+            "bundleIdentifier": "com.daikyouju.basstunerpro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $16.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $16.99\nيتطلب اصدار 12.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/basstunerpro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basstunerpro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basstunerpro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basstunerpro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basstunerpro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basstunerpro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basstunerpro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basstunerpro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basstunerpro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.7.4",
+                    "date": "2026-11-09T19:56:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/basstunerpro.ipa",
+                    "size": 14174646,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basstunerpro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basstunerpro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basstunerpro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/basstunerpro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1291907747,
+            "name": "QROX+",
+            "version": "3.60",
+            "size": 1504640,
+            "icon": "img/qrox.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/qrox.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/qrox.ipa",
+            "bundleIdentifier": "net.echoline.qrcode-pro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $1.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $1.99\nيتطلب اصدار 13.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/qrox.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrox_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrox_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrox_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrox_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrox_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrox_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrox_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrox_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.60",
+                    "date": "2026-11-09T19:56:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/qrox.ipa",
+                    "size": 1504640,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrox_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrox_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrox_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrox_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1589493549,
+            "name": "PCalc",
+            "version": "3.14.3",
+            "size": 65260976,
+            "icon": "img/pcalc.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/pcalc.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/pcalc.ipa",
+            "bundleIdentifier": "com.pcalc.mobile",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $19.99\nRequires 15.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $19.99\nيتطلب اصدار 15.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pcalc.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pcalc_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pcalc_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pcalc_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pcalc_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pcalc_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pcalc_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pcalc_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pcalc_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.14.3",
+                    "date": "2026-11-09T19:56:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/pcalc.ipa",
+                    "size": 65260976,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pcalc_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pcalc_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pcalc_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pcalc_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1487510985,
+            "name": "Cello Tuner Pro",
+            "version": "3.9.8",
+            "size": 6879957,
+            "icon": "img/cellotunerpro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/cellotunerpro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/cellotunerpro.ipa",
+            "bundleIdentifier": "com.daikyouju.violoncellotunerfree",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $16.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $16.99\nيتطلب اصدار 12.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cellotunerpro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cellotunerpro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cellotunerpro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cellotunerpro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cellotunerpro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cellotunerpro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cellotunerpro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cellotunerpro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cellotunerpro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.9.8",
+                    "date": "2026-11-09T19:56:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/cellotunerpro.ipa",
+                    "size": 6879957,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cellotunerpro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cellotunerpro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cellotunerpro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cellotunerpro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1516464317,
+            "name": "Double Bass Tuner Pro",
+            "version": "3.9.8",
+            "size": 6853250,
+            "icon": "img/doublebasstunerpro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/doublebasstunerpro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/doublebasstunerpro.ipa",
+            "bundleIdentifier": "com.daikyouju.contrabasstunerpro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $16.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $16.99\nيتطلب اصدار 12.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/doublebasstunerpro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doublebasstunerpro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doublebasstunerpro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doublebasstunerpro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doublebasstunerpro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doublebasstunerpro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doublebasstunerpro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doublebasstunerpro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doublebasstunerpro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.9.8",
+                    "date": "2026-11-09T19:56:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/doublebasstunerpro.ipa",
+                    "size": 6853250,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doublebasstunerpro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doublebasstunerpro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doublebasstunerpro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/doublebasstunerpro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1860806988,
+            "name": "Guitar Tuner Pro",
+            "version": "7.8.4",
+            "size": 12000389,
+            "icon": "img/guitartunerpro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/guitartunerpro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/guitartunerpro.ipa",
+            "bundleIdentifier": "com.daikyouju.eguitartunerpro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $16.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $16.99\nيتطلب اصدار 12.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guitartunerpro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitartunerpro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitartunerpro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitartunerpro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitartunerpro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitartunerpro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitartunerpro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitartunerpro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitartunerpro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.8.4",
+                    "date": "2026-11-09T19:56:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/guitartunerpro.ipa",
+                    "size": 12000389,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitartunerpro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitartunerpro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitartunerpro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitartunerpro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1727943998,
             "name": "Mandolin Tuner Pro",
             "version": "4.8.4",
