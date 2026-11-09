@@ -10,6 +10,475 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1353405292,
+            "name": "Lamar - Idle Vlogger",
+            "version": "241.4.0",
+            "size": 330745402,
+            "icon": "img/lamaridlevlogger.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/lamaridlevlogger.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/lamaridlevlogger.ipa",
+            "bundleIdentifier": "com.advant.lamar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Cash -> Will increase instead of decrease.\n- Unlimited Gold -> Spend some.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lamaridlevlogger.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "241.4.0",
+                    "date": "2026-11-09T06:18:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/lamaridlevlogger.ipa",
+                    "size": 330745402,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lamaridlevlogger_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lamaridlevlogger_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lamaridlevlogger_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lamaridlevlogger_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1477711404,
+            "name": "Golf Dreams",
+            "version": "3.9.2",
+            "size": 496521107,
+            "icon": "img/golfdreams.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/golfdreams.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/golfdreams.ipa",
+            "bundleIdentifier": "com.ratherunique.bogeyball",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Premium Enabled -> Unlocks all courses, tournaments and no ads.\n- Unlock All Clubs -> Buggy. Press on Unlock, back out then press Equip.\n- Unlimited Tickets -> Earn or spend some.\n- Unlimited Gold Markers -> Earn or spend some.\n- Unlimited Balls -> Earn or spend some.\n- Max Level -> Earn some XP.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/golfdreams.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.9.2",
+                    "date": "2026-11-09T06:18:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/golfdreams.ipa",
+                    "size": 496521107,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1307264770,
+            "name": "Rumble Beavers",
+            "version": "1.0.6",
+            "size": 375940582,
+            "icon": "img/rumblebeavers.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/rumblebeavers.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/rumblebeavers.ipa",
+            "bundleIdentifier": "com.nep.tr.hybrid.cg.rock",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Cheat Menu → Access all hack options in-game\n- Damage Multiplier → Boost your weapons' firepower\n- Add Currencies → Instantly gain resources for upgrades\n- No ADS → Play uninterrupted",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rumblebeavers.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.6",
+                    "date": "2026-11-09T06:17:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/rumblebeavers.ipa",
+                    "size": 375940582,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1219829295,
+            "name": "Dinosaur Universe",
+            "version": "62.0.0",
+            "size": 492498866,
+            "icon": "img/dinosauruniverse.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/dinosauruniverse.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/dinosauruniverse.ipa",
+            "bundleIdentifier": "io.supercent.ageofdinosaurs",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Currencies\n- Damage Multiplier\n- Nrver Die\n- Free In-App Purchases",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dinosauruniverse.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "62.0.0",
+                    "date": "2026-11-09T06:16:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/dinosauruniverse.ipa",
+                    "size": 492498866,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1912797923,
+            "name": "BunnyFarm : ZombieDefense",
+            "version": "1.0.11",
+            "size": 347728663,
+            "icon": "img/bunnyfarmzombiedefense.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bunnyfarmzombiedefense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bunnyfarmzombiedefense.ipa",
+            "bundleIdentifier": "com.ngu.games.zombiebunnyfarm",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Never Die → take no damage from zombie attacks\n- One Hit Kill → defeat any zombie instantly\n- Infinite Farm Ammo → unlimited carrot ammunition\n- No Skill Cooldown → use abilities without waiting\n- Anti Seal → bypass app protections\n- Unlimited Currency → spend freely on upgrades",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bunnyfarmzombiedefense.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.11",
+                    "date": "2026-11-09T06:16:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bunnyfarmzombiedefense.ipa",
+                    "size": 347728663,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1899240226,
+            "name": "Crossy Road",
+            "version": "7.14.3",
+            "size": 303599104,
+            "icon": "img/crossyroad.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/crossyroad.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/crossyroad.ipa",
+            "bundleIdentifier": "com.hipsterwhale.crossy",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Coins -> Earn some.\n- Never Die\n- Score Hack -> Earn 100 points for every jump.\n-- All Characters Unlocked\n-- No Ads",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crossyroad.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.14.3",
+                    "date": "2026-11-09T06:15:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/crossyroad.ipa",
+                    "size": 303599104,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1535075077,
+            "name": "Design Family Life",
+            "version": "0.2.605",
+            "size": 459895629,
+            "icon": "img/designfamilylife.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/designfamilylife.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/designfamilylife.ipa",
+            "bundleIdentifier": "com.ugi.designfamilylife",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Gems\n- Cash\n- Energy\n- ADS Ticket\n- LVL & EXP [ Task ]\n- Rewards [ Gems Cash Energy ADS Ticket ] Linked With LvL\n- Chacter Status [ Fitness Joy +More ] \n\nNote:- Earn Then Get",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/designfamilylife.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.2.605",
+                    "date": "2026-11-09T06:15:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/designfamilylife.ipa",
+                    "size": 459895629,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1234286902,
+            "name": "Mythic Survivors",
+            "version": "1.0.27",
+            "size": 708356993,
+            "icon": "img/mythicsurvivors.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mythicsurvivors.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mythicsurvivors.ipa",
+            "bundleIdentifier": "com.pixery.mythicsurvivors",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ViP Active → Unlock premium account status and benefits\n- Add Currency → Boost your in-game funds\n- Add Resources → Gain extra materials for progression",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mythicsurvivors.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.27",
+                    "date": "2026-11-09T06:14:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mythicsurvivors.ipa",
+                    "size": 708356993,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1158933094,
+            "name": "Bloons TD 6",
+            "version": "57.4",
+            "size": 241587311,
+            "icon": "img/bloonstd6.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bloonstd6.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bloonstd6.ipa",
+            "bundleIdentifier": "com.ninjakiwi.bloonstd6",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Never Die\n- Fast Shooting Rate\n- Balloons Without Renewal\n- Clear Balloons\n- Auto Win\n- Specific Round\n- Restart Match\n- Add Money\n- Specific Level\n- Unlimited Daily Chest\n- Add Prizes (‼️Use at Your Own Risk‼️)\n- Infinite Ability - New\n- Place Tower Anywhere\n- Infinite Heroes\n- And Much More\n- Tutorial Bypassed (Place One Tower and Exit Game)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bloonstd6.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "57.4",
+                    "date": "2026-11-09T06:13:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bloonstd6.ipa",
+                    "size": 241587311,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1265983579,
+            "name": "The Warrior Returns: AFK RPG",
+            "version": "1.1000.0",
+            "size": 1307906531,
+            "icon": "img/thewarriorreturnsafkrpg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/thewarriorreturnsafkrpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/thewarriorreturnsafkrpg.ipa",
+            "bundleIdentifier": "com.studiolico.warriorreturns",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → amplify your attack power\n- Defense Multiplier → increase your damage reduction\n- Reward Multiplier → earn more from every battle\n- Currency Multiplier → boost all currency gains\n- Currencies Increase When Spend → gain currency as you spend it\n- No ADS → play without interruptions",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/thewarriorreturnsafkrpg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1000.0",
+                    "date": "2026-11-09T06:13:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/thewarriorreturnsafkrpg.ipa",
+                    "size": 1307906531,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1778947211,
             "name": "DaVinciPinball",
             "version": "1.2.2",
@@ -179476,54 +179945,6 @@
             ]
         },
         {
-            "id": 1307264770,
-            "name": "Rumble Beavers",
-            "version": "1.0.5",
-            "size": 172297439,
-            "icon": "img/rumblebeavers.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/rumblebeavers.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/rumblebeavers.ipa",
-            "bundleIdentifier": "com.nep.tr.hybrid.cg.rock",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Cheat Menu → Access all hack options in-game\n- Damage Multiplier → Boost your weapons' firepower\n- Add Currencies → Instantly gain resources for upgrades\n- No ADS → Play uninterrupted",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rumblebeavers.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.5",
-                    "date": "2026-10-30T13:43:05+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/rumblebeavers.ipa",
-                    "size": 172297439,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblebeavers_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1685007119,
             "name": "hololive Dreams",
             "version": "1.2.101",
@@ -181147,54 +181568,6 @@
             ]
         },
         {
-            "id": 1899240226,
-            "name": "Crossy Road",
-            "version": "7.14.2",
-            "size": 153122172,
-            "icon": "img/crossyroad.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/crossyroad.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/crossyroad.ipa",
-            "bundleIdentifier": "com.hipsterwhale.crossy",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Coins -> Earn some.\n- Never Die\n- Score Hack -> Earn 100 points for every jump.\n-- All Characters Unlocked\n-- No Ads",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crossyroad.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "7.14.2",
-                    "date": "2026-10-29T14:14:44+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/crossyroad.ipa",
-                    "size": 153122172,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crossyroad_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1528394705,
             "name": "Blood Invasion ✨",
             "version": "2.15.4",
@@ -182102,54 +182475,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pickaxekingisland_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pickaxekingisland_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pickaxekingisland_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1912797923,
-            "name": "BunnyFarm : ZombieDefense",
-            "version": "1.0.10",
-            "size": 145015380,
-            "icon": "img/bunnyfarmzombiedefense.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bunnyfarmzombiedefense.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bunnyfarmzombiedefense.ipa",
-            "bundleIdentifier": "com.ngu.games.zombiebunnyfarm",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Never Die → take no damage from zombie attacks\n- One Hit Kill → defeat any zombie instantly\n- Infinite Farm Ammo → unlimited carrot ammunition\n- No Skill Cooldown → use abilities without waiting\n- Anti Seal → bypass app protections\n- Unlimited Currency → spend freely on upgrades",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bunnyfarmzombiedefense.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.10",
-                    "date": "2026-10-29T13:53:46+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bunnyfarmzombiedefense.ipa",
-                    "size": 145015380,
-                    "buildVersion": null,
-                    "minOSVersion": "16.1",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bunnyfarmzombiedefense_screen_4.png"
                     ]
                 }
             ]
@@ -184489,54 +184814,6 @@
             ]
         },
         {
-            "id": 1234286902,
-            "name": "Mythic Survivors",
-            "version": "1.0.26",
-            "size": 498762330,
-            "icon": "img/mythicsurvivors.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mythicsurvivors.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mythicsurvivors.ipa",
-            "bundleIdentifier": "com.pixery.mythicsurvivors",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- ViP Active → Unlock premium account status and benefits\n- Add Currency → Boost your in-game funds\n- Add Resources → Gain extra materials for progression",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mythicsurvivors.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.26",
-                    "date": "2026-10-28T12:47:34+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mythicsurvivors.ipa",
-                    "size": 498762330,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mythicsurvivors_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1933451996,
             "name": "Klondike Adventures: Farm Game",
             "version": "2.153",
@@ -185630,54 +185907,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cellsurvivorshootdefense_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cellsurvivorshootdefense_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cellsurvivorshootdefense_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1477711404,
-            "name": "Golf Dreams",
-            "version": "3.9.1",
-            "size": 286749327,
-            "icon": "img/golfdreams.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/golfdreams.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/golfdreams.ipa",
-            "bundleIdentifier": "com.ratherunique.bogeyball",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Premium Enabled -> Unlocks all courses, tournaments and no ads.\n- Unlock All Clubs -> Buggy. Press on Unlock, back out then press Equip.\n- Unlimited Tickets -> Earn or spend some.\n- Unlimited Gold Markers -> Earn or spend some.\n- Unlimited Balls -> Earn or spend some.\n- Max Level -> Earn some XP.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/golfdreams.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "3.9.1",
-                    "date": "2026-10-28T12:36:29+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/golfdreams.ipa",
-                    "size": 286749327,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/golfdreams_screen_4.png"
                     ]
                 }
             ]
@@ -189368,54 +189597,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snackydashfoodmazepuzzle_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snackydashfoodmazepuzzle_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snackydashfoodmazepuzzle_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1219829295,
-            "name": "Dinosaur Universe",
-            "version": "61.2.0",
-            "size": 177778331,
-            "icon": "img/dinosauruniverse.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/dinosauruniverse.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/dinosauruniverse.ipa",
-            "bundleIdentifier": "io.supercent.ageofdinosaurs",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Currencies\n- Damage Multiplier\n- Nrver Die\n- Free In-App Purchases",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dinosauruniverse.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "61.2.0",
-                    "date": "2026-10-27T02:17:22+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/dinosauruniverse.ipa",
-                    "size": 177778331,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dinosauruniverse_screen_4.png"
                     ]
                 }
             ]
@@ -193766,54 +193947,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicsort_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicsort_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicsort_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1158933094,
-            "name": "Bloons TD 6",
-            "version": "57.3",
-            "size": 94344584,
-            "icon": "img/bloonstd6.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/bloonstd6.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/bloonstd6.ipa",
-            "bundleIdentifier": "com.ninjakiwi.bloonstd6",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Never Die\n- Fast Shooting Rate\n- Balloons Without Renewal\n- Clear Balloons\n- Auto Win\n- Specific Round\n- Restart Match\n- Add Money\n- Specific Level\n- Unlimited Daily Chest\n- Add Prizes (‼️Use at Your Own Risk‼️)\n- Infinite Ability - New\n- Place Tower Anywhere\n- Infinite Heroes\n- And Much More\n- Tutorial Bypassed (Place One Tower and Exit Game)",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bloonstd6.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "57.3",
-                    "date": "2026-10-22T00:09:51+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/bloonstd6.ipa",
-                    "size": 94344584,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloonstd6_screen_4.png"
                     ]
                 }
             ]
@@ -198355,54 +198488,6 @@
             ]
         },
         {
-            "id": 1265983579,
-            "name": "The Warrior Returns: AFK RPG",
-            "version": "1.0901",
-            "size": 694304081,
-            "icon": "img/thewarriorreturnsafkrpg.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/thewarriorreturnsafkrpg.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/thewarriorreturnsafkrpg.ipa",
-            "bundleIdentifier": "com.studiolico.warriorreturns",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Damage Multiplier → amplify your attack power\n- Defense Multiplier → increase your damage reduction\n- Reward Multiplier → earn more from every battle\n- Currency Multiplier → boost all currency gains\n- Currencies Increase When Spend → gain currency as you spend it\n- No ADS → play without interruptions",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/thewarriorreturnsafkrpg.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.0901",
-                    "date": "2026-10-16T11:25:12+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/thewarriorreturnsafkrpg.ipa",
-                    "size": 694304081,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thewarriorreturnsafkrpg_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1223964998,
             "name": "Zombastic: Time to Survive",
             "version": "1.44.2",
@@ -200552,54 +200637,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/castlerivals_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/castlerivals_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/castlerivals_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1535075077,
-            "name": "Design Family Life",
-            "version": "0.2.501",
-            "size": 203951257,
-            "icon": "img/designfamilylife.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/designfamilylife.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/designfamilylife.ipa",
-            "bundleIdentifier": "com.ugi.designfamilylife",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Gems\n- Cash\n- Energy\n- ADS Ticket\n- LVL & EXP [ Task ]\n- Rewards [ Gems Cash Energy ADS Ticket ] Linked With LvL\n- Chacter Status [ Fitness Joy +More ] \n\nNote:- Earn Then Get",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/designfamilylife.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "0.2.501",
-                    "date": "2026-10-15T02:45:04+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/designfamilylife.ipa",
-                    "size": 203951257,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designfamilylife_screen_4.png"
                     ]
                 }
             ]
@@ -204320,37 +204357,6 @@
                     "localizedDescription": null,
                     "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/kidscoloringpuzzlegames.ipa",
                     "size": 65787658,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0"
-                }
-            ]
-        },
-        {
-            "id": 1353405292,
-            "name": "Lamar - Idle Vlogger",
-            "version": "240.4.0",
-            "size": "158.93 MB",
-            "icon": "img/lamaridlevlogger.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/lamaridlevlogger.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/lamaridlevlogger.ipa",
-            "bundleIdentifier": "com.advant.lamar",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Cash -> Will increase instead of decrease.\n- Unlimited Gold -> Spend some.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lamaridlevlogger.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "240.4.0",
-                    "date": "2026-10-10T23:52:20+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/lamaridlevlogger.ipa",
-                    "size": 166650183,
                     "buildVersion": null,
                     "minOSVersion": "14.0"
                 }
