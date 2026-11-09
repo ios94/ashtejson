@@ -10,6 +10,414 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1115910097,
+            "name": "Tik Watch",
+            "version": "4.1",
+            "size": 18878049,
+            "icon": "img/tikwatch.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/tikwatch.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/tikwatch.ipa",
+            "bundleIdentifier": "com.oliver.WatchApp-for-TikTok",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق مختص لتطبيق التيك توك \n- مدفوع في ابل ستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tikwatch.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tikwatch_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tikwatch_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tikwatch_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tikwatch_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tikwatch_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tikwatch_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tikwatch_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tikwatch_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.1",
+                    "date": "2026-11-09T01:02:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/tikwatch.ipa",
+                    "size": 18878049,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tikwatch_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tikwatch_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tikwatch_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tikwatch_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1963931706,
+            "name": "Night Camera",
+            "version": "4.12",
+            "size": 4497420,
+            "icon": "img/nightcamera.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/nightcamera.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/nightcamera.ipa",
+            "bundleIdentifier": "com.clidoapps.nightcamerahd",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "هو تطبيق كاميرا مُتخصّص في التصوير الليلي وفي الأماكن المُظلمة ، حيث يُعزّز جودة الصور والفيديوهات عندما تكون الإضاءة ضعيفة جدًا .\n\n- مدفوع في ابل ستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nightcamera.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightcamera_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightcamera_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightcamera_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightcamera_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightcamera_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightcamera_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightcamera_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightcamera_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.12",
+                    "date": "2026-11-09T01:02:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/nightcamera.ipa",
+                    "size": 4497420,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightcamera_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightcamera_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightcamera_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nightcamera_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1646296418,
+            "name": "SpeedUpVideo",
+            "version": "1.2",
+            "size": 17912082,
+            "icon": "img/speedupvideo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/speedupvideo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/speedupvideo.ipa",
+            "bundleIdentifier": "com.rockybrain.speedupvideo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "أداة بسيطة وسهلة الاستخدام تتيح لك تسريع مقاطع الفيديو بسرعة وسلاسة .\n\n- تطبيق مدفوع في ابل ستور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/speedupvideo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedupvideo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedupvideo_screen_2.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedupvideo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedupvideo_screen_2.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-09T01:02:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/speedupvideo.ipa",
+                    "size": 17912082,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedupvideo_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speedupvideo_screen_2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1416006640,
+            "name": "Idle Hunter",
+            "version": "0.1.8",
+            "size": 380298143,
+            "icon": "img/idlehunter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/idlehunter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/idlehunter.ipa",
+            "bundleIdentifier": "com.afk.idle.hunter.eternal.soul",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مُضاعِف الضرر\n- لعبة &#34;لا تموت أبدًا&#34;\n- لعبة &#34;داخل التطبيق&#34; مجانية\n- إزالة الإعلانات\n- سرعة معركة مضاعفة\n- تم شراء تذكرة المعركة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlehunter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehunter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehunter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehunter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehunter_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehunter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehunter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehunter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehunter_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.1.8",
+                    "date": "2026-11-09T01:02:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/idlehunter.ipa",
+                    "size": 380298143,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehunter_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehunter_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehunter_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlehunter_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1171201804,
+            "name": "Heroes Tavern: Idle Pub Tycoon",
+            "version": "2.5.7",
+            "size": 275853156,
+            "icon": "img/heroestavernidlepubtycoon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/heroestavernidlepubtycoon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/heroestavernidlepubtycoon.ipa",
+            "bundleIdentifier": "fantasy.hero.cafe.empire.craft",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- إضافة عملة (تفعيل/إيقاف التشغيل يمنحك عملة)\n- ترقية الأبطال (تفعيل/إيقاف ترقية الأبطال)\n- بناء فوري (يعمل مكان البطل بعد المستوى الأول)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heroestavernidlepubtycoon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroestavernidlepubtycoon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroestavernidlepubtycoon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroestavernidlepubtycoon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroestavernidlepubtycoon_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroestavernidlepubtycoon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroestavernidlepubtycoon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroestavernidlepubtycoon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroestavernidlepubtycoon_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.5.7",
+                    "date": "2026-11-09T01:02:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/heroestavernidlepubtycoon.ipa",
+                    "size": 275853156,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroestavernidlepubtycoon_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroestavernidlepubtycoon_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroestavernidlepubtycoon_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroestavernidlepubtycoon_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1723479148,
+            "name": "Just One Shot",
+            "version": "1.7.25",
+            "size": 401108797,
+            "icon": "img/justoneshot.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/justoneshot.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/justoneshot.ipa",
+            "bundleIdentifier": "com.highbrow.games.mgi",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مُضاعِف الضرر\n- لا تموت أبدًا\n- تجميد العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/justoneshot.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/justoneshot.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/justoneshot.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.25",
+                    "date": "2026-11-09T01:01:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/justoneshot.ipa",
+                    "size": 401108797,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/justoneshot.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1637310608,
+            "name": "Zombies Clicker",
+            "version": "20.1.219",
+            "size": 214254565,
+            "icon": "img/zombiesclicker.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/zombiesclicker.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/zombiesclicker.ipa",
+            "bundleIdentifier": "com.edenap.a3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- إضافة عملة\n- إضافة هيبة\n- لا تموت أبدًا\n- قتل بضربة واحدة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zombiesclicker.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesclicker_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesclicker_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesclicker_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesclicker_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesclicker_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesclicker_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesclicker_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesclicker_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "20.1.219",
+                    "date": "2026-11-09T01:01:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/zombiesclicker.ipa",
+                    "size": 214254565,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesclicker_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesclicker_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesclicker_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesclicker_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1264750472,
+            "name": "DragonspeaR: Myu Idle RPG",
+            "version": "1.0.33",
+            "size": 693478311,
+            "icon": "img/dragonspearmyuidlerpg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/dragonspearmyuidlerpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/dragonspearmyuidlerpg.ipa",
+            "bundleIdentifier": "com.game2gather.dsmyu",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defense Multiplier\n\n- ضرر مضاعف\n- مضاعفة الدفاع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dragonspearmyuidlerpg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dragonspearmyuidlerpg.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dragonspearmyuidlerpg.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.33",
+                    "date": "2026-11-09T01:01:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/dragonspearmyuidlerpg.ipa",
+                    "size": 693478311,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dragonspearmyuidlerpg.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1205936388,
+            "name": "Pixel Combat",
+            "version": "5.5.2",
+            "size": 514098491,
+            "icon": "img/pixelcombat.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/pixelcombat.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/pixelcombat.ipa",
+            "bundleIdentifier": "com.gsgames.pixel.combat",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ذخيرة غير محدودة\n- قتل ضربة واحدة\n- الاعب لايموت\n- 5 ملايين من المال\n- رادار ESP",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pixelcombat.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelcombat_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelcombat_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelcombat_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelcombat_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelcombat_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelcombat_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelcombat_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelcombat_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.5.2",
+                    "date": "2026-11-09T01:00:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/pixelcombat.ipa",
+                    "size": 514098491,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelcombat_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelcombat_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelcombat_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelcombat_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1228013111,
             "name": "بيانو المحترف",
             "version": "1.6.12",
