@@ -10,6 +10,447 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1657486774,
+            "name": "Survivor in Color Monster",
+            "version": "1.4.7",
+            "size": 459228315,
+            "icon": "img/survivorincolormonster.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/survivorincolormonster.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/survivorincolormonster.ipa",
+            "bundleIdentifier": "com.survivor.blue.monster",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\nمتجر مجاني ( اضغط شراء والغاء)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/survivorincolormonster.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivorincolormonster_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivorincolormonster_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivorincolormonster_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivorincolormonster_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivorincolormonster_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivorincolormonster_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivorincolormonster_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivorincolormonster_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.7",
+                    "date": "2026-11-09T15:49:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/survivorincolormonster.ipa",
+                    "size": 459228315,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivorincolormonster_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivorincolormonster_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivorincolormonster_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/survivorincolormonster_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1137038216,
+            "name": "We're Impostors",
+            "version": "1.8",
+            "size": 629253092,
+            "icon": "img/wereimpostors.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/wereimpostors.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/wereimpostors.ipa",
+            "bundleIdentifier": "com.red.blue.imposter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wereimpostors.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wereimpostors.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wereimpostors.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.8",
+                    "date": "2026-11-09T15:48:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/wereimpostors.ipa",
+                    "size": 629253092,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wereimpostors.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1463491482,
+            "name": "Stickdom Idle",
+            "version": "1.0.0",
+            "size": 372607383,
+            "icon": "img/stickdomidle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/stickdomidle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/stickdomidle.ipa",
+            "bundleIdentifier": "com.abi.idlesummoner",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "منع الأعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stickdomidle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stickdomidle.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stickdomidle.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "date": "2026-11-09T15:47:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/stickdomidle.ipa",
+                    "size": 372607383,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stickdomidle.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1897299950,
+            "name": "Troll Brain",
+            "version": "1.2",
+            "size": 194038954,
+            "icon": "img/trollbrain.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/trollbrain.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/trollbrain.ipa",
+            "bundleIdentifier": "troll.brain.test.puzzle.com",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "الغاء الأعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/trollbrain.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trollbrain_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trollbrain_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trollbrain_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trollbrain_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trollbrain_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trollbrain_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trollbrain_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trollbrain_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-09T15:47:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/trollbrain.ipa",
+                    "size": 194038954,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trollbrain_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trollbrain_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trollbrain_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trollbrain_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1363592880,
+            "name": "Mushroom War",
+            "version": "0.8",
+            "size": 337473681,
+            "icon": "img/mushroomwar.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/mushroomwar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/mushroomwar.ipa",
+            "bundleIdentifier": "com.mushroom.action.rescue",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mushroomwar.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mushroomwar_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mushroomwar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mushroomwar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mushroomwar_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mushroomwar_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mushroomwar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mushroomwar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mushroomwar_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.8",
+                    "date": "2026-11-09T15:47:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/mushroomwar.ipa",
+                    "size": 337473681,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mushroomwar_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mushroomwar_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mushroomwar_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mushroomwar_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1903943320,
+            "name": "Tile Cat 3 - Puzzle Match",
+            "version": "1.7",
+            "size": 263879609,
+            "icon": "img/tilecat3puzzlematch.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/tilecat3puzzlematch.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/tilecat3puzzlematch.ipa",
+            "bundleIdentifier": "com.abi.tile.cat.puzzle.match",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tilecat3puzzlematch.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilecat3puzzlematch_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilecat3puzzlematch_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilecat3puzzlematch_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilecat3puzzlematch_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilecat3puzzlematch_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilecat3puzzlematch_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilecat3puzzlematch_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilecat3puzzlematch_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7",
+                    "date": "2026-11-09T15:46:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/tilecat3puzzlematch.ipa",
+                    "size": 263879609,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilecat3puzzlematch_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilecat3puzzlematch_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilecat3puzzlematch_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tilecat3puzzlematch_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1212913989,
+            "name": "Thief Master",
+            "version": "0.2",
+            "size": 402948514,
+            "icon": "img/thiefmaster.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/thiefmaster.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/thiefmaster.ipa",
+            "bundleIdentifier": "thief.master.robin.hood.com",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "طاقة لا نهائي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/thiefmaster.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/thiefmaster.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/thiefmaster.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.2",
+                    "date": "2026-11-09T15:46:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/thiefmaster.ipa",
+                    "size": 402948514,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/thiefmaster.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1733779927,
+            "name": "Rescue Master",
+            "version": "0.4",
+            "size": 211219238,
+            "icon": "img/rescuemaster.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/rescuemaster.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/rescuemaster.ipa",
+            "bundleIdentifier": "com.draw.test.brain.puzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "الغاء الأعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rescuemaster.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuemaster_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuemaster_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuemaster_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuemaster_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuemaster_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuemaster_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.4",
+                    "date": "2026-11-09T15:45:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/rescuemaster.ipa",
+                    "size": 211219238,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuemaster_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuemaster_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rescuemaster_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1673545473,
+            "name": "Ragdoll Dismount",
+            "version": "0.7",
+            "size": 158414878,
+            "icon": "img/ragdolldismount.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/ragdolldismount.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/ragdolldismount.ipa",
+            "bundleIdentifier": "stick.turbo.dismounting.physics.stickman",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل اللعبة مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ragdolldismount.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdolldismount_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdolldismount_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdolldismount_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdolldismount_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdolldismount_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdolldismount_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdolldismount_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdolldismount_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.7",
+                    "date": "2026-11-09T15:45:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/ragdolldismount.ipa",
+                    "size": 158414878,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdolldismount_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdolldismount_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdolldismount_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ragdolldismount_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1128420491,
+            "name": "Move Stop Move",
+            "version": "0.0.66",
+            "size": 105892398,
+            "icon": "img/movestopmove.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/movestopmove.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/movestopmove.ipa",
+            "bundleIdentifier": "com.abi.move.stop.io",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "متجر مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/movestopmove.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/movestopmove.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/movestopmove.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.66",
+                    "date": "2026-11-09T15:45:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/movestopmove.ipa",
+                    "size": 105892398,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/movestopmove.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1772167031,
             "name": "World Journey: Hidden Object",
             "version": "1.3",
