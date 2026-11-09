@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1689737132,
+            "name": "Trivia.io",
+            "version": "16.0.5",
+            "size": 251846934,
+            "icon": "img/triviaio.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/triviaio.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/triviaio.ipa",
+            "bundleIdentifier": "com.eightsec.TriviaIO",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل التطبيق مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/triviaio.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviaio_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviaio_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviaio_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviaio_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviaio_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviaio_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviaio_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviaio_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "16.0.5",
+                    "date": "2026-11-09T13:27:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/triviaio.ipa",
+                    "size": 251846934,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviaio_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviaio_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviaio_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviaio_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1606585393,
+            "name": "Eating Hero",
+            "version": "3.2.0",
+            "size": 242522140,
+            "icon": "img/eatinghero.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/eatinghero.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/eatinghero.ipa",
+            "bundleIdentifier": "com.tapjoy.eatthemall",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل اللعبة مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/eatinghero.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eatinghero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eatinghero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eatinghero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eatinghero_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eatinghero_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eatinghero_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eatinghero_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eatinghero_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.2.0",
+                    "date": "2026-11-09T13:27:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/eatinghero.ipa",
+                    "size": 242522140,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eatinghero_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eatinghero_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eatinghero_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eatinghero_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1853593509,
+            "name": "Cut ’em all",
+            "version": "1.0.23",
+            "size": 260937143,
+            "icon": "img/cutemall.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/cutemall.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/cutemall.ipa",
+            "bundleIdentifier": "com.flash.cutting",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل اللعبة مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cutemall.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutemall_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutemall_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutemall_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutemall_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutemall_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutemall_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutemall_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutemall_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.23",
+                    "date": "2026-11-09T13:26:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/cutemall.ipa",
+                    "size": 260937143,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutemall_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutemall_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutemall_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cutemall_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1304615506,
+            "name": "Sushi Land",
+            "version": "0.6",
+            "size": 278074095,
+            "icon": "img/sushiland.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/sushiland.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/sushiland.ipa",
+            "bundleIdentifier": "com.maki.maki.sushiland",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل الهاك. النقود او الموجوهرات وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sushiland.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sushiland_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sushiland_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sushiland_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sushiland_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sushiland_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sushiland_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sushiland_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sushiland_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.6",
+                    "date": "2026-11-09T13:26:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/sushiland.ipa",
+                    "size": 278074095,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sushiland_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sushiland_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sushiland_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sushiland_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1853140123,
+            "name": "Steampunk",
+            "version": "2.1",
+            "size": 156359295,
+            "icon": "img/steampunk.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/steampunk.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/steampunk.ipa",
+            "bundleIdentifier": "com.fashionstylistgames.steampunk",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\r\n\r\nFeatures:\r\n\r\n- You can purchase anything in the game for free \r\n( please click Buy and then Cancel )\r\n\r\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\r\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/steampunk.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/steampunk_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/steampunk_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/steampunk_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/steampunk_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/steampunk_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/steampunk_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/steampunk_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/steampunk_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1",
+                    "date": "2026-11-09T13:25:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/steampunk.ipa",
+                    "size": 156359295,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/steampunk_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/steampunk_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/steampunk_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/steampunk_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1334316463,
+            "name": "Merchant Puzzle",
+            "version": "1.0.19",
+            "size": 229135736,
+            "icon": "img/merchantpuzzle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/merchantpuzzle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/merchantpuzzle.ipa",
+            "bundleIdentifier": "com.matching.puzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/merchantpuzzle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantpuzzle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantpuzzle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantpuzzle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantpuzzle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantpuzzle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantpuzzle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantpuzzle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantpuzzle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.19",
+                    "date": "2026-11-09T13:25:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/merchantpuzzle.ipa",
+                    "size": 229135736,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantpuzzle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantpuzzle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantpuzzle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merchantpuzzle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1516119134,
+            "name": "1v1.LOL",
+            "version": "4.712",
+            "size": 1518410061,
+            "icon": "img/1v1lol.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/1v1lol.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/1v1lol.ipa",
+            "bundleIdentifier": "lol.onevone",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\nاللعبة اونلاين ✅\n\n - لا تموت ابدا \n - فتح الأشتراك (ليس كل الجوائز)\n - الغاء الأعلانات\n- ثغرة في اللعبة \n - طلق سريع جدا\n - طلق غير محدود\n - الطلق لا ينتشر\n - طلقة واحدة تقتل\n - درع\n- طاقة\n - بناء اكثر الاشياء غير محدود\n\nمهم : اذا واجهت مشكلة عدم قتل البوتات عند اطلاق النار عليهم اقفل زر (لا تموت ابدا)\n\n#حصرريا\n\nوصف التطبيق :\n\n انضم إلى أكثر من 80 مليون لاعب في لعبة 1V1.LOL Champions، وهي لعبة Battle Royale حيث ستغوص في لعبة إطلاق النار على البطل من منظور الشخص الثالث! انخرط في معارك سريعة البرق، واحتفل بإثارة لعبة متعددة اللاعبين.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/1v1lol.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/1v1lol_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/1v1lol_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/1v1lol_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/1v1lol_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/1v1lol_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/1v1lol_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/1v1lol_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/1v1lol_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.712",
+                    "date": "2026-11-09T13:25:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/1v1lol.ipa",
+                    "size": 1518410061,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/1v1lol_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/1v1lol_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/1v1lol_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/1v1lol_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1763214173,
+            "name": "Love Pins",
+            "version": "1.5.5",
+            "size": 333104770,
+            "icon": "img/lovepins.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/lovepins.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/lovepins.ipa",
+            "bundleIdentifier": "jp.take.steppuzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود ( من المتجر )\n- الغاء الأعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lovepins.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepins_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepins_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepins_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepins_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepins_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepins_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepins_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepins_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.5",
+                    "date": "2026-11-09T13:23:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/lovepins.ipa",
+                    "size": 333104770,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepins_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepins_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepins_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lovepins_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1471220351,
+            "name": "Sweet Sort",
+            "version": "2.1.0",
+            "size": 381822834,
+            "icon": "img/sweetsort.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/sweetsort.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/sweetsort.ipa",
+            "bundleIdentifier": "com.appsyoulove.sweetsort",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- متجر مجاني ( قم بعمل شراء ثم الغاء )\n\nوصف التطبيق:\n\n يسعد Sweet Sort أن يأخذك إلى المغامرة النهائية لفرز الألوان. اكتشف أحجية ملونة ذات طابع خاص يسهل التقاطها ومن المستحيل تركها. قم بتمرين عقلك وأمسك بالشوكة لتتناول مجموعة لا نهاية لها من الحلويات السكرية. إنها مثل ألعاب الفرز، ولكن مع الشوكولاتة ومسحوق السكر. دع الأوقات الجميلة تحلى بالجديد",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sweetsort.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sweetsort_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sweetsort_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sweetsort_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sweetsort_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sweetsort_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sweetsort_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sweetsort_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sweetsort_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.0",
+                    "date": "2026-11-09T13:23:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/sweetsort.ipa",
+                    "size": 381822834,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sweetsort_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sweetsort_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sweetsort_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sweetsort_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1618828376,
+            "name": "Gun Head Run",
+            "version": "1.0.17",
+            "size": 170840543,
+            "icon": "img/gunheadrun.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V10/gunheadrun.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V10/gunheadrun.ipa",
+            "bundleIdentifier": "com.mondayoff.gunheadrun",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n -اموال لا نهائي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gunheadrun.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunheadrun_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunheadrun_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunheadrun_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunheadrun_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunheadrun_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunheadrun_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunheadrun_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunheadrun_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.17",
+                    "date": "2026-11-09T13:22:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V10/gunheadrun.ipa",
+                    "size": 170840543,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunheadrun_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunheadrun_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunheadrun_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunheadrun_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1419490986,
             "name": "Magic Blossom - Flower Games",
             "version": "0.2.4",
