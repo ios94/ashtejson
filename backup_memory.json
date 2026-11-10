@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1622676632,
+            "name": "Umiro",
+            "version": "1.1.0",
+            "size": 383717781,
+            "icon": "img/umiro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/umiro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/umiro.ipa",
+            "bundleIdentifier": "com.crunchyroll.gv.umiro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "-- تم فتح اللعبة كاملة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/umiro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umiro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umiro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umiro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umiro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umiro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umiro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umiro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umiro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.0",
+                    "date": "2026-11-10T19:24:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/umiro.ipa",
+                    "size": 383717781,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umiro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umiro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umiro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umiro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1889295866,
+            "name": "Medieval Defense & Conquest 2",
+            "version": "260115.35",
+            "size": 271664577,
+            "icon": "img/medievaldefenseconquest2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/medievaldefenseconquest2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/medievaldefenseconquest2.ipa",
+            "bundleIdentifier": "com.brusgames.medievaldefenseconquest2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- جواهر غير محدودة\r\n- ذهب غير محدود\r\n- نشط ViP\r\n- الإعلانات غير نشطة\r\n- مكافآت الموجة المزدوجة نشطة\r\n- إصلاح جدار السيارات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/medievaldefenseconquest2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/medievaldefenseconquest2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/medievaldefenseconquest2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/medievaldefenseconquest2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/medievaldefenseconquest2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/medievaldefenseconquest2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/medievaldefenseconquest2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/medievaldefenseconquest2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/medievaldefenseconquest2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "260115.35",
+                    "date": "2026-11-10T19:23:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/medievaldefenseconquest2.ipa",
+                    "size": 271664577,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/medievaldefenseconquest2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/medievaldefenseconquest2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/medievaldefenseconquest2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/medievaldefenseconquest2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1510331513,
+            "name": "Claw Master",
+            "version": "1.0.8",
+            "size": 242885905,
+            "icon": "img/clawmaster.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/clawmaster.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/clawmaster.ipa",
+            "bundleIdentifier": "hero.claw.master",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- الإعلانات التلقائية معطلة\r\n- جواهر غير محدودة\r\n- عملات معدنية غير محدودة\r\n- طاقة غير محدودة\r\n- بطاقات بطل غير محدودة / من السهل فتح 1 فقط كسب\r\n- تذكرة زنزانة غير محدودة\r\n- تذكرة برج غير محدودة\r\n- مفاتيح آثار غير محدودة\r\n- معركة النجمة الحمراء غير المحدودة\r\n- نجوم المعركة الصفراء غير المحدودة\r\n- كرات حظ غير محدودة\r\n- نرد إعادة لف غير محدود\r\n- حجر القيامة غير المحدود\r\n- عملات خلط غير محدودة\r\n- دمج عالي\r\nملاحظة:- كل شيء يكسب ثم يعمل",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/clawmaster.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawmaster_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawmaster_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawmaster_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawmaster_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawmaster_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawmaster_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawmaster_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawmaster_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.8",
+                    "date": "2026-11-10T19:23:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/clawmaster.ipa",
+                    "size": 242885905,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawmaster_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawmaster_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawmaster_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawmaster_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1670285860,
+            "name": "Eros Raiders",
+            "version": "1.2.72",
+            "size": 872439154,
+            "icon": "img/erosraiders.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/erosraiders.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/erosraiders.ipa",
+            "bundleIdentifier": "com.evilzeppelin.erosraiders",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defense Multiplier\n\n- ضرر مضاعف\n- مضاعفة الدفاع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/erosraiders.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/erosraiders.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/erosraiders.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.72",
+                    "date": "2026-11-10T19:23:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/erosraiders.ipa",
+                    "size": 872439154,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/erosraiders.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1639559575,
+            "name": "Introscape",
+            "version": "2.2.0",
+            "size": 107118899,
+            "icon": "img/introscape.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/introscape.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/introscape.ipa",
+            "bundleIdentifier": "app.introscape.com",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Fake call\r\n\r\nمفعل مميزات بريميوم\r\n\r\nمميزات التطبيق\r\nمكالمات وهمية وسهلة ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/introscape.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/introscape_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/introscape_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/introscape_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/introscape_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/introscape_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/introscape_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/introscape_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/introscape_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.2.0",
+                    "date": "2026-11-10T19:22:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/introscape.ipa",
+                    "size": 107118899,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/introscape_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/introscape_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/introscape_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/introscape_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1316447854,
+            "name": "To Do List",
+            "version": "1.2",
+            "size": 12864508,
+            "icon": "img/todolist.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/todolist.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/todolist.ipa",
+            "bundleIdentifier": "com.hetalthummar.Speech-To-Notes",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/todolist.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/todolist_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/todolist_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/todolist_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/todolist_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/todolist_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/todolist_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/todolist_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/todolist_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-10T19:22:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/todolist.ipa",
+                    "size": 12864508,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/todolist_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/todolist_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/todolist_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/todolist_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1319718743,
+            "name": "Identify Plant",
+            "version": "1.2",
+            "size": 15230806,
+            "icon": "img/identifyplant.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/identifyplant.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/identifyplant.ipa",
+            "bundleIdentifier": "com.axitanitin.identifyPlant",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/identifyplant.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/identifyplant_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/identifyplant_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/identifyplant_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/identifyplant_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/identifyplant_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/identifyplant_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/identifyplant_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/identifyplant_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-10T19:22:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/identifyplant.ipa",
+                    "size": 15230806,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/identifyplant_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/identifyplant_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/identifyplant_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/identifyplant_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1977282375,
+            "name": "OCR",
+            "version": "1.0",
+            "size": 8755758,
+            "icon": "img/ocr.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/ocr.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/ocr.ipa",
+            "bundleIdentifier": "com.hetalthummar.PDFImageConverter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ocr.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2026-11-10T19:22:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/ocr.ipa",
+                    "size": 8755758,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1498467121,
+            "name": "Video Editor",
+            "version": "1.5",
+            "size": 14042761,
+            "icon": "img/videoeditor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/videoeditor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/videoeditor.ipa",
+            "bundleIdentifier": "com.hetalthummar.VideoEditor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/videoeditor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videoeditor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videoeditor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videoeditor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videoeditor_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videoeditor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videoeditor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videoeditor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videoeditor_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5",
+                    "date": "2026-11-10T19:22:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/videoeditor.ipa",
+                    "size": 14042761,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videoeditor_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videoeditor_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videoeditor_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videoeditor_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1852637865,
+            "name": "Textify",
+            "version": "3.6.1",
+            "size": 31291252,
+            "icon": "img/textify.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/textify.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/textify.ipa",
+            "bundleIdentifier": "be.isolid.textify.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/textify.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/textify_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/textify_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/textify_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/textify_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/textify_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/textify_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/textify_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/textify_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.6.1",
+                    "date": "2026-11-10T19:22:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/textify.ipa",
+                    "size": 31291252,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/textify_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/textify_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/textify_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/textify_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1597208497,
             "name": "Document Scanner",
             "version": "1.0",
