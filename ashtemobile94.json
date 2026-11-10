@@ -10,6 +10,150 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1389183928,
+            "name": "Scarlet",
+            "version": "1.0",
+            "size": 15515487,
+            "icon": "img/scarlet.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/scarlet.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/scarlet.ipa",
+            "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "هذا تطبيق رائع متاح فقط على Zipa",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/scarlet.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scarlet_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scarlet_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scarlet_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scarlet_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scarlet_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scarlet_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scarlet_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scarlet_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2026-11-10T21:59:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/scarlet.ipa",
+                    "size": 15515487,
+                    "buildVersion": null,
+                    "minOSVersion": "13.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scarlet_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scarlet_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scarlet_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/scarlet_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1857961995,
+            "name": "GBox",
+            "version": "5.7.6",
+            "size": 6768627,
+            "icon": "img/gbox.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/gbox.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/gbox.ipa",
+            "bundleIdentifier": "com.ncs.gbox",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "هذا تطبيق رائع متاح فقط على Zipa",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gbox.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gbox_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gbox_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gbox_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gbox_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gbox_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gbox_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gbox_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gbox_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.7.6",
+                    "date": "2026-11-10T21:59:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/gbox.ipa",
+                    "size": 6768627,
+                    "buildVersion": null,
+                    "minOSVersion": "12.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gbox_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gbox_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gbox_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gbox_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1383216586,
+            "name": "Ksign",
+            "version": "1.5",
+            "size": 14045394,
+            "icon": "img/ksign.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/ksign.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/ksign.ipa",
+            "bundleIdentifier": "nya.asami.ksign",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "هذا تطبيق رائع متاح فقط على Zipa",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ksign.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ksign_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ksign_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ksign_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ksign_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ksign_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ksign_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ksign_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ksign_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5",
+                    "date": "2026-11-10T21:59:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/ksign.ipa",
+                    "size": 14045394,
+                    "buildVersion": null,
+                    "minOSVersion": "16.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ksign_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ksign_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ksign_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ksign_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1716364800,
             "name": "Telegram",
             "version": "12.8",
