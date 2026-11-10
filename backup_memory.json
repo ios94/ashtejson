@@ -10,6 +10,483 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1513636606,
+            "name": "Stack Ten",
+            "version": "1.1",
+            "size": 149109049,
+            "icon": "img/stackten.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/stackten.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/stackten.ipa",
+            "bundleIdentifier": "com.upperpik.stackten",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stackten.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackten_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackten_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackten_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackten_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackten_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackten_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackten_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackten_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2026-11-10T09:06:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/stackten.ipa",
+                    "size": 149109049,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackten_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackten_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackten_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackten_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1648164823,
+            "name": "Zombie Juice",
+            "version": "1.0",
+            "size": 92790358,
+            "icon": "img/zombiejuice.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/zombiejuice.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/zombiejuice.ipa",
+            "bundleIdentifier": "com.Upperpik.ZombieJuice",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zombiejuice.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiejuice_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiejuice_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiejuice_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiejuice_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiejuice_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiejuice_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiejuice_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiejuice_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2026-11-10T09:06:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/zombiejuice.ipa",
+                    "size": 92790358,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiejuice_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiejuice_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiejuice_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiejuice_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1372479322,
+            "name": "Pan Panic",
+            "version": "0.1",
+            "size": 107090979,
+            "icon": "img/panpanic.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/panpanic.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/panpanic.ipa",
+            "bundleIdentifier": "com.Upperpik.PanPanic",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/panpanic.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/panpanic_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/panpanic_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/panpanic_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/panpanic_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/panpanic_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/panpanic_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/panpanic_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/panpanic_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.1",
+                    "date": "2026-11-10T09:06:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/panpanic.ipa",
+                    "size": 107090979,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/panpanic_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/panpanic_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/panpanic_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/panpanic_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1411983504,
+            "name": "Surf Repair 3D",
+            "version": "0.1",
+            "size": 82615160,
+            "icon": "img/surfrepair3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/surfrepair3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/surfrepair3d.ipa",
+            "bundleIdentifier": "com.superlemongames.SurfRepair3D",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/surfrepair3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/surfrepair3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/surfrepair3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/surfrepair3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/surfrepair3d_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/surfrepair3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/surfrepair3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/surfrepair3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/surfrepair3d_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.1",
+                    "date": "2026-11-10T09:06:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/surfrepair3d.ipa",
+                    "size": 82615160,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/surfrepair3d_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/surfrepair3d_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/surfrepair3d_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/surfrepair3d_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1159442824,
+            "name": "شيف البرجر",
+            "version": "1.5",
+            "size": 179533849,
+            "icon": "img/app5cc06d1044.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/app5cc06d1044.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/app5cc06d1044.ipa",
+            "bundleIdentifier": "com.Ie.tasali.BurgerChef",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app5cc06d1044.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5cc06d1044_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5cc06d1044_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5cc06d1044_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5cc06d1044_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5cc06d1044_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5cc06d1044_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5cc06d1044_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5cc06d1044_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5",
+                    "date": "2026-11-10T09:06:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/app5cc06d1044.ipa",
+                    "size": 179533849,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5cc06d1044_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5cc06d1044_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5cc06d1044_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app5cc06d1044_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1409303221,
+            "name": "Punish Idle",
+            "version": "1.1",
+            "size": 143111455,
+            "icon": "img/punishidle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/punishidle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/punishidle.ipa",
+            "bundleIdentifier": "com.upperpik.punishidle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/punishidle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punishidle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punishidle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punishidle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punishidle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punishidle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punishidle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punishidle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punishidle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2026-11-10T09:06:17+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/punishidle.ipa",
+                    "size": 143111455,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punishidle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punishidle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punishidle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/punishidle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1369552858,
+            "name": "Trade Challenge",
+            "version": "0.9",
+            "size": 84848116,
+            "icon": "img/tradechallenge.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/tradechallenge.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/tradechallenge.ipa",
+            "bundleIdentifier": "com.Upperpik.TradeChallenge",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tradechallenge.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tradechallenge_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tradechallenge_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tradechallenge_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tradechallenge_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tradechallenge_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tradechallenge_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tradechallenge_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tradechallenge_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.9",
+                    "date": "2026-11-10T09:06:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/tradechallenge.ipa",
+                    "size": 84848116,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tradechallenge_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tradechallenge_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tradechallenge_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tradechallenge_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1435557849,
+            "name": "Super Hole",
+            "version": "1.0",
+            "size": 143064787,
+            "icon": "img/superhole.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/superhole.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/superhole.ipa",
+            "bundleIdentifier": "com.upperpik.superhole",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/superhole.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superhole_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superhole_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superhole_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superhole_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superhole_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superhole_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2026-11-10T09:06:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/superhole.ipa",
+                    "size": 143064787,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superhole_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superhole_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superhole_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1279771068,
+            "name": "Bikini Valentine AI Face Swap",
+            "version": "1.0.1",
+            "size": 43622039,
+            "icon": "img/bikinivalentineaifaceswap.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/bikinivalentineaifaceswap.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/bikinivalentineaifaceswap.ipa",
+            "bundleIdentifier": "com.drukcrey.bikinivalentine",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\nفتح الاشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bikinivalentineaifaceswap.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikinivalentineaifaceswap_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikinivalentineaifaceswap_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikinivalentineaifaceswap_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikinivalentineaifaceswap_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikinivalentineaifaceswap_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikinivalentineaifaceswap_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikinivalentineaifaceswap_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikinivalentineaifaceswap_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.1",
+                    "date": "2026-11-10T09:05:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/bikinivalentineaifaceswap.ipa",
+                    "size": 43622039,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikinivalentineaifaceswap_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikinivalentineaifaceswap_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikinivalentineaifaceswap_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bikinivalentineaifaceswap_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1169864477,
+            "name": "Bird Sounds",
+            "version": "1.0.0",
+            "size": 40063894,
+            "icon": "img/birdsounds.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/birdsounds.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/birdsounds.ipa",
+            "bundleIdentifier": "com.drukcrey.birdcalls",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\nفتح الاشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/birdsounds.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/birdsounds_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/birdsounds_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/birdsounds_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/birdsounds_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/birdsounds_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/birdsounds_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/birdsounds_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/birdsounds_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "date": "2026-11-10T09:05:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/birdsounds.ipa",
+                    "size": 40063894,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/birdsounds_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/birdsounds_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/birdsounds_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/birdsounds_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1188961812,
             "name": "Woman Bikini Ai",
             "version": "1.0.2",
