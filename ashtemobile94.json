@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1465101175,
+            "name": "Last Day on Earth",
+            "version": "1.53.2",
+            "size": 1448645872,
+            "icon": "img/lastdayonearth.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/lastdayonearth.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/lastdayonearth.ipa",
+            "bundleIdentifier": "zombie.survival.craft.z",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مكافحة الغش -> تعطيل كشف الغش.\n- استنساخ العناصر -> تقسيم عنصر للحصول على المزيد.\n- يمكن استنساخ/تقسيم أي عنصر -> استنساخ أي عنصر في مخزونك!\n- صناعة مجانية -> صناعة بدون عناصر مطلوبة. لا تصنع عناصر غير صادرة أو سيتوقف لعبك عن التحميل! راجع النادي لمعرفة أي منها لا يجب أن تصنعه.\n- بناء مجاني -> بناء بدون عناصر مطلوبة.\n- ترقية مجانية -> ترقية بدون عناصر مطلوبة.\n- اختراق البناء -> بفضل الميزات أعلاه\n- متانة لا نهائية للأسلحة/العناصر\n- متانة لا نهائية لجميع الدروع\n- نقاط مهارة غير محدودة -> استخدم نقاط المهارة لزيادتها.\n- لا يوجد متطلب مستوى للصناعة\n- اختراق صناديق الغنائم! -> افتح صندوق غنيمة واحد واحصل على 10,000! إذا تم تصحيح متجر الشراء/المجاني، استخدم هذا للحصول على الكثير من صناديق الغنائم عند فتح واحد.\n- اختراق زيادة العناصر -> عند أخذ عنصر من صندوق الواردات، سيأخذه ويظل يحتفظ به في صندوق الواردات. إذا كان لديك الكثير من نفس العنصر، يمكنك زيادة هذا العنصر بقدر ما تريد!\n- فتح جميع العناصر -> جميع المخططات مفتوحة!\n- مستهلكات غير محدودة -> طعام وماء غير محدود، إلخ.\n- معدل إطلاق عالي -> قتل بضربة واحدة. يعمل بشكل جيد على البنادق.\n- مخططات أسلحة غير محدودة - باستخدام ماكينة إعادة التدوير / أخصائي الأسلحة في ملجأ ألفا واختراق العناصر المستهلكة غير المحدودة، يمكنك الحصول على جميع مخططات الأسلحة في اللعبة.\n- شحن فوري للقوس للإطلاق -> اضغط على أيقونة الإطلاق لإطلاق قوسك فوراً دون الحاجة لشحنه.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lastdayonearth.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.53.2",
+                    "date": "2026-11-10T10:50:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/lastdayonearth.ipa",
+                    "size": 1448645872,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1522795451,
             "name": "Order Up!",
             "version": "0.28.0",
@@ -297028,54 +297076,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pvz2_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pvz2_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pvz2_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1465101175,
-            "name": "Last Day on Earth",
-            "version": "1.53.0",
-            "size": 1448528384,
-            "icon": "img/lastdayonearth.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/lastdayonearth.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/lastdayonearth.ipa",
-            "bundleIdentifier": "zombie.survival.craft.z",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- مكافحة الغش -> تعطيل كشف الغش.\n- استنساخ العناصر -> تقسيم عنصر للحصول على المزيد.\n- يمكن استنساخ/تقسيم أي عنصر -> استنساخ أي عنصر في مخزونك!\n- صناعة مجانية -> صناعة بدون عناصر مطلوبة. لا تصنع عناصر غير صادرة أو سيتوقف لعبك عن التحميل! راجع النادي لمعرفة أي منها لا يجب أن تصنعه.\n- بناء مجاني -> بناء بدون عناصر مطلوبة.\n- ترقية مجانية -> ترقية بدون عناصر مطلوبة.\n- اختراق البناء -> بفضل الميزات أعلاه\n- متانة لا نهائية للأسلحة/العناصر\n- متانة لا نهائية لجميع الدروع\n- نقاط مهارة غير محدودة -> استخدم نقاط المهارة لزيادتها.\n- لا يوجد متطلب مستوى للصناعة\n- اختراق صناديق الغنائم! -> افتح صندوق غنيمة واحد واحصل على 10,000! إذا تم تصحيح متجر الشراء/المجاني، استخدم هذا للحصول على الكثير من صناديق الغنائم عند فتح واحد.\n- اختراق زيادة العناصر -> عند أخذ عنصر من صندوق الواردات، سيأخذه ويظل يحتفظ به في صندوق الواردات. إذا كان لديك الكثير من نفس العنصر، يمكنك زيادة هذا العنصر بقدر ما تريد!\n- فتح جميع العناصر -> جميع المخططات مفتوحة!\n- مستهلكات غير محدودة -> طعام وماء غير محدود، إلخ.\n- معدل إطلاق عالي -> قتل بضربة واحدة. يعمل بشكل جيد على البنادق.\n- مخططات أسلحة غير محدودة - باستخدام ماكينة إعادة التدوير / أخصائي الأسلحة في ملجأ ألفا واختراق العناصر المستهلكة غير المحدودة، يمكنك الحصول على جميع مخططات الأسلحة في اللعبة.\n- شحن فوري للقوس للإطلاق -> اضغط على أيقونة الإطلاق لإطلاق قوسك فوراً دون الحاجة لشحنه.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lastdayonearth.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.53.0",
-                    "date": "2026-11-07T01:27:19+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/lastdayonearth.ipa",
-                    "size": 1448528384,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastdayonearth_screen_4.png"
                     ]
                 }
             ]
