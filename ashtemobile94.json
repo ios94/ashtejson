@@ -10,6 +10,474 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1192274638,
+            "name": "iSH",
+            "version": "1.3.2",
+            "size": 12847412,
+            "icon": "img/ish.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/ish.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/ish.ipa",
+            "bundleIdentifier": "app.ish.iSH",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتعامل مع Shell .\n- مفتوح المميزات .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ish.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ish_screen_1.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ish_screen_1.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.2",
+                    "date": "2026-11-10T15:58:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/ish.ipa",
+                    "size": 12847412,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ish_screen_1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1350509268,
+            "name": "RetroFix",
+            "version": "1.0.25",
+            "size": 119382105,
+            "icon": "img/retrofix.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/retrofix.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/retrofix.ipa",
+            "bundleIdentifier": "com.aismartapps.retrofix",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "افضل من تطبيق Remini لتحسين الصور عبر الذكاء الاصطناعي وتحسين جودتها .\n- مفتوح المزايا بشكل تلقائي . \n- حصريات ? .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/retrofix.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/retrofix_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/retrofix_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/retrofix_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/retrofix_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/retrofix_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/retrofix_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/retrofix_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/retrofix_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.25",
+                    "date": "2026-11-10T15:58:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/retrofix.ipa",
+                    "size": 119382105,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/retrofix_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/retrofix_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/retrofix_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/retrofix_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1616883467,
+            "name": "روايات و كتب",
+            "version": "28",
+            "size": 16422140,
+            "icon": "img/app651c2c416d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/app651c2c416d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/app651c2c416d.ipa",
+            "bundleIdentifier": "com.salim3dd.Novels",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لقراءة الكتب والروايات . \n\n- لازالة الاعلانات وفتح جميع الكتب . \n\n- اضغط شراء ثم الغاء.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app651c2c416d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app651c2c416d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app651c2c416d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app651c2c416d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app651c2c416d_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app651c2c416d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app651c2c416d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app651c2c416d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app651c2c416d_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "28",
+                    "date": "2026-11-10T15:58:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/app651c2c416d.ipa",
+                    "size": 16422140,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app651c2c416d_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app651c2c416d_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app651c2c416d_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app651c2c416d_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1136504548,
+            "name": "SamplePhotosApp",
+            "version": "4.10",
+            "size": 8817874,
+            "icon": "img/samplephotosapp.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/samplephotosapp.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/samplephotosapp.ipa",
+            "bundleIdentifier": "com.kz.frameplayer",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لانشاء شريط من الصور .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/samplephotosapp.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/samplephotosapp_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/samplephotosapp_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/samplephotosapp_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/samplephotosapp_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/samplephotosapp_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/samplephotosapp_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/samplephotosapp_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/samplephotosapp_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.10",
+                    "date": "2026-11-10T15:58:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/samplephotosapp.ipa",
+                    "size": 8817874,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/samplephotosapp_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/samplephotosapp_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/samplephotosapp_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/samplephotosapp_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1371326899,
+            "name": "VIBE CAM",
+            "version": "1.1.10",
+            "size": 72916448,
+            "icon": "img/vibecam.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/vibecam.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/vibecam.ipa",
+            "bundleIdentifier": "com.liangpin.vibecamera",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتصوير باانماط مختلفة وجميلة .\n- مفتوح المميزات تلقائيا .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/vibecam.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vibecam_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vibecam_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vibecam_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vibecam_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vibecam_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vibecam_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vibecam_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vibecam_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.10",
+                    "date": "2026-11-10T15:57:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/vibecam.ipa",
+                    "size": 72916448,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vibecam_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vibecam_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vibecam_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vibecam_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1599434594,
+            "name": "SnapPdf",
+            "version": "1.7",
+            "size": 13731209,
+            "icon": "img/snappdf.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/snappdf.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/snappdf.ipa",
+            "bundleIdentifier": "com.pdf.snapdocument.pdfeditor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتعديل على ملفات PDF .\n- بدون اعلانات .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/snappdf.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snappdf_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snappdf_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snappdf_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snappdf_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snappdf_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snappdf_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7",
+                    "date": "2026-11-10T15:57:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/snappdf.ipa",
+                    "size": 13731209,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snappdf_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snappdf_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snappdf_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1343124948,
+            "name": "Mailbot",
+            "version": "1.0.3",
+            "size": 72367870,
+            "icon": "img/mailbot.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/mailbot.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/mailbot.ipa",
+            "bundleIdentifier": "co.appnation.mailbot",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لمساعدتك على كتابة الايميلات بشكل مرتبّ . \n- الشراء مفعل .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mailbot.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mailbot_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mailbot_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mailbot_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mailbot_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mailbot_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mailbot_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mailbot_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mailbot_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.3",
+                    "date": "2026-11-10T15:57:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/mailbot.ipa",
+                    "size": 72367870,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mailbot_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mailbot_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mailbot_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mailbot_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1218736887,
+            "name": "Word To PDF",
+            "version": "1.2",
+            "size": 11406647,
+            "icon": "img/wordtopdf.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/wordtopdf.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/wordtopdf.ipa",
+            "bundleIdentifier": "com.nkatrodiya.Word-To-PDF",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتحويل ملفات Word الى PDF .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wordtopdf.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtopdf_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtopdf_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtopdf_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtopdf_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtopdf_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtopdf_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtopdf_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtopdf_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-10T15:57:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/wordtopdf.ipa",
+                    "size": 11406647,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtopdf_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtopdf_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtopdf_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordtopdf_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1867381971,
+            "name": "تعلم التركية",
+            "version": "6.2",
+            "size": 47434530,
+            "icon": "img/app2184737f77.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/app2184737f77.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/app2184737f77.ipa",
+            "bundleIdentifier": "com.mawuoodacademy.learnturkishfree",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتعلم اللغة التركية .\n- بدون اعلانات .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app2184737f77.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app2184737f77_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app2184737f77_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app2184737f77_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app2184737f77_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app2184737f77_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app2184737f77_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app2184737f77_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app2184737f77_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.2",
+                    "date": "2026-11-10T15:57:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/app2184737f77.ipa",
+                    "size": 47434530,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app2184737f77_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app2184737f77_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app2184737f77_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app2184737f77_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1613914081,
+            "name": "photo editor",
+            "version": "3.4",
+            "size": 42459457,
+            "icon": "img/photoeditor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/photoeditor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/photoeditor.ipa",
+            "bundleIdentifier": "photoeditor.photobackgroundchanger",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لازالة الخلفية من الصور بشكل مباشر .\n- اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/photoeditor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoeditor_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoeditor_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoeditor_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoeditor_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoeditor_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoeditor_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoeditor_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoeditor_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.4",
+                    "date": "2026-11-10T15:57:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/photoeditor.ipa",
+                    "size": 42459457,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoeditor_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoeditor_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoeditor_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photoeditor_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1616513288,
             "name": "GoPix",
             "version": "1.3.0",
