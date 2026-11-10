@@ -10,6 +10,483 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1604080289,
+            "name": "OPL",
+            "version": "2.7.0",
+            "size": 11601330,
+            "icon": "img/opl.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/opl.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/opl.ipa",
+            "bundleIdentifier": "com.discodsp.OPL",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $19.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $19.99\nيتطلب اصدار 12.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/opl.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opl_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opl_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opl_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opl_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opl_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opl_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opl_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opl_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.7.0",
+                    "date": "2026-11-10T05:09:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/opl.ipa",
+                    "size": 11601330,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opl_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opl_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opl_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/opl_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1851539725,
+            "name": "Pop-Undo",
+            "version": "10.50",
+            "size": 20705762,
+            "icon": "img/popundo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/popundo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/popundo.ipa",
+            "bundleIdentifier": "com.waterpower.popstar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $7.00\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $7.00\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/popundo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popundo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popundo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popundo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popundo_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popundo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popundo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popundo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popundo_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "10.50",
+                    "date": "2026-11-10T05:09:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/popundo.ipa",
+                    "size": 20705762,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popundo_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popundo_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popundo_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popundo_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1976833457,
+            "name": "RealityChineseChecker",
+            "version": "13.50",
+            "size": 24588168,
+            "icon": "img/realitychinesechecker.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/realitychinesechecker.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/realitychinesechecker.ipa",
+            "bundleIdentifier": "com.waterpower.checkers",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $10.00\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $10.00\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/realitychinesechecker.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realitychinesechecker_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realitychinesechecker_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realitychinesechecker_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realitychinesechecker_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realitychinesechecker_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realitychinesechecker_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realitychinesechecker_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realitychinesechecker_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "13.50",
+                    "date": "2026-11-10T05:09:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/realitychinesechecker.ipa",
+                    "size": 24588168,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realitychinesechecker_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realitychinesechecker_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realitychinesechecker_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/realitychinesechecker_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1580701060,
+            "name": "∞Sudoku∞",
+            "version": "7.50",
+            "size": 11866147,
+            "icon": "img/sudoku.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/sudoku.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/sudoku.ipa",
+            "bundleIdentifier": "com.waterpower.sudoku4",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sudoku.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.50",
+                    "date": "2026-11-10T05:09:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/sudoku.ipa",
+                    "size": 11866147,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sudoku_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1658624296,
+            "name": "Modern Cannon Strike",
+            "version": "5.6",
+            "size": 454482144,
+            "icon": "img/moderncannonstrike.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/moderncannonstrike.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/moderncannonstrike.ipa",
+            "bundleIdentifier": "com.Mintah.ModernCannonStrike",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود \n- الغاء الأعلانات\n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/moderncannonstrike.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moderncannonstrike_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moderncannonstrike_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moderncannonstrike_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moderncannonstrike_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moderncannonstrike_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moderncannonstrike_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.6",
+                    "date": "2026-11-10T05:09:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/moderncannonstrike.ipa",
+                    "size": 454482144,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moderncannonstrike_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moderncannonstrike_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moderncannonstrike_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1839612266,
+            "name": "Fitness Gym Simulator Fit 3D",
+            "version": "1.0.5",
+            "size": 214373847,
+            "icon": "img/fitnessgymsimulatorfit3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/fitnessgymsimulatorfit3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/fitnessgymsimulatorfit3d.ipa",
+            "bundleIdentifier": "com.dmg.fitgymempire",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الشراء داخل اللعبة مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fitnessgymsimulatorfit3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessgymsimulatorfit3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessgymsimulatorfit3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessgymsimulatorfit3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessgymsimulatorfit3d_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessgymsimulatorfit3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessgymsimulatorfit3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessgymsimulatorfit3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessgymsimulatorfit3d_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.5",
+                    "date": "2026-11-10T05:09:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/fitnessgymsimulatorfit3d.ipa",
+                    "size": 214373847,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessgymsimulatorfit3d_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessgymsimulatorfit3d_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessgymsimulatorfit3d_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnessgymsimulatorfit3d_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1651626157,
+            "name": "Super Lines",
+            "version": "9.50",
+            "size": 13310151,
+            "icon": "img/superlines.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/superlines.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/superlines.ipa",
+            "bundleIdentifier": "com.waterpower.lines",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/superlines.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superlines_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superlines_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superlines_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superlines_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superlines_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superlines_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superlines_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superlines_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "9.50",
+                    "date": "2026-11-10T05:08:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/superlines.ipa",
+                    "size": 13310151,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superlines_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superlines_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superlines_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/superlines_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1681184266,
+            "name": "TankBattleMiniWar",
+            "version": "12.50",
+            "size": 33324337,
+            "icon": "img/tankbattleminiwar.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/tankbattleminiwar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/tankbattleminiwar.ipa",
+            "bundleIdentifier": "com.waterpower.tankwar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $20.00\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $20.00\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tankbattleminiwar.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tankbattleminiwar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tankbattleminiwar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tankbattleminiwar_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tankbattleminiwar_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tankbattleminiwar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tankbattleminiwar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tankbattleminiwar_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tankbattleminiwar_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "12.50",
+                    "date": "2026-11-10T05:08:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/tankbattleminiwar.ipa",
+                    "size": 33324337,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tankbattleminiwar_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tankbattleminiwar_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tankbattleminiwar_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tankbattleminiwar_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1639099258,
+            "name": "PLANETORBIT",
+            "version": "1.1.1",
+            "size": 12509782,
+            "icon": "img/planetorbit.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/planetorbit.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/planetorbit.ipa",
+            "bundleIdentifier": "com.mmo.planetorbit",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $6.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $6.99\nيتطلب اصدار 12.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/planetorbit.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetorbit_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetorbit_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetorbit_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetorbit_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetorbit_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetorbit_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetorbit_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetorbit_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.1",
+                    "date": "2026-11-10T05:08:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/planetorbit.ipa",
+                    "size": 12509782,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetorbit_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetorbit_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetorbit_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/planetorbit_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1546212854,
+            "name": "SpotlightLinking",
+            "version": "3.00",
+            "size": 62711141,
+            "icon": "img/spotlightlinking.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/spotlightlinking.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/spotlightlinking.ipa",
+            "bundleIdentifier": "com.unknownprojectx.twodotslinking",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 14.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 14.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spotlightlinking.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spotlightlinking_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spotlightlinking_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spotlightlinking_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spotlightlinking_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spotlightlinking_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spotlightlinking_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spotlightlinking_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spotlightlinking_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.00",
+                    "date": "2026-11-10T05:08:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/spotlightlinking.ipa",
+                    "size": 62711141,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spotlightlinking_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spotlightlinking_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spotlightlinking_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spotlightlinking_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1992013114,
             "name": "Learn Writing ABC 123 For Kids",
             "version": "1.2",
