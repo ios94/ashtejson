@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1308037335,
+            "name": "themist",
+            "version": "1.5",
+            "size": 218113470,
+            "icon": "img/themist.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/themist.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/themist.ipa",
+            "bundleIdentifier": "com.zhonglian.themist",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/themist.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themist_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themist_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themist_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themist_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themist_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themist_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themist_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themist_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.5",
+                    "date": "2026-11-10T17:33:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/themist.ipa",
+                    "size": 218113470,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themist_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themist_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themist_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/themist_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1477425735,
+            "name": "Escape the Castle of Horrors",
+            "version": "17.0.0",
+            "size": 94695238,
+            "icon": "img/escapethecastleofhorrors.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/escapethecastleofhorrors.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/escapethecastleofhorrors.ipa",
+            "bundleIdentifier": "com.andygames.escapethecastleofhorrors",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/escapethecastleofhorrors.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/escapethecastleofhorrors_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/escapethecastleofhorrors_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/escapethecastleofhorrors_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/escapethecastleofhorrors_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/escapethecastleofhorrors_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/escapethecastleofhorrors_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/escapethecastleofhorrors_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/escapethecastleofhorrors_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "17.0.0",
+                    "date": "2026-11-10T17:33:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/escapethecastleofhorrors.ipa",
+                    "size": 94695238,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/escapethecastleofhorrors_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/escapethecastleofhorrors_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/escapethecastleofhorrors_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/escapethecastleofhorrors_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1984476098,
+            "name": "Room Escape Cost of Jealousy",
+            "version": "26.0.0",
+            "size": 85183488,
+            "icon": "img/roomescapecostofjealousy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/roomescapecostofjealousy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/roomescapecostofjealousy.ipa",
+            "bundleIdentifier": "com.andygames.grimfacade",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/roomescapecostofjealousy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roomescapecostofjealousy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roomescapecostofjealousy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roomescapecostofjealousy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roomescapecostofjealousy_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roomescapecostofjealousy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roomescapecostofjealousy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roomescapecostofjealousy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roomescapecostofjealousy_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "26.0.0",
+                    "date": "2026-11-10T17:33:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/roomescapecostofjealousy.ipa",
+                    "size": 85183488,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roomescapecostofjealousy_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roomescapecostofjealousy_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roomescapecostofjealousy_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roomescapecostofjealousy_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1842196959,
+            "name": "Twin Mind: Ghost",
+            "version": "1.0.11",
+            "size": 991050522,
+            "icon": "img/twinmindghost.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/twinmindghost.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/twinmindghost.ipa",
+            "bundleIdentifier": "com.dominigames.rr5classic.ios.free2play",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/twinmindghost.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twinmindghost_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twinmindghost_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twinmindghost_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twinmindghost_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twinmindghost_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twinmindghost_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twinmindghost_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twinmindghost_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.11",
+                    "date": "2026-11-10T17:33:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/twinmindghost.ipa",
+                    "size": 991050522,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twinmindghost_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twinmindghost_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twinmindghost_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twinmindghost_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1204685049,
+            "name": "Witness f2p",
+            "version": "1.0.16",
+            "size": 1040541510,
+            "icon": "img/witnessf2p.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/witnessf2p.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/witnessf2p.ipa",
+            "bundleIdentifier": "com.dominigames.cl4.ios.free2play",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/witnessf2p.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/witnessf2p_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/witnessf2p_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/witnessf2p_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/witnessf2p_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/witnessf2p_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/witnessf2p_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/witnessf2p_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/witnessf2p_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.16",
+                    "date": "2026-11-10T17:32:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/witnessf2p.ipa",
+                    "size": 1040541510,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/witnessf2p_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/witnessf2p_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/witnessf2p_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/witnessf2p_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1893236885,
+            "name": "Snowflake",
+            "version": "1.0.4",
+            "size": 891340107,
+            "icon": "img/snowflake.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/snowflake.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/snowflake.ipa",
+            "bundleIdentifier": "com.dominigames.cf2full.ios.freemium",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/snowflake.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snowflake_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snowflake_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snowflake_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snowflake_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snowflake_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snowflake_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snowflake_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snowflake_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.4",
+                    "date": "2026-11-10T17:31:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/snowflake.ipa",
+                    "size": 891340107,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snowflake_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snowflake_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snowflake_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snowflake_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1537327096,
+            "name": "Stone Beauty F2P",
+            "version": "1.2.1",
+            "size": 909230885,
+            "icon": "img/stonebeautyf2p.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/stonebeautyf2p.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/stonebeautyf2p.ipa",
+            "bundleIdentifier": "com.ffsvideogames.il7f2p",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني\n\nFeatures:\n\n- You can purchase anything in the game for free \n( please click Buy and then Cancel )\n\nImportant note : Sometimes the store doesn't appear directly in the game. You must play for a while for the store to appear and purchase for free.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stonebeautyf2p.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stonebeautyf2p_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stonebeautyf2p_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stonebeautyf2p_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stonebeautyf2p_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stonebeautyf2p_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stonebeautyf2p_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stonebeautyf2p_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stonebeautyf2p_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.1",
+                    "date": "2026-11-10T17:31:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/stonebeautyf2p.ipa",
+                    "size": 909230885,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stonebeautyf2p_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stonebeautyf2p_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stonebeautyf2p_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stonebeautyf2p_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1997293324,
+            "name": "Vienna",
+            "version": "1.1.2",
+            "size": 792899046,
+            "icon": "img/vienna.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/vienna.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/vienna.ipa",
+            "bundleIdentifier": "com.ffsvideogames.dc3free",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني\n\nFeatures:\n\n- You can purchase anything in the game for free \n( please click Buy and then Cancel )\n\nImportant note : Sometimes the store doesn't appear directly in the game. You must play for a while for the store to appear and purchase for free.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/vienna.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vienna_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vienna_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vienna_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vienna_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vienna_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vienna_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vienna_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vienna_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.2",
+                    "date": "2026-11-10T17:30:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/vienna.ipa",
+                    "size": 792899046,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vienna_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vienna_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vienna_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/vienna_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1414117625,
+            "name": "Christmas Flight",
+            "version": "1.1.2",
+            "size": 1406156797,
+            "icon": "img/christmasflight.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/christmasflight.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/christmasflight.ipa",
+            "bundleIdentifier": "com.ffsvideogames.btaw9free",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني\n\nFeatures:\n\n- You can purchase anything in the game for free \n( please click Buy and then Cancel )\n\nImportant note : Sometimes the store doesn't appear directly in the game. You must play for a while for the store to appear and purchase for free.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/christmasflight.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasflight_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasflight_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasflight_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasflight_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasflight_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasflight_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasflight_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasflight_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.2",
+                    "date": "2026-11-10T17:29:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/christmasflight.ipa",
+                    "size": 1406156797,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasflight_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasflight_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasflight_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasflight_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1715145165,
+            "name": "Gulliver Syndrome",
+            "version": "1.1.2",
+            "size": 828321309,
+            "icon": "img/gulliversyndrome.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/gulliversyndrome.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/gulliversyndrome.ipa",
+            "bundleIdentifier": "com.ffsvideogames.btaw6free",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني\n\nFeatures:\n\n- You can purchase anything in the game for free \n( please click Buy and then Cancel )\n\nImportant note : Sometimes the store doesn't appear directly in the game. You must play for a while for the store to appear and purchase for free.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gulliversyndrome.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndrome_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndrome_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndrome_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndrome_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndrome_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndrome_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndrome_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndrome_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.2",
+                    "date": "2026-11-10T17:28:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/gulliversyndrome.ipa",
+                    "size": 828321309,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndrome_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndrome_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndrome_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndrome_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1290341395,
             "name": "Stone Beauty",
             "version": "1.3.0",
