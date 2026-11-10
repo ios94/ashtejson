@@ -10,6 +10,387 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1964156447,
+            "name": "Kino",
+            "version": "1.3.2",
+            "size": 53372450,
+            "icon": "img/kino.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/kino.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/kino.ipa",
+            "bundleIdentifier": "camera.lux.kino",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $19.99\nRequires 17.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $19.99\nيتطلب اصدار 17.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kino.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kino_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kino_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kino_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kino_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kino_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kino_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kino_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kino_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.2",
+                    "date": "2026-11-10T02:48:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/kino.ipa",
+                    "size": 53372450,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kino_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kino_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kino_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kino_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1905330808,
+            "name": "Warships",
+            "version": "1.2.0",
+            "size": 17884045,
+            "icon": "img/warships.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/warships.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/warships.ipa",
+            "bundleIdentifier": "com.ls.Battleships",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $3.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $3.99\nتتطلب اصدار 12.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/warships.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warships_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warships_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warships_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warships_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warships_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warships_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warships_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warships_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.0",
+                    "date": "2026-11-10T02:48:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/warships.ipa",
+                    "size": 17884045,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warships_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warships_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warships_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warships_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1538386209,
+            "name": "Yoga Teacher",
+            "version": "18.0.2",
+            "size": 207064916,
+            "icon": "img/yogateacher.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/yogateacher.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/yogateacher.ipa",
+            "bundleIdentifier": "com.rain-frog.pocketyogapracticebuilder",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 17.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 17.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/yogateacher.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yogateacher_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yogateacher_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yogateacher_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yogateacher_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yogateacher_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yogateacher_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yogateacher_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yogateacher_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "18.0.2",
+                    "date": "2026-11-10T02:48:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/yogateacher.ipa",
+                    "size": 207064916,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yogateacher_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yogateacher_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yogateacher_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yogateacher_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1695985531,
+            "name": "Local PDF",
+            "version": "1.0.4",
+            "size": 1105637,
+            "icon": "img/localpdf.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/localpdf.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/localpdf.ipa",
+            "bundleIdentifier": "com.marcotini.Local-PDF",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $19.99\nRequires 16.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $19.99\nيتطلب اصدار 16.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/localpdf.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/localpdf_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/localpdf_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/localpdf_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/localpdf_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/localpdf_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/localpdf_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/localpdf_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/localpdf_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.4",
+                    "date": "2026-11-10T02:47:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/localpdf.ipa",
+                    "size": 1105637,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/localpdf_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/localpdf_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/localpdf_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/localpdf_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1698192778,
+            "name": "OTE",
+            "version": "16.0.1",
+            "size": 85785443,
+            "icon": "img/ote.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/ote.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/ote.ipa",
+            "bundleIdentifier": "tv.english-channel.otep",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $19.99\nRequires 12.1 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $19.99\nيتطلب اصدار 12.1 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ote.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ote_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ote_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ote_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ote_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ote_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ote_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "16.0.1",
+                    "date": "2026-11-10T02:47:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/ote.ipa",
+                    "size": 85785443,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ote_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ote_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ote_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1289544788,
+            "name": "Yellow & Yangtze",
+            "version": "1.18.7",
+            "size": 168947257,
+            "icon": "img/yellowyangtze.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/yellowyangtze.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/yellowyangtze.ipa",
+            "bundleIdentifier": "com.direwolfdigital.yellow",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $19.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $19.99\nتتطلب اصدار 12.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/yellowyangtze.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yellowyangtze_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yellowyangtze_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yellowyangtze_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yellowyangtze_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yellowyangtze_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yellowyangtze_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yellowyangtze_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yellowyangtze_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.18.7",
+                    "date": "2026-11-10T02:47:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/yellowyangtze.ipa",
+                    "size": 168947257,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yellowyangtze_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yellowyangtze_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yellowyangtze_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/yellowyangtze_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1965490113,
+            "name": "SketchParty",
+            "version": "5.0.3",
+            "size": 40256501,
+            "icon": "img/sketchparty.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/sketchparty.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/sketchparty.ipa",
+            "bundleIdentifier": "com.magnateinteractive.sketchpartytv",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $9.99\nRequires 16.6 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $9.99\nتتطلب اصدار 16.6 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sketchparty.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchparty_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchparty_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchparty_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchparty_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchparty_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchparty_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchparty_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchparty_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "5.0.3",
+                    "date": "2026-11-10T02:46:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/sketchparty.ipa",
+                    "size": 40256501,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchparty_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchparty_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchparty_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sketchparty_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1438078655,
+            "name": "Warlords",
+            "version": "8.61",
+            "size": 58292315,
+            "icon": "img/warlords.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/warlords.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/warlords.ipa",
+            "bundleIdentifier": "com.alsedi.WarlordsHD",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $9.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $9.99\nتتطلب اصدار 12.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/warlords.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warlords_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warlords_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warlords_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warlords_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warlords_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warlords_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warlords_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warlords_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "8.61",
+                    "date": "2026-11-10T02:46:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/warlords.ipa",
+                    "size": 58292315,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warlords_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warlords_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warlords_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warlords_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1392207237,
             "name": "Spectrum",
             "version": "3.1",
