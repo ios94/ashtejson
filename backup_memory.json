@@ -10,6 +10,480 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1679680987,
+            "name": "Books Pro",
+            "version": "2.5.0",
+            "size": 252923435,
+            "icon": "img/bookspro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/bookspro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/bookspro.ipa",
+            "bundleIdentifier": "com.kairoos.bookspro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 16.4 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 16.4 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bookspro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bookspro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bookspro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bookspro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bookspro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bookspro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bookspro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bookspro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bookspro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.5.0",
+                    "date": "2026-11-10T18:17:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/bookspro.ipa",
+                    "size": 252923435,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bookspro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bookspro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bookspro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bookspro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1656698267,
+            "name": "Bodhran Drum Loops",
+            "version": "10",
+            "size": 15955512,
+            "icon": "img/bodhrandrumloops.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/bodhrandrumloops.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/bodhrandrumloops.ipa",
+            "bundleIdentifier": "com.freedrumapps.BodhranDrumLoops",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $4.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $4.99\nيتطلب اصدار 13.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bodhrandrumloops.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodhrandrumloops_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodhrandrumloops_screen_2.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodhrandrumloops_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodhrandrumloops_screen_2.png"
+            ],
+            "versions": [
+                {
+                    "version": "10",
+                    "date": "2026-11-10T18:17:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/bodhrandrumloops.ipa",
+                    "size": 15955512,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodhrandrumloops_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bodhrandrumloops_screen_2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1192827233,
+            "name": "Counting Dots",
+            "version": "3.2.3",
+            "size": 23797934,
+            "icon": "img/countingdots.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/countingdots.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/countingdots.ipa",
+            "bundleIdentifier": "com.elliesgames.Counting-Dots",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $4.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $4.99\nيتطلب اصدار 13.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/countingdots.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/countingdots_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/countingdots_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/countingdots_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/countingdots_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/countingdots_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/countingdots_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/countingdots_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/countingdots_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.2.3",
+                    "date": "2026-11-10T18:17:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/countingdots.ipa",
+                    "size": 23797934,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/countingdots_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/countingdots_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/countingdots_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/countingdots_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1417148018,
+            "name": "BitLife BR",
+            "version": "1.16.08",
+            "size": 384106553,
+            "icon": "img/bitlifebr.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/bitlifebr.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/bitlifebr.ipa",
+            "bundleIdentifier": "com.goodgamestudios.com.bitlife.br.portugues",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Infinite Cash\r\n- Premium\r\n \n\n- نقود غير محدودة\r\n- بريميوم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bitlifebr.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitlifebr_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitlifebr_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitlifebr_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitlifebr_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitlifebr_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitlifebr_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitlifebr_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitlifebr_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.16.08",
+                    "date": "2026-11-10T18:17:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/bitlifebr.ipa",
+                    "size": 384106553,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitlifebr_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitlifebr_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitlifebr_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bitlifebr_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1688435188,
+            "name": "Rumble Squad",
+            "version": "1.1.62",
+            "size": 601463517,
+            "icon": "img/rumblesquad.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/rumblesquad.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/rumblesquad.ipa",
+            "bundleIdentifier": "com.cookapps.hustle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Multiply Attack\r\n- Multiply Defense\r\n- Custom Speed\r\n- Freeze Coin\n\n- مضاعفة الهجوم\r\n- مضاعفة الدفاع\r\n- السرعة المخصصة\r\n- تجميد العملة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rumblesquad.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblesquad_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblesquad_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblesquad_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblesquad_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblesquad_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblesquad_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblesquad_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblesquad_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.62",
+                    "date": "2026-11-10T18:16:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/rumblesquad.ipa",
+                    "size": 601463517,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblesquad_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblesquad_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblesquad_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rumblesquad_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1751310815,
+            "name": "Quartet 1",
+            "version": "1.1",
+            "size": 575338601,
+            "icon": "img/quartet1.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/quartet1.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/quartet1.ipa",
+            "bundleIdentifier": "ukmusicapps.Quartet1",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $29.99\nRequires 16.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $29.99\nيتطلب اصدار 16.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/quartet1.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quartet1_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quartet1_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quartet1_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quartet1_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quartet1_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quartet1_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quartet1_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quartet1_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2026-11-10T18:16:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/quartet1.ipa",
+                    "size": 575338601,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quartet1_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quartet1_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quartet1_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/quartet1_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1835010529,
+            "name": "KG 2",
+            "version": "0.5.0",
+            "size": 193555017,
+            "icon": "img/kg2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/kg2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/kg2.ipa",
+            "bundleIdentifier": "com.bigstarkids.wordtravelturkish2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kg2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kg2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kg2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kg2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kg2_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kg2_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kg2_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kg2_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kg2_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.5.0",
+                    "date": "2026-11-10T18:15:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/kg2.ipa",
+                    "size": 193555017,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kg2_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kg2_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kg2_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kg2_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1715506272,
+            "name": "Tricky Words",
+            "version": "1.3.1",
+            "size": 205858924,
+            "icon": "img/trickywords.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/trickywords.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/trickywords.ipa",
+            "bundleIdentifier": "com.unicostudio.trickywords",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/trickywords.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickywords_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickywords_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickywords_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickywords_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickywords_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickywords_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickywords_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickywords_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.1",
+                    "date": "2026-11-10T18:15:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/trickywords.ipa",
+                    "size": 205858924,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickywords_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickywords_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickywords_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trickywords_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1575982179,
+            "name": "Capybara Stars",
+            "version": "1.1.5",
+            "size": 248942508,
+            "icon": "img/capybarastars.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/capybarastars.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/capybarastars.ipa",
+            "bundleIdentifier": "com.tapmen.capybarastars",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "give coins\r\n- give inf lives\n\n- إعطاء العملات المعدنية\r\n- إعطاء حياة inf",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/capybarastars.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/capybarastars_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/capybarastars_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/capybarastars_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/capybarastars_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/capybarastars_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/capybarastars_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/capybarastars_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/capybarastars_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.5",
+                    "date": "2026-11-10T18:15:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/capybarastars.ipa",
+                    "size": 248942508,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/capybarastars_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/capybarastars_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/capybarastars_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/capybarastars_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1142881643,
+            "name": "New Pixels",
+            "version": "2025.03.16",
+            "size": 11498005,
+            "icon": "img/newpixels.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/newpixels.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/newpixels.ipa",
+            "bundleIdentifier": "RainCastStudio.NewPixels",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $6.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $6.99\nيتطلب اصدار 12.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/newpixels.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/newpixels_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/newpixels_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/newpixels_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/newpixels_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/newpixels_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/newpixels_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/newpixels_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/newpixels_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2025.03.16",
+                    "date": "2026-11-10T18:15:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/newpixels.ipa",
+                    "size": 11498005,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/newpixels_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/newpixels_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/newpixels_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/newpixels_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1159729668,
             "name": "Budget Flow",
             "version": "20.0.0",
