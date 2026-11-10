@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1559403129,
+            "name": "DQSG",
+            "version": "1.0.2",
+            "size": 1465512207,
+            "icon": "img/dqsg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/dqsg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/dqsg.ipa",
+            "bundleIdentifier": "com.square-enix.dqsgw",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defense Multiplier\n- Attack Speed Multiplier\n- Move Speed Multiplier\n\n- ضرر مضاعف\n- مضاعفة الدفاع\n- مضاعفة سرعة الهجوم\n- مضاعفة سرعة الحركة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dqsg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dqsg_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dqsg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dqsg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dqsg_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dqsg_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dqsg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dqsg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dqsg_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.2",
+                    "date": "2026-11-10T21:02:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/dqsg.ipa",
+                    "size": 1465512207,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dqsg_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dqsg_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dqsg_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dqsg_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1302871702,
+            "name": "オセロニア",
+            "version": "21.0.1",
+            "size": 230426385,
+            "icon": "img/app92b0f23560.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/app92b0f23560.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/app92b0f23560.ipa",
+            "bundleIdentifier": "com.dena.12020519",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Instant Win\n\n- فوز فوري",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app92b0f23560.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app92b0f23560_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app92b0f23560_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app92b0f23560_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app92b0f23560_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app92b0f23560_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app92b0f23560_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app92b0f23560_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app92b0f23560_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "21.0.1",
+                    "date": "2026-11-10T21:00:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/app92b0f23560.ipa",
+                    "size": 230426385,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app92b0f23560_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app92b0f23560_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app92b0f23560_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app92b0f23560_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1174015292,
+            "name": "CoffeeTalk",
+            "version": "1.48.10",
+            "size": 491159364,
+            "icon": "img/coffeetalk.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/coffeetalk.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/coffeetalk.ipa",
+            "bundleIdentifier": "com.chorusworldwide.ctep1",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- PREMIUM\n\n- بريميوم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/coffeetalk.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeetalk_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeetalk_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeetalk_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeetalk_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeetalk_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeetalk_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeetalk_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeetalk_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.48.10",
+                    "date": "2026-11-10T21:00:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/coffeetalk.ipa",
+                    "size": 491159364,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeetalk_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeetalk_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeetalk_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeetalk_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1526879147,
+            "name": "Rush Kingdoms: PvP",
+            "version": "1.2",
+            "size": 213032311,
+            "icon": "img/rushkingdomspvp.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/rushkingdomspvp.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/rushkingdomspvp.ipa",
+            "bundleIdentifier": "com.Magenta.RushKingdomsPvP",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier\n- Defence Multiplier\n- Infinite Power Mode\n\n- ضرر مضاعف\n- مضاعفة الدفاع\n- وضع الطاقة اللانهائي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rushkingdomspvp.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rushkingdomspvp.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rushkingdomspvp.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-10T21:00:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/rushkingdomspvp.ipa",
+                    "size": 213032311,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rushkingdomspvp.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1237600506,
+            "name": "Shotgun Club",
+            "version": "1.15.7",
+            "size": 327774531,
+            "icon": "img/shotgunclub.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/shotgunclub.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/shotgunclub.ipa",
+            "bundleIdentifier": "com.shooting.club",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- بطاقة عضوية النادي نشطة\r\n- بطاقة عضوية النادي / مطالبة غير محدودة\r\n- لا توجد إعلانات / مكافآت مجانية\r\n- أقصى عدد من اللات المجانية\r\n- تعبير مفتوح\r\n- صندوق مجاني غير محدود\r\n- صندوق مجاني جاهز\r\n- جواهر غير محدودة\r\n- عملات غير محدودة\r\n- طاقة غير محدودة\r\n\r\n- Club MemberShip Card Active\r\n- Club MemberShip Card / Claim Unlimited\r\n- ADS NO / Rewards Free\r\n- Free Spin Max\r\n- Emote Unlocked\r\n- Free Chest Unlimited\r\n- Free Chest Ready\r\n- Unlimited Gems\r\n- Unlimited Coins\r\n- Unlimited Energy",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shotgunclub.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shotgunclub_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shotgunclub_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shotgunclub_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shotgunclub_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shotgunclub_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shotgunclub_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shotgunclub_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shotgunclub_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.15.7",
+                    "date": "2026-11-10T20:59:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/shotgunclub.ipa",
+                    "size": 327774531,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shotgunclub_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shotgunclub_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shotgunclub_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shotgunclub_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1174770564,
+            "name": "Whisper Castle",
+            "version": "1.5.0",
+            "size": 278580393,
+            "icon": "img/whispercastle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/whispercastle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/whispercastle.ipa",
+            "bundleIdentifier": "com.mf.coffee",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Energy\r\n- Freeze Currency\r\n\r\n- طاقة غير محدودة\r\n- تجميد العملة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/whispercastle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whispercastle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whispercastle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whispercastle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whispercastle_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whispercastle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whispercastle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whispercastle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whispercastle_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.0",
+                    "date": "2026-11-10T20:59:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/whispercastle.ipa",
+                    "size": 278580393,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whispercastle_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whispercastle_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whispercastle_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whispercastle_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1131500880,
+            "name": "Code Of War",
+            "version": "3.19.7",
+            "size": 1205482381,
+            "icon": "img/codeofwar.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/codeofwar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/codeofwar.ipa",
+            "bundleIdentifier": "com.extremedevelopers.codeofwar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- بدون ارتداد\r\n- ذخيرة غير محدودة\r\n- لا تموت أبدًا\r\n- رادار\r\n\r\n- No Recoil\r\n- Unlimited Ammo\r\n- Never Die\r\n- ESP",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/codeofwar.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codeofwar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codeofwar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codeofwar_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codeofwar_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codeofwar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codeofwar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codeofwar_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codeofwar_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.19.7",
+                    "date": "2026-11-10T20:59:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/codeofwar.ipa",
+                    "size": 1205482381,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codeofwar_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codeofwar_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codeofwar_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codeofwar_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1324125527,
+            "name": "Swap Heroes",
+            "version": "0.32.0",
+            "size": 1002426536,
+            "icon": "img/swapheroes.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/swapheroes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/swapheroes.ipa",
+            "bundleIdentifier": "com.glaivegames.swapheroes",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مُضاعِف الضرر\r\n- مُضاعِف الدفاع\r\n- لا تموت أبدًا\r\n- أعداء أغبياء\r\n\r\n- Damage Multiplier\r\n- Defence Multiplier\r\n- Never Die\r\n- Dumb Enemies",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/swapheroes.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swapheroes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swapheroes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swapheroes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swapheroes_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swapheroes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swapheroes_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swapheroes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swapheroes_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.32.0",
+                    "date": "2026-11-10T20:58:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/swapheroes.ipa",
+                    "size": 1002426536,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swapheroes_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swapheroes_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swapheroes_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/swapheroes_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1803070627,
+            "name": "Magic Rivals",
+            "version": "1.0.9",
+            "size": 379234832,
+            "icon": "img/magicrivals.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/magicrivals.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/magicrivals.ipa",
+            "bundleIdentifier": "com.bfa.magicrivals",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا إعلانات / مكافآت مجانية\r\n- أقصى نقاط صحة\r\n- أقصى قوة هجوم\r\n\r\n- ADS NO / Rewards Free\r\n- HP Max\r\n- ATK MAX",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/magicrivals.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicrivals_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicrivals_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicrivals_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicrivals_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicrivals_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicrivals_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicrivals_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicrivals_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.9",
+                    "date": "2026-11-10T20:57:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/magicrivals.ipa",
+                    "size": 379234832,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicrivals_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicrivals_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicrivals_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magicrivals_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1141915690,
+            "name": "Daisho",
+            "version": "2.1.19",
+            "size": 650526780,
+            "icon": "img/daisho.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/daisho.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/daisho.ipa",
+            "bundleIdentifier": "com.colossi.survival.samurai",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ضرر مضاعف\r\n- الدفاع المضاعف",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/daisho.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daisho_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daisho_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daisho_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daisho_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daisho_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daisho_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daisho_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daisho_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.19",
+                    "date": "2026-11-10T20:57:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/daisho.ipa",
+                    "size": 650526780,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daisho_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daisho_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daisho_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daisho_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1833574112,
             "name": "Village Tales",
             "version": "0.2.3",
