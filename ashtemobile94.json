@@ -10,6 +10,471 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1852177149,
+            "name": "Proxy",
+            "version": "3.4.0",
+            "size": 49876822,
+            "icon": "img/proxy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/proxy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/proxy.ipa",
+            "bundleIdentifier": "com.papadakis.oniontor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $3.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $3.99\nيتطلب اصدار 12.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/proxy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proxy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proxy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proxy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proxy_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proxy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proxy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proxy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proxy_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.4.0",
+                    "date": "2026-11-10T04:07:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/proxy.ipa",
+                    "size": 49876822,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proxy_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proxy_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proxy_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/proxy_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1889195761,
+            "name": "FastScan",
+            "version": "2.7.1",
+            "size": 5926706,
+            "icon": "img/fastscan.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/fastscan.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/fastscan.ipa",
+            "bundleIdentifier": "com.fastScan.com",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $3.99\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $3.99\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fastscan.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fastscan_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fastscan_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fastscan_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fastscan_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fastscan_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fastscan_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fastscan_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fastscan_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.7.1",
+                    "date": "2026-11-10T04:07:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/fastscan.ipa",
+                    "size": 5926706,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fastscan_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fastscan_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fastscan_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fastscan_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1443491705,
+            "name": "Sifter",
+            "version": "25.9.10",
+            "size": 8983717,
+            "icon": "img/sifter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/sifter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/sifter.ipa",
+            "bundleIdentifier": "com.iAugus.Sifter",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $4.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $4.99\nيتطلب اصدار 13.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sifter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sifter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sifter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sifter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sifter_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sifter_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sifter_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sifter_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sifter_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "25.9.10",
+                    "date": "2026-11-10T04:07:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/sifter.ipa",
+                    "size": 8983717,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sifter_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sifter_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sifter_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sifter_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1655192729,
+            "name": "sugar, sugar",
+            "version": "3.7.0",
+            "size": 16836438,
+            "icon": "img/sugarsugar.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/sugarsugar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/sugarsugar.ipa",
+            "bundleIdentifier": "air.SugarSugar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $3.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $3.99\nتتطلب اصدار 12.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sugarsugar.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sugarsugar_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sugarsugar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sugarsugar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sugarsugar_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sugarsugar_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sugarsugar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sugarsugar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sugarsugar_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.7.0",
+                    "date": "2026-11-10T04:07:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/sugarsugar.ipa",
+                    "size": 16836438,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sugarsugar_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sugarsugar_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sugarsugar_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sugarsugar_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1417285897,
+            "name": "Star Walk 2",
+            "version": "2.18.1",
+            "size": 333904484,
+            "icon": "img/starwalk2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/starwalk2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/starwalk2.ipa",
+            "bundleIdentifier": "com.vitotechnology.StarWalk2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $4.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $4.99\nيتطلب اصدار 13.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/starwalk2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starwalk2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starwalk2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starwalk2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starwalk2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starwalk2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starwalk2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starwalk2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starwalk2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.18.1",
+                    "date": "2026-11-10T04:07:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/starwalk2.ipa",
+                    "size": 333904484,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starwalk2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starwalk2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starwalk2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starwalk2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1236877823,
+            "name": "8player Pro",
+            "version": "7.5.1",
+            "size": 84431308,
+            "icon": "img/8playerpro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/8playerpro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/8playerpro.ipa",
+            "bundleIdentifier": "com.8player",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 15.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 15.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/8playerpro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/8playerpro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/8playerpro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/8playerpro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/8playerpro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/8playerpro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/8playerpro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/8playerpro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/8playerpro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.5.1",
+                    "date": "2026-11-10T04:07:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/8playerpro.ipa",
+                    "size": 84431308,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/8playerpro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/8playerpro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/8playerpro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/8playerpro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1521024677,
+            "name": "uFTP Server",
+            "version": "1.0.11",
+            "size": 2427872,
+            "icon": "img/uftpserver.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/uftpserver.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/uftpserver.ipa",
+            "bundleIdentifier": "com.macspeare.uftpserverios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $4.99\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $4.99\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/uftpserver.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uftpserver_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uftpserver_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uftpserver_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uftpserver_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uftpserver_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uftpserver_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uftpserver_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uftpserver_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.11",
+                    "date": "2026-11-10T04:06:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/uftpserver.ipa",
+                    "size": 2427872,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uftpserver_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uftpserver_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uftpserver_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uftpserver_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1476233600,
+            "name": "TwistedWave",
+            "version": "1.88",
+            "size": 40002181,
+            "icon": "img/twistedwave.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/twistedwave.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/twistedwave.ipa",
+            "bundleIdentifier": "com.twistedwave.TwistedWaveMob",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $19.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $19.99\nيتطلب اصدار 12.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/twistedwave.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedwave_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedwave_screen_2.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedwave_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedwave_screen_2.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.88",
+                    "date": "2026-11-10T04:06:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/twistedwave.ipa",
+                    "size": 40002181,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedwave_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twistedwave_screen_2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1536224650,
+            "name": "Maybe Baby™",
+            "version": "45",
+            "size": 16676158,
+            "icon": "img/maybebabytm.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/maybebabytm.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/maybebabytm.ipa",
+            "bundleIdentifier": "com.bazilsoft.maybebaby",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 12.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/maybebabytm.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maybebabytm_screen_1.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maybebabytm_screen_1.png"
+            ],
+            "versions": [
+                {
+                    "version": "45",
+                    "date": "2026-11-10T04:06:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/maybebabytm.ipa",
+                    "size": 16676158,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maybebabytm_screen_1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1286303320,
+            "name": "uWeb Server",
+            "version": "1.0.10",
+            "size": 3089566,
+            "icon": "img/uwebserver.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/uwebserver.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/uwebserver.ipa",
+            "bundleIdentifier": "com.macspeare.uwebserver",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $4.99\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $4.99\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/uwebserver.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uwebserver_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uwebserver_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uwebserver_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uwebserver_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uwebserver_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uwebserver_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uwebserver_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uwebserver_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.10",
+                    "date": "2026-11-10T04:06:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/uwebserver.ipa",
+                    "size": 3089566,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uwebserver_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uwebserver_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uwebserver_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/uwebserver_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1545045856,
             "name": "AI Video Eraser",
             "version": "1.0",
