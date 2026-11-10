@@ -10,6 +10,483 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1737086642,
+            "name": "KQ Dixie",
+            "version": "4.0.8",
+            "size": 4768289,
+            "icon": "img/kqdixie.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/kqdixie.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/kqdixie.ipa",
+            "bundleIdentifier": "jp.kiraqtech.KQ-Dixie",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $14.99\nRequires 12.4 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $14.99\nيتطلب اصدار 12.4 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kqdixie.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kqdixie_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kqdixie_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kqdixie_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kqdixie_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kqdixie_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kqdixie_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.0.8",
+                    "date": "2026-11-10T01:36:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/kqdixie.ipa",
+                    "size": 4768289,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kqdixie_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kqdixie_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kqdixie_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1518456925,
+            "name": "wordSandwich",
+            "version": "1.8",
+            "size": 130314780,
+            "icon": "img/wordsandwich.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/wordsandwich.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/wordsandwich.ipa",
+            "bundleIdentifier": "com.crazylabs.wordpuzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wordsandwich.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsandwich_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsandwich_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsandwich_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsandwich_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsandwich_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsandwich_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsandwich_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsandwich_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.8",
+                    "date": "2026-11-10T01:35:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/wordsandwich.ipa",
+                    "size": 130314780,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsandwich_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsandwich_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsandwich_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsandwich_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1359213361,
+            "name": "Babymals",
+            "version": "1.1",
+            "size": 355138629,
+            "icon": "img/babymals.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/babymals.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/babymals.ipa",
+            "bundleIdentifier": "com.neiman.babymals",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/babymals.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babymals_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babymals_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babymals_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babymals_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babymals_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babymals_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babymals_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babymals_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2026-11-10T01:35:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/babymals.ipa",
+                    "size": 355138629,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babymals_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babymals_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babymals_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/babymals_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1495486420,
+            "name": "Christmas Spirit: Mother Goose",
+            "version": "2.0.6",
+            "size": 1736543594,
+            "icon": "img/christmasspiritmothergoose.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/christmasspiritmothergoose.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/christmasspiritmothergoose.ipa",
+            "bundleIdentifier": "com.dominigames.christmasspiritmothergoose.ios.fremium",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/christmasspiritmothergoose.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasspiritmothergoose_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasspiritmothergoose_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasspiritmothergoose_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasspiritmothergoose_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasspiritmothergoose_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasspiritmothergoose_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasspiritmothergoose_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasspiritmothergoose_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.6",
+                    "date": "2026-11-10T01:35:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/christmasspiritmothergoose.ipa",
+                    "size": 1736543594,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasspiritmothergoose_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasspiritmothergoose_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasspiritmothergoose_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/christmasspiritmothergoose_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1159643914,
+            "name": "Clue",
+            "version": "0.0.23",
+            "size": 837736013,
+            "icon": "img/clue.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/clue.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/clue.ipa",
+            "bundleIdentifier": "com.marmalade.clue2NA",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $6.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $6.99\nتتطلب اصدار 13.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/clue.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clue_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clue_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clue_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clue_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clue_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clue_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clue_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clue_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.23",
+                    "date": "2026-11-10T01:33:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/clue.ipa",
+                    "size": 837736013,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clue_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clue_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clue_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clue_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1397147498,
+            "name": "BMX 3",
+            "version": "2.0.4",
+            "size": 697864803,
+            "icon": "img/bmx3.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/bmx3.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/bmx3.ipa",
+            "bundleIdentifier": "se.illusionlabs.tgx",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Unlimited Score -> Perform a trick. Linked with bots, but if you finish before them, you win.\r\n- Unlimited Collectables -> Collect some.\r\n \n\n-نقاط غير محدودة-> أداء خدعة. مرتبط بالروبوتات ، ولكن إذا انتهيت أمامهم ، فستربح.\r\n-مجمعات غير محدودة-> جمع بعض.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bmx3.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmx3_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmx3_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmx3_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmx3_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmx3_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmx3_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmx3_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmx3_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.4",
+                    "date": "2026-11-10T01:32:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/bmx3.ipa",
+                    "size": 697864803,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmx3_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmx3_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmx3_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bmx3_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1252921994,
+            "name": "KingdomStory",
+            "version": "4.2.0",
+            "size": 869242995,
+            "icon": "img/kingdomstory.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/kingdomstory.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/kingdomstory.ipa",
+            "bundleIdentifier": "com.nhnent.SK10392",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Damage Multiplier\r\n- Defense Multiplier\r\n \n\n- ضرر مضاعف\r\n- مضاعفة الدفاع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/kingdomstory.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomstory_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomstory_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomstory_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomstory_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomstory_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomstory_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomstory_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomstory_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.2.0",
+                    "date": "2026-11-10T01:31:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/kingdomstory.ipa",
+                    "size": 869242995,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomstory_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomstory_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomstory_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/kingdomstory_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1806306295,
+            "name": "Elastic Master",
+            "version": "1.87.0",
+            "size": 289330039,
+            "icon": "img/elasticmaster.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/elasticmaster.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/elasticmaster.ipa",
+            "bundleIdentifier": "com.Maxiska-Games.Elastic-Master",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- نقود لا محدود \n- الغاء الأعلانات\n\nتنبية : يجب الدخول اللعبه واللعب لمدة دقيقة ثم اغلق اللعبة واعد فتحها ليتم تفعيل الهاك واستمتع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/elasticmaster.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elasticmaster_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elasticmaster_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elasticmaster_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elasticmaster_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elasticmaster_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elasticmaster_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elasticmaster_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elasticmaster_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.87.0",
+                    "date": "2026-11-10T01:30:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/elasticmaster.ipa",
+                    "size": 289330039,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elasticmaster_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elasticmaster_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elasticmaster_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elasticmaster_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1891046158,
+            "name": "Gem Identifier",
+            "version": "1.1.1",
+            "size": 15496269,
+            "icon": "img/gemidentifier.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/gemidentifier.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/gemidentifier.ipa",
+            "bundleIdentifier": "com.akaankara.GemIdentifier",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gemidentifier.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gemidentifier_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gemidentifier_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gemidentifier_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gemidentifier_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gemidentifier_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gemidentifier_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gemidentifier_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gemidentifier_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.1",
+                    "date": "2026-11-10T01:30:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/gemidentifier.ipa",
+                    "size": 15496269,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gemidentifier_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gemidentifier_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gemidentifier_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gemidentifier_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1214314441,
+            "name": "FlowerSort",
+            "version": "0.3.0",
+            "size": 310945715,
+            "icon": "img/flowersort.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/flowersort.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/flowersort.ipa",
+            "bundleIdentifier": "com.flower.puzzle.blossom.sort.color",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/flowersort.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowersort_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowersort_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowersort_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowersort_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowersort_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowersort_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowersort_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowersort_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.3.0",
+                    "date": "2026-11-10T01:30:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/flowersort.ipa",
+                    "size": 310945715,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowersort_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowersort_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowersort_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flowersort_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1904714919,
             "name": "FF3",
             "version": "1.2.1",
