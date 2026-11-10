@@ -10,6 +10,480 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1666450811,
+            "name": "Dye Hard",
+            "version": "0.10.10",
+            "size": 383912009,
+            "icon": "img/dyehard.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/dyehard.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/dyehard.ipa",
+            "bundleIdentifier": "flexus.dye.hard",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "ESP\n\n- رادار ESP",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dyehard.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dyehard_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dyehard_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dyehard_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dyehard_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dyehard_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dyehard_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dyehard_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dyehard_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.10.10",
+                    "date": "2026-11-10T06:32:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/dyehard.ipa",
+                    "size": 383912009,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dyehard_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dyehard_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dyehard_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dyehard_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1224216975,
+            "name": "Adyton",
+            "version": "4.3",
+            "size": 11235036,
+            "icon": "img/adyton.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/adyton.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/adyton.ipa",
+            "bundleIdentifier": "gr.onetwo.Adyton",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/adyton.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adyton_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adyton_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adyton_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adyton_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adyton_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adyton_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adyton_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adyton_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.3",
+                    "date": "2026-11-10T06:31:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/adyton.ipa",
+                    "size": 11235036,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adyton_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adyton_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adyton_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adyton_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1711399620,
+            "name": "Loora",
+            "version": "1.71.1",
+            "size": 259916818,
+            "icon": "img/loora.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/loora.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/loora.ipa",
+            "bundleIdentifier": "ai.loora.Loora-iOS",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتعلم الانجليزية بسهولة - \n\nمفتوح المميزات - \n.(سجل دخول باي حساب)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/loora.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loora_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loora_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loora_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loora_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loora_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loora_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loora_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loora_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.71.1",
+                    "date": "2026-11-10T06:31:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/loora.ipa",
+                    "size": 259916818,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loora_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loora_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loora_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loora_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1935330553,
+            "name": "Cythion",
+            "version": "2.2",
+            "size": 43965795,
+            "icon": "img/cythion.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/cythion.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/cythion.ipa",
+            "bundleIdentifier": "gr.onetwo.Cythion",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $3.99\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $3.99\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cythion.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cythion_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cythion_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cythion_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cythion_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cythion_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cythion_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.2",
+                    "date": "2026-11-10T06:31:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/cythion.ipa",
+                    "size": 43965795,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cythion_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cythion_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cythion_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1236419984,
+            "name": "Sonic Runners",
+            "version": "1.0.14",
+            "size": 37209597,
+            "icon": "img/sonicrunners.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/sonicrunners.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/sonicrunners.ipa",
+            "bundleIdentifier": "com.gameloft.sonicrunner",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $4.99\nRequires 9.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $4.99\nتتطلب اصدار 9.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sonicrunners.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicrunners_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicrunners_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicrunners_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicrunners_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicrunners_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicrunners_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicrunners_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicrunners_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.14",
+                    "date": "2026-11-10T06:31:25+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/sonicrunners.ipa",
+                    "size": 37209597,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicrunners_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicrunners_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicrunners_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sonicrunners_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1892561476,
+            "name": "One Piece:Black Ocean",
+            "version": "1.0",
+            "size": 1587119814,
+            "icon": "img/onepieceblackocean.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/onepieceblackocean.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/onepieceblackocean.ipa",
+            "bundleIdentifier": "com.tfhz203.enbz",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "IGG",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onepieceblackocean.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onepieceblackocean_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onepieceblackocean_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onepieceblackocean_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onepieceblackocean_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onepieceblackocean_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onepieceblackocean_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onepieceblackocean_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onepieceblackocean_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2026-11-10T06:31:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/onepieceblackocean.ipa",
+                    "size": 1587119814,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onepieceblackocean_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onepieceblackocean_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onepieceblackocean_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onepieceblackocean_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1318177131,
+            "name": "Pixomatic",
+            "version": "2.55.33",
+            "size": 248208872,
+            "icon": "img/pixomatic.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/pixomatic.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/pixomatic.ipa",
+            "bundleIdentifier": "us.pixomaticpro.PixomaticPro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "#مطلوب\n\nلتعديل الصور بالذكاء الاصطناعي\n\nمفتوح المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pixomatic.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixomatic_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixomatic_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixomatic_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixomatic_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixomatic_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixomatic_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixomatic_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixomatic_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.55.33",
+                    "date": "2026-11-10T06:30:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/pixomatic.ipa",
+                    "size": 248208872,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixomatic_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixomatic_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixomatic_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixomatic_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1410567984,
+            "name": "Fitness Tracker Mobile",
+            "version": "2.0.0",
+            "size": 41112576,
+            "icon": "img/fitnesstrackermobile.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/fitnesstrackermobile.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/fitnesstrackermobile.ipa",
+            "bundleIdentifier": "com.Richhantek.FitnessTracker",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $6.99\nRequires 11.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $6.99\nيتطلب اصدار 11.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fitnesstrackermobile.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnesstrackermobile_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnesstrackermobile_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnesstrackermobile_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnesstrackermobile_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnesstrackermobile_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnesstrackermobile_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnesstrackermobile_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnesstrackermobile_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.0",
+                    "date": "2026-11-10T06:29:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/fitnesstrackermobile.ipa",
+                    "size": 41112576,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnesstrackermobile_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnesstrackermobile_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnesstrackermobile_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fitnesstrackermobile_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1126164002,
+            "name": "Nevma",
+            "version": "2.2",
+            "size": 2798668,
+            "icon": "img/nevma.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/nevma.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/nevma.ipa",
+            "bundleIdentifier": "gr.onetwo.Nevma",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $3.99\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $3.99\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nevma.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nevma_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nevma_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nevma_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nevma_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nevma_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nevma_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.2",
+                    "date": "2026-11-10T06:29:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/nevma.ipa",
+                    "size": 2798668,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nevma_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nevma_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nevma_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1234455838,
+            "name": "Autolog",
+            "version": "1.1.6",
+            "size": 19117344,
+            "icon": "img/autolog.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/autolog.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/autolog.ipa",
+            "bundleIdentifier": "com.sasanian.Auto-Logger-Pro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 11.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 11.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/autolog.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autolog_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autolog_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autolog_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autolog_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autolog_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autolog_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autolog_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autolog_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.6",
+                    "date": "2026-11-10T06:29:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/autolog.ipa",
+                    "size": 19117344,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autolog_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autolog_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autolog_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/autolog_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1712467538,
             "name": "Zen Brush 3",
             "version": "1.17",
