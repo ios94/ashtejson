@@ -10,6 +10,480 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1202278942,
+            "name": "Claw Stars",
+            "version": "2.14.10",
+            "size": 343558310,
+            "icon": "img/clawstars.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/clawstars.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/clawstars.ipa",
+            "bundleIdentifier": "com.appxplore.clawstars",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Claw Multiplier\r\n- Skip Tutorial\r\n- Restart Game\r\n- Clear All Gacha\r\n- Respawn All Gacha\r\n- Spawn Big Coins\r\n- Spawn Big Ore\r\n- Spawn Big Style Trophy\r\n- Spawn Capsule\r\n- Spawn Coins\r\n- Spawn Embedded Orbs\r\n- Spawn Festive Alphabet Globe\r\n- Spawn Festive Ball\r\n- Spawn Festive Capsule\r\n- Spawn Festive Embedded\r\n- Spawn Festive Jumbo\r\n- Spawn Festive Mat A\r\n- Spawn Festive Mat A Big\r\n- Spawn Festive Mat B\r\n- Spawn Festive Ore\r\n- Spawn Festive Token\r\n- Spawn Golden Ball\r\n- Spawn Jumbo\r\n- Spawn Jumbo Bubble\r\n- Spawn Jumbo Stone\r\n- Spawn Mysterious Globe\r\n- Spawn Orbs\r\n- Spawn Ore\r\n- Spawn Pinata Race Token\r\n- Spawn Pinata Token\r\n- Spawn Ruby\r\n- Spawn Small Style Trophy\r\n- Spawn Stone\r\n- Spawn Usagyuuun Capsule\r\n- Spawn World Cup Ball\n\n-مضاعف المخلب\r\n-تخطي البرنامج التعليمي\r\n-إعادة تشغيل اللعبة\r\n-مسح كل جاشا\r\n-Respawn All Gacha\r\n-تفرخ العملات المعدنية الكبيرة\r\n-تفرخ خام كبير\r\n-تفرخ الكأس ذات النمط الكبير\r\n-كبسولة تفرخ\r\n-عملات تفرخ\r\n-تفرخ الأجرام السماوية المدمجة\r\n-تفرخ أبجدية أبجدية احتفالية\r\n-تفرخ الكرة الاحتفالية\r\n-تفرخ كبسولة الاحتفال\r\n-تفرخ الاحتفال المضمنة\r\n-تفرخ جامبو احتفالي\r\n-حصيرة احتفالية تفرخ\r\n-حصيرة احتفالية تفرخ\r\n-تفرخ حصيرة احتفالية ب\r\n-تفرخ خام الاحتفال\r\n-تفرخ الرمز المميز الاحتفالي\r\n-تفرخ الكرة الذهبية\r\n-تفرخ جامبو\r\n-تفرخ فقاعة جامبو\r\n-تفرخ الحجر جامبو\r\n-تفرخ غلاك غامض\r\n-تفرخ الأجرام السماوية\r\n-خام تفرخ\r\n-رمز سباق البيض بيناتا\r\n-تفرخ الرمز المميز بيناتا\r\n-تفرخ روبي\r\n-تفرخ الكأس على الطراز الصغير\r\n-تفرخ الحجر\r\n-تفرخ كبسولة USAGYUUUN\r\n-كرة كأس العالم تفرخ",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/clawstars.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawstars_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawstars_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawstars_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawstars_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawstars_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawstars_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawstars_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawstars_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.14.10",
+                    "date": "2026-11-10T01:22:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/clawstars.ipa",
+                    "size": 343558310,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawstars_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawstars_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawstars_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/clawstars_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1638774252,
+            "name": "Stack Attack",
+            "version": "1.9.2",
+            "size": 265621690,
+            "icon": "img/stackattack.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/stackattack.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/stackattack.ipa",
+            "bundleIdentifier": "com.hypermode.stackattack",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "debugger\r\n \n\n- تصحيح الأخطاء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stackattack.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackattack_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackattack_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackattack_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackattack_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackattack_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackattack_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackattack_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackattack_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.2",
+                    "date": "2026-11-10T01:21:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/stackattack.ipa",
+                    "size": 265621690,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackattack_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackattack_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackattack_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackattack_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1284861425,
+            "name": "MusicGuesser",
+            "version": "1.0.6",
+            "size": 8740419,
+            "icon": "img/musicguesser.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/musicguesser.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/musicguesser.ipa",
+            "bundleIdentifier": "tech.logicalmagic.MusicGuesser",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $49.99\nRequires 17.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $49.99\nيتطلب اصدار 17.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/musicguesser.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicguesser_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicguesser_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicguesser_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicguesser_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicguesser_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicguesser_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicguesser_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicguesser_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.6",
+                    "date": "2026-11-10T01:21:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/musicguesser.ipa",
+                    "size": 8740419,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicguesser_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicguesser_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicguesser_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musicguesser_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1137390742,
+            "name": "Zipym Pro",
+            "version": "4.1.4",
+            "size": 108329618,
+            "icon": "img/zipympro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/zipympro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/zipympro.ipa",
+            "bundleIdentifier": "com.yima.Zipym",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 14.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 14.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zipympro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipympro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipympro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipympro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipympro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipympro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipympro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipympro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipympro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.1.4",
+                    "date": "2026-11-10T01:21:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/zipympro.ipa",
+                    "size": 108329618,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipympro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipympro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipympro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipympro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1623329359,
+            "name": "Recorder+",
+            "version": "6.6",
+            "size": 22989653,
+            "icon": "img/recorder.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/recorder.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/recorder.ipa",
+            "bundleIdentifier": "com.kals.recorderPlus",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $3.99\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $3.99\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/recorder.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recorder_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recorder_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recorder_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recorder_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recorder_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recorder_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.6",
+                    "date": "2026-11-10T01:21:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/recorder.ipa",
+                    "size": 22989653,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recorder_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recorder_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recorder_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1304989905,
+            "name": "精灵扫描仪",
+            "version": "2.2",
+            "size": 34927923,
+            "icon": "img/appbb27c5f6c2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/appbb27c5f6c2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/appbb27c5f6c2.ipa",
+            "bundleIdentifier": "com.liuhdeveloper.AIScanner",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $1.99\nRequires 10.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $1.99\nيتطلب اصدار 10.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/appbb27c5f6c2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbb27c5f6c2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbb27c5f6c2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbb27c5f6c2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbb27c5f6c2_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbb27c5f6c2_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbb27c5f6c2_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbb27c5f6c2_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbb27c5f6c2_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.2",
+                    "date": "2026-11-10T01:21:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/appbb27c5f6c2.ipa",
+                    "size": 34927923,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbb27c5f6c2_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbb27c5f6c2_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbb27c5f6c2_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appbb27c5f6c2_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1810531322,
+            "name": "Legacy 4 - Tomb of Secrets",
+            "version": "1.0.16",
+            "size": 361850236,
+            "icon": "img/legacy4tombofsecrets.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/legacy4tombofsecrets.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/legacy4tombofsecrets.ipa",
+            "bundleIdentifier": "com.nosignalproductions.Legacy4-TombofSecrets",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $4.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $4.99\nتتطلب اصدار 12.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/legacy4tombofsecrets.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacy4tombofsecrets_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacy4tombofsecrets_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacy4tombofsecrets_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacy4tombofsecrets_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacy4tombofsecrets_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacy4tombofsecrets_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacy4tombofsecrets_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacy4tombofsecrets_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.16",
+                    "date": "2026-11-10T01:21:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/legacy4tombofsecrets.ipa",
+                    "size": 361850236,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacy4tombofsecrets_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacy4tombofsecrets_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacy4tombofsecrets_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacy4tombofsecrets_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1572276796,
+            "name": "Legacy - Reawakening",
+            "version": "1.0.16",
+            "size": 409146683,
+            "icon": "img/legacyreawakening.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/legacyreawakening.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/legacyreawakening.ipa",
+            "bundleIdentifier": "com.nosignalproductions.legacy5awake",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $6.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $6.99\nتتطلب اصدار 12.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/legacyreawakening.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacyreawakening_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacyreawakening_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacyreawakening_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacyreawakening_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacyreawakening_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacyreawakening_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.16",
+                    "date": "2026-11-10T01:20:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/legacyreawakening.ipa",
+                    "size": 409146683,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacyreawakening_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacyreawakening_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legacyreawakening_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1344821065,
+            "name": "ADOFAI",
+            "version": "2.8.1",
+            "size": 1222376948,
+            "icon": "img/adofai.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/adofai.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/adofai.ipa",
+            "bundleIdentifier": "com.7thbeat.adofai",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $3.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $3.99\nتتطلب اصدار 13.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/adofai.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adofai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adofai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adofai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adofai_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adofai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adofai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adofai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adofai_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.8.1",
+                    "date": "2026-11-10T01:20:10+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/adofai.ipa",
+                    "size": 1222376948,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adofai_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adofai_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adofai_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adofai_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1494913567,
+            "name": "文档扫描仪OCR",
+            "version": "1.1",
+            "size": 1563365,
+            "icon": "img/ocr.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/ocr.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/ocr.ipa",
+            "bundleIdentifier": "lq.ScanMaster",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $14.99\nRequires 16.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $14.99\nيتطلب اصدار 16.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ocr.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2026-11-10T01:19:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/ocr.ipa",
+                    "size": 1563365,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ocr_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1791573634,
             "name": "Mavis Camera",
             "version": "7.0.0",
