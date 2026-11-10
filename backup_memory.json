@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1407188939,
+            "name": "WAS",
+            "version": "1.6.9",
+            "size": 16863739,
+            "icon": "img/was.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/was.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/was.ipa",
+            "bundleIdentifier": "com.as.WAS",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $3.99\nRequires 16.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $3.99\nيتطلب اصدار 16.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/was.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/was_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/was_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/was_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/was_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/was_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/was_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/was_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/was_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.9",
+                    "date": "2026-11-10T11:47:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/was.ipa",
+                    "size": 16863739,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/was_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/was_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/was_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/was_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1911902428,
+            "name": "Stone Age",
+            "version": "2.1.0",
+            "size": 306658174,
+            "icon": "img/stoneage.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/stoneage.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/stoneage.ipa",
+            "bundleIdentifier": "com.stone.age.game",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Unlimited Currency (Enable and Spend or Earn)\n- Never Die\n- Get IAP (Enable and you get NoAds, Starter pack)\n\n- عملة غير محدودة (تمكين وإنفاق أو كسب)\r\n- لا يموت أبداً\r\n- احصل على IAP (تمكين وتحصل على noads ، حزمة بداية)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stoneage.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stoneage_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stoneage_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stoneage_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stoneage_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stoneage_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stoneage_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stoneage_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stoneage_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.0",
+                    "date": "2026-11-10T11:47:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/stoneage.ipa",
+                    "size": 306658174,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stoneage_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stoneage_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stoneage_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stoneage_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1398542090,
+            "name": "Spiderman",
+            "version": "4.6.0",
+            "size": 1053745079,
+            "icon": "img/spiderman.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/spiderman.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/spiderman.ipa",
+            "bundleIdentifier": "com.gameloft.Spiderman",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "IGG",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spiderman.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiderman_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiderman_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiderman_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiderman_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiderman_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiderman_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiderman_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiderman_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.6.0",
+                    "date": "2026-11-10T11:47:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/spiderman.ipa",
+                    "size": 1053745079,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiderman_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiderman_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiderman_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spiderman_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1511692368,
+            "name": "TONALY",
+            "version": "3.6.7",
+            "size": 47663921,
+            "icon": "img/tonaly.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/tonaly.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/tonaly.ipa",
+            "bundleIdentifier": "de.christianhengst.circleoffifths",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $19.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $19.99\nيتطلب اصدار 13.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tonaly.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tonaly_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tonaly_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tonaly_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tonaly_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tonaly_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tonaly_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tonaly_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tonaly_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.6.7",
+                    "date": "2026-11-10T11:45:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/tonaly.ipa",
+                    "size": 47663921,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tonaly_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tonaly_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tonaly_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tonaly_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1537286835,
+            "name": "Art Gem",
+            "version": "2.7.7",
+            "size": 106031230,
+            "icon": "img/artgem.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/artgem.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/artgem.ipa",
+            "bundleIdentifier": "tinyleo.com.animediffusion",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- تفعيل مميزات التطبيق ( يرجى ضغط شراء وثم الغاء )\n\nوصف التطبيق:\n\n أطلق العنان لإمكانياتك الإبداعية مع AI Image Generator: Infinity – رفيقك المثالي في الإبداع الفني باستخدام الذكاء الاصطناعي! يمكنك تحويل المطالبات بسهولة إلى فن مذهل تم إنشاؤه بواسطة الذكاء الاصطناعي أو تصميمات وشم آسرة. أدخل وصفًا، وحدد أسلوبك، ودع Infinity Art يضفي الحياة على خيالك في ثوانٍ!",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/artgem.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artgem_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artgem_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artgem_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artgem_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artgem_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artgem_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artgem_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artgem_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.7.7",
+                    "date": "2026-11-10T11:45:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/artgem.ipa",
+                    "size": 106031230,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artgem_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artgem_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artgem_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/artgem_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1570017087,
+            "name": "バトルサバイバー",
+            "version": "1.1",
+            "size": 252306247,
+            "icon": "img/appa674ce5338.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/appa674ce5338.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/appa674ce5338.ipa",
+            "bundleIdentifier": "com.EnterBase.BattleSurvivor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Damage Multiplier\n- Defense Multiplier\n\n- ضرر مضاعف\r\n- مضاعفة الدفاع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/appa674ce5338.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appa674ce5338_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appa674ce5338_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appa674ce5338_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appa674ce5338_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appa674ce5338_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appa674ce5338_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appa674ce5338_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appa674ce5338_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2026-11-10T11:45:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/appa674ce5338.ipa",
+                    "size": 252306247,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appa674ce5338_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appa674ce5338_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appa674ce5338_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/appa674ce5338_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1210602689,
+            "name": "Apnea Tables",
+            "version": "8.3",
+            "size": 166061822,
+            "icon": "img/apneatables.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/apneatables.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/apneatables.ipa",
+            "bundleIdentifier": "-.Apnea-tables",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/apneatables.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apneatables_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apneatables_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apneatables_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apneatables_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apneatables_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apneatables_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apneatables_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apneatables_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "8.3",
+                    "date": "2026-11-10T11:44:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/apneatables.ipa",
+                    "size": 166061822,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apneatables_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apneatables_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apneatables_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apneatables_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1784967396,
+            "name": "Duskwood",
+            "version": "1.10.17",
+            "size": 267887519,
+            "icon": "img/duskwood.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/duskwood.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/duskwood.ipa",
+            "bundleIdentifier": "com.everbytestudio.interactive.text.chat.story.rpg.cyoa.duskwood",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Unlimited Coins -> Earn or spend some.\n- Unlimited Hearts -> Earn or spend some.\n- Free In-App Purchases -> Toggle via iGMenu.\n\n- عملات غير محدودة -> اكسب أو أنفق بعضها.\r\n-قلوب غير محدودة-> كسب أو إنفاق بعض.\r\n-عمليات شراء مجانية داخل التطبيق -> تبديل عبر Igmenu.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/duskwood.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duskwood_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duskwood_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duskwood_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duskwood_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duskwood_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duskwood_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duskwood_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duskwood_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.10.17",
+                    "date": "2026-11-10T11:44:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/duskwood.ipa",
+                    "size": 267887519,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duskwood_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duskwood_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duskwood_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/duskwood_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1474368484,
+            "name": "Plant With Care",
+            "version": "1.42",
+            "size": 68583590,
+            "icon": "img/plantwithcare.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/plantwithcare.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/plantwithcare.ipa",
+            "bundleIdentifier": "com.crevasse.plantwithcare",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $3.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $3.99\nتتطلب اصدار 12.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/plantwithcare.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantwithcare_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantwithcare_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantwithcare_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantwithcare_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantwithcare_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantwithcare_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantwithcare_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantwithcare_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.42",
+                    "date": "2026-11-10T11:44:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/plantwithcare.ipa",
+                    "size": 68583590,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantwithcare_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantwithcare_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantwithcare_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/plantwithcare_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1191556532,
             "name": "Hero_of_the_Kingdom_Tales_2",
             "version": "1.2.9",
