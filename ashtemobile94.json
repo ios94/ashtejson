@@ -10,6 +10,276 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1811028825,
+            "name": "SocialFocus",
+            "version": "7.3",
+            "size": 41628348,
+            "icon": "img/socialfocus.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/socialfocus.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/socialfocus.ipa",
+            "bundleIdentifier": "me.swifter.unscrolled",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 15.4 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 15.4 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/socialfocus.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialfocus_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialfocus_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialfocus_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialfocus_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialfocus_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialfocus_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialfocus_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialfocus_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "7.3",
+                    "date": "2026-11-10T02:53:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/socialfocus.ipa",
+                    "size": 41628348,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialfocus_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialfocus_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialfocus_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/socialfocus_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1765898730,
+            "name": "Today",
+            "version": "9.0.1",
+            "size": 11258494,
+            "icon": "img/today.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/today.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/today.ipa",
+            "bundleIdentifier": "simeraGlobal",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $3.99\nRequires 18.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $3.99\nيتطلب اصدار 18.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/today.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/today_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/today_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/today_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/today_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/today_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/today_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/today_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/today_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "9.0.1",
+                    "date": "2026-11-10T02:53:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/today.ipa",
+                    "size": 11258494,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/today_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/today_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/today_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/today_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1764352186,
+            "name": "iParadaki",
+            "version": "52.0.2",
+            "size": 16122987,
+            "icon": "img/iparadaki.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/iparadaki.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/iparadaki.ipa",
+            "bundleIdentifier": "com.psarokokkalo.iparadaki",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: 1,99 €\nRequires 18.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور 1,99 €\nيتطلب اصدار 18.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/iparadaki.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iparadaki_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iparadaki_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iparadaki_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iparadaki_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iparadaki_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iparadaki_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iparadaki_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iparadaki_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "52.0.2",
+                    "date": "2026-11-10T02:53:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/iparadaki.ipa",
+                    "size": 16122987,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iparadaki_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iparadaki_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iparadaki_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iparadaki_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1943046573,
+            "name": "Fables 2",
+            "version": "1.0.15",
+            "size": 611936082,
+            "icon": "img/fables2.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/fables2.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/fables2.ipa",
+            "bundleIdentifier": "com.dominigames.cf2serial2.ios.free2play",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )\n\nFeatures:\n\n- You can purchase anything in the game for free (please click \"Buy\" and then \"Cancel\").\n\nImportant note: Sometimes the store doesn't appear directly in the game. You must play for a while for the store to appear and purchase for free.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fables2.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fables2.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fables2.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.15",
+                    "date": "2026-11-10T02:53:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/fables2.ipa",
+                    "size": 611936082,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fables2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1778414684,
+            "name": "Burrito Bison",
+            "version": "3.92",
+            "size": 605612076,
+            "icon": "img/burritobison.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/burritobison.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/burritobison.ipa",
+            "bundleIdentifier": "com.kongregate.mobile.burritobison3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "IGG",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/burritobison.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burritobison_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burritobison_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burritobison_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burritobison_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burritobison_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burritobison_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burritobison_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burritobison_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.92",
+                    "date": "2026-11-10T02:52:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/burritobison.ipa",
+                    "size": 605612076,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burritobison_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burritobison_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burritobison_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/burritobison_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1198236494,
+            "name": "Fables S1E3",
+            "version": "1.0.10",
+            "size": 552152482,
+            "icon": "img/fabless1e3.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/fabless1e3.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/fabless1e3.ipa",
+            "bundleIdentifier": "com.dominigames.cf2serial3.ios.free2play",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )\n\nFeatures:\n\n- You can purchase anything in the game for free (please click \"Buy\" and then \"Cancel\").\n\nImportant note: Sometimes the store doesn't appear directly in the game. You must play for a while for the store to appear and purchase for free.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fabless1e3.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fabless1e3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fabless1e3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.10",
+                    "date": "2026-11-10T02:52:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/fabless1e3.ipa",
+                    "size": 552152482,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fabless1e3.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1964156447,
             "name": "Kino",
             "version": "1.3.2",
