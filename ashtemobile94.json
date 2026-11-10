@@ -10,6 +10,456 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1239280659,
+            "name": "Stack Slider",
+            "version": "0.2",
+            "size": 62522721,
+            "icon": "img/stackslider.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/stackslider.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/stackslider.ipa",
+            "bundleIdentifier": "com.Upperpik.StackSlider",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stackslider.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackslider_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackslider_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackslider_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackslider_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackslider_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackslider_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackslider_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackslider_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.2",
+                    "date": "2026-11-10T09:21:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/stackslider.ipa",
+                    "size": 62522721,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackslider_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackslider_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackslider_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stackslider_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1486278990,
+            "name": "Runner Emoji",
+            "version": "0.3",
+            "size": 61374018,
+            "icon": "img/runneremoji.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/runneremoji.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/runneremoji.ipa",
+            "bundleIdentifier": "com.Upperpik.RunnerEmoji",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/runneremoji.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/runneremoji.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/runneremoji.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.3",
+                    "date": "2026-11-10T09:21:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/runneremoji.ipa",
+                    "size": 61374018,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/runneremoji.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1263608924,
+            "name": "What the Color",
+            "version": "0.5",
+            "size": 60508176,
+            "icon": "img/whatthecolor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/whatthecolor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/whatthecolor.ipa",
+            "bundleIdentifier": "com.Upperpik.WhattheColor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/whatthecolor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatthecolor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatthecolor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatthecolor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatthecolor_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatthecolor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatthecolor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatthecolor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatthecolor_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.5",
+                    "date": "2026-11-10T09:21:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/whatthecolor.ipa",
+                    "size": 60508176,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatthecolor_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatthecolor_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatthecolor_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/whatthecolor_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1313547999,
+            "name": "Zipper Trouble",
+            "version": "0.1",
+            "size": 59179208,
+            "icon": "img/zippertrouble.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/zippertrouble.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/zippertrouble.ipa",
+            "bundleIdentifier": "com.Upperpik.ZipperTrouble",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zippertrouble.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zippertrouble_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zippertrouble_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zippertrouble_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zippertrouble_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zippertrouble_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zippertrouble_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.1",
+                    "date": "2026-11-10T09:21:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/zippertrouble.ipa",
+                    "size": 59179208,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zippertrouble_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zippertrouble_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zippertrouble_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1804921034,
+            "name": "Stair Rails",
+            "version": "0.1",
+            "size": 57168002,
+            "icon": "img/stairrails.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/stairrails.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/stairrails.ipa",
+            "bundleIdentifier": "com.Upperpik.StairRails",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stairrails.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stairrails_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stairrails_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stairrails_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stairrails_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stairrails_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stairrails_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stairrails_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stairrails_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.1",
+                    "date": "2026-11-10T09:20:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/stairrails.ipa",
+                    "size": 57168002,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stairrails_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stairrails_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stairrails_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stairrails_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1506002941,
+            "name": "Trivia Bucks",
+            "version": "0.3",
+            "size": 59157957,
+            "icon": "img/triviabucks.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/triviabucks.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/triviabucks.ipa",
+            "bundleIdentifier": "com.Upperpik.TriviaBucks",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/triviabucks.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviabucks_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviabucks_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviabucks_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviabucks_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviabucks_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviabucks_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviabucks_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviabucks_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.3",
+                    "date": "2026-11-10T09:20:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/triviabucks.ipa",
+                    "size": 59157957,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviabucks_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviabucks_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviabucks_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviabucks_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1486432996,
+            "name": "What The Cut!",
+            "version": "0.2",
+            "size": 62530810,
+            "icon": "img/whatthecut.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/whatthecut.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/whatthecut.ipa",
+            "bundleIdentifier": "com.Upperpik.WhatTheCut",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/whatthecut.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/whatthecut.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/whatthecut.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.2",
+                    "date": "2026-11-10T09:20:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/whatthecut.ipa",
+                    "size": 62530810,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/whatthecut.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1457561418,
+            "name": "Sluggy Run!",
+            "version": "0.1",
+            "size": 64900331,
+            "icon": "img/sluggyrun.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/sluggyrun.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/sluggyrun.ipa",
+            "bundleIdentifier": "com.Upperpik.SluggyRun",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/sluggyrun.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sluggyrun_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sluggyrun_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sluggyrun_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sluggyrun_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sluggyrun_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sluggyrun_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sluggyrun_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sluggyrun_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.1",
+                    "date": "2026-11-10T09:20:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/sluggyrun.ipa",
+                    "size": 64900331,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sluggyrun_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sluggyrun_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sluggyrun_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sluggyrun_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1713568356,
+            "name": "Sword Surfer",
+            "version": "0.1",
+            "size": 65415558,
+            "icon": "img/swordsurfer.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/swordsurfer.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/swordsurfer.ipa",
+            "bundleIdentifier": "com.Upperpik.SwordSurfer",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/swordsurfer.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/swordsurfer.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/swordsurfer.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.1",
+                    "date": "2026-11-10T09:20:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/swordsurfer.ipa",
+                    "size": 65415558,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/swordsurfer.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1922517342,
+            "name": "Loot Run",
+            "version": "0.2",
+            "size": 61969095,
+            "icon": "img/lootrun.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/lootrun.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/lootrun.ipa",
+            "bundleIdentifier": "com.Upperpik.LootRun",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات : \n\n- اموال لا محدود\n\nتنبية: يجب الدخول الى اللعبة والعب لمدة دقيقة ثم الخروج والدخول ليتم تفعيل الهاك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lootrun.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootrun_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootrun_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootrun_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootrun_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootrun_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootrun_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootrun_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootrun_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.2",
+                    "date": "2026-11-10T09:20:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/lootrun.ipa",
+                    "size": 61969095,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootrun_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootrun_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootrun_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lootrun_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1328651939,
             "name": "Ragdoll Roll",
             "version": "0.2",
