@@ -10,6 +10,483 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1677049875,
+            "name": "Hero Journey",
+            "version": "0.4",
+            "size": 194790911,
+            "icon": "img/herojourney.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/herojourney.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/herojourney.ipa",
+            "bundleIdentifier": "com.avstudio.hj",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Defense Multiplier\n- Unlimited Gold\n- Unlimited Gems\n- Game Speed Multiplier\n\n- مضاعفة الدفاع\r\n- ذهب غير محدود\r\n- جواهر غير محدودة\r\n- مضاعف سرعة اللعبة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/herojourney.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herojourney_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herojourney_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herojourney_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herojourney_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herojourney_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herojourney_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herojourney_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herojourney_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.4",
+                    "date": "2026-11-10T10:15:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/herojourney.ipa",
+                    "size": 194790911,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herojourney_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herojourney_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herojourney_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herojourney_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1371862430,
+            "name": "Tower Defense Turret Evolution",
+            "version": "1.1.9",
+            "size": 165268959,
+            "icon": "img/towerdefenseturretevolution.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/towerdefenseturretevolution.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/towerdefenseturretevolution.ipa",
+            "bundleIdentifier": "com.grozingames.tdte",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Add Emerald\n- Add Coin (Enable inside battle)\n- Never Die\n\n- إضافة الزمرد\r\n- إضافة عملة (تمكين داخل المعركة)\r\n- لا يموت أبداً",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/towerdefenseturretevolution.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerdefenseturretevolution_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerdefenseturretevolution_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerdefenseturretevolution_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerdefenseturretevolution_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerdefenseturretevolution_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerdefenseturretevolution_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.9",
+                    "date": "2026-11-10T10:15:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/towerdefenseturretevolution.ipa",
+                    "size": 165268959,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerdefenseturretevolution_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerdefenseturretevolution_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/towerdefenseturretevolution_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1735861499,
+            "name": "SPC",
+            "version": "7.7.5",
+            "size": 33510059,
+            "icon": "img/spc.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/spc.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/spc.ipa",
+            "bundleIdentifier": "com.rathasou.The-Spy-Camera",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $19.99\nRequires 11.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $19.99\nيتطلب اصدار 11.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spc.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spc_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spc_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spc_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spc_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spc_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spc_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spc_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spc_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "7.7.5",
+                    "date": "2026-11-10T10:15:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/spc.ipa",
+                    "size": 33510059,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spc_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spc_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spc_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spc_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1873446217,
+            "name": "Jelly Master: Mukbang ASMR",
+            "version": "1.9.1",
+            "size": 418638221,
+            "icon": "img/jellymastermukbangasmr.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/jellymastermukbangasmr.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/jellymastermukbangasmr.ipa",
+            "bundleIdentifier": "com.fc.p.cp.jelly.mukbang.asmr.live.diy",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Remove Ads\n- Skip Steps When Making Jelly\n- Skip Steps When Making Gelato\n- Consume Supermarket Item Food\n- Consume Item Food\n- Consume Gelato Food\n- Consume Jelly Food \n\n-إزالة الإعلانات\r\n-تخطي الخطوات عند صنع الهلام\r\n-تخطي الخطوات عند صنع الجيلاتي\r\n-يستهلك طعام السوبر ماركت\r\n-استهلاك الغذاء العنصر\r\n-استهلاك الغذاء الجيلاتي\r\n-تستهلك طعام الهلام",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/jellymastermukbangasmr.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellymastermukbangasmr_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellymastermukbangasmr_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellymastermukbangasmr_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellymastermukbangasmr_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellymastermukbangasmr_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellymastermukbangasmr_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellymastermukbangasmr_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellymastermukbangasmr_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.1",
+                    "date": "2026-11-10T10:15:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/jellymastermukbangasmr.ipa",
+                    "size": 418638221,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellymastermukbangasmr_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellymastermukbangasmr_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellymastermukbangasmr_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/jellymastermukbangasmr_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1902148648,
+            "name": "Web Automation tools",
+            "version": "1.1",
+            "size": 721866,
+            "icon": "img/webautomationtools.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/webautomationtools.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/webautomationtools.ipa",
+            "bundleIdentifier": "com.ddyt.iOS.AutoClicker",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 16.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 16.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/webautomationtools.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webautomationtools_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webautomationtools_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webautomationtools_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webautomationtools_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webautomationtools_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webautomationtools_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webautomationtools_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webautomationtools_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2026-11-10T10:15:05+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/webautomationtools.ipa",
+                    "size": 721866,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webautomationtools_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webautomationtools_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webautomationtools_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/webautomationtools_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1762739863,
+            "name": "Battle Ground: Impostor Attack",
+            "version": "1.0.1",
+            "size": 228658001,
+            "icon": "img/battlegroundimpostorattack.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/battlegroundimpostorattack.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/battlegroundimpostorattack.ipa",
+            "bundleIdentifier": "com.impostorbattle.impostorattack.survival",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Damage Multiplier\n- Defense Multiplier\n- Loot Multiplier\n- 5x FireRate\n- No Reload\n\n- ضرر مضاعف\r\n- مضاعفة الدفاع\r\n- مضاعفة الغنائم\r\n- 5x ناري\r\n- بدون إعادة تعبئة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/battlegroundimpostorattack.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlegroundimpostorattack_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlegroundimpostorattack_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlegroundimpostorattack_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlegroundimpostorattack_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlegroundimpostorattack_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlegroundimpostorattack_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlegroundimpostorattack_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlegroundimpostorattack_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.1",
+                    "date": "2026-11-10T10:15:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/battlegroundimpostorattack.ipa",
+                    "size": 228658001,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlegroundimpostorattack_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlegroundimpostorattack_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlegroundimpostorattack_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/battlegroundimpostorattack_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1719022718,
+            "name": "BeastCam",
+            "version": "1.23",
+            "size": 26508072,
+            "icon": "img/beastcam.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/beastcam.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/beastcam.ipa",
+            "bundleIdentifier": "in.beastgrip.beastcam",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Advanced Camera App\nPaidApp on Appstore for 3$\n\nكاميرا متقدمة\nمدفوع على ابلستور بقيمة 3$",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/beastcam.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastcam_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastcam_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastcam_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastcam_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastcam_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastcam_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastcam_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastcam_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.23",
+                    "date": "2026-11-10T10:14:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/beastcam.ipa",
+                    "size": 26508072,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastcam_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastcam_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastcam_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beastcam_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1173386619,
+            "name": "Matcha",
+            "version": "1.6.2",
+            "size": 90489023,
+            "icon": "img/matcha.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/matcha.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/matcha.ipa",
+            "bundleIdentifier": "ai.joinmatcha.app",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- فتح الأشتراك\n\n#حصرياا\n\nوصف التطبيق :\n\n تجربة روبوت الدردشة بالذكاء الاصطناعي المثالية! تعرف على أصدقاء جدد. اكتشف شخصيات الدردشة بالذكاء الاصطناعي من جميع أنحاء العالم وتواصل معهم لاكتشاف قدراتهم الرائعة.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/matcha.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matcha_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matcha_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matcha_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matcha_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matcha_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matcha_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matcha_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matcha_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.2",
+                    "date": "2026-11-10T10:14:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/matcha.ipa",
+                    "size": 90489023,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matcha_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matcha_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matcha_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matcha_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1212134872,
+            "name": "Cup Quest",
+            "version": "3.5.5",
+            "size": 334396110,
+            "icon": "img/cupquest.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/cupquest.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/cupquest.ipa",
+            "bundleIdentifier": "com.felicity.cupquest",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "One Hit Kill\n- Add Currency\n- Unlock Double Speed\n\n- قتل بضربة واحدة\r\n- إضافة العملة\r\n- فتح السرعة المزدوجة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cupquest.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupquest_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupquest_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupquest_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupquest_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupquest_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupquest_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupquest_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupquest_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.5.5",
+                    "date": "2026-11-10T10:14:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/cupquest.ipa",
+                    "size": 334396110,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupquest_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupquest_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupquest_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cupquest_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1150346471,
+            "name": "LEGO Ninjago",
+            "version": "2.2.1",
+            "size": 1272592776,
+            "icon": "img/legoninjago.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/legoninjago.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/legoninjago.ipa",
+            "bundleIdentifier": "com.wb.LNJGO",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة مدفوعة من العاب الآركيد",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/legoninjago.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legoninjago_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legoninjago_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legoninjago_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legoninjago_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legoninjago_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legoninjago_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legoninjago_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legoninjago_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.2.1",
+                    "date": "2026-11-10T10:14:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/legoninjago.ipa",
+                    "size": 1272592776,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legoninjago_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legoninjago_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legoninjago_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/legoninjago_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1753373760,
             "name": "Tiny Clash!",
             "version": "1.5.0",
