@@ -10,6 +10,474 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1823197635,
+            "name": "Disney Realm",
+            "version": "20010",
+            "size": 1054053184,
+            "icon": "img/disneyrealm.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/disneyrealm.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/disneyrealm.ipa",
+            "bundleIdentifier": "com.joycity.drb",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "No Skill Cooldown\n- Never Die\n- Add Battle Gold (Enable inside battle)\n\n- لا يوجد تباطؤ مهارة\r\n- لا يموت أبداً\r\n- أضف معركة الذهب (تمكين داخل المعركة)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/disneyrealm.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/disneyrealm.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/disneyrealm.png"
+            ],
+            "versions": [
+                {
+                    "version": "20010",
+                    "date": "2026-11-10T05:30:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/disneyrealm.ipa",
+                    "size": 1054053184,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/disneyrealm.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1166605291,
+            "name": "Match Packing 3D",
+            "version": "1.0.4",
+            "size": 361769061,
+            "icon": "img/matchpacking3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/matchpacking3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/matchpacking3d.ipa",
+            "bundleIdentifier": "com.gplay.match.packing3d",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل الهاك. النقود او الموجوهرات وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/matchpacking3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchpacking3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchpacking3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchpacking3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchpacking3d_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchpacking3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchpacking3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchpacking3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchpacking3d_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.4",
+                    "date": "2026-11-10T05:29:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/matchpacking3d.ipa",
+                    "size": 361769061,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchpacking3d_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchpacking3d_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchpacking3d_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchpacking3d_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1495774104,
+            "name": "Arrange It! - Logic Puzzle",
+            "version": "1.0.14",
+            "size": 255783333,
+            "icon": "img/arrangeitlogicpuzzle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/arrangeitlogicpuzzle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/arrangeitlogicpuzzle.ipa",
+            "bundleIdentifier": "com.fc.hk.thatsyourseat.seat.away.puzzle.logic.game",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل الهاك. النقود او الموجوهرات وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/arrangeitlogicpuzzle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrangeitlogicpuzzle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrangeitlogicpuzzle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrangeitlogicpuzzle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrangeitlogicpuzzle_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrangeitlogicpuzzle_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrangeitlogicpuzzle_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrangeitlogicpuzzle_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrangeitlogicpuzzle_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.14",
+                    "date": "2026-11-10T05:29:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/arrangeitlogicpuzzle.ipa",
+                    "size": 255783333,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrangeitlogicpuzzle_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrangeitlogicpuzzle_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrangeitlogicpuzzle_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrangeitlogicpuzzle_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1721953566,
+            "name": "I Ski and Ride",
+            "version": "1.3.2",
+            "size": 113310737,
+            "icon": "img/iskiandride.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/iskiandride.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/iskiandride.ipa",
+            "bundleIdentifier": "com.iskiandride.app2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 13.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/iskiandride.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iskiandride_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iskiandride_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iskiandride_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iskiandride_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iskiandride_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iskiandride_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iskiandride_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iskiandride_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.2",
+                    "date": "2026-11-10T05:28:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/iskiandride.ipa",
+                    "size": 113310737,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iskiandride_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iskiandride_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iskiandride_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/iskiandride_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1826595898,
+            "name": "Phoenix",
+            "version": "2.0",
+            "size": 8630459,
+            "icon": "img/phoenix.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/phoenix.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/phoenix.ipa",
+            "bundleIdentifier": "com.ivancerra.Phoenixx",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $3.99\nRequires 9.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $3.99\nيتطلب اصدار 9.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/phoenix.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phoenix_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phoenix_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phoenix_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phoenix_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phoenix_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phoenix_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.0",
+                    "date": "2026-11-10T05:28:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/phoenix.ipa",
+                    "size": 8630459,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phoenix_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phoenix_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/phoenix_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1269216847,
+            "name": "Saiko no sutoka",
+            "version": "2.3.5",
+            "size": 923259663,
+            "icon": "img/saikonosutoka.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/saikonosutoka.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/saikonosutoka.ipa",
+            "bundleIdentifier": "com.habupain.saikonosutoka2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $4.99\nRequires 10.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $4.99\nتتطلب اصدار 10.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/saikonosutoka.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saikonosutoka_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saikonosutoka_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saikonosutoka_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saikonosutoka_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saikonosutoka_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saikonosutoka_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saikonosutoka_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saikonosutoka_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.3.5",
+                    "date": "2026-11-10T05:28:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/saikonosutoka.ipa",
+                    "size": 923259663,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saikonosutoka_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saikonosutoka_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saikonosutoka_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/saikonosutoka_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1468715756,
+            "name": "FractalExplorer",
+            "version": "1.2",
+            "size": 9715178,
+            "icon": "img/fractalexplorer.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/fractalexplorer.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/fractalexplorer.ipa",
+            "bundleIdentifier": "hjr.fractalexplorer",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $3.99\nRequires 10.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $3.99\nيتطلب اصدار 10.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fractalexplorer.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fractalexplorer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fractalexplorer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fractalexplorer_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fractalexplorer_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fractalexplorer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fractalexplorer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fractalexplorer_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fractalexplorer_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-10T05:27:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/fractalexplorer.ipa",
+                    "size": 9715178,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fractalexplorer_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fractalexplorer_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fractalexplorer_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fractalexplorer_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1298504341,
+            "name": "Anatomy Puzzles",
+            "version": "10.0",
+            "size": 493985262,
+            "icon": "img/anatomypuzzles.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/anatomypuzzles.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/anatomypuzzles.ipa",
+            "bundleIdentifier": "com.cleverinfoapps.anatomypuzzles",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $4.99\nRequires 15.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $4.99\nتتطلب اصدار 15.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/anatomypuzzles.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomypuzzles_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomypuzzles_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomypuzzles_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomypuzzles_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomypuzzles_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomypuzzles_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomypuzzles_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomypuzzles_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "10.0",
+                    "date": "2026-11-10T05:27:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/anatomypuzzles.ipa",
+                    "size": 493985262,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomypuzzles_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomypuzzles_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomypuzzles_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/anatomypuzzles_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1386896033,
+            "name": "Sky Aces",
+            "version": "1.0",
+            "size": 57741951,
+            "icon": "img/skyaces.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/skyaces.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/skyaces.ipa",
+            "bundleIdentifier": "ru.gamedevteam.skyacesR",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $1.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $1.99\nتتطلب اصدار 12.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/skyaces.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skyaces_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skyaces_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skyaces_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skyaces_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skyaces_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skyaces_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skyaces_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skyaces_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2026-11-10T05:27:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/skyaces.ipa",
+                    "size": 57741951,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skyaces_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skyaces_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skyaces_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/skyaces_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1889823348,
+            "name": "Idle Trillionaire",
+            "version": "3.17",
+            "size": 5680767,
+            "icon": "img/idletrillionaire.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/idletrillionaire.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/idletrillionaire.ipa",
+            "bundleIdentifier": "com.idletrillionaire.www",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $9.99\nRequires 14.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $9.99\nتتطلب اصدار 14.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idletrillionaire.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrillionaire_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrillionaire_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrillionaire_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrillionaire_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrillionaire_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrillionaire_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrillionaire_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrillionaire_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.17",
+                    "date": "2026-11-10T05:27:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/idletrillionaire.ipa",
+                    "size": 5680767,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrillionaire_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrillionaire_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrillionaire_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idletrillionaire_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1906755216,
             "name": "xCamera",
             "version": "1.0",
