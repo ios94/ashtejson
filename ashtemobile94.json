@@ -10,6 +10,393 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1738523595,
+            "name": "Hearts 3 Bonus",
+            "version": "1.0.8",
+            "size": 447277590,
+            "icon": "img/hearts3bonus.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/hearts3bonus.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/hearts3bonus.ipa",
+            "bundleIdentifier": "com.dominigames.chr3ce.ios.freemium",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )\n\nFeatures:\n\n- You can purchase anything in the game for free (please click \"Buy\" and then \"Cancel\").\n\nImportant note: Sometimes the store doesn't appear directly in the game. You must play for a while for the store to appear and purchase for free.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hearts3bonus.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hearts3bonus.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hearts3bonus.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.8",
+                    "date": "2026-11-10T02:37:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/hearts3bonus.ipa",
+                    "size": 447277590,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hearts3bonus.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1265435747,
+            "name": "HeadOn",
+            "version": "1.5.0",
+            "size": 1493539585,
+            "icon": "img/headon.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/headon.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/headon.ipa",
+            "bundleIdentifier": "com.instagames.headon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Spam Activate ViP\r\n- Inf Ammo\r\n- Rapid Fire\r\n- No Weapon Recoil\r\n- 5x Player Speed\r\n- 2x Player Jump\r\n- Restore Orig Player Jump\n\n-البريد العشوائي تفعيل VIP\r\n-inf الذخيرة\r\n-نار سريع\r\n-لا يوجد سلاح الارتداد\r\n-سرعة لاعب 5x\r\n-2x لاعب القفز\r\n-استعادة قفز لاعب الأصل",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/headon.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/headon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/headon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/headon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/headon_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/headon_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/headon_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/headon_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/headon_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.0",
+                    "date": "2026-11-10T02:37:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/headon.ipa",
+                    "size": 1493539585,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/headon_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/headon_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/headon_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/headon_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1564970323,
+            "name": "Bloom Garden",
+            "version": "1.1.7",
+            "size": 639499139,
+            "icon": "img/bloomgarden.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/bloomgarden.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/bloomgarden.ipa",
+            "bundleIdentifier": "blossom.flower.bloom.sort.puzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bloomgarden.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloomgarden_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloomgarden_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloomgarden_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloomgarden_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloomgarden_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloomgarden_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloomgarden_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloomgarden_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.7",
+                    "date": "2026-11-10T02:35:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/bloomgarden.ipa",
+                    "size": 639499139,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloomgarden_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloomgarden_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloomgarden_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bloomgarden_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1730444638,
+            "name": "Coffee Craft",
+            "version": "1.7.0",
+            "size": 267433315,
+            "icon": "img/coffeecraft.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/coffeecraft.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/coffeecraft.ipa",
+            "bundleIdentifier": "com.higgs.coffee.craft.jam.puzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/coffeecraft.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeecraft_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeecraft_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeecraft_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeecraft_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeecraft_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeecraft_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeecraft_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeecraft_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.0",
+                    "date": "2026-11-10T02:35:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/coffeecraft.ipa",
+                    "size": 267433315,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeecraft_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeecraft_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeecraft_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coffeecraft_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1427619083,
+            "name": "Love",
+            "version": "1.0.25",
+            "size": 497026959,
+            "icon": "img/love.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/love.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/love.ipa",
+            "bundleIdentifier": "com.dominigames.chr4serial1.ext.ios.free2play",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/love.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/love_screen_1.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/love_screen_1.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.25",
+                    "date": "2026-11-10T02:34:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/love.ipa",
+                    "size": 497026959,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/love_screen_1.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1502967337,
+            "name": "Maze 4 Bonus",
+            "version": "1.0.4",
+            "size": 485461520,
+            "icon": "img/maze4bonus.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/maze4bonus.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/maze4bonus.ipa",
+            "bundleIdentifier": "com.dominigames.mor4ce.ios.freemium",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/maze4bonus.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/maze4bonus.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/maze4bonus.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.4",
+                    "date": "2026-11-10T02:34:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/maze4bonus.ipa",
+                    "size": 485461520,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/maze4bonus.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1859572947,
+            "name": "Finance Clicker",
+            "version": "1.6.0",
+            "size": 246886257,
+            "icon": "img/financeclicker.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/financeclicker.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/financeclicker.ipa",
+            "bundleIdentifier": "com.busi.ness",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/financeclicker.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/financeclicker_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/financeclicker_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/financeclicker_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/financeclicker_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/financeclicker_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/financeclicker_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/financeclicker_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/financeclicker_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.0",
+                    "date": "2026-11-10T02:33:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/financeclicker.ipa",
+                    "size": 246886257,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/financeclicker_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/financeclicker_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/financeclicker_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/financeclicker_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1809982859,
+            "name": "Hearts EP 3 F2P",
+            "version": "1.0.15",
+            "size": 671684583,
+            "icon": "img/heartsep3f2p.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/heartsep3f2p.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/heartsep3f2p.ipa",
+            "bundleIdentifier": "com.dominigames.chr4serial3.ios.free2play",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heartsep3f2p.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heartsep3f2p.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heartsep3f2p.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.15",
+                    "date": "2026-11-10T02:33:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/heartsep3f2p.ipa",
+                    "size": 671684583,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heartsep3f2p.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1792318781,
+            "name": "Priсe of Desire",
+            "version": "1.0.15",
+            "size": 502159621,
+            "icon": "img/prieofdesire.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/prieofdesire.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/prieofdesire.ipa",
+            "bundleIdentifier": "com.dominigames.mtr3serial4.ios.free2play",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/prieofdesire.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/prieofdesire.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/prieofdesire.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.15",
+                    "date": "2026-11-10T02:32:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/prieofdesire.ipa",
+                    "size": 502159621,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/prieofdesire.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1457827068,
             "name": "Lgetha AR",
             "version": "1.0.11",
