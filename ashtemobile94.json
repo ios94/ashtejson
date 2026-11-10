@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1392207237,
+            "name": "Spectrum",
+            "version": "3.1",
+            "size": 39718292,
+            "icon": "img/spectrum.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/spectrum.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/spectrum.ipa",
+            "bundleIdentifier": "com.vladapps.Spectrum",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: 免费\nRequires 13.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور 免费\nيتطلب اصدار 13.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spectrum.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spectrum_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spectrum_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spectrum_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spectrum_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spectrum_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spectrum_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spectrum_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spectrum_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.1",
+                    "date": "2026-11-10T02:44:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/spectrum.ipa",
+                    "size": 39718292,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spectrum_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spectrum_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spectrum_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spectrum_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1444334571,
+            "name": "Maze 4 Bonus F2P",
+            "version": "1.0.5",
+            "size": 469582550,
+            "icon": "img/maze4bonusf2p.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/maze4bonusf2p.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/maze4bonusf2p.ipa",
+            "bundleIdentifier": "com.dominigames.mor4ce.ios.free2play",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )\n\nFeatures:\n\n- You can purchase anything in the game for free (please click \"Buy\" and then \"Cancel\").\n\nImportant note: Sometimes the store doesn't appear directly in the game. You must play for a while for the store to appear and purchase for free.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/maze4bonusf2p.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/maze4bonusf2p.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/maze4bonusf2p.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.5",
+                    "date": "2026-11-10T02:44:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/maze4bonusf2p.ipa",
+                    "size": 469582550,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/maze4bonusf2p.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1544827763,
+            "name": "Teak",
+            "version": "6.3.1",
+            "size": 20042882,
+            "icon": "img/teak.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/teak.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/teak.ipa",
+            "bundleIdentifier": "com.tk.browser.client",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $1.29\nRequires 15.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $1.29\nيتطلب اصدار 15.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/teak.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/teak_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/teak_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/teak_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/teak_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/teak_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/teak_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/teak_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/teak_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.3.1",
+                    "date": "2026-11-10T02:43:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/teak.ipa",
+                    "size": 20042882,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/teak_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/teak_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/teak_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/teak_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1818334504,
+            "name": "Mathematics",
+            "version": "1.4.1",
+            "size": 2993950,
+            "icon": "img/mathematics.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/mathematics.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/mathematics.ipa",
+            "bundleIdentifier": "com.redongray.mathematics2free",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $1.99\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $1.99\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mathematics.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mathematics_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mathematics_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mathematics_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mathematics_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mathematics_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mathematics_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mathematics_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mathematics_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.1",
+                    "date": "2026-11-10T02:43:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/mathematics.ipa",
+                    "size": 2993950,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mathematics_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mathematics_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mathematics_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mathematics_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1258964079,
+            "name": "MagicCall",
+            "version": "5.2.7",
+            "size": 55762006,
+            "icon": "img/magiccall.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/magiccall.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/magiccall.ipa",
+            "bundleIdentifier": "com.xapps.magiccall",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $4.99\nRequires 16.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $4.99\nيتطلب اصدار 16.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/magiccall.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magiccall_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magiccall_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magiccall_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magiccall_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magiccall_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magiccall_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magiccall_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magiccall_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.2.7",
+                    "date": "2026-11-10T02:43:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/magiccall.ipa",
+                    "size": 55762006,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magiccall_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magiccall_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magiccall_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/magiccall_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1734814023,
+            "name": "Zip Extractor",
+            "version": "1.2",
+            "size": 12709678,
+            "icon": "img/zipextractor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/zipextractor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/zipextractor.ipa",
+            "bundleIdentifier": "com.hetalthummar.Zip-Unzip",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zipextractor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipextractor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipextractor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipextractor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipextractor_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipextractor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipextractor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipextractor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipextractor_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-10T02:43:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/zipextractor.ipa",
+                    "size": 12709678,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipextractor_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipextractor_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipextractor_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zipextractor_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1888549373,
+            "name": "Water Reminder",
+            "version": "1.2",
+            "size": 13305520,
+            "icon": "img/waterreminder.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/waterreminder.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/waterreminder.ipa",
+            "bundleIdentifier": "com.hetalthummar.Water-Drink-Reminder",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/waterreminder.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterreminder_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterreminder_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterreminder_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterreminder_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterreminder_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterreminder_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterreminder_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterreminder_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-10T02:43:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/waterreminder.ipa",
+                    "size": 13305520,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterreminder_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterreminder_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterreminder_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/waterreminder_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1966368545,
+            "name": "Flippy Friends AR",
+            "version": "2.7.8",
+            "size": 151491482,
+            "icon": "img/flippyfriendsar.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/flippyfriendsar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/flippyfriendsar.ipa",
+            "bundleIdentifier": "com.beresnevgames.flippyar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/flippyfriendsar.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyfriendsar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyfriendsar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyfriendsar_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyfriendsar_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyfriendsar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyfriendsar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyfriendsar_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyfriendsar_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.7.8",
+                    "date": "2026-11-10T02:43:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/flippyfriendsar.ipa",
+                    "size": 151491482,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyfriendsar_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyfriendsar_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyfriendsar_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/flippyfriendsar_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1954109089,
+            "name": "데미갓 키우기",
+            "version": "3.4.7",
+            "size": 719331260,
+            "icon": "img/app153a9e7472.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/app153a9e7472.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/app153a9e7472.ipa",
+            "bundleIdentifier": "com.superplanet.demigod",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Damage Multiplier\r\n- Never Die\r\n- Attack Speed Multiplier\r\n- Move Speed Multiplier\r\n- Unlimited Mana\r\n- Freeze Currencies\r\n \n\n- ضرر مضاعف\r\n- لا يموت أبداً\r\n- مضاعف سرعة الهجوم\r\n- مضاعفة سرعة الحركة\r\n- مانا غير محدودة\r\n- تجميد العملات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app153a9e7472.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app153a9e7472_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app153a9e7472_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app153a9e7472_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app153a9e7472_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app153a9e7472_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app153a9e7472_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app153a9e7472_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app153a9e7472_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.4.7",
+                    "date": "2026-11-10T02:43:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/app153a9e7472.ipa",
+                    "size": 719331260,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app153a9e7472_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app153a9e7472_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app153a9e7472_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app153a9e7472_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1310829152,
+            "name": "Bounce It",
+            "version": "2.8.0",
+            "size": 139762779,
+            "icon": "img/bounceit.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/bounceit.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/bounceit.ipa",
+            "bundleIdentifier": "com.crazylabs.bounce",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\r\nتم اضافة مود تسريع اللعبة \r\nتم اضافة ترسيت اللعبة\r\n\r\n\r\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bounceit.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bounceit_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bounceit_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bounceit_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bounceit_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bounceit_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bounceit_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bounceit_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bounceit_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.8.0",
+                    "date": "2026-11-10T02:42:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/bounceit.ipa",
+                    "size": 139762779,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bounceit_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bounceit_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bounceit_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bounceit_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1738523595,
             "name": "Hearts 3 Bonus",
             "version": "1.0.8",
