@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1597208497,
+            "name": "Document Scanner",
+            "version": "1.0",
+            "size": 9094520,
+            "icon": "img/documentscanner.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/documentscanner.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/documentscanner.ipa",
+            "bundleIdentifier": "com.hetalthummar.PDF-Scanner",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/documentscanner.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documentscanner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documentscanner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documentscanner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documentscanner_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documentscanner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documentscanner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documentscanner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documentscanner_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2026-11-10T19:20:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/documentscanner.ipa",
+                    "size": 9094520,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documentscanner_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documentscanner_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documentscanner_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/documentscanner_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1769197707,
+            "name": "Secret Menu",
+            "version": "3.8.0",
+            "size": 31400559,
+            "icon": "img/secretmenu.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/secretmenu.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/secretmenu.ipa",
+            "bundleIdentifier": "com.MitrovicApps.Starbucks-Secret-Menu",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/secretmenu.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretmenu_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretmenu_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretmenu_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretmenu_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretmenu_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretmenu_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretmenu_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretmenu_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.8.0",
+                    "date": "2026-11-10T19:20:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/secretmenu.ipa",
+                    "size": 31400559,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretmenu_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretmenu_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretmenu_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretmenu_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1281891561,
+            "name": "Images To GIF",
+            "version": "1.6",
+            "size": 12186019,
+            "icon": "img/imagestogif.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/imagestogif.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/imagestogif.ipa",
+            "bundleIdentifier": "com.axitanitin.ImagesToGIF",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/imagestogif.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imagestogif_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imagestogif_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imagestogif_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imagestogif_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imagestogif_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imagestogif_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imagestogif_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imagestogif_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6",
+                    "date": "2026-11-10T19:20:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/imagestogif.ipa",
+                    "size": 12186019,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imagestogif_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imagestogif_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imagestogif_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/imagestogif_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1156670459,
+            "name": "Loop",
+            "version": "1.1",
+            "size": 11952066,
+            "icon": "img/loop.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/loop.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/loop.ipa",
+            "bundleIdentifier": "com.hetalthummar.LoopMaker",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/loop.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loop_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loop_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loop_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loop_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loop_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loop_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loop_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loop_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2026-11-10T19:20:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/loop.ipa",
+                    "size": 11952066,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loop_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loop_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loop_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/loop_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1661983126,
+            "name": "Gallery : Media",
+            "version": "1.5",
+            "size": 12765378,
+            "icon": "img/gallerymedia.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/gallerymedia.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/gallerymedia.ipa",
+            "bundleIdentifier": "com.hetalthummar.Gallery",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gallerymedia.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gallerymedia_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gallerymedia_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gallerymedia_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gallerymedia_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gallerymedia_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gallerymedia_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gallerymedia_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gallerymedia_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5",
+                    "date": "2026-11-10T19:20:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/gallerymedia.ipa",
+                    "size": 12765378,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gallerymedia_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gallerymedia_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gallerymedia_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gallerymedia_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1407261109,
+            "name": "Music Editor",
+            "version": "1.4",
+            "size": 13932544,
+            "icon": "img/musiceditor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/musiceditor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/musiceditor.ipa",
+            "bundleIdentifier": "com.hetalthummar.MusicEditor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/musiceditor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musiceditor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musiceditor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musiceditor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musiceditor_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musiceditor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musiceditor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musiceditor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musiceditor_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.4",
+                    "date": "2026-11-10T19:20:43+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/musiceditor.ipa",
+                    "size": 13932544,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musiceditor_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musiceditor_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musiceditor_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/musiceditor_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1273671453,
+            "name": "Lock",
+            "version": "1.2",
+            "size": 13169538,
+            "icon": "img/lock.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/lock.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/lock.ipa",
+            "bundleIdentifier": "com.hetalthummar.MobilePasswordManager",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lock.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lock_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lock_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lock_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lock_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lock_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lock_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lock_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lock_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-10T19:20:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/lock.ipa",
+                    "size": 13169538,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lock_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lock_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lock_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lock_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1800817870,
+            "name": "لو خيروك",
+            "version": "1.3.2",
+            "size": 117036155,
+            "icon": "img/app752cddf912.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/app752cddf912.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/app752cddf912.ipa",
+            "bundleIdentifier": "com.rommanapps.wyr",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\nتم اضافة مود تسريع اللعبة \nتم اضافة ترسيت اللعبة\n\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\n\nFeatures:\n\n- You can purchase anything in the game for free \n( please click Buy and then Cancel )\n\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app752cddf912.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app752cddf912_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app752cddf912_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app752cddf912_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app752cddf912_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app752cddf912_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app752cddf912_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app752cddf912_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app752cddf912_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.2",
+                    "date": "2026-11-10T19:20:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/app752cddf912.ipa",
+                    "size": 117036155,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app752cddf912_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app752cddf912_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app752cddf912_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/app752cddf912_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1266336480,
+            "name": "All Scanner",
+            "version": "1.2",
+            "size": 12893001,
+            "icon": "img/allscanner.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/allscanner.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/allscanner.ipa",
+            "bundleIdentifier": "com.hetalthummar.All-Scanner",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\r\n\r\n- فتح الأشتراك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/allscanner.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allscanner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allscanner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allscanner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allscanner_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allscanner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allscanner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allscanner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allscanner_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-10T19:20:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/allscanner.ipa",
+                    "size": 12893001,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allscanner_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allscanner_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allscanner_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/allscanner_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1991022489,
+            "name": "Monster Prank: Help Puzzle",
+            "version": "1.0.2",
+            "size": 222427503,
+            "icon": "img/monsterprankhelppuzzle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/monsterprankhelppuzzle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/monsterprankhelppuzzle.ipa",
+            "bundleIdentifier": "com.higame.monster.tricky.annoying.puzzle.game",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\nتم اضافة مود تسريع اللعبة \nتم اضافة ترسيت اللعبة\n\n تنبيه مهم: إذا لم يعمل الشراء أو الإلغاء لديك، يرجى إغلاق التطبيق وإعادة فتحه لتفعيل هاك النقود او الموجوهرات . وإذا استمرت المشكلة، يرجى إرسال تنبيه لنا من داخل التطبيق ليتم حلها في أسرع وقت.\n\nFeatures:\n\n- You can purchase anything in the game for free \n( please click Buy and then Cancel )\n\nImportant note : If the purchase or cancellation doesn’t work, please close the app and reopen it to activate the hack.\nIf the problem persists, please send us a notification so we can resolve it as soon as possible.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monsterprankhelppuzzle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monsterprankhelppuzzle.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monsterprankhelppuzzle.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.2",
+                    "date": "2026-11-10T19:20:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/monsterprankhelppuzzle.ipa",
+                    "size": 222427503,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monsterprankhelppuzzle.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1679626608,
             "name": "Draw Puzzle",
             "version": "1.2.1",
