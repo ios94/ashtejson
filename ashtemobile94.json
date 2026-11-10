@@ -10,6 +10,474 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1654796344,
+            "name": "Squad Draw",
+            "version": "1.1.5",
+            "size": 433435882,
+            "icon": "img/squaddraw.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/squaddraw.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/squaddraw.ipa",
+            "bundleIdentifier": "com.Mobge.SquadDraw",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/squaddraw.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squaddraw_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squaddraw_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squaddraw_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squaddraw_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squaddraw_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squaddraw_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squaddraw_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squaddraw_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.5",
+                    "date": "2026-11-10T07:45:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/squaddraw.ipa",
+                    "size": 433435882,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squaddraw_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squaddraw_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squaddraw_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/squaddraw_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1567920232,
+            "name": "Food Finder",
+            "version": "3.1",
+            "size": 44276875,
+            "icon": "img/foodfinder.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/foodfinder.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/foodfinder.ipa",
+            "bundleIdentifier": "com.appaspect.foodfinder",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- تفعيل مميزات التطبيق ( يرجى ضغط شراء وثم الغاء )\n\nتطبيق خاص في الغذاء والصحة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/foodfinder.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodfinder_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodfinder_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodfinder_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodfinder_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodfinder_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodfinder_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.1",
+                    "date": "2026-11-10T07:44:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/foodfinder.ipa",
+                    "size": 44276875,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodfinder_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodfinder_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodfinder_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1663633880,
+            "name": "Pill Reminder",
+            "version": "2.3",
+            "size": 14479378,
+            "icon": "img/pillreminder.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/pillreminder.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/pillreminder.ipa",
+            "bundleIdentifier": "com.appaspect.pillreminder",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- تفعيل مميزات التطبيق ( يرجى ضغط شراء وثم الغاء )\n\nتطبيق خاص في تذكيرات الدواء",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pillreminder.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pillreminder_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pillreminder_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pillreminder_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pillreminder_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pillreminder_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pillreminder_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pillreminder_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pillreminder_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.3",
+                    "date": "2026-11-10T07:44:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/pillreminder.ipa",
+                    "size": 14479378,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pillreminder_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pillreminder_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pillreminder_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pillreminder_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1244983771,
+            "name": "Herbal Care",
+            "version": "1.1",
+            "size": 22509115,
+            "icon": "img/herbalcare.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/herbalcare.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/herbalcare.ipa",
+            "bundleIdentifier": "com.herbal.healthcare.fitness",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- تفعيل مميزات التطبيق ( يرجى ضغط شراء وثم الغاء )\n\nللصحة والعناية في الجسم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/herbalcare.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herbalcare_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herbalcare_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herbalcare_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herbalcare_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herbalcare_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herbalcare_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herbalcare_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herbalcare_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2026-11-10T07:44:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/herbalcare.ipa",
+                    "size": 22509115,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herbalcare_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herbalcare_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herbalcare_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herbalcare_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1998490248,
+            "name": "Driving Zone: Germany PRO",
+            "version": "42",
+            "size": 414081455,
+            "icon": "img/drivingzonegermanypro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/drivingzonegermanypro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/drivingzonegermanypro.ipa",
+            "bundleIdentifier": "com.avecreation.drivingzonegermanypro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $2.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $2.99\nتتطلب اصدار 13.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/drivingzonegermanypro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drivingzonegermanypro_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drivingzonegermanypro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drivingzonegermanypro_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drivingzonegermanypro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drivingzonegermanypro_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drivingzonegermanypro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drivingzonegermanypro_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drivingzonegermanypro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "42",
+                    "date": "2026-11-10T07:44:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/drivingzonegermanypro.ipa",
+                    "size": 414081455,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drivingzonegermanypro_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drivingzonegermanypro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drivingzonegermanypro_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drivingzonegermanypro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1923848586,
+            "name": "Draw AI",
+            "version": "2.0.0",
+            "size": 75169036,
+            "icon": "img/drawai.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/drawai.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/drawai.ipa",
+            "bundleIdentifier": "assistant.alice.draw",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- تفعيل مميزات التطبيق ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/drawai.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawai_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawai_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.0",
+                    "date": "2026-11-10T07:44:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/drawai.ipa",
+                    "size": 75169036,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawai_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawai_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawai_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/drawai_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1344651361,
+            "name": "大象签名",
+            "version": "1.1.6",
+            "size": 1878236,
+            "icon": "img/app1ea1335725.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/app1ea1335725.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/app1ea1335725.ipa",
+            "bundleIdentifier": "lq.pdfswan",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $129.99\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $129.99\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app1ea1335725.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app1ea1335725.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app1ea1335725.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.6",
+                    "date": "2026-11-10T07:44:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/app1ea1335725.ipa",
+                    "size": 1878236,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/app1ea1335725.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1837758390,
+            "name": "Merge",
+            "version": "1.0.2",
+            "size": 2073701,
+            "icon": "img/merge.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/merge.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/merge.ipa",
+            "bundleIdentifier": "co.appsofai.mergevoicememos",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $4.99\nRequires 16.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $4.99\nيتطلب اصدار 16.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/merge.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merge_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merge_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merge_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merge_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merge_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merge_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merge_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merge_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.2",
+                    "date": "2026-11-10T07:44:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/merge.ipa",
+                    "size": 2073701,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merge_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merge_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merge_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/merge_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1285018802,
+            "name": "TipFox",
+            "version": "15.0",
+            "size": 10013541,
+            "icon": "img/tipfox.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/tipfox.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/tipfox.ipa",
+            "bundleIdentifier": "com.Foxnomad.TipFoxapp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $4.99\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $4.99\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tipfox.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tipfox_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tipfox_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tipfox_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tipfox_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tipfox_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tipfox_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tipfox_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tipfox_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "15.0",
+                    "date": "2026-11-10T07:44:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/tipfox.ipa",
+                    "size": 10013541,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tipfox_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tipfox_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tipfox_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tipfox_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1732535941,
+            "name": "French Verbs",
+            "version": "3.0.1",
+            "size": 13261401,
+            "icon": "img/frenchverbs.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/frenchverbs.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/frenchverbs.ipa",
+            "bundleIdentifier": "com.geoglot.French-Verb-Blitz",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $1.99\nRequires 16.4 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $1.99\nيتطلب اصدار 16.4 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/frenchverbs.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frenchverbs_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frenchverbs_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frenchverbs_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frenchverbs_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frenchverbs_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frenchverbs_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frenchverbs_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frenchverbs_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.0.1",
+                    "date": "2026-11-10T07:43:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/frenchverbs.ipa",
+                    "size": 13261401,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frenchverbs_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frenchverbs_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frenchverbs_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/frenchverbs_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1760040655,
             "name": "HSK Level 6",
             "version": "3.0",
