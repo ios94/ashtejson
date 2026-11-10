@@ -10,6 +10,381 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1960077055,
+            "name": "Mini Legion",
+            "version": "1.0.10",
+            "size": 203546869,
+            "icon": "img/minilegion.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/minilegion.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/minilegion.ipa",
+            "bundleIdentifier": "com.minilegionen.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مكافآت بدون مشاهدة الإعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/minilegion.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minilegion_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minilegion_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minilegion_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minilegion_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minilegion_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minilegion_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minilegion_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minilegion_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.10",
+                    "date": "2026-11-10T20:16:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/minilegion.ipa",
+                    "size": 203546869,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minilegion_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minilegion_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minilegion_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/minilegion_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1336109549,
+            "name": "Match Heroes - RPG",
+            "version": "4.3.0",
+            "size": 467112422,
+            "icon": "img/matchheroesrpg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/matchheroesrpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/matchheroesrpg.ipa",
+            "bundleIdentifier": "com.tapugo.matchheroes",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مكافآت ذهبية غير محدودة في المعركة\r\n- صحة غير محدودة\r\n- قوة هجوم غير محدودة\r\n- قوة دفاع غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/matchheroesrpg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchheroesrpg_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchheroesrpg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchheroesrpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchheroesrpg_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchheroesrpg_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchheroesrpg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchheroesrpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchheroesrpg_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.3.0",
+                    "date": "2026-11-10T20:16:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/matchheroesrpg.ipa",
+                    "size": 467112422,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchheroesrpg_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchheroesrpg_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchheroesrpg_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/matchheroesrpg_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1651443167,
+            "name": "Epic Shaman Battle",
+            "version": "1.5.2",
+            "size": 532707255,
+            "icon": "img/epicshamanbattle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/epicshamanbattle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/epicshamanbattle.ipa",
+            "bundleIdentifier": "com.percent.ios.p4defense",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لاعب لا يتضرر\r\n- مضاعف الضرر",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/epicshamanbattle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicshamanbattle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicshamanbattle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicshamanbattle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicshamanbattle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicshamanbattle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicshamanbattle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicshamanbattle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicshamanbattle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.2",
+                    "date": "2026-11-10T20:15:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/epicshamanbattle.ipa",
+                    "size": 532707255,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicshamanbattle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicshamanbattle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicshamanbattle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/epicshamanbattle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1428883362,
+            "name": "Elemental Battle",
+            "version": "1.1.5",
+            "size": 353929954,
+            "icon": "img/elementalbattle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/elementalbattle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/elementalbattle.ipa",
+            "bundleIdentifier": "com.gamifystudio.elementalbattle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Coins\n\n- عملات غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/elementalbattle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementalbattle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementalbattle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementalbattle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementalbattle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementalbattle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementalbattle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementalbattle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementalbattle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.5",
+                    "date": "2026-11-10T20:15:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/elementalbattle.ipa",
+                    "size": 353929954,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementalbattle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementalbattle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementalbattle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/elementalbattle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1335255772,
+            "name": "HEAVENHELLS",
+            "version": "1.0.032407",
+            "size": 551754119,
+            "icon": "img/heavenhells.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/heavenhells.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/heavenhells.ipa",
+            "bundleIdentifier": "com.clovergames.avalonclient",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Infinite Power Mode\n- No Skill Cooldown\n- No Skill Cost\n- Slow Motion\n- Battle Speed Modifier UnlockedVIP\n- Auto Win\n\n- وضع الطاقة اللانهائي\n- لا يوجد تهدئة المهارة\n- لا تكلفة المهارة\n- الحركة البطيئة\n- معدل سرعة المعركة مفتوح VIP\n- فوز تلقائي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heavenhells.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heavenhells.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heavenhells.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.032407",
+                    "date": "2026-11-10T20:15:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/heavenhells.ipa",
+                    "size": 551754119,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heavenhells.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1329263359,
+            "name": "Stay Room: SilentCastle Origin",
+            "version": "1.50.021",
+            "size": 334447439,
+            "icon": "img/stayroomsilentcastleorigin.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/stayroomsilentcastleorigin.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/stayroomsilentcastleorigin.ipa",
+            "bundleIdentifier": "com.keepquiet.stayroom",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات لا نهائية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/stayroomsilentcastleorigin.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stayroomsilentcastleorigin_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stayroomsilentcastleorigin_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stayroomsilentcastleorigin_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stayroomsilentcastleorigin_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stayroomsilentcastleorigin_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stayroomsilentcastleorigin_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stayroomsilentcastleorigin_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stayroomsilentcastleorigin_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.50.021",
+                    "date": "2026-11-10T20:14:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/stayroomsilentcastleorigin.ipa",
+                    "size": 334447439,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stayroomsilentcastleorigin_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stayroomsilentcastleorigin_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stayroomsilentcastleorigin_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/stayroomsilentcastleorigin_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1760086302,
+            "name": "Soul Hunter Idle",
+            "version": "9.1.0",
+            "size": 743835889,
+            "icon": "img/soulhunteridle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/soulhunteridle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/soulhunteridle.ipa",
+            "bundleIdentifier": "com.ryonggame.soulhunteridle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لاعب لا يتضرر\r\n\r\n- قتل بضربة واحدة\r\n\r\n- لا يوجد تهدئة للمهارة\r\n\r\n-- لا إعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/soulhunteridle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulhunteridle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulhunteridle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulhunteridle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulhunteridle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulhunteridle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulhunteridle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulhunteridle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulhunteridle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "9.1.0",
+                    "date": "2026-11-10T20:14:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/soulhunteridle.ipa",
+                    "size": 743835889,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulhunteridle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulhunteridle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulhunteridle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulhunteridle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1557223679,
+            "name": "Baseball Boy",
+            "version": "2.0.6",
+            "size": 497960980,
+            "icon": "img/baseballboy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/baseballboy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/baseballboy.ipa",
+            "bundleIdentifier": "com.itchmedia.ta3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- تجميد النقود\r\n- تجميد الجواهر\r\n- خدمة مميزة بدون إعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/baseballboy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballboy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballboy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballboy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballboy_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballboy_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballboy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballboy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballboy_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.6",
+                    "date": "2026-11-10T20:13:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/baseballboy.ipa",
+                    "size": 497960980,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballboy_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballboy_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballboy_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballboy_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1989967218,
             "name": "Apes TD",
             "version": "0.1.995",
