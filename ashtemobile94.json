@@ -10,6 +10,480 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1151402505,
+            "name": "PracticeMeter",
+            "version": "1.5.0",
+            "size": 14936879,
+            "icon": "img/practicemeter.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/practicemeter.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/practicemeter.ipa",
+            "bundleIdentifier": "com.adamballlif.PracticeRings",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $3.99\nRequires 26.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $3.99\nيتطلب اصدار 26.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/practicemeter.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/practicemeter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/practicemeter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/practicemeter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/practicemeter_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/practicemeter_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/practicemeter_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/practicemeter_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/practicemeter_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.0",
+                    "date": "2026-11-10T02:03:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/practicemeter.ipa",
+                    "size": 14936879,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/practicemeter_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/practicemeter_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/practicemeter_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/practicemeter_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1777493017,
+            "name": "Calculator HD",
+            "version": "9.6",
+            "size": 40685067,
+            "icon": "img/calculatorhd.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/calculatorhd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/calculatorhd.ipa",
+            "bundleIdentifier": "com.easeware.Calculator-Easy-HD",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $1.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $1.99\nيتطلب اصدار 13.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/calculatorhd.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/calculatorhd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/calculatorhd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/calculatorhd_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/calculatorhd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/calculatorhd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/calculatorhd_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "9.6",
+                    "date": "2026-11-10T02:03:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/calculatorhd.ipa",
+                    "size": 40685067,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/calculatorhd_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/calculatorhd_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/calculatorhd_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1208713466,
+            "name": "Baseball '01",
+            "version": "1.4.31",
+            "size": 375919734,
+            "icon": "img/baseball01.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/baseball01.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/baseball01.ipa",
+            "bundleIdentifier": "com.megacatstudios.backyardbaseball01",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $9.99\nRequires 15.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $9.99\nتتطلب اصدار 15.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/baseball01.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseball01_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseball01_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseball01_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseball01_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseball01_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseball01_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseball01_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseball01_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.31",
+                    "date": "2026-11-10T02:02:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/baseball01.ipa",
+                    "size": 375919734,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseball01_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseball01_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseball01_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseball01_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1613965209,
+            "name": "Mystery Tales: The Reel Horror",
+            "version": "1.5.15",
+            "size": 988348981,
+            "icon": "img/mysterytalesthereelhorror.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/mysterytalesthereelhorror.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/mysterytalesthereelhorror.ipa",
+            "bundleIdentifier": "com.dominigames.mysterytalesthereelhorror.ios.fremium",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mysterytalesthereelhorror.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterytalesthereelhorror_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterytalesthereelhorror_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterytalesthereelhorror_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterytalesthereelhorror_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterytalesthereelhorror_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterytalesthereelhorror_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterytalesthereelhorror_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterytalesthereelhorror_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.15",
+                    "date": "2026-11-10T02:02:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/mysterytalesthereelhorror.ipa",
+                    "size": 988348981,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterytalesthereelhorror_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterytalesthereelhorror_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterytalesthereelhorror_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mysterytalesthereelhorror_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1757676663,
+            "name": "Secret City 1 - F2P",
+            "version": "2.0.2",
+            "size": 1331201457,
+            "icon": "img/secretcity1f2p.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/secretcity1f2p.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/secretcity1f2p.ipa",
+            "bundleIdentifier": "com.dominigames.secretcity1.ios.free2play",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/secretcity1f2p.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretcity1f2p_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretcity1f2p_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretcity1f2p_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretcity1f2p_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretcity1f2p_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretcity1f2p_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretcity1f2p_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretcity1f2p_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.2",
+                    "date": "2026-11-10T02:01:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/secretcity1f2p.ipa",
+                    "size": 1331201457,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretcity1f2p_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretcity1f2p_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretcity1f2p_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/secretcity1f2p_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1341151264,
+            "name": "DayCalc",
+            "version": "12.8",
+            "size": 67858226,
+            "icon": "img/daycalc.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/daycalc.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/daycalc.ipa",
+            "bundleIdentifier": "com.hcsystem.calculator",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $1.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $1.99\nيتطلب اصدار 13.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/daycalc.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daycalc_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daycalc_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daycalc_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daycalc_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daycalc_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daycalc_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daycalc_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daycalc_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "12.8",
+                    "date": "2026-11-10T02:00:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/daycalc.ipa",
+                    "size": 67858226,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daycalc_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daycalc_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daycalc_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/daycalc_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1133876868,
+            "name": "alfacast x",
+            "version": "6.5",
+            "size": 54913017,
+            "icon": "img/alfacastx.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/alfacastx.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/alfacastx.ipa",
+            "bundleIdentifier": "net.x.alfacast.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $6.99\nRequires 14.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $6.99\nيتطلب اصدار 14.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/alfacastx.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alfacastx_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alfacastx_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alfacastx_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alfacastx_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alfacastx_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alfacastx_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alfacastx_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alfacastx_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.5",
+                    "date": "2026-11-10T02:00:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/alfacastx.ipa",
+                    "size": 54913017,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alfacastx_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alfacastx_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alfacastx_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alfacastx_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1118003017,
+            "name": "Eye Charts",
+            "version": "3.4.1",
+            "size": 19375961,
+            "icon": "img/eyecharts.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/eyecharts.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/eyecharts.ipa",
+            "bundleIdentifier": "com.fonlow.va",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 14.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 14.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/eyecharts.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyecharts_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyecharts_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyecharts_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyecharts_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyecharts_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyecharts_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyecharts_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyecharts_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.4.1",
+                    "date": "2026-11-10T01:59:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/eyecharts.ipa",
+                    "size": 19375961,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyecharts_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyecharts_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyecharts_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/eyecharts_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1246324359,
+            "name": "BFT",
+            "version": "14.5",
+            "size": 104794071,
+            "icon": "img/bft.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/bft.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/bft.ipa",
+            "bundleIdentifier": "io.ideamp.BFT",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $3.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $3.99\nيتطلب اصدار 12.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bft.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bft_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bft_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bft_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bft_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bft_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bft_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bft_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bft_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "14.5",
+                    "date": "2026-11-10T01:59:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/bft.ipa",
+                    "size": 104794071,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bft_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bft_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bft_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bft_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1627435732,
+            "name": "JustQuietCamera",
+            "version": "1.8.0",
+            "size": 935674,
+            "icon": "img/justquietcamera.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/justquietcamera.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/justquietcamera.ipa",
+            "bundleIdentifier": "jp.JustQuietCamera",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $3.99\nRequires 18.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $3.99\nيتطلب اصدار 18.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/justquietcamera.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/justquietcamera_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/justquietcamera_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/justquietcamera_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/justquietcamera_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/justquietcamera_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/justquietcamera_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.8.0",
+                    "date": "2026-11-10T01:59:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/justquietcamera.ipa",
+                    "size": 935674,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/justquietcamera_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/justquietcamera_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/justquietcamera_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1322215232,
             "name": "Ruby",
             "version": "1.20",
