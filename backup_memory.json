@@ -10,6 +10,438 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1448192019,
+            "name": "Idle Zombie",
+            "version": "1.11.6",
+            "size": 443479642,
+            "icon": "img/idlezombie.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/idlezombie.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/idlezombie.ipa",
+            "bundleIdentifier": "com.eagle.idle.zombie",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لوحة التصحيح (يمكنك التحكم في كل جانب من جوانب اللعبة والموارد وغاشا والحيوانات الأليفة والوقت والمزيد)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlezombie.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlezombie_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlezombie_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlezombie_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlezombie_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlezombie_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlezombie_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlezombie_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlezombie_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.11.6",
+                    "date": "2026-11-10T19:50:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/idlezombie.ipa",
+                    "size": 443479642,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlezombie_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlezombie_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlezombie_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlezombie_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1561820792,
+            "name": "Block Pals",
+            "version": "1.1.0",
+            "size": 547066543,
+            "icon": "img/blockpals.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/blockpals.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/blockpals.ipa",
+            "bundleIdentifier": "io.voodoo.blockpals",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Level Manager\n- Infinite Currencies\n- Infinite Boosters\n- Infinite Lifes\n- No Ads\n\n- مدير المستوى\n- عملات غير محدودة\n- معززات لا نهائية\n- حياة لا حصر لها\n- بدون إعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blockpals.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpals_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpals_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpals_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpals_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpals_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpals_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpals_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpals_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.0",
+                    "date": "2026-11-10T19:49:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/blockpals.ipa",
+                    "size": 547066543,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpals_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpals_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpals_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockpals_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1395810321,
+            "name": "CSC Basma",
+            "version": "1.5.9",
+            "size": 89495736,
+            "icon": "img/cscbasma.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/cscbasma.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/cscbasma.ipa",
+            "bundleIdentifier": "kw.gov.csc.fingerprint",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "التطبيق الاصلي مدمج مع أداة FakeGPS Pro\nأداة قوية تساعد على تغيير الموقع الجغرافي داخل التطبيقات بشكل عام، وخصوصًا في تطبيقات الحضور والانصراف. (الاداة مدفوعة)\n\n🔹 المميزات:\n• تعمل بدون الحاجة إلى جلبريك\n• إمكانية حفظ عدة مواقع في قسم “المفضلة”\n• إخفاء زر الأداة من داخل التطبيق\n\n- يدعم جميع الاصدارات \n- يتطلب شراء كود لتفعيل المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cscbasma.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cscbasma_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cscbasma_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cscbasma_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cscbasma_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cscbasma_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cscbasma_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cscbasma_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cscbasma_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.9",
+                    "date": "2026-11-10T19:49:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/cscbasma.ipa",
+                    "size": 89495736,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cscbasma_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cscbasma_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cscbasma_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cscbasma_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1258179433,
+            "name": "Circular Cone PRO",
+            "version": "2.1.4",
+            "size": 33444804,
+            "icon": "img/circularconepro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/circularconepro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/circularconepro.ipa",
+            "bundleIdentifier": "com.gslstudios.Solving-Math-circular-cone-pro-ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق علمي وتعليمي مصمم لحساب المساحات والأحجام والخصائص الهندسية للأشكال الدائرية والمخروطية بدقة وسرعة.\n- الحد الأدنى للإصدار: iOS 15.0\n- تطبيق مدفوع بقيمة : $2.99",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/circularconepro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circularconepro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circularconepro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circularconepro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circularconepro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circularconepro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circularconepro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circularconepro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circularconepro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.4",
+                    "date": "2026-11-10T19:49:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/circularconepro.ipa",
+                    "size": 33444804,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circularconepro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circularconepro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circularconepro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/circularconepro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1573532469,
+            "name": "PushFit Pro",
+            "version": "2.8.3",
+            "size": 32257006,
+            "icon": "img/pushfitpro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/pushfitpro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/pushfitpro.ipa",
+            "bundleIdentifier": "com.Marz-Software.iPush-Up-Counter-Pro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق PushFit Pro هو عداد ومُتتبّع تمارين الضغط (Push-Ups) ذكي وسهل الاستخدام.\n- الحد الأدنى للإصدار: iOS 15.0\n-  تطبيق مدفوع بقيمة : $2.99",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pushfitpro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushfitpro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushfitpro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushfitpro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushfitpro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushfitpro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushfitpro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushfitpro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushfitpro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.8.3",
+                    "date": "2026-11-10T19:48:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/pushfitpro.ipa",
+                    "size": 32257006,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushfitpro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushfitpro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushfitpro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pushfitpro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1723875745,
+            "name": "iLocation+",
+            "version": "3.80",
+            "size": 2119636,
+            "icon": "img/ilocation.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/ilocation.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/ilocation.ipa",
+            "bundleIdentifier": "net.echoline.LocationPin",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق يُستخدم لمشاركة موقعك الجغرافي (GPS) مع الآخرين في الوقت الفعلي\n-  الحد الأدنى للإصدار: iOS 13.0\n-  تطبيق مدفوع بقيمة : $0.99",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ilocation.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ilocation_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ilocation_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ilocation_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ilocation_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ilocation_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ilocation_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ilocation_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ilocation_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.80",
+                    "date": "2026-11-10T19:48:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/ilocation.ipa",
+                    "size": 2119636,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ilocation_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ilocation_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ilocation_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ilocation_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1592677026,
+            "name": "NiceShots",
+            "version": "1.0.20",
+            "size": 84336371,
+            "icon": "img/niceshots.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/niceshots.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/niceshots.ipa",
+            "bundleIdentifier": "com.weilan.niceshots",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لإنشاء موديلات (mockups) احترافية من الصور أو لقطات الشاشة، حيث يمكنك وضع مشروعك (موقع، تطبيق، تصميم) داخل أطر أجهزة مختلفة أو فيديوهات وتخصيص الخلفيات والفيديوهات بسهولة.\n- الحد الأدنى للإصدار: iOS 14.0\n- مفتوح المميزات / شراء ثم إلغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/niceshots.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/niceshots_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/niceshots_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/niceshots_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/niceshots_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/niceshots_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/niceshots_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/niceshots_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/niceshots_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.20",
+                    "date": "2026-11-10T19:48:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/niceshots.ipa",
+                    "size": 84336371,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/niceshots_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/niceshots_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/niceshots_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/niceshots_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1463493603,
+            "name": "Due",
+            "version": "25.4",
+            "size": 58093503,
+            "icon": "img/due.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/due.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/due.ipa",
+            "bundleIdentifier": "com.phocusllp.due",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق منبه ذكي للتذكيرات .\n تطبيق مدفوع بقيمة : $7.99",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/due.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/due_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/due_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/due_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/due_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/due_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/due_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/due_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/due_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "25.4",
+                    "date": "2026-11-10T19:48:45+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/due.ipa",
+                    "size": 58093503,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/due_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/due_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/due_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/due_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1387705390,
+            "name": "Trivia Crack",
+            "version": "3.333.1",
+            "size": 343863580,
+            "icon": "img/triviacrack.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/triviacrack.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/triviacrack.ipa",
+            "bundleIdentifier": "com.etermax.preguntados.pro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لعبة مسابقات معلومات عامة، تدور العجلة وتجيب على أسئلة في 6 فئات مختلفة . \n-  الحد الأدنى للإصدار: iOS 15.0\n- تطبيق مدفوع بقيمة : $6.99",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/triviacrack.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviacrack_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviacrack_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviacrack_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviacrack_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviacrack_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviacrack_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviacrack_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviacrack_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.333.1",
+                    "date": "2026-11-10T19:48:40+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/triviacrack.ipa",
+                    "size": 343863580,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviacrack_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviacrack_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviacrack_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/triviacrack_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1398817154,
             "name": "ContactCleaner",
             "version": "3.1.6",
