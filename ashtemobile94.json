@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1616513288,
+            "name": "GoPix",
+            "version": "1.3.0",
+            "size": 58524078,
+            "icon": "img/gopix.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/gopix.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/gopix.ipa",
+            "bundleIdentifier": "com.everimaging.gopix",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق اضافة تاثيرات على الصور - مدفوع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gopix.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gopix_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gopix_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gopix_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gopix_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gopix_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gopix_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gopix_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gopix_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.0",
+                    "date": "2026-11-10T15:54:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/gopix.ipa",
+                    "size": 58524078,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gopix_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gopix_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gopix_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gopix_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1161255579,
+            "name": "Resume Builder",
+            "version": "1.2.9",
+            "size": 223233677,
+            "icon": "img/resumebuilder.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/resumebuilder.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/resumebuilder.ipa",
+            "bundleIdentifier": "com.tapuniverse.resumebuilder",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 14.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 14.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/resumebuilder.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resumebuilder_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resumebuilder_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resumebuilder_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resumebuilder_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resumebuilder_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resumebuilder_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resumebuilder_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resumebuilder_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.9",
+                    "date": "2026-11-10T15:54:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/resumebuilder.ipa",
+                    "size": 223233677,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resumebuilder_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resumebuilder_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resumebuilder_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/resumebuilder_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1988188859,
+            "name": "SmartPlaylist",
+            "version": "13.0400",
+            "size": 1498759,
+            "icon": "img/smartplaylist.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/smartplaylist.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/smartplaylist.ipa",
+            "bundleIdentifier": "SmartPlaylist",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $3.99\nRequires 15.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $3.99\nيتطلب اصدار 15.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smartplaylist.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartplaylist_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartplaylist_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartplaylist_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartplaylist_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartplaylist_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartplaylist_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "13.0400",
+                    "date": "2026-11-10T15:53:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/smartplaylist.ipa",
+                    "size": 1498759,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartplaylist_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartplaylist_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartplaylist_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1120210172,
+            "name": "Weight Tracker - مراقب الوزن",
+            "version": "4.0",
+            "size": 22550379,
+            "icon": "img/weighttracker.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/weighttracker.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/weighttracker.ipa",
+            "bundleIdentifier": "com.iappndroid.myweighttrackerarabicfree",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لمراقب الوزن .\n- بدون اعلانات .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/weighttracker.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weighttracker_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weighttracker_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weighttracker_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weighttracker_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weighttracker_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weighttracker_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weighttracker_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weighttracker_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.0",
+                    "date": "2026-11-10T15:53:50+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/weighttracker.ipa",
+                    "size": 22550379,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weighttracker_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weighttracker_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weighttracker_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/weighttracker_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1649706843,
+            "name": "uMake",
+            "version": "3.25.1",
+            "size": 185312017,
+            "icon": "img/umake.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/umake.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/umake.ipa",
+            "bundleIdentifier": "xyz.umake.umakeapp",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لصناعة انميشن 3D",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/umake.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umake_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umake_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umake_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umake_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umake_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umake_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umake_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umake_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.25.1",
+                    "date": "2026-11-10T15:53:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/umake.ipa",
+                    "size": 185312017,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umake_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umake_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umake_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/umake_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1392256826,
+            "name": "Video Cut",
+            "version": "2.1.1",
+            "size": 9752334,
+            "icon": "img/videocut.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/videocut.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/videocut.ipa",
+            "bundleIdentifier": "com.zwj.videocut",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق للتعديل على الفيديوهات ، مع كامل المزايا .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/videocut.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videocut_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videocut_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videocut_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videocut_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videocut_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videocut_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videocut_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videocut_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.1",
+                    "date": "2026-11-10T15:53:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/videocut.ipa",
+                    "size": 9752334,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videocut_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videocut_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videocut_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/videocut_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1652227428,
+            "name": "Dolly Zoom",
+            "version": "1.2",
+            "size": 17563696,
+            "icon": "img/dollyzoom.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/dollyzoom.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/dollyzoom.ipa",
+            "bundleIdentifier": "me.nanolife.dollyzoom",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "زوم احترافي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/dollyzoom.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dollyzoom_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dollyzoom_screen_2.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dollyzoom_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dollyzoom_screen_2.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2",
+                    "date": "2026-11-10T15:53:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/dollyzoom.ipa",
+                    "size": 17563696,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dollyzoom_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/dollyzoom_screen_2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1449582316,
+            "name": "Wallpaper Tree",
+            "version": "6.0",
+            "size": 44983270,
+            "icon": "img/wallpapertree.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/wallpapertree.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/wallpapertree.ipa",
+            "bundleIdentifier": "livintis.com.wallpapermonster",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق لخلفيات الجوال بدقة عالية",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wallpapertree.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpapertree_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpapertree_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpapertree_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpapertree_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpapertree_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpapertree_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpapertree_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpapertree_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.0",
+                    "date": "2026-11-10T15:53:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/wallpapertree.ipa",
+                    "size": 44983270,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpapertree_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpapertree_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpapertree_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpapertree_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1345107935,
+            "name": "TWW-Eight",
+            "version": "10.7.0",
+            "size": 277470852,
+            "icon": "img/twweight.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/twweight.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/twweight.ipa",
+            "bundleIdentifier": "com.domustechnica.tww",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "TWW-Eight",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/twweight.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twweight_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twweight_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twweight_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twweight_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twweight_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twweight_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twweight_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twweight_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "10.7.0",
+                    "date": "2026-11-10T15:53:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/twweight.ipa",
+                    "size": 277470852,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twweight_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twweight_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twweight_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twweight_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1409736931,
+            "name": "Designer",
+            "version": "1.10.3",
+            "size": 1471169784,
+            "icon": "img/designer.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/designer.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/designer.ipa",
+            "bundleIdentifier": "com.seriflabs.affinitydesigner.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق للتصميم شبيه للفوتوشوب.\n- مدفوع بالاب ستور .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/designer.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designer_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designer_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designer_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designer_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designer_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designer_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.10.3",
+                    "date": "2026-11-10T15:53:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/designer.ipa",
+                    "size": 1471169784,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designer_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designer_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designer_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/designer_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1939788699,
             "name": "Ripl++",
             "version": "4.0.8",
