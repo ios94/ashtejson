@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1654785099,
+            "name": "Enki",
+            "version": "2.36.8",
+            "size": 26879316,
+            "icon": "img/enki.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/enki.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/enki.ipa",
+            "bundleIdentifier": "PHCXZHD53T.com.enki.insights",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "#مطلوب\n\nلتعلم البرمجة بسهولة\n\nمفتوح المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/enki.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enki_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enki_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enki_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enki_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enki_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enki_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enki_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enki_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.36.8",
+                    "date": "2026-11-10T16:01:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/enki.ipa",
+                    "size": 26879316,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enki_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enki_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enki_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/enki_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1222016145,
+            "name": "Busuu",
+            "version": "28.18.0",
+            "size": 238224453,
+            "icon": "img/busuu.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/busuu.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/busuu.ipa",
+            "bundleIdentifier": "com.busuu.english.app",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "#مطلوب\n\nلتعلم اللغات بالذكاء الاصطناعي\n\nمفتوح المميزات - سجل دخول باي حساب",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/busuu.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busuu_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busuu_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busuu_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busuu_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busuu_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busuu_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busuu_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busuu_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "28.18.0",
+                    "date": "2026-11-10T16:01:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/busuu.ipa",
+                    "size": 238224453,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busuu_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busuu_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busuu_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/busuu_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1616131739,
+            "name": "System Info",
+            "version": "1.4",
+            "size": 13135720,
+            "icon": "img/systeminfo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/systeminfo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/systeminfo.ipa",
+            "bundleIdentifier": "com.shakti.systeminfo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يعطيك معلومات مفصلة عن جهازك .\n- لازالة الاعلانات اضغط شراء ثم الغاء .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/systeminfo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/systeminfo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/systeminfo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/systeminfo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/systeminfo_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/systeminfo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/systeminfo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/systeminfo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/systeminfo_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4",
+                    "date": "2026-11-10T16:01:31+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/systeminfo.ipa",
+                    "size": 13135720,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/systeminfo_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/systeminfo_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/systeminfo_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/systeminfo_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1240004001,
+            "name": "Code Runner",
+            "version": "1.4.7",
+            "size": 79841231,
+            "icon": "img/coderunner.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/coderunner.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/coderunner.ipa",
+            "bundleIdentifier": "com.markodevcic.code-runner",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "يمكنك كتابة وتحرير وتجميع وتشغيل التعليمات البرمجية لأكثر من 30 لغة برمجة أثناء التنقل. محرر ترميز مدعوم بالذكاء الاصطناعي. \n\n مفتوح المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/coderunner.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coderunner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coderunner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coderunner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coderunner_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coderunner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coderunner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coderunner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coderunner_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.7",
+                    "date": "2026-11-10T16:01:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/coderunner.ipa",
+                    "size": 79841231,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coderunner_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coderunner_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coderunner_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/coderunner_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1870679439,
+            "name": "PDF Merger",
+            "version": "1.8",
+            "size": 25990512,
+            "icon": "img/pdfmerger.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/pdfmerger.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/pdfmerger.ipa",
+            "bundleIdentifier": "com.pdfmerger.abstractstudio",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لدمج نماذج PDF .\n- الشراء مفعل .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pdfmerger.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfmerger_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfmerger_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfmerger_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfmerger_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfmerger_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfmerger_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfmerger_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfmerger_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.8",
+                    "date": "2026-11-10T16:01:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/pdfmerger.ipa",
+                    "size": 25990512,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfmerger_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfmerger_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfmerger_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pdfmerger_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1380760552,
+            "name": "Praktika",
+            "version": "3.24.3",
+            "size": 166149120,
+            "icon": "img/praktika.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/praktika.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/praktika.ipa",
+            "bundleIdentifier": "ai.praktika.app",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "#مطلوب\n- لتعلم اللغات بإستخدام الذكاء الاصطناعي.\n- مفعل إشتراك Premium.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/praktika.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/praktika_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/praktika_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/praktika_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/praktika_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/praktika_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/praktika_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/praktika_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/praktika_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.24.3",
+                    "date": "2026-11-10T16:01:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/praktika.ipa",
+                    "size": 166149120,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/praktika_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/praktika_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/praktika_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/praktika_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1354918682,
+            "name": "Evoke",
+            "version": "2.28.0",
+            "size": 209357218,
+            "icon": "img/evoke.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/evoke.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/evoke.ipa",
+            "bundleIdentifier": "ai.photo.enhancer.ig.tiktok.editor.remini.unblur.pixelup.hd.free",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتعديل الصور بالذكاء الاصطناعي . \n\nملاحظة : فعل الشراء من المنيو .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evoke.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evoke_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evoke_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evoke_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evoke_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evoke_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evoke_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evoke_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evoke_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.28.0",
+                    "date": "2026-11-10T16:01:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/evoke.ipa",
+                    "size": 209357218,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evoke_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evoke_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evoke_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evoke_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1541954018,
+            "name": "SpeakWell",
+            "version": "1.1.2",
+            "size": 112399462,
+            "icon": "img/speakwell.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/speakwell.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/speakwell.ipa",
+            "bundleIdentifier": "co.appnation.speakwell",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لتعلم اللغات .\n- الشراء مفعل .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/speakwell.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speakwell_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speakwell_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speakwell_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speakwell_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speakwell_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speakwell_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speakwell_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speakwell_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.2",
+                    "date": "2026-11-10T16:00:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/speakwell.ipa",
+                    "size": 112399462,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speakwell_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speakwell_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speakwell_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/speakwell_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1284615602,
+            "name": "Acrobat",
+            "version": "24.12.02",
+            "size": 433712290,
+            "icon": "img/acrobat.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/acrobat.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/acrobat.ipa",
+            "bundleIdentifier": "com.adobe.Adobe-Reader",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق Acrobat من سلسلة Adobe \n\n- مفتوح المميزات\nاذا كرش معك ادخل مره ثانية وبيتفعل معك البريميوم",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/acrobat.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acrobat_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acrobat_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acrobat_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acrobat_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acrobat_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acrobat_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acrobat_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acrobat_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "24.12.02",
+                    "date": "2026-11-10T16:00:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/acrobat.ipa",
+                    "size": 433712290,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acrobat_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acrobat_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acrobat_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/acrobat_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1947772736,
+            "name": "SnapIQ",
+            "version": "1.0.3",
+            "size": 91916720,
+            "icon": "img/snapiq.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/snapiq.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/snapiq.ipa",
+            "bundleIdentifier": "co.appnation.snapiq",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "لحل المسائل . \n- الشراء مفعل .",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/snapiq.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapiq_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapiq_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapiq_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapiq_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapiq_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapiq_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapiq_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapiq_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.3",
+                    "date": "2026-11-10T16:00:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/snapiq.ipa",
+                    "size": 91916720,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapiq_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapiq_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapiq_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/snapiq_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1192274638,
             "name": "iSH",
             "version": "1.3.2",
