@@ -10,6 +10,477 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1962548405,
+            "name": "Preseters",
+            "version": "2.0.7",
+            "size": 48003852,
+            "icon": "img/preseters.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/preseters.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/preseters.ipa",
+            "bundleIdentifier": "com.dpmw.preseters",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "افضل تطبيق لعدسات Lightroom.\n- مفعل مميزات Premium.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/preseters.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/preseters_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/preseters_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/preseters_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/preseters_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/preseters_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/preseters_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/preseters_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/preseters_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.7",
+                    "date": "2026-11-10T16:19:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/preseters.ipa",
+                    "size": 48003852,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/preseters_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/preseters_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/preseters_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/preseters_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1211903111,
+            "name": "Muse",
+            "version": "1.0.77",
+            "size": 101880382,
+            "icon": "img/muse.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/muse.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/muse.ipa",
+            "bundleIdentifier": "com.nero.aigc.muse.ai.art",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "توليد صور بالذكاء الاصطناعي.\n- مفتوح المميزات.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/muse.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/muse_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/muse_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/muse_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/muse_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/muse_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/muse_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/muse_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/muse_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.77",
+                    "date": "2026-11-10T16:19:35+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/muse.ipa",
+                    "size": 101880382,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/muse_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/muse_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/muse_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/muse_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1285615174,
+            "name": "iChan",
+            "version": "1.21.11291953",
+            "size": 113090958,
+            "icon": "img/ichan.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/ichan.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/ichan.ipa",
+            "bundleIdentifier": "com.astafiev.app",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مفتوح المصدر",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ichan.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ichan.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ichan.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.21.11291953",
+                    "date": "2026-11-10T16:19:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/ichan.ipa",
+                    "size": 113090958,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ichan.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1889871484,
+            "name": "QRStudioPro",
+            "version": "6.2.6",
+            "size": 71241797,
+            "icon": "img/qrstudiopro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/qrstudiopro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/qrstudiopro.ipa",
+            "bundleIdentifier": "com.vdreamerteam.crazyscanpro",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "محول الروابط الى اكواد QR",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/qrstudiopro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrstudiopro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrstudiopro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrstudiopro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrstudiopro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrstudiopro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrstudiopro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrstudiopro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrstudiopro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.2.6",
+                    "date": "2026-11-10T16:19:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/qrstudiopro.ipa",
+                    "size": 71241797,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrstudiopro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrstudiopro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrstudiopro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/qrstudiopro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1928592289,
+            "name": "Voice AI",
+            "version": "2.0",
+            "size": 37592498,
+            "icon": "img/voiceai.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/voiceai.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/voiceai.ipa",
+            "bundleIdentifier": "com.neutronlabs.voiceai.VoiceAI",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "إنشاء اصوات باستخدام الذكاء الاصطناعي.\n- مفتوح المميزات.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/voiceai.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voiceai_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voiceai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voiceai_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voiceai_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voiceai_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voiceai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voiceai_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voiceai_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0",
+                    "date": "2026-11-10T16:19:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/voiceai.ipa",
+                    "size": 37592498,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voiceai_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voiceai_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voiceai_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/voiceai_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1636899031,
+            "name": "GPT",
+            "version": "2.252",
+            "size": 73124268,
+            "icon": "img/gpt.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/gpt.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/gpt.ipa",
+            "bundleIdentifier": "com.chatgtp.gpt-3.Chat-GPT",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "مميزات PRO مفعلة تلقائياً.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gpt.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpt_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpt_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpt_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpt_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpt_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpt_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpt_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpt_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.252",
+                    "date": "2026-11-10T16:19:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/gpt.ipa",
+                    "size": 73124268,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpt_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpt_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpt_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gpt_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1145208258,
+            "name": "Linkjar",
+            "version": "1.8",
+            "size": 6831651,
+            "icon": "img/linkjar.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/linkjar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/linkjar.ipa",
+            "bundleIdentifier": "ventures.bench.linkjar-ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "#مطلوب\n- لاضافة صفحة لكل روابطك الخاصة اونلاين.\n- مفتوح جميع المميزات.\n- تغيير الثيم.\n- عدد لا محدود من الروابط.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/linkjar.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/linkjar_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/linkjar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/linkjar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/linkjar_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/linkjar_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/linkjar_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/linkjar_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/linkjar_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.8",
+                    "date": "2026-11-10T16:19:06+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/linkjar.ipa",
+                    "size": 6831651,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/linkjar_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/linkjar_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/linkjar_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/linkjar_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1144886890,
+            "name": "Nowa",
+            "version": "1.0.8",
+            "size": 50606727,
+            "icon": "img/nowa.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/nowa.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/nowa.ipa",
+            "bundleIdentifier": "com.lastseen.nowa",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "#مطلوب\n\n- لتتبع حالة ظهور الواتساب لرقم معين.\n- مفتوح جميع المميزات.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nowa.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nowa_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nowa_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nowa_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nowa_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nowa_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nowa_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nowa_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nowa_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.8",
+                    "date": "2026-11-10T16:19:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/nowa.ipa",
+                    "size": 50606727,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nowa_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nowa_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nowa_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nowa_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1960079275,
+            "name": "PostArt",
+            "version": "1.5",
+            "size": 44377163,
+            "icon": "img/postart.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/postart.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/postart.ipa",
+            "bundleIdentifier": "com.sk.postart",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "فتح البريميوم.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/postart.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postart_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postart_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postart_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postart_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postart_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postart_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postart_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postart_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.5",
+                    "date": "2026-11-10T16:18:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/postart.ipa",
+                    "size": 44377163,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postart_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postart_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postart_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/postart_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1493500286,
+            "name": "Filto",
+            "version": "4.4.3",
+            "size": 333087923,
+            "icon": "img/filto.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/filto.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/filto.ipa",
+            "bundleIdentifier": "com.pinsotech.filto",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تم فتح الاشتراك.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/filto.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filto_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filto_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filto_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filto_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filto_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filto_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filto_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filto_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.4.3",
+                    "date": "2026-11-10T16:18:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/filto.ipa",
+                    "size": 333087923,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filto_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filto_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filto_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/filto_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1779805231,
             "name": "PhotoBoost",
             "version": "1.3.6",
