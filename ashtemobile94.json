@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1428000077,
+            "name": "Tangle Jam",
+            "version": "0.0.9",
+            "size": 207864684,
+            "icon": "img/tanglejam.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/tanglejam.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/tanglejam.ipa",
+            "bundleIdentifier": "com.tangle3d.jam.untie.untangle.sewing",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tanglejam.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanglejam_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanglejam_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanglejam_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanglejam_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanglejam_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanglejam_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanglejam_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanglejam_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.9",
+                    "date": "2026-11-10T07:54:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/tanglejam.ipa",
+                    "size": 207864684,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanglejam_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanglejam_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanglejam_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tanglejam_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1314380095,
+            "name": "Moonly",
+            "version": "2.3.1",
+            "size": 249777144,
+            "icon": "img/moonly.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/moonly.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/moonly.ipa",
+            "bundleIdentifier": "com.moonly.Moonly",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "#مطلوب\n\nللدورة والتقويم القمري\n\nمفتوح المميزات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/moonly.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moonly_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moonly_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moonly_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moonly_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moonly_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moonly_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moonly_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moonly_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.3.1",
+                    "date": "2026-11-10T07:54:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/moonly.ipa",
+                    "size": 249777144,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moonly_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moonly_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moonly_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/moonly_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1206053603,
+            "name": "HouseRenovationMaster",
+            "version": "2.1",
+            "size": 192542833,
+            "icon": "img/houserenovationmaster.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/houserenovationmaster.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/houserenovationmaster.ipa",
+            "bundleIdentifier": "com.wixot.houseflip",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/houserenovationmaster.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/houserenovationmaster_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/houserenovationmaster_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/houserenovationmaster_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/houserenovationmaster_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/houserenovationmaster_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/houserenovationmaster_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/houserenovationmaster_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/houserenovationmaster_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1",
+                    "date": "2026-11-10T07:54:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/houserenovationmaster.ipa",
+                    "size": 192542833,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/houserenovationmaster_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/houserenovationmaster_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/houserenovationmaster_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/houserenovationmaster_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1490019452,
+            "name": "Fridge Sort",
+            "version": "1.2.7",
+            "size": 301099860,
+            "icon": "img/fridgesort.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/fridgesort.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/fridgesort.ipa",
+            "bundleIdentifier": "com.kaliba.fridgesort",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fridgesort.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fridgesort_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fridgesort_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fridgesort_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fridgesort_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fridgesort_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fridgesort_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fridgesort_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fridgesort_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.7",
+                    "date": "2026-11-10T07:54:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/fridgesort.ipa",
+                    "size": 301099860,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fridgesort_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fridgesort_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fridgesort_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fridgesort_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1456965416,
+            "name": "Istanbul",
+            "version": "1.2.0",
+            "size": 445129340,
+            "icon": "img/istanbul.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/istanbul.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/istanbul.ipa",
+            "bundleIdentifier": "com.acram.Istanbul",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid Game On AppStore\nPrice On AppStore: $6.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nلعبة مدفوعة في الابستور\nالسعر في الابستور $6.99\nتتطلب اصدار 13.0 وأحدث\n\n- متاحة بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/istanbul.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/istanbul_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/istanbul_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/istanbul_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/istanbul_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/istanbul_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/istanbul_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/istanbul_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/istanbul_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.0",
+                    "date": "2026-11-10T07:53:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/istanbul.ipa",
+                    "size": 445129340,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/istanbul_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/istanbul_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/istanbul_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/istanbul_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1757300166,
+            "name": "ShootNDoor",
+            "version": "0.2.3",
+            "size": 254823690,
+            "icon": "img/shootndoor.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/shootndoor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/shootndoor.ipa",
+            "bundleIdentifier": "com.DogukanKurekci.ShootNDoor",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/shootndoor.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shootndoor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shootndoor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shootndoor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shootndoor_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shootndoor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shootndoor_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shootndoor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shootndoor_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.2.3",
+                    "date": "2026-11-10T07:53:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/shootndoor.ipa",
+                    "size": 254823690,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shootndoor_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shootndoor_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shootndoor_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/shootndoor_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1488483938,
+            "name": "Riddle Labs",
+            "version": "1.1.0",
+            "size": 156089726,
+            "icon": "img/riddlelabs.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/riddlelabs.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/riddlelabs.ipa",
+            "bundleIdentifier": "com.rotatelab.riddlelabs",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/riddlelabs.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riddlelabs_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riddlelabs_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riddlelabs_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riddlelabs_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riddlelabs_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riddlelabs_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riddlelabs_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riddlelabs_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.0",
+                    "date": "2026-11-10T07:53:21+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/riddlelabs.ipa",
+                    "size": 156089726,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riddlelabs_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riddlelabs_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riddlelabs_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riddlelabs_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1970504121,
+            "name": "Bolt Sort Puzzle",
+            "version": "2.4.0",
+            "size": 176843565,
+            "icon": "img/boltsortpuzzle.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/boltsortpuzzle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/boltsortpuzzle.ipa",
+            "bundleIdentifier": "com.wixot.boltsortpuzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/boltsortpuzzle.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boltsortpuzzle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boltsortpuzzle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boltsortpuzzle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boltsortpuzzle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boltsortpuzzle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boltsortpuzzle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boltsortpuzzle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boltsortpuzzle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.4.0",
+                    "date": "2026-11-10T07:53:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/boltsortpuzzle.ipa",
+                    "size": 176843565,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boltsortpuzzle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boltsortpuzzle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boltsortpuzzle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/boltsortpuzzle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1532622039,
+            "name": "Parking Out",
+            "version": "2.2",
+            "size": 271828412,
+            "icon": "img/parkingout.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/parkingout.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/parkingout.ipa",
+            "bundleIdentifier": "com.feelcrafters.busout",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/parkingout.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parkingout_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parkingout_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parkingout_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parkingout_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parkingout_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parkingout_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parkingout_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parkingout_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.2",
+                    "date": "2026-11-10T07:52:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/parkingout.ipa",
+                    "size": 271828412,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parkingout_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parkingout_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parkingout_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/parkingout_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1476544000,
+            "name": "Make Your Robot!",
+            "version": "1.8.1",
+            "size": 182629399,
+            "icon": "img/makeyourrobot.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/makeyourrobot.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/makeyourrobot.ipa",
+            "bundleIdentifier": "com.marula.makemyexdoll",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/makeyourrobot.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makeyourrobot_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makeyourrobot_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makeyourrobot_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makeyourrobot_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makeyourrobot_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makeyourrobot_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makeyourrobot_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makeyourrobot_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.8.1",
+                    "date": "2026-11-10T07:52:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/makeyourrobot.ipa",
+                    "size": 182629399,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makeyourrobot_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makeyourrobot_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makeyourrobot_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/makeyourrobot_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1971054480,
             "name": "Transport People",
             "version": "0.21",
