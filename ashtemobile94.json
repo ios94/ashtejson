@@ -10,6 +10,342 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1716364800,
+            "name": "Telegram",
+            "version": "12.8",
+            "size": 78523770,
+            "icon": "img/telegram.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/telegram.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/telegram.ipa",
+            "bundleIdentifier": "app.teledark",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "هذا تطبيق رائع متاح فقط على Zipa",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/telegram.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegram_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegram_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegram_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegram_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegram_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegram_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegram_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegram_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "12.8",
+                    "date": "2026-11-10T21:56:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/telegram.ipa",
+                    "size": 78523770,
+                    "buildVersion": null,
+                    "minOSVersion": "13.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegram_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegram_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegram_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/telegram_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1871254465,
+            "name": "Mobile Legends: Bang Bang",
+            "version": "2.1.61",
+            "size": 371855821,
+            "icon": "img/mobilelegendsbangbang.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/mobilelegendsbangbang.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/mobilelegendsbangbang.ipa",
+            "bundleIdentifier": "com.mobile.legends",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Mobile Legends: Bang Bang",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobilelegendsbangbang.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbang_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbang_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbang_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbang_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbang_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbang_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbang_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbang_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.61",
+                    "date": "2026-11-10T21:56:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/mobilelegendsbangbang.ipa",
+                    "size": 371855821,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbang_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbang_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbang_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbang_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1377429140,
+            "name": "Mobile Legends: Bang Bang FT",
+            "version": "2.1.61",
+            "size": 371969581,
+            "icon": "img/mobilelegendsbangbangft.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/mobilelegendsbangbangft.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/mobilelegendsbangbangft.ipa",
+            "bundleIdentifier": "com.hhgame.mlbbvn",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Mobile Legends: Bang Bang FT",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mobilelegendsbangbangft.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbangft_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbangft_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbangft_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbangft_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbangft_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbangft_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbangft_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbangft_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.61",
+                    "date": "2026-11-10T21:55:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/mobilelegendsbangbangft.ipa",
+                    "size": 371969581,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbangft_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbangft_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbangft_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mobilelegendsbangbangft_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1555217753,
+            "name": "Touhou Incident Idle Clicker",
+            "version": "1.2.1",
+            "size": 221739263,
+            "icon": "img/touhouincidentidleclicker.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/touhouincidentidleclicker.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/touhouincidentidleclicker.ipa",
+            "bundleIdentifier": "jp.pluszero.ihen",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مُضاعِف الغنائم/المسقطات\r\n\r\n- Loot/Drop Multiplier",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/touhouincidentidleclicker.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/touhouincidentidleclicker_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/touhouincidentidleclicker_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/touhouincidentidleclicker_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/touhouincidentidleclicker_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/touhouincidentidleclicker_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/touhouincidentidleclicker_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/touhouincidentidleclicker_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/touhouincidentidleclicker_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.1",
+                    "date": "2026-11-10T21:55:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/touhouincidentidleclicker.ipa",
+                    "size": 221739263,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/touhouincidentidleclicker_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/touhouincidentidleclicker_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/touhouincidentidleclicker_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/touhouincidentidleclicker_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1513544735,
+            "name": "Baseball Rising Star",
+            "version": "2.1.0",
+            "size": 382948379,
+            "icon": "img/baseballrisingstar.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/baseballrisingstar.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/baseballrisingstar.ipa",
+            "bundleIdentifier": "com.baseball.rising.star",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Gems Freeze\n- Cash Freeze\n- Shard Freeze\n- Maintenance Oil Freeze\n- Talent Point Freeze\n- Energy Freeze\n- Reputation Freeze\n- === VIP ===\n- ADS PACK / Active Rewards Free\n- Gems Unlimited\n- Cash Unlimited\n- Shard Unlimited\n- Maintenance Oil Unlimited\n- Talent Point Unlimited\n- Energy Unlimited\n- Reputation Unlimited\n\n- تجميد الجواهر\n- تجميد النقد\n- تجميد الشظايا\n- صيانة تجميد الزيت\n- تجميد نقطة المواهب\n- تجميد الطاقة\n- تجميد السمعة\n- === VIP ===\n- حزمة الإعلانات / المكافآت النشطة مجانًا\n- جواهر غير محدودة\n- نقد غير محدود\n- شارد غير محدود\n- زيت الصيانة غير محدود\n- نقطة الموهبة غير محدودة\n- طاقة غير محدودة\n- سمعة غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/baseballrisingstar.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballrisingstar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballrisingstar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballrisingstar_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballrisingstar_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballrisingstar_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballrisingstar_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballrisingstar_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballrisingstar_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.0",
+                    "date": "2026-11-10T21:55:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/baseballrisingstar.ipa",
+                    "size": 382948379,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballrisingstar_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballrisingstar_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballrisingstar_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/baseballrisingstar_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1416027175,
+            "name": "BALL x PIT",
+            "version": "1.299",
+            "size": 493845556,
+            "icon": "img/ballxpit.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/ballxpit.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/ballxpit.ipa",
+            "bundleIdentifier": "com.devolverdigital.ballxpit",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- OHK \r\n- لا يموت أبدًا\r\n\r\n- OHK\r\n- God Mode / Never Die",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ballxpit.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballxpit_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballxpit_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballxpit_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballxpit_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballxpit_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballxpit_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballxpit_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballxpit_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.299",
+                    "date": "2026-11-10T21:54:48+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/ballxpit.ipa",
+                    "size": 493845556,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballxpit_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballxpit_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballxpit_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ballxpit_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1831159856,
+            "name": "PC Creator 3",
+            "version": "2.6.0",
+            "size": 1324203863,
+            "icon": "img/pccreator3.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/pccreator3.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/pccreator3.ipa",
+            "bundleIdentifier": "com.creatyglobal.pccreator3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Currencies -> Will increase instead of decrease.\n- Freeze Energy\n- Freeze Moves\n- Auto Win\n\n- عملات غير محدودة (تزيد ماتنقص).\n- تجميد الطاقة\n- تجميد التحركات\n- فوز تلقائي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pccreator3.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pccreator3_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pccreator3_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pccreator3_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pccreator3_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pccreator3_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pccreator3_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pccreator3_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pccreator3_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.6.0",
+                    "date": "2026-11-10T21:54:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/pccreator3.ipa",
+                    "size": 1324203863,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pccreator3_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pccreator3_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pccreator3_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pccreator3_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1307030438,
             "name": "ProjectTT3D (development)",
             "version": "1.0.0",
