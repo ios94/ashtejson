@@ -10,6 +10,474 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1654469613,
+            "name": "Heircipe",
+            "version": "1.0",
+            "size": 1267090,
+            "icon": "img/heircipe.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/heircipe.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/heircipe.ipa",
+            "bundleIdentifier": "com.marcotini.Heircipe",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 17.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 17.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/heircipe.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heircipe_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heircipe_screen_2.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heircipe_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heircipe_screen_2.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2026-11-10T03:55:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/heircipe.ipa",
+                    "size": 1267090,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heircipe_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heircipe_screen_2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1354082663,
+            "name": "Photo Manager",
+            "version": "6.6",
+            "size": 27050039,
+            "icon": "img/photomanager.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/photomanager.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/photomanager.ipa",
+            "bundleIdentifier": "com.skyjos.cloudphoto",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $4.99\nRequires 15.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $4.99\nيتطلب اصدار 15.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/photomanager.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomanager_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomanager_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomanager_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomanager_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomanager_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomanager_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomanager_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomanager_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.6",
+                    "date": "2026-11-10T03:55:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/photomanager.ipa",
+                    "size": 27050039,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomanager_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomanager_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomanager_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/photomanager_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1466476982,
+            "name": "Codepoint",
+            "version": "1.21",
+            "size": 87738993,
+            "icon": "img/codepoint.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/codepoint.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/codepoint.ipa",
+            "bundleIdentifier": "de.ixeau.Codepoint",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $19.99\nRequires 16.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $19.99\nيتطلب اصدار 16.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/codepoint.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codepoint_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codepoint_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codepoint_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codepoint_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codepoint_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codepoint_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codepoint_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codepoint_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.21",
+                    "date": "2026-11-10T03:55:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/codepoint.ipa",
+                    "size": 87738993,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codepoint_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codepoint_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codepoint_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/codepoint_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1885636324,
+            "name": "Wallpaper App",
+            "version": "2.24",
+            "size": 52630811,
+            "icon": "img/wallpaperapp.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/wallpaperapp.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/wallpaperapp.ipa",
+            "bundleIdentifier": "com.lumendigital.Wallpaper-App",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 17.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 17.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wallpaperapp.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpaperapp_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpaperapp_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpaperapp_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpaperapp_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpaperapp_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpaperapp_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpaperapp_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpaperapp_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.24",
+                    "date": "2026-11-10T03:55:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/wallpaperapp.ipa",
+                    "size": 52630811,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpaperapp_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpaperapp_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpaperapp_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wallpaperapp_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1577865505,
+            "name": "Memento",
+            "version": "4.5",
+            "size": 9518646,
+            "icon": "img/memento.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/memento.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/memento.ipa",
+            "bundleIdentifier": "com.mdfprojects.Remind",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $9.99\nRequires 17.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $9.99\nيتطلب اصدار 17.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/memento.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/memento_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/memento_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/memento_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/memento_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/memento_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/memento_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/memento_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/memento_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.5",
+                    "date": "2026-11-10T03:55:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/memento.ipa",
+                    "size": 9518646,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/memento_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/memento_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/memento_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/memento_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1438331330,
+            "name": "CFOP",
+            "version": "6.2.3",
+            "size": 17226929,
+            "icon": "img/cfop.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/cfop.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/cfop.ipa",
+            "bundleIdentifier": "truong.tuan.Rubik",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $3.99\nRequires 13.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $3.99\nيتطلب اصدار 13.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cfop.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cfop_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cfop_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cfop_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cfop_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cfop_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cfop_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cfop_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cfop_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "6.2.3",
+                    "date": "2026-11-10T03:55:04+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/cfop.ipa",
+                    "size": 17226929,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cfop_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cfop_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cfop_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cfop_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1603949712,
+            "name": "Bromides",
+            "version": "1.4",
+            "size": 13186529,
+            "icon": "img/bromides.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/bromides.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/bromides.ipa",
+            "bundleIdentifier": "com.tsubuzaki.Bromides",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $0.49\nRequires 26.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $0.49\nيتطلب اصدار 26.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/bromides.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bromides_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bromides_screen_2.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bromides_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bromides_screen_2.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4",
+                    "date": "2026-11-10T03:55:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/bromides.ipa",
+                    "size": 13186529,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bromides_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/bromides_screen_2.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1428578540,
+            "name": "DateMemo",
+            "version": "26.0",
+            "size": 3612180,
+            "icon": "img/datememo.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/datememo.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/datememo.ipa",
+            "bundleIdentifier": "com.lizexin.datememo",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $1.99\nRequires 26.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $1.99\nيتطلب اصدار 26.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/datememo.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/datememo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/datememo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/datememo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/datememo_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/datememo_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/datememo_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/datememo_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/datememo_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "26.0",
+                    "date": "2026-11-10T03:54:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/datememo.ipa",
+                    "size": 3612180,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/datememo_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/datememo_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/datememo_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/datememo_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1543464581,
+            "name": "AStraightLine",
+            "version": "7.7",
+            "size": 164455014,
+            "icon": "img/astraightline.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/astraightline.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/astraightline.ipa",
+            "bundleIdentifier": "co.uk.quickguidemath.AStraightLine",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $1.99\nRequires 18.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $1.99\nيتطلب اصدار 18.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/astraightline.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astraightline_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astraightline_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astraightline_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astraightline_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astraightline_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astraightline_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astraightline_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astraightline_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "7.7",
+                    "date": "2026-11-10T03:54:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/astraightline.ipa",
+                    "size": 164455014,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astraightline_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astraightline_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astraightline_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/astraightline_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1824671507,
+            "name": "ALinInequal",
+            "version": "6.2",
+            "size": 2692373,
+            "icon": "img/alininequal.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V11/alininequal.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V11/alininequal.ipa",
+            "bundleIdentifier": "co.uk.quickguidemath.ALinInequal",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $1.99\nRequires 18.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $1.99\nيتطلب اصدار 18.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/alininequal.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alininequal_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alininequal_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alininequal_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alininequal_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alininequal_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alininequal_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alininequal_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alininequal_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "6.2",
+                    "date": "2026-11-10T03:54:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V11/alininequal.ipa",
+                    "size": 2692373,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alininequal_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alininequal_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alininequal_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alininequal_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1212736438,
             "name": "TwoSlideOver",
             "version": "1.5.0",
