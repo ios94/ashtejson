@@ -10,6 +10,474 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1165302025,
+            "name": "Words Mahjong",
+            "version": "1.5.3",
+            "size": 204900837,
+            "icon": "img/wordsmahjong.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/wordsmahjong.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/wordsmahjong.ipa",
+            "bundleIdentifier": "com.liftapp.wordsmahjong",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wordsmahjong.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsmahjong_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsmahjong_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsmahjong_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsmahjong_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsmahjong_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsmahjong_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsmahjong_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsmahjong_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.5.3",
+                    "date": "2026-11-10T08:19:58+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/wordsmahjong.ipa",
+                    "size": 204900837,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsmahjong_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsmahjong_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsmahjong_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordsmahjong_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1892476387,
+            "name": "Hayah",
+            "version": "0.3.00",
+            "size": 38645340,
+            "icon": "img/hayah.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/hayah.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/hayah.ipa",
+            "bundleIdentifier": "cc.hayah.HayahCommunity",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الأعلانات\n\n#حصريا \n\nوصف التطبيق :\n\n اذا كنتي تبحثين عن افضل مجتمع نسائي عربي الكتروني فهذا هو التطبيق رقم 1 في هذا المجال \nتعرفي على العديد من النساء من جميع السعودية و الوطن العربي و دردشي معهن بخصوصيه عاليه \nمجتمع حياة هو مجتمع مصمم للمرأة و يحوي أقسام تخصها من طبخ و موضه ومواضيع عائلية و تربوية و عن الحمل و الولادة و المطبخ السعودي والعربي والسياحة والسفر والبنات و الامومه والازياء والموضه",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hayah.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hayah_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hayah_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hayah_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hayah_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hayah_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hayah_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hayah_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hayah_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.3.00",
+                    "date": "2026-11-10T08:19:46+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/hayah.ipa",
+                    "size": 38645340,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hayah_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hayah_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hayah_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hayah_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1623676269,
+            "name": "idealweight",
+            "version": "0.10",
+            "size": 15559363,
+            "icon": "img/idealweight.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/idealweight.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/idealweight.ipa",
+            "bundleIdentifier": "cc.hayah.idealweight",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- الغاء الأعلانات\n\n#حصريا \n وصف التطبيق :\n\n تطبيق وزني المثالي .. تطبيق مميز وفريد من نوعه يقدم لك أفضل الطرق العلمية التي تحدد إذا كان وزنك طبيعي أم لا من خلال معادلة الوزن المثالي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idealweight.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idealweight_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idealweight_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idealweight_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idealweight_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idealweight_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idealweight_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idealweight_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idealweight_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.10",
+                    "date": "2026-11-10T08:19:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/idealweight.ipa",
+                    "size": 15559363,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idealweight_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idealweight_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idealweight_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idealweight_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1824829163,
+            "name": "Twin Tiles",
+            "version": "1.8.0",
+            "size": 169838759,
+            "icon": "img/twintiles.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/twintiles.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/twintiles.ipa",
+            "bundleIdentifier": "com.appcraft.twinspuzzle",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/twintiles.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twintiles_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twintiles_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twintiles_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twintiles_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twintiles_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twintiles_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twintiles_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twintiles_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.8.0",
+                    "date": "2026-11-10T08:19:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/twintiles.ipa",
+                    "size": 169838759,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twintiles_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twintiles_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twintiles_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/twintiles_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1205365820,
+            "name": "3D plan",
+            "version": "5.2.1",
+            "size": 173906040,
+            "icon": "img/3dplan.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/3dplan.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/3dplan.ipa",
+            "bundleIdentifier": "com.playspice.spruce",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- تفعيل مميزات التطبيق ( يرجى ضغط شراء وثم الغاء )\n\nلتصميم المنازل يمكنك استخدامه دون اتصال بالإنترنت لإنشاء وتصميم منزل أحلامك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/3dplan.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3dplan_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3dplan_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3dplan_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3dplan_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3dplan_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3dplan_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3dplan_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3dplan_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.2.1",
+                    "date": "2026-11-10T08:19:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/3dplan.ipa",
+                    "size": 173906040,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3dplan_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3dplan_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3dplan_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/3dplan_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1848796037,
+            "name": "My Dream Home 3D",
+            "version": "3.1.5",
+            "size": 98549646,
+            "icon": "img/mydreamhome3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/mydreamhome3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/mydreamhome3d.ipa",
+            "bundleIdentifier": "com.anuman.MyDreamHome3D",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني\n\nوصف التطبيق:\n\n [يوفر لك هذا الإصدار فترة تجريبية لمدة ساعة، ستتمكن خلالها من الوصول إلى جميع ميزات التطبيق، بالإضافة إلى حفظ المشروع تلقائيًا. بعد انتهاء هذه الساعة، سيظل بإمكانك استخدام التطبيق، ولكن سيتم تعطيل ميزة الحفظ.]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mydreamhome3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mydreamhome3d.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mydreamhome3d.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.1.5",
+                    "date": "2026-11-10T08:19:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/mydreamhome3d.ipa",
+                    "size": 98549646,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mydreamhome3d.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1591558845,
+            "name": "Guitar Pro",
+            "version": "1.11.2",
+            "size": 23567642,
+            "icon": "img/guitarpro.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/guitarpro.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/guitarpro.ipa",
+            "bundleIdentifier": "com.arobas-music.iGP",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $12.99\nRequires 9.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $12.99\nيتطلب اصدار 9.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/guitarpro.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitarpro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitarpro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitarpro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitarpro_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitarpro_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitarpro_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitarpro_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitarpro_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.11.2",
+                    "date": "2026-11-10T08:19:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/guitarpro.ipa",
+                    "size": 23567642,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitarpro_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitarpro_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitarpro_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/guitarpro_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1705856739,
+            "name": "Ghostlee",
+            "version": "1.1.5",
+            "size": 206719256,
+            "icon": "img/ghostlee.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/ghostlee.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/ghostlee.ipa",
+            "bundleIdentifier": "com.tableknightgames.ghostlee",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- تفعيل مميزات التطبيق ( يرجى ضغط شراء وثم الغاء )\n\nGhostlee هو تطبيق تواصل اجتماعي يتيح لك استكشاف أماكن جديدة وإنشاء رسائلك الخاصة والتواصل مع الآخرين في تجربة اجتماعية فريدة من نوعها باستخدام الواقع المعزز (AR)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ghostlee.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostlee_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostlee_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostlee_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostlee_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostlee_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostlee_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostlee_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostlee_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.5",
+                    "date": "2026-11-10T08:19:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/ghostlee.ipa",
+                    "size": 206719256,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostlee_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostlee_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostlee_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ghostlee_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1340952105,
+            "name": "Rollit",
+            "version": "4",
+            "size": 9870576,
+            "icon": "img/rollit.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/rollit.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/rollit.ipa",
+            "bundleIdentifier": "com.yamanjaiouch.rollit",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $4.99\nRequires 17.6 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $4.99\nيتطلب اصدار 17.6 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rollit.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollit_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollit_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollit_screen_3.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollit_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollit_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollit_screen_3.png"
+            ],
+            "versions": [
+                {
+                    "version": "4",
+                    "date": "2026-11-10T08:18:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/rollit.ipa",
+                    "size": 9870576,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollit_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollit_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rollit_screen_3.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1673654659,
+            "name": "PicEditAI",
+            "version": "1.1",
+            "size": 20044280,
+            "icon": "img/piceditai.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/piceditai.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/piceditai.ipa",
+            "bundleIdentifier": "app.chat2edit",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- تفعيل مميزات التطبيق ( يرجى ضغط شراء وثم الغاء )\n\nوصف التطبيق: \n\nحوّل صورك في ثوانٍ - فقط بالوصف! لا أدوات معقدة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/piceditai.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piceditai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piceditai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piceditai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piceditai_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piceditai_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piceditai_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piceditai_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piceditai_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1",
+                    "date": "2026-11-10T08:18:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/piceditai.ipa",
+                    "size": 20044280,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piceditai_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piceditai_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piceditai_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/piceditai_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1980392563,
             "name": "تعليم السياقة - اشارات المرور",
             "version": "2.0",
