@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1989967218,
+            "name": "Apes TD",
+            "version": "0.1.995",
+            "size": 596048518,
+            "icon": "img/apestd.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/apestd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/apestd.ipa",
+            "bundleIdentifier": "com.veryo.apestd",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- الإنفاق سيزيد من ذلك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/apestd.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apestd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apestd_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apestd_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apestd_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apestd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apestd_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apestd_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apestd_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.1.995",
+                    "date": "2026-11-10T20:07:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/apestd.ipa",
+                    "size": 596048518,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apestd_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apestd_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apestd_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/apestd_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1355028769,
+            "name": "Defense Factory",
+            "version": "0.0.138",
+            "size": 256591240,
+            "icon": "img/defensefactory.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/defensefactory.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/defensefactory.ipa",
+            "bundleIdentifier": "com.hook.defensefactory",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا تموت أبدًا\r\n- ضربة واحدة قاتلة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/defensefactory.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defensefactory_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defensefactory_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defensefactory_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defensefactory_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defensefactory_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defensefactory_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defensefactory_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defensefactory_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.138",
+                    "date": "2026-11-10T20:06:38+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/defensefactory.ipa",
+                    "size": 256591240,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defensefactory_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defensefactory_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defensefactory_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/defensefactory_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1454649604,
+            "name": "Dead Road: Zombie Highway",
+            "version": "1.0.2",
+            "size": 306838564,
+            "icon": "img/deadroadzombiehighway.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/deadroadzombiehighway.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/deadroadzombiehighway.ipa",
+            "bundleIdentifier": "com.deadroad.zhighway",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا تموت أبدًا\r\n- عملة غير محدودة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/deadroadzombiehighway.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadroadzombiehighway_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadroadzombiehighway_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadroadzombiehighway_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadroadzombiehighway_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadroadzombiehighway_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadroadzombiehighway_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadroadzombiehighway_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadroadzombiehighway_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.2",
+                    "date": "2026-11-10T20:06:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/deadroadzombiehighway.ipa",
+                    "size": 306838564,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadroadzombiehighway_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadroadzombiehighway_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadroadzombiehighway_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/deadroadzombiehighway_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1336444909,
+            "name": "Soul Knight Prequel",
+            "version": "1.10.0",
+            "size": 644079664,
+            "icon": "img/soulknightprequel.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/soulknightprequel.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/soulknightprequel.ipa",
+            "bundleIdentifier": "com.chillyroom.soulknightprequel.gl",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر\r\n- مضاعف الدفاع\r\n- لا يوجد تهدئة للمهارة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/soulknightprequel.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulknightprequel_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulknightprequel_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulknightprequel_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulknightprequel_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulknightprequel_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulknightprequel_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulknightprequel_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulknightprequel_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.10.0",
+                    "date": "2026-11-10T20:06:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/soulknightprequel.ipa",
+                    "size": 644079664,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulknightprequel_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulknightprequel_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulknightprequel_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soulknightprequel_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1500221229,
+            "name": "My First Kiss",
+            "version": "2.0.5",
+            "size": 524985586,
+            "icon": "img/myfirstkiss.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/myfirstkiss.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/myfirstkiss.ipa",
+            "bundleIdentifier": "com.faifly.my.first.kiss.bl.yaoi.choices",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ريش غير محدود -> أنفق بعض الشيء.\r\n- جواهر غير محدودة -> شراء ريشة.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/myfirstkiss.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfirstkiss_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfirstkiss_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfirstkiss_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfirstkiss_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfirstkiss_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfirstkiss_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfirstkiss_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfirstkiss_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.5",
+                    "date": "2026-11-10T20:05:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/myfirstkiss.ipa",
+                    "size": 524985586,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfirstkiss_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfirstkiss_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfirstkiss_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/myfirstkiss_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1445793925,
+            "name": "Oh my Anne",
+            "version": "5.6.0",
+            "size": 594588770,
+            "icon": "img/ohmyanne.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/ohmyanne.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/ohmyanne.ipa",
+            "bundleIdentifier": "com.neowiz.game.anne",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة -> اربح أو أنفق بعضها.\r\n- بذور الهندباء غير محدودة -> اربح أو أنفق بعضها.\r\n- أرواح غير محدودة -> اربح أو أنفق بعضها.\r\n- الفوز التلقائي -> انتقل إلى الإعدادات وقم بتبديل زر الموسيقى.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/ohmyanne.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ohmyanne_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ohmyanne_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ohmyanne_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ohmyanne_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ohmyanne_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ohmyanne_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ohmyanne_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ohmyanne_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.6.0",
+                    "date": "2026-11-10T20:05:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/ohmyanne.ipa",
+                    "size": 594588770,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ohmyanne_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ohmyanne_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ohmyanne_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/ohmyanne_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1739218686,
+            "name": "Idle Mafia Empire",
+            "version": "1.30.58",
+            "size": 327302086,
+            "icon": "img/idlemafiaempire.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/idlemafiaempire.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/idlemafiaempire.ipa",
+            "bundleIdentifier": "com.pixio.ios.idle.mafia.war",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- شراء داخل التطبيق مجاني\r\n- العملة  استخدم المتجر \r\n- تمت إزالة الإعلانات",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/idlemafiaempire.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemafiaempire_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemafiaempire_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemafiaempire_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemafiaempire_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemafiaempire_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemafiaempire_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemafiaempire_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemafiaempire_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.30.58",
+                    "date": "2026-11-10T20:04:44+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/idlemafiaempire.ipa",
+                    "size": 327302086,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemafiaempire_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemafiaempire_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemafiaempire_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idlemafiaempire_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1318378588,
+            "name": "mephistoAFK",
+            "version": "1.0.22",
+            "size": 522017986,
+            "icon": "img/mephistoafk.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/mephistoafk.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/mephistoafk.ipa",
+            "bundleIdentifier": "com.game.growdia",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- GOLD\n- GEMS\n- EXP MULTIPLIER\n- SPEED MULTIPLIER ( After Activation wait a few seconds )\n\n- الذهب\n- الأحجار الكريمة\n- مضاعفة الخبرة\n- مضاعفة السرعة (بعد التنشيط انتظر بضع ثوان)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mephistoafk.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mephistoafk_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mephistoafk_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mephistoafk_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mephistoafk_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mephistoafk_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mephistoafk_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mephistoafk_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mephistoafk_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.22",
+                    "date": "2026-11-10T20:04:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/mephistoafk.ipa",
+                    "size": 522017986,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mephistoafk_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mephistoafk_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mephistoafk_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mephistoafk_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1903733064,
+            "name": "Tavern Tale",
+            "version": "1.0.3",
+            "size": 1232948641,
+            "icon": "img/taverntale.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/taverntale.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/taverntale.ipa",
+            "bundleIdentifier": "com.chillyroom.hanksbar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لاعب لا يتضرر \r\n- ضربة واحدة تقتل\r\n- التوت اللانهائي\r\nملاحظة: الأحجار الكريمة من جانب الخادم لذلك لا يوجد تعديل للأحجار الكريمة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/taverntale.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taverntale_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taverntale_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taverntale_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taverntale_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taverntale_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taverntale_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taverntale_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taverntale_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.3",
+                    "date": "2026-11-10T20:04:00+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/taverntale.ipa",
+                    "size": 1232948641,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taverntale_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taverntale_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taverntale_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/taverntale_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1576153653,
+            "name": "Pixel Expedition",
+            "version": "1.0.1",
+            "size": 663373657,
+            "icon": "img/pixelexpedition.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/pixelexpedition.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/pixelexpedition.ipa",
+            "bundleIdentifier": "com.rawhand.pixelexpedition",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا يموت أبداً\r\n- قتل بضربة واحدة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pixelexpedition.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelexpedition_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelexpedition_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelexpedition_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelexpedition_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelexpedition_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelexpedition_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelexpedition_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelexpedition_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.1",
+                    "date": "2026-11-10T20:03:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/pixelexpedition.ipa",
+                    "size": 663373657,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelexpedition_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelexpedition_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelexpedition_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixelexpedition_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1871612860,
             "name": "Cat Warrior",
             "version": "10.0.3",
