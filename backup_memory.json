@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1847150405,
+            "name": "Crazy Gunner",
+            "version": "1.3.1",
+            "size": 206994087,
+            "icon": "img/crazygunner.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/crazygunner.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/crazygunner.ipa",
+            "bundleIdentifier": "com.leguas.gunstorm",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Golden Chest 2500 Buy FREE\n- HP Max / Check Hero Stats\n- DMG Max / Check Gun Stats\n- Speed Movement\n\n- الصندوق الذهبي 2500 شراء مجاني\n- HP Max / التحقق من إحصائيات البطل\n- DMG Max / التحقق من إحصائيات الأسلحة\n- سرعة الحركة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crazygunner.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazygunner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazygunner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazygunner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazygunner_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazygunner_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazygunner_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazygunner_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazygunner_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.1",
+                    "date": "2026-11-10T19:31:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/crazygunner.ipa",
+                    "size": 206994087,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazygunner_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazygunner_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazygunner_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crazygunner_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1402603439,
+            "name": "Monkey City",
+            "version": "1.13.1",
+            "size": 166803448,
+            "icon": "img/monkeycity.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/monkeycity.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/monkeycity.ipa",
+            "bundleIdentifier": "com.ninjakiwi.monkeycity",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عمليات شراء داخل التطبيق مجانية - انقر على عملية شراء داخل التطبيق للحصول عليها مجاناً.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/monkeycity.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monkeycity_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monkeycity_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monkeycity_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monkeycity_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monkeycity_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monkeycity_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monkeycity_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monkeycity_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.13.1",
+                    "date": "2026-11-10T19:31:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/monkeycity.ipa",
+                    "size": 166803448,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monkeycity_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monkeycity_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monkeycity_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/monkeycity_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1344917316,
+            "name": "Wicked Defense",
+            "version": "1.0.14",
+            "size": 491829772,
+            "icon": "img/wickeddefense.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/wickeddefense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/wickeddefense.ipa",
+            "bundleIdentifier": "com.superplanet.defense",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- احصائيات العدو\r\n- الهجوم 0\r\n- قوة 0\r\n- مدافع 0\r\n- حرجة 0\r\n- سرعة الهجوم 0\r\n- سرعة التحرك 99\r\n- نطاق الهجوم 0",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wickeddefense.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wickeddefense_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wickeddefense_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wickeddefense_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wickeddefense_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wickeddefense_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wickeddefense_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wickeddefense_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wickeddefense_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.14",
+                    "date": "2026-11-10T19:30:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/wickeddefense.ipa",
+                    "size": 491829772,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wickeddefense_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wickeddefense_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wickeddefense_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wickeddefense_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1239840473,
+            "name": "South Park",
+            "version": "5.4.1",
+            "size": 192454444,
+            "icon": "img/southpark.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/southpark.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/southpark.ipa",
+            "bundleIdentifier": "com.ubisoft.dragonfire",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "-  ضرر اللاعب - x1 - 100\r\n-  دفاع اللاعب - x1 - 100\r\n- مانا غير محدود\r\n- الأعداء لا يملكون مانا",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/southpark.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/southpark_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/southpark_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/southpark_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/southpark_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/southpark_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/southpark_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/southpark_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/southpark_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "5.4.1",
+                    "date": "2026-11-10T19:30:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/southpark.ipa",
+                    "size": 192454444,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/southpark_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/southpark_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/southpark_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/southpark_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1189496560,
+            "name": "Fruit Ninja Adventures",
+            "version": "0.2.0",
+            "size": 897335989,
+            "icon": "img/fruitninjaadventures.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/fruitninjaadventures.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/fruitninjaadventures.ipa",
+            "bundleIdentifier": "com.halfbrick.fruitninjaadventures",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عملات غير محدودة → الإنفاق/الكسب",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fruitninjaadventures.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fruitninjaadventures_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fruitninjaadventures_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fruitninjaadventures_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fruitninjaadventures_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fruitninjaadventures_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fruitninjaadventures_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fruitninjaadventures_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fruitninjaadventures_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.2.0",
+                    "date": "2026-11-10T19:30:19+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/fruitninjaadventures.ipa",
+                    "size": 897335989,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fruitninjaadventures_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fruitninjaadventures_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fruitninjaadventures_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fruitninjaadventures_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1665990672,
+            "name": "Horrorfield",
+            "version": "1.9.3",
+            "size": 463230259,
+            "icon": "img/horrorfield.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/horrorfield.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/horrorfield.ipa",
+            "bundleIdentifier": "ru.malyshkin.survival",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- عناصر غير محدودة (تجميد) داخل اللعبة ستختفي العناصر بعد انتهاء مباراتك، لذا يكفي امتلاك عنصر واحد من كل نوع قبل المباراة\r\n- لا يوجد وقت انتظار لاستخدام العناصر",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/horrorfield.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/horrorfield_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/horrorfield_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/horrorfield_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/horrorfield_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/horrorfield_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/horrorfield_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/horrorfield_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/horrorfield_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.9.3",
+                    "date": "2026-11-10T19:29:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/horrorfield.ipa",
+                    "size": 463230259,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/horrorfield_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/horrorfield_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/horrorfield_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/horrorfield_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1378312218,
+            "name": "Truck Masters World",
+            "version": "2026.0",
+            "size": 1284027318,
+            "icon": "img/truckmastersworld.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/truckmastersworld.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/truckmastersworld.ipa",
+            "bundleIdentifier": "com.highbrowinteractive.truck.masters.world.america.euro.highway.offroad.cargo.driving.simulator.game",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- نقود غير محدودة -> اكسب أو أنفق بعضها.\r\n- جواهر غير محدودة -> اكسب أو أنفق بعضها.\r\n- تذاكر غير محدودة -> اكسب أو أنفق بعضها.\r\n- تم تفعيل الاشتراك الاحترافي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/truckmastersworld.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truckmastersworld_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truckmastersworld_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truckmastersworld_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truckmastersworld_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truckmastersworld_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truckmastersworld_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truckmastersworld_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truckmastersworld_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2026.0",
+                    "date": "2026-11-10T19:29:15+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/truckmastersworld.ipa",
+                    "size": 1284027318,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truckmastersworld_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truckmastersworld_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truckmastersworld_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/truckmastersworld_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1149623273,
+            "name": "Tactical OPS",
+            "version": "0.81",
+            "size": 822334971,
+            "icon": "img/tacticalops.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/tacticalops.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/tacticalops.ipa",
+            "bundleIdentifier": "com.edkongames.tops",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لا ارتداد\r\n- لا انتشار\r\n- لا صوت وميض\r\n- لا دخان\r\n- نظام ESP",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tacticalops.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacticalops_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacticalops_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacticalops_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacticalops_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacticalops_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacticalops_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacticalops_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacticalops_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.81",
+                    "date": "2026-11-10T19:28:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/tacticalops.ipa",
+                    "size": 822334971,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacticalops_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacticalops_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacticalops_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tacticalops_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1301842136,
+            "name": "Black Deck",
+            "version": "1.35.12",
+            "size": 343999126,
+            "icon": "img/blackdeck.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/blackdeck.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/blackdeck.ipa",
+            "bundleIdentifier": "info.core5.blackdeck",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- الفوز التلقائي -> الخروج من المستوى. لم يتم اختباره في وضع لاعب ضد لاعب.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/blackdeck.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blackdeck_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blackdeck_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blackdeck_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blackdeck_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blackdeck_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blackdeck_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blackdeck_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blackdeck_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.35.12",
+                    "date": "2026-11-10T19:27:53+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/blackdeck.ipa",
+                    "size": 343999126,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blackdeck_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blackdeck_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blackdeck_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blackdeck_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1733928685,
+            "name": "Spin Rhythm XD",
+            "version": "1.7.1",
+            "size": 1176444545,
+            "icon": "img/spinrhythmxd.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V13/spinrhythmxd.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V13/spinrhythmxd.ipa",
+            "bundleIdentifier": "com.crunchyroll.gv.spinrhythmxd",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف النتيجة\r\n- وضع الطاقة اللانهائي\r\n- لعبة كاملة مقفلة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/spinrhythmxd.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinrhythmxd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinrhythmxd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinrhythmxd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinrhythmxd_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinrhythmxd_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinrhythmxd_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinrhythmxd_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinrhythmxd_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.1",
+                    "date": "2026-11-10T19:27:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V13/spinrhythmxd.ipa",
+                    "size": 1176444545,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinrhythmxd_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinrhythmxd_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinrhythmxd_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/spinrhythmxd_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1622676632,
             "name": "Umiro",
             "version": "1.1.0",
