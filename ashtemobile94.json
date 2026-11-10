@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1127781260,
+            "name": "Hero Troops",
+            "version": "0.0.3",
+            "size": 508266185,
+            "icon": "img/herotroops.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/herotroops.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/herotroops.ipa",
+            "bundleIdentifier": "game.herotroops",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Always Win → Win/Lose/Quit\r\n- Currencies Multiplier\r\n- Freeze Currenices\r\n \n\n- دائما الفوز ← الفوز/الخسارة/الإقلاع\r\n- مضاعفات العملات\r\n- تجميد currenices",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/herotroops.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herotroops_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herotroops_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herotroops_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herotroops_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herotroops_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herotroops_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herotroops_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herotroops_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.3",
+                    "date": "2026-11-10T17:58:32+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/herotroops.ipa",
+                    "size": 508266185,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herotroops_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herotroops_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herotroops_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/herotroops_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1569644856,
+            "name": "Analysis",
+            "version": "1.8",
+            "size": 51169851,
+            "icon": "img/analysis.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/analysis.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/analysis.ipa",
+            "bundleIdentifier": "com.ourbigadventure.DeepThoughts",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $0.99\nRequires 16.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $0.99\nيتطلب اصدار 16.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/analysis.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/analysis_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/analysis_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/analysis_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/analysis_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/analysis_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/analysis_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/analysis_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/analysis_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.8",
+                    "date": "2026-11-10T17:58:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/analysis.ipa",
+                    "size": 51169851,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/analysis_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/analysis_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/analysis_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/analysis_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1204228512,
+            "name": "CatShinobi",
+            "version": "1.2.50",
+            "size": 419710835,
+            "icon": "img/catshinobi.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/catshinobi.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/catshinobi.ipa",
+            "bundleIdentifier": "com.cookapps.catshinobi",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Damage Multiplier\r\n- Never Die\r\n- Rewards Multiplier → Turn OFF When Get Enough\r\n- Freeze Currencies \r\n- No ADS\r\n- Battle Pass Unlocked\r\n- Game Speed Multiplier\n\n- ضرر مضاعف\r\n- لا يموت أبداً\r\n- مكافآت مضاعفة ← قم بإيقاف تشغيله عند الحصول على ما يكفي\r\n- تجميد العملات\r\n- بدون إعلانات\r\n- ممر المعركة غير مقفل\r\n- مضاعف سرعة اللعبة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/catshinobi.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catshinobi_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catshinobi_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catshinobi_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catshinobi_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catshinobi_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catshinobi_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catshinobi_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catshinobi_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.50",
+                    "date": "2026-11-10T17:58:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/catshinobi.ipa",
+                    "size": 419710835,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catshinobi_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catshinobi_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catshinobi_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catshinobi_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1567140667,
+            "name": "Recent #s",
+            "version": "32",
+            "size": 15775149,
+            "icon": "img/recents.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/recents.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/recents.ipa",
+            "bundleIdentifier": "com.mysticabyss.-",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Paid App On AppStore\nPrice On AppStore: $6.99\nRequires 12.0 or later\n\n- Available For Free ✅\n\nتطبيق مدفوع في الابستور\nالسعر في الابستور $6.99\nيتطلب اصدار 12.0 وأحدث\n\n- متاح بشكل مجاني ✅",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/recents.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recents_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recents_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recents_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recents_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recents_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recents_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recents_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recents_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "32",
+                    "date": "2026-11-10T17:57:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/recents.ipa",
+                    "size": 15775149,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recents_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recents_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recents_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recents_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1376803954,
+            "name": "Fatal Luck",
+            "version": "1.2.3",
+            "size": 1074215365,
+            "icon": "img/fatalluck.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/fatalluck.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/fatalluck.ipa",
+            "bundleIdentifier": "com.ffsvideogames.eor3free",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني\n\nFeatures:\n\n- You can purchase anything in the game for free \n( please click Buy and then Cancel )\n\nImportant note : Sometimes the store doesn't appear directly in the game. You must play for a while for the store to appear and purchase for free.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fatalluck.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fatalluck_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fatalluck_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fatalluck_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fatalluck_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fatalluck_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fatalluck_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fatalluck_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fatalluck_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.3",
+                    "date": "2026-11-10T17:57:39+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/fatalluck.ipa",
+                    "size": 1074215365,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fatalluck_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fatalluck_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fatalluck_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fatalluck_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1123333544,
+            "name": "Hunters Legacy F2P",
+            "version": "1.2.1",
+            "size": 1088681648,
+            "icon": "img/hunterslegacyf2p.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/hunterslegacyf2p.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/hunterslegacyf2p.ipa",
+            "bundleIdentifier": "com.ffsvideogames.eor4f2p",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني\n\nFeatures:\n\n- You can purchase anything in the game for free \n( please click Buy and then Cancel )\n\nImportant note : Sometimes the store doesn't appear directly in the game. You must play for a while for the store to appear and purchase for free.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hunterslegacyf2p.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hunterslegacyf2p_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hunterslegacyf2p_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hunterslegacyf2p_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hunterslegacyf2p_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hunterslegacyf2p_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hunterslegacyf2p_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hunterslegacyf2p_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hunterslegacyf2p_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.1",
+                    "date": "2026-11-10T17:56:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/hunterslegacyf2p.ipa",
+                    "size": 1088681648,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hunterslegacyf2p_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hunterslegacyf2p_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hunterslegacyf2p_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hunterslegacyf2p_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1481917559,
+            "name": "Budapest F2P",
+            "version": "1.2.0",
+            "size": 1082475951,
+            "icon": "img/budapestf2p.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/budapestf2p.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/budapestf2p.ipa",
+            "bundleIdentifier": "com.ffsvideogames.dc5f2p",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني\n\nFeatures:\n\n- You can purchase anything in the game for free \n( please click Buy and then Cancel )\n\nImportant note : Sometimes the store doesn't appear directly in the game. You must play for a while for the store to appear and purchase for free.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/budapestf2p.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/budapestf2p_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/budapestf2p_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/budapestf2p_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/budapestf2p_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/budapestf2p_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/budapestf2p_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/budapestf2p_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/budapestf2p_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.0",
+                    "date": "2026-11-10T17:55:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/budapestf2p.ipa",
+                    "size": 1082475951,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/budapestf2p_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/budapestf2p_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/budapestf2p_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/budapestf2p_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1547772523,
+            "name": "Relight Photo",
+            "version": "2.0",
+            "size": 79208334,
+            "icon": "img/relightphoto.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/relightphoto.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/relightphoto.ipa",
+            "bundleIdentifier": "il.photorelight.com",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- فتح الأشتراك\n\n#حصرريا \n\nتطبيق لتعديل الصور بالذكاء الأصطناعي",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/relightphoto.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/relightphoto_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/relightphoto_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/relightphoto_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/relightphoto_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/relightphoto_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/relightphoto_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/relightphoto_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/relightphoto_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.0",
+                    "date": "2026-11-10T17:54:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/relightphoto.ipa",
+                    "size": 79208334,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/relightphoto_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/relightphoto_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/relightphoto_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/relightphoto_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1634149783,
+            "name": "Gulliver Syndrome F2P",
+            "version": "1.0.3",
+            "size": 860918140,
+            "icon": "img/gulliversyndromef2p.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/gulliversyndromef2p.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/gulliversyndromef2p.ipa",
+            "bundleIdentifier": "com.ffsvideogames.btaw6f2p",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم : المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني\n\nFeatures:\n\n- You can purchase anything in the game for free \n( please click Buy and then Cancel )\n\nImportant note : Sometimes the store doesn't appear directly in the game. You must play for a while for the store to appear and purchase for free.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gulliversyndromef2p.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndromef2p_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndromef2p_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndromef2p_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndromef2p_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndromef2p_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndromef2p_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndromef2p_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndromef2p_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.3",
+                    "date": "2026-11-10T17:54:51+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/gulliversyndromef2p.ipa",
+                    "size": 860918140,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndromef2p_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndromef2p_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndromef2p_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gulliversyndromef2p_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1679868765,
+            "name": "Maze 4",
+            "version": "1.0.30",
+            "size": 1131018512,
+            "icon": "img/maze4.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V12/maze4.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V12/maze4.ipa",
+            "bundleIdentifier": "com.dominigames.mor4.ios.free2play",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "المميزات :\n\n- يمكنك شراء اي شي داخل اللعبة بشكل مجاني ( يرجى ضغط شراء وثم الغاء )\n\nتنبية مهم ( المتجر في بعض الاحيان لا يضهر مباشرةً داخل اللعبة يجب ان تلعب لمدة ليضهر عندك المتجر وتشتري بشكل مجاني )",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/maze4.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maze4_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maze4_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maze4_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maze4_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maze4_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maze4_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maze4_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maze4_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.30",
+                    "date": "2026-11-10T17:54:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V12/maze4.ipa",
+                    "size": 1131018512,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maze4_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maze4_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maze4_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/maze4_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1534332002,
             "name": "Budapest",
             "version": "1.4.1",
