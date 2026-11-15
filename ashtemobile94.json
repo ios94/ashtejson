@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1302365887,
+            "name": "CATS: Crash Arena Turbo Stars",
+            "version": "3.35.11",
+            "size": 150000000,
+            "icon": "img/catscrasharenaturbostars.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/catscrasharenaturbostars.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/catscrasharenaturbostars.ipa",
+            "bundleIdentifier": "com.zeptolab.cats",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → boost your bot's attack output\n- Defense Multiplier → strengthen your bot's durability",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/catscrasharenaturbostars.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catscrasharenaturbostars_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catscrasharenaturbostars_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catscrasharenaturbostars_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catscrasharenaturbostars_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catscrasharenaturbostars_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catscrasharenaturbostars_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catscrasharenaturbostars_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catscrasharenaturbostars_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.35.11",
+                    "date": "2026-11-15T14:24:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/catscrasharenaturbostars.ipa",
+                    "size": 150000000,
+                    "buildVersion": null,
+                    "minOSVersion": "14.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catscrasharenaturbostars_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catscrasharenaturbostars_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catscrasharenaturbostars_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/catscrasharenaturbostars_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1389183928,
             "name": "Scarlet",
             "version": "1.0",
