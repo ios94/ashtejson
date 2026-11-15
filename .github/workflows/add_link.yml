@@ -3,35 +3,13 @@ name: Ashte - Add ONE app/game from a download link
 on:
   workflow_dispatch:
     inputs:
-      download_url:
-        description: 'لینکی دابەزاندنی IPA (ئەگەر token ی هەیە، دەستبەجێ Run بکە، کاتی بەسەردەچێت)'
-        required: true
-        type: string
       info_url:
-        description: 'لینکی پەڕەی ئەپەکە (ئارەزوومەندانە، بۆ ناو و وەسف)'
+        description: 'لینکی پەڕەی ئەپەکە (بۆ ناو و وەسف)'
         required: false
         type: string
-      app_name:
-        description: 'ناوی ئەپ/یاری (ئارەزوومەندانە، ئەگەر بەتاڵ بێت لە پەڕە یان IPA وەردەگیرێت)'
-        required: false
-        type: string
-      referer:
-        description: 'Referer بۆ داونلۆد (ئەگەر سایتەکە داوای بکات)'
-        required: false
-        default: 'https://app.iosgods.com/'
-        type: string
-      inject_dylib:
-        description: 'ئایا AlertAshte.dylib بخرێتە ناو IPA؟'
+      download_url:
+        description: 'لینکی دابەزاندنی IPA (ئەگەر token ی هەیە، دەستبەجێ Run بکە)'
         required: true
-        default: 'Yes'
-        type: choice
-        options:
-          - 'Yes'
-          - 'No'
-      release_tags:
-        description: 'ڕیلیزەکان (هەر یەکێک پڕ بوو خۆی دەچێتە ئەوی دواتر)'
-        required: true
-        default: 'V6,V7,V8,V9,V10,V11,V12'
         type: string
 
 concurrency:
@@ -48,10 +26,10 @@ jobs:
     env:
       DOWNLOAD_URL: ${{ github.event.inputs.download_url }}
       INFO_URL: ${{ github.event.inputs.info_url }}
-      APP_NAME_IN: ${{ github.event.inputs.app_name }}
-      REFERER: ${{ github.event.inputs.referer }}
-      INJECT: ${{ github.event.inputs.inject_dylib }}
-      RELEASE_TAGS: ${{ github.event.inputs.release_tags }}
+      # ڕێکخستنە جێگیرەکان (پێویست بە هەڵبژاردن نیە)
+      REFERER: 'https://app.iosgods.com/'
+      INJECT: 'Yes'
+      RELEASE_TAGS: 'V6,V7,V8,V9,V10,V11,V12'
       APP_TYPE: auto
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -124,7 +102,7 @@ jobs:
 
           # ٣) پرۆسێسکردن بە هەمان admin_adder (ناو لە پەڕە/IPA، وێنە لە App Store، جۆر خۆکار)
           rm -f temp_app.json
-          export APP1_NAME="${APP_NAME_IN:-$INFO_URL}"
+          export APP1_NAME="$INFO_URL"
           export APP1_IPA="manual.ipa"
           python admin_adder.py || { echo "❌ پرۆسێسکردن شکستی هێنا"; exit 1; }
 
