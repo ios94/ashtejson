@@ -49,10 +49,19 @@ jobs:
           UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
           is_ipa() { head -c 2 "$OUT" | grep -q "PK"; }
 
-          status=$(curl -sSL --retry 2 --retry-delay 2 -A "$UA" ${REFERER:+-e "$REFERER"} \
-            -o "$OUT" -w '%{http_code} | %{content_type} | %{url_effective}' "$DOWNLOAD_URL") \
-            || { echo "❌ curl شکستی هێنا (ئینتەرنێت یان لینک)"; exit 1; }
-          echo "وەڵام: ${status%%\?*}"
+          # چەند جۆر کلاینت تاقی دەکرێتەوە (لینکی /sideloadly/ ڕەنگە بۆ Sideloadly دروست کرابێت)
+          HDR="$RUNNER_TEMP/headers.txt"
+          SIDE_UA="Sideloadly"
+          IOS_UA="Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+          try_dl() {  # $1 = User-Agent، $2 = Referer (بەتاڵ = بێ Referer)
+            rm -f "$OUT" "$HDR"
+            st=$(curl -sSL --max-redirs 8 --retry 1 -A "$1" ${2:+-e "$2"} -D "$HDR" \
+              -o "$OUT" -w '%{http_code} | %{content_type} | %{url_effective}' "$DOWNLOAD_URL") || st="curl error"
+            echo "UA=${1:0:22} ref=$([ -n "$2" ] && echo yes || echo no) -> ${st%%\?*}"
+            grep -i '^location:' "$HDR" 2>/dev/null | sed -E 's/\?.*//' | head -3 | sed 's/^/    redirect: /'
+            is_ipa
+          }
+          try_dl "$SIDE_UA" "" || try_dl "$SIDE_UA" "$REFERER" || try_dl "$IOS_UA" "" || try_dl "$UA" "$REFERER" || true
 
           if ! is_ipa; then
             echo "⚠️ ئەمە IPA نیە، پەڕەی وێبە. ناوەڕۆکی پەڕەکە:"
