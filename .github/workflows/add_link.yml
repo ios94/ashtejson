@@ -1,0 +1,160 @@
+name: Ashte - Add ONE app/game from a download link
+
+on:
+  workflow_dispatch:
+    inputs:
+      download_url:
+        description: 'لینکی دابەزاندنی IPA (ئەگەر token ی هەیە، دەستبەجێ Run بکە، کاتی بەسەردەچێت)'
+        required: true
+        type: string
+      info_url:
+        description: 'لینکی پەڕەی ئەپەکە (ئارەزوومەندانە، بۆ ناو و وەسف)'
+        required: false
+        type: string
+      app_name:
+        description: 'ناوی ئەپ/یاری (ئارەزوومەندانە، ئەگەر بەتاڵ بێت لە پەڕە یان IPA وەردەگیرێت)'
+        required: false
+        type: string
+      referer:
+        description: 'Referer بۆ داونلۆد (ئەگەر سایتەکە داوای بکات)'
+        required: false
+        default: 'https://app.iosgods.com/'
+        type: string
+      inject_dylib:
+        description: 'ئایا AlertAshte.dylib بخرێتە ناو IPA؟'
+        required: true
+        default: 'Yes'
+        type: choice
+        options:
+          - 'Yes'
+          - 'No'
+      release_tags:
+        description: 'ڕیلیزەکان (هەر یەکێک پڕ بوو خۆی دەچێتە ئەوی دواتر)'
+        required: true
+        default: 'V6,V7,V8,V9,V10,V11,V12'
+        type: string
+
+concurrency:
+  group: ashte-manual
+  cancel-in-progress: false
+
+jobs:
+  add_one:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+
+    env:
+      DOWNLOAD_URL: ${{ github.event.inputs.download_url }}
+      INFO_URL: ${{ github.event.inputs.info_url }}
+      APP_NAME_IN: ${{ github.event.inputs.app_name }}
+      REFERER: ${{ github.event.inputs.referer }}
+      INJECT: ${{ github.event.inputs.inject_dylib }}
+      RELEASE_TAGS: ${{ github.event.inputs.release_tags }}
+      APP_TYPE: auto
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Hide the link in logs
+        run: |
+          echo "::add-mask::$DOWNLOAD_URL"
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lief
+
+      - name: Download → inject → Release → JSON
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          JSON_FILE=$(echo "YXNodGVtb2JpbGU5NC5qc29u" | base64 --decode)
+
+          # ١) داونلۆدی IPA (وەک وێبگەڕ: UA + Referer، دوای redirect ـەکان)
+          mkdir -p uploads ipas
+          rm -f uploads/manual.ipa
+          curl -L --fail --retry 3 --retry-delay 3 \
+            -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
+            ${REFERER:+-e "$REFERER"} \
+            -o uploads/manual.ipa "$DOWNLOAD_URL" || { echo "❌ داونلۆد شکستی هێنا (لینکەکە بەسەرچووە یان ڕێگەی نەدا)"; exit 1; }
+
+          if ! head -c 2 uploads/manual.ipa | grep -q "PK"; then
+            echo "❌ ئەمە IPA نیە (ڕەنگە token بەسەرچووبێت). یەکەم 300 بایت:"
+            head -c 300 uploads/manual.ipa; echo
+            exit 1
+          fi
+          echo "✅ IPA دابەزی: $(du -h uploads/manual.ipa | cut -f1)"
+
+          # ٢) ڕیلیزێک کە شوێنی تێدا ماوە (V12 پڕ بوو، خۆی V13 ...)
+          tag_has_room() {
+            t="$1"
+            gh release view "$t" >/dev/null 2>&1 || gh release create "$t" --title "$t" --notes "" >/dev/null
+            rid=$(gh api "repos/$GITHUB_REPOSITORY/releases/tags/$t" --jq .id)
+            n=$(gh api --paginate "repos/$GITHUB_REPOSITORY/releases/$rid/assets" --jq '.[].id' | wc -l)
+            echo "ڕیلیز $t: $n فایل" >&2
+            [ "$n" -le 990 ]
+          }
+          pick_tag() {
+            last=""
+            for t in $(echo "$RELEASE_TAGS" | tr ',' ' '); do
+              last="$t"
+              if tag_has_room "$t"; then echo "$t"; return 0; fi
+            done
+            num=$(echo "$last" | grep -o '[0-9]*$')
+            [ -z "$num" ] && return 1
+            prefix="${last%$num}"
+            num=$((10#$num))
+            for ((k=num+1; k<=num+50; k++)); do
+              t="${prefix}${k}"
+              if tag_has_room "$t"; then echo "$t"; return 0; fi
+            done
+            return 1
+          }
+          export RELEASE_TAG=$(pick_tag) || { echo "⛔ هیچ ڕیلیزێک نەما"; exit 1; }
+          echo "→ ڕیلیز: $RELEASE_TAG"
+
+          # ٣) پرۆسێسکردن بە هەمان admin_adder (ناو لە پەڕە/IPA، وێنە لە App Store، جۆر خۆکار)
+          rm -f temp_app.json
+          export APP1_NAME="${APP_NAME_IN:-$INFO_URL}"
+          export APP1_IPA="manual.ipa"
+          python admin_adder.py || { echo "❌ پرۆسێسکردن شکستی هێنا"; exit 1; }
+
+          if [ "$INJECT" = "Yes" ]; then
+            python inject.py || true
+          fi
+          python ashte_sync.py filter || { echo "❌ فایلەکە گونجاو نیە (گەورەتر لە 2GB؟)"; exit 1; }
+
+          # ٤) بەرزکردنەوە بۆ ڕیلیز
+          for f in ipas/*.ipa; do
+            ok=0
+            for t in 1 2 3; do
+              if gh release upload "$RELEASE_TAG" "$f" --clobber; then ok=1; break; fi
+              sleep 5
+            done
+            [ "$ok" = "1" ] || { echo "❌ بەرزکردنەوە شکستی هێنا: $f"; exit 1; }
+          done
+
+          # ٥) نووسین لە JSON (یاری هەمان ناو = جێگەی دەگرێتەوە، ئەگەر نا لە سەرەوە زیاد دەبێت)
+          for i in {1..20}; do
+            git pull origin main --rebase --autostash
+            python admin_adder.py update_json
+            git add "$JSON_FILE" backup_memory.json img/ imgg/ ashte_failed.txt 2>/dev/null || true
+            if git commit -m "Add from link ($RELEASE_TAG)"; then
+              if git push; then echo "✅ تەواو بوو"; break; fi
+              git reset --hard HEAD~1
+            else
+              echo "No changes"; break
+            fi
+            sleep 10
+          done
+
+          rm -rf ipas uploads/manual.ipa temp_app.json
