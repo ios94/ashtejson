@@ -11,6 +11,14 @@ on:
         description: 'لینکی دابەزاندنی IPA (ئەگەر token ی هەیە، دەستبەجێ Run بکە)'
         required: true
         type: string
+      inject_dylib:
+        description: 'ئایا AlertAshte.dylib بخرێتە ناو IPA؟'
+        required: true
+        default: 'Yes'
+        type: choice
+        options:
+          - 'Yes'
+          - 'No'
 
 concurrency:
   group: ashte-manual
@@ -28,7 +36,7 @@ jobs:
       INFO_URL: ${{ github.event.inputs.info_url }}
       # ڕێکخستنە جێگیرەکان (پێویست بە هەڵبژاردن نیە)
       REFERER: 'https://app.iosgods.com/'
-      INJECT: 'Yes'
+      INJECT: ${{ github.event.inputs.inject_dylib }}
       RELEASE_TAGS: 'V6,V7,V8,V9,V10,V11,V12'
       APP_TYPE: auto
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
