@@ -42,9 +42,45 @@ jobs:
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
-      - name: Hide the link in logs
+      - name: Download IPA FIRST (the token expires fast)
         run: |
           echo "::add-mask::$DOWNLOAD_URL"
+          OUT="$RUNNER_TEMP/manual.ipa"
+          UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+          is_ipa() { head -c 2 "$OUT" | grep -q "PK"; }
+
+          status=$(curl -sSL --retry 2 --retry-delay 2 -A "$UA" ${REFERER:+-e "$REFERER"} \
+            -o "$OUT" -w '%{http_code} | %{content_type} | %{url_effective}' "$DOWNLOAD_URL") \
+            || { echo "❌ curl شکستی هێنا (ئینتەرنێت یان لینک)"; exit 1; }
+          echo "وەڵام: ${status%%\?*}"
+
+          if ! is_ipa; then
+            echo "⚠️ ئەمە IPA نیە، پەڕەی وێبە. ناوەڕۆکی پەڕەکە:"
+            OUT="$OUT" python3 - <<'PY'
+          import os, re
+          t = open(os.environ["OUT"], encoding="utf-8", errors="ignore").read()
+          title = re.search(r"<title[^>]*>(.*?)</title>", t, re.S | re.I)
+          print("  title:", (title.group(1).strip() if title else "-")[:120])
+          body = re.sub(r"<(script|style)[^>]*>.*?</\1>", " ", t, flags=re.S | re.I)
+          body = re.sub(r"<[^>]+>", " ", body)
+          body = re.sub(r"\s+", " ", body).strip()
+          print("  text :", body[:400])
+          hits = sorted({w for w in ("expired", "invalid", "login", "log in", "sign in", "unauthorized", "token") if w in t.lower()})
+          print("  words:", hits)
+          PY
+            link=$(grep -Eo "https?://[^\"' <>]+\.ipa[^\"' <>]*" "$OUT" | head -1 | sed 's/&amp;/\&/g')
+            if [ -n "$link" ]; then
+              echo "::add-mask::$link"
+              echo "🔗 لینکی IPA لە ناو پەڕەکە دۆزرایەوە، هەوڵ دەدەم..."
+              curl -sSL --retry 2 -A "$UA" ${REFERER:+-e "$REFERER"} -o "$OUT" "$link" || true
+            fi
+          fi
+
+          if ! is_ipa; then
+            echo "❌ IPA نەدۆزرایەوە. ڕەنگە token بەسەرچووبێت یان یەکجار بەکارهاتبێت، یان سایتەکە login ی پێویست بێت."
+            exit 1
+          fi
+          echo "✅ IPA دابەزی: $(du -h "$OUT" | cut -f1)"
 
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -65,20 +101,10 @@ jobs:
           git config --global user.email "action@github.com"
           JSON_FILE=$(echo "YXNodGVtb2JpbGU5NC5qc29u" | base64 --decode)
 
-          # ١) داونلۆدی IPA (وەک وێبگەڕ: UA + Referer، دوای redirect ـەکان)
+          # ١) IPA ی دابەزیو (لە هەنگاوی یەکەمەوە) دەخرێتە uploads/
           mkdir -p uploads ipas
-          rm -f uploads/manual.ipa
-          curl -L --fail --retry 3 --retry-delay 3 \
-            -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
-            ${REFERER:+-e "$REFERER"} \
-            -o uploads/manual.ipa "$DOWNLOAD_URL" || { echo "❌ داونلۆد شکستی هێنا (لینکەکە بەسەرچووە یان ڕێگەی نەدا)"; exit 1; }
-
-          if ! head -c 2 uploads/manual.ipa | grep -q "PK"; then
-            echo "❌ ئەمە IPA نیە (ڕەنگە token بەسەرچووبێت). یەکەم 300 بایت:"
-            head -c 300 uploads/manual.ipa; echo
-            exit 1
-          fi
-          echo "✅ IPA دابەزی: $(du -h uploads/manual.ipa | cut -f1)"
+          cp "$RUNNER_TEMP/manual.ipa" uploads/manual.ipa
+          echo "✅ IPA: $(du -h uploads/manual.ipa | cut -f1)"
 
           # ٢) ڕیلیزێک کە شوێنی تێدا ماوە (V12 پڕ بوو، خۆی V13 ...)
           tag_has_room() {
