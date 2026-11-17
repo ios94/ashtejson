@@ -5,6 +5,7 @@ import shutil
 import glob
 import plistlib
 import lief
+import ashte_rebrand
 
 def inject():
     ipa_list = glob.glob("ipas/*.ipa")
@@ -15,8 +16,12 @@ def inject():
     # لێرەدا ناوەکەمان گۆڕی بۆ AlertAshte.dylib بۆ ئەوەی لەگەڵ فایلەکانی تر یەکبگرێتەوە
     dylib_file = "AlertAshte.dylib"
 
-    if not os.path.exists(dylib_file):
-        print(f"{dylib_file} لە پەڕەی سەرەکی نەدۆزرایەوە!")
+    # inject_dylib (AlertAshte) and rebrand_menu (Ashte menu) are separate Yes/No options.
+    # INJECT_ALERT unset (other workflows) = AlertAshte on, as before. ASHTE_REBRAND must be 'Yes'.
+    have_alert = os.path.exists(dylib_file) and os.environ.get("INJECT_ALERT", "Yes") == "Yes"
+    have_ashte = os.environ.get("ASHTE_REBRAND", "No") == "Yes" and ashte_rebrand.available()
+    if not have_alert and not have_ashte:
+        print(f"{dylib_file} / libashte.dylib لە پەڕەی سەرەکی نەدۆزرایەوە!")
         return
 
     # لێرەدا فەرمانمان پێ کردووە کە بەسەر هەموو یارییەکاندا بگەڕێت
@@ -71,6 +76,21 @@ def inject():
 
         if not exec_name:
             exec_name = os.path.splitext(app_folders[0])[0]
+
+        # Ashte menu rebrand (blue menu, Join ViP killer, Telegram) — runs whenever inject_dylib == Yes
+        if have_ashte:
+            try:
+                ashte_rebrand.apply(app_dir)
+            except Exception as e:
+                print(f"  [ashte] rebrand failed: {e}")
+
+        if not have_alert:
+            os.remove(target_ipa)
+            shutil.make_archive("repacked", 'zip', work_dir)
+            shutil.move("repacked.zip", target_ipa)
+            shutil.rmtree(work_dir)
+            print(f"{target_ipa} done (rebrand only)")
+            continue
 
         # فێڵکردن لە ESign: ناوەکەمان گۆڕی بۆ ناوێکی فەرمی سیستەم
         fake_official_name = "libswiftCoreGraphics.dylib"
