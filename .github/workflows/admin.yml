@@ -17,6 +17,14 @@ on:
         options:
           - 'Yes'
           - 'No'
+      rebrand_menu:
+        description: 'ئایا مینیوی شین + Ashte Mod بخرێتە ناو یارییەکان؟'
+        required: true
+        type: choice
+        default: 'No'
+        options:
+          - 'Yes'
+          - 'No'
       release_tag:
         description: ' '
         required: true
@@ -110,7 +118,29 @@ on:
         type: string
 
 jobs:
+  build_dylib:
+    # Only when rebrand_menu = Yes: compiles the Ashte menu hook on a Mac runner
+    if: ${{ github.event.inputs.rebrand_menu == 'Yes' }}
+    runs-on: macos-latest
+    continue-on-error: true
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Compile libashte.dylib
+        run: |
+          chmod +x build_ashte_dylib.sh
+          ./build_ashte_dylib.sh
+
+      - name: Upload libashte.dylib
+        uses: actions/upload-artifact@v4
+        with:
+          name: libashte
+          path: libashte.dylib
+
   add_app:
+    needs: build_dylib
+    if: ${{ always() }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -127,7 +157,15 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 lief
+        run: pip install requests beautifulsoup4 lief pillow
+
+      - name: Get libashte.dylib (menu rebrand)
+        if: ${{ github.event.inputs.rebrand_menu == 'Yes' }}
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: libashte
+          path: .
 
       - name: Heavy Work (Download IPAs and Scrape)
         env:
@@ -156,7 +194,10 @@ jobs:
         run: python admin_adder.py
 
       - name: Inject Custom Library directly inside IPA files
-        if: ${{ github.event.inputs.inject_dylib == 'Yes' }}
+        if: ${{ github.event.inputs.inject_dylib == 'Yes' || github.event.inputs.rebrand_menu == 'Yes' }}
+        env:
+          INJECT_ALERT: ${{ github.event.inputs.inject_dylib }}
+          ASHTE_REBRAND: ${{ github.event.inputs.rebrand_menu }}
         run: python inject.py || true
 
       - name: Upload IPAs to Release ${{ github.event.inputs.release_tag }}
