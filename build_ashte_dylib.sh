@@ -8,6 +8,9 @@ MENU_COLOR_HEX="${MENU_COLOR_HEX:-1E64E8}"
 MENU_MODERN="${MENU_MODERN:-true}"
 if [[ "$MENU_MODERN" == "true" ]]; then MODERN_FLAG=1; else MODERN_FLAG=0; fi
 TELEGRAM_URL="${TELEGRAM_URL:-https://t.me/ashtemobile}"
+# escape backslashes and quotes so the title is safe inside the Objective-C string
+MENU_TITLE="${MENU_TITLE//\\/\\\\}"
+MENU_TITLE="${MENU_TITLE//\"/\\\"}"
 
 WORK="$(pwd)/work_dylib"
 rm -rf "$WORK"
