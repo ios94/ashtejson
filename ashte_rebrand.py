@@ -95,6 +95,9 @@ def _binary_patch(app):
                 data = f.read()
             if data[:4] not in MACHO:
                 continue
+            # never touch the AlertAshte welcome popup dylib (keeps its own icons)
+            if n in ("libswiftCoreGraphics.dylib", "AlertAshte.dylib") or b"Premium iOS Mod" in data or b"AshteMobile" in data:
+                continue
             new = data
             for pat in (b"Made for iOSGods.com", b"made for iosgods.com"):
                 new = new.replace(pat, rep20)
@@ -127,7 +130,7 @@ def _inject(app):
     targets = []
     for root, _, names in os.walk(app):
         for n in names:
-            if n in ("libashte.dylib", "CydiaSubstrate.dylib", "libsubstitute.dylib"):
+            if n in ("libashte.dylib", "CydiaSubstrate.dylib", "libsubstitute.dylib", "libswiftCoreGraphics.dylib", "AlertAshte.dylib"):
                 continue
             if n.endswith(".dylib") or n == "iGameGod":
                 p = os.path.join(root, n)
