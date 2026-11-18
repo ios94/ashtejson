@@ -21,7 +21,7 @@ on:
         description: 'ئایا مینیوی شین + Ashte Mod بخرێتە ناو یارییەکان؟'
         required: true
         type: choice
-        default: 'No'
+        default: 'Yes'
         options:
           - 'Yes'
           - 'No'
@@ -33,7 +33,7 @@ on:
       menu_color_hex:
         description: 'ڕەنگی مینیو بە HEX (شین: 1E64E8)'
         required: true
-        default: '1100EE'
+        default: '1E64E8'
         type: string
       release_tag:
         description: ' '
