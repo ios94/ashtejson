@@ -10,54 +10,6 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
-            "id": 1657772079,
-            "name": "FiveCity",
-            "version": "2.37.281-BETA",
-            "size": 32996607,
-            "icon": "img/fivecity.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/fivecity.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/fivecity.ipa",
-            "bundleIdentifier": "lum.five.city.beta",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fivecity.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fivecity_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fivecity_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fivecity_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fivecity_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fivecity_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fivecity_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fivecity_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fivecity_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "2.37.281-BETA",
-                    "date": "2026-11-18T08:14:08+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/fivecity.ipa",
-                    "size": 32996607,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fivecity_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fivecity_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fivecity_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fivecity_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1218386826,
             "name": "Pocket Land!",
             "version": "0.132.0",
