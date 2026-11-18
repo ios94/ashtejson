@@ -25,6 +25,16 @@ on:
         options:
           - 'Yes'
           - 'No'
+      menu_title:
+        description: 'ناوی مینیو (Mod menu title)'
+        required: true
+        default: 'Ashte Mod'
+        type: string
+      menu_color_hex:
+        description: 'ڕەنگی مینیو بە HEX (شین: 1E64E8)'
+        required: true
+        default: '1E64E8'
+        type: string
       release_tag:
         description: ' '
         required: true
@@ -108,14 +118,6 @@ on:
         description: '9. لینکی IPA'
         required: false
         type: string
-      app10_name:
-        description: '10. پەڕەی یاری'
-        required: false
-        type: string
-      app10_ipa:
-        description: '10. لینکی IPA'
-        required: false
-        type: string
 
 jobs:
   build_dylib:
@@ -128,6 +130,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Compile libashte.dylib
+        env:
+          MENU_TITLE: ${{ github.event.inputs.menu_title }}
+          MENU_COLOR_HEX: ${{ github.event.inputs.menu_color_hex }}
         run: |
           chmod +x build_ashte_dylib.sh
           ./build_ashte_dylib.sh
@@ -189,8 +194,6 @@ jobs:
           APP8_IPA: ${{ github.event.inputs.app8_ipa }}
           APP9_NAME: ${{ github.event.inputs.app9_name }}
           APP9_IPA: ${{ github.event.inputs.app9_ipa }}
-          APP10_NAME: ${{ github.event.inputs.app10_name }}
-          APP10_IPA: ${{ github.event.inputs.app10_ipa }}
         run: python admin_adder.py
 
       - name: Inject Custom Library directly inside IPA files
@@ -198,6 +201,7 @@ jobs:
         env:
           INJECT_ALERT: ${{ github.event.inputs.inject_dylib }}
           ASHTE_REBRAND: ${{ github.event.inputs.rebrand_menu }}
+          ASHTE_MENU_TITLE: ${{ github.event.inputs.menu_title }}
         run: python inject.py || true
 
       - name: Upload IPAs to Release ${{ github.event.inputs.release_tag }}
