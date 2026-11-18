@@ -568,6 +568,31 @@ static void ashteModernize(UIView *root) {
     }
 }
 
+// Never touch the AlertAshte welcome popup ("AshteMobile / Premium iOS Mod / OPEN"):
+// its own icons (Telegram, Safari, TikTok, logo) must stay as they are.
+static const void *kAlertKey = &kAlertKey;
+static BOOL ashteHasAlertText(UIView *v) {
+    if (!v) return NO;
+    NSString *t = extractViewText(v);
+    if (t.length > 0 && [t rangeOfString:@"Premium iOS Mod" options:NSCaseInsensitiveSearch].location != NSNotFound) return YES;
+    for (UIView *sub in [v.subviews copy]) {
+        if (ashteHasAlertText(sub)) return YES;
+    }
+    return NO;
+}
+static BOOL isAshteAlertView(UIView *view) {
+    UIView *top = view;
+    while (top.superview && ![top.superview isKindOfClass:[UIWindow class]]) {
+        top = top.superview;
+    }
+    if (objc_getAssociatedObject(top, kAlertKey)) return YES;
+    if (ashteHasAlertText(top)) {
+        objc_setAssociatedObject(top, kAlertKey, @YES, OBJC_ASSOCIATION_RETAIN_NONATOMIC);
+        return YES;
+    }
+    return NO;
+}
+
 static BOOL isIOSGodsNoticeText(NSString *s) {
     if (!s || s.length == 0) return NO;
     NSArray<NSString *> *keys = @[
@@ -583,6 +608,40 @@ static BOOL isIOSGodsNoticeText(NSString *s) {
         }
     }
     return NO;
+}
+
+// Replace the mascot/avatar icons, but ONLY inside the mod menu box (never in other popups)
+static void ashteIconsTree(UIView *v) {
+    if (!v) return;
+    UIImage *customImg = getCustomMenuIcon();
+    if (!customImg) return;
+    if (v.tag != 994411) {
+        CGSize sz = v.bounds.size;
+        BOOL squareish = (sz.width >= 20 && sz.width <= 105 && sz.height >= 20 && sz.height <= 105 && fabs(sz.width - sz.height) <= 18);
+        BOOL tallMascot = (sz.width >= 50 && sz.width <= 105 && sz.height > sz.width && sz.height <= 140 && sz.height <= sz.width * 1.7);
+        if (squareish || tallMascot) {
+            if ([v isKindOfClass:[UIImageView class]]) {
+                UIImageView *iv = (UIImageView *)v;
+                if (iv.image && iv.frame.origin.x < 120) {
+                    iv.image = customImg;
+                    iv.contentMode = UIViewContentModeScaleAspectFit;
+                    v.tag = 994411;
+                }
+            } else if ([v isKindOfClass:[UIButton class]]) {
+                UIButton *btn = (UIButton *)v;
+                if (btn.frame.origin.x < 120 && ([btn imageForState:UIControlStateNormal] || [btn backgroundImageForState:UIControlStateNormal])) {
+                    if ([btn imageForState:UIControlStateNormal]) {
+                        [btn setImage:customImg forState:UIControlStateNormal];
+                    }
+                    if ([btn backgroundImageForState:UIControlStateNormal]) {
+                        [btn setBackgroundImage:customImg forState:UIControlStateNormal];
+                    }
+                    v.tag = 994411;
+                }
+            }
+        }
+    }
+    for (UIView *sub in [v.subviews copy]) ashteIconsTree(sub);
 }
 
 static void scrubViewHierarchy(UIView *view) {
@@ -690,40 +749,13 @@ static void scrubViewHierarchy(UIView *view) {
             if (!root) root = view.superview.superview;
             if (root) {
                 recolorBlueView(root);
+                if (!ashteHasAlertText(root) && !isAshteAlertView(root)) ashteIconsTree(root);
                 if (kAshteModern) ashteModernize(root);
             }
         }
     }
 
-    // 4. Replace mascot/avatar icon in menu header & floating button with custom logo
-    //    (square-ish icons, and the taller Check0ver mascot that overhangs the header)
-    UIImage *customImg = getCustomMenuIcon();
-    if (customImg && view.tag != 994411) {
-        CGSize sz = view.bounds.size;
-        BOOL squareish = (sz.width >= 20 && sz.width <= 105 && sz.height >= 20 && sz.height <= 105 && fabs(sz.width - sz.height) <= 18);
-        BOOL tallMascot = (sz.width >= 50 && sz.width <= 105 && sz.height > sz.width && sz.height <= 140 && sz.height <= sz.width * 1.7);
-        if (squareish || tallMascot) {
-            if ([view isKindOfClass:[UIImageView class]]) {
-                UIImageView *iv = (UIImageView *)view;
-                if (iv.image && iv.frame.origin.x < 120) {
-                    iv.image = customImg;
-                    iv.contentMode = UIViewContentModeScaleAspectFit;
-                    view.tag = 994411;
-                }
-            } else if ([view isKindOfClass:[UIButton class]]) {
-                UIButton *btn = (UIButton *)view;
-                if (btn.frame.origin.x < 120 && ([btn imageForState:UIControlStateNormal] || [btn backgroundImageForState:UIControlStateNormal])) {
-                    if ([btn imageForState:UIControlStateNormal]) {
-                        [btn setImage:customImg forState:UIControlStateNormal];
-                    }
-                    if ([btn backgroundImageForState:UIControlStateNormal]) {
-                        [btn setBackgroundImage:customImg forState:UIControlStateNormal];
-                    }
-                    view.tag = 994411;
-                }
-            }
-        }
-    }
+    // 4. (icon replacement now happens only inside the Ashte menu box, see ashteIconsTree)
 
     for (UIView *sub in [view.subviews copy]) {
         scrubViewHierarchy(sub);
