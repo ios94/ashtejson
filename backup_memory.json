@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1493165586,
+            "name": "Zombies vs. Towers",
+            "version": "13.1.189",
+            "size": 323083507,
+            "icon": "img/zombiesvstowers.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/zombiesvstowers.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/zombiesvstowers.ipa",
+            "bundleIdentifier": "com.edenap.z2",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- No Ads\n- Infinite Currencies\n- Infinite Ammo\n- Freeze Wall HP",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/zombiesvstowers.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesvstowers_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesvstowers_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesvstowers_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesvstowers_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesvstowers_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesvstowers_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesvstowers_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesvstowers_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "13.1.189",
+                    "date": "2026-11-18T00:18:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/zombiesvstowers.ipa",
+                    "size": 323083507,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesvstowers_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesvstowers_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesvstowers_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/zombiesvstowers_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1744145945,
             "name": "Cookie Clickers 2",
             "version": "1.15.6",
