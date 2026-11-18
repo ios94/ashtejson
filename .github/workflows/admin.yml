@@ -28,12 +28,12 @@ on:
       menu_title:
         description: 'ناوی مینیو (Mod menu title)'
         required: true
-        default: 'Ashte Mod'
+        default: 'Ashte Mobile 📱'
         type: string
       menu_color_hex:
         description: 'ڕەنگی مینیو بە HEX (شین: 1E64E8)'
         required: true
-        default: '1E64E8'
+        default: '1100EE'
         type: string
       release_tag:
         description: ' '
