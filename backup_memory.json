@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1543352750,
+            "name": "War Robots Multiplayer Battles",
+            "version": "12.5.0",
+            "size": 1132680054,
+            "icon": "img/warrobotsmultiplayerbattles.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/warrobotsmultiplayerbattles.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/warrobotsmultiplayerbattles.ipa",
+            "bundleIdentifier": "com.pixonic.wwr",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Mega Jump",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/warrobotsmultiplayerbattles.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warrobotsmultiplayerbattles_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warrobotsmultiplayerbattles_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warrobotsmultiplayerbattles_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warrobotsmultiplayerbattles_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warrobotsmultiplayerbattles_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warrobotsmultiplayerbattles_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warrobotsmultiplayerbattles_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warrobotsmultiplayerbattles_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "12.5.0",
+                    "date": "2026-11-19T18:33:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/warrobotsmultiplayerbattles.ipa",
+                    "size": 1132680054,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warrobotsmultiplayerbattles_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warrobotsmultiplayerbattles_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warrobotsmultiplayerbattles_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/warrobotsmultiplayerbattles_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1218386826,
             "name": "Pocket Land!",
             "version": "0.132.0",
