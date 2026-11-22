@@ -10,6 +10,102 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1432360879,
+            "name": "Evil Nun ✨",
+            "version": "2.0.9541",
+            "size": 385790880,
+            "icon": "img/evilnun.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/evilnun.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/evilnun.ipa",
+            "bundleIdentifier": "com.keplerians.thenun",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/evilnun.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilnun_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilnun_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilnun_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilnun_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilnun_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilnun_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilnun_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilnun_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.0.9541",
+                    "date": "2026-11-22T23:37:52+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/evilnun.ipa",
+                    "size": 385790880,
+                    "buildVersion": null,
+                    "minOSVersion": "13.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilnun_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilnun_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilnun_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/evilnun_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1759431828,
+            "name": "C.A.T.S. ✨",
+            "version": "3.35.11",
+            "size": 198957716,
+            "icon": "img/cats.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/cats.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/cats.ipa",
+            "bundleIdentifier": "com.zeptolab.cats",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cats.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cats_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cats_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cats_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cats_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cats_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cats_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cats_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cats_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "3.35.11",
+                    "date": "2026-11-22T23:37:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/cats.ipa",
+                    "size": 198957716,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cats_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cats_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cats_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cats_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1749649472,
             "name": "PaperHero ✨",
             "version": "1.1.3",
