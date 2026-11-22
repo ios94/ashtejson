@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1715636848,
+            "name": "Beegram",
+            "version": "454.0.0",
+            "size": 415463537,
+            "icon": "img/beegram.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/beegram.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/beegram.ipa",
+            "bundleIdentifier": "com.burbn.instagram",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/beegram.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "454.0.0",
+                    "date": "2026-11-22T10:43:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/beegram.ipa",
+                    "size": 415463537,
+                    "buildVersion": null,
+                    "minOSVersion": "16.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1543352750,
             "name": "War Robots Multiplayer Battles",
             "version": "12.5.0",
@@ -344002,54 +344050,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instaregram_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instaregram_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/instaregram_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1715636848,
-            "name": "Beegram",
-            "version": "453.0.0",
-            "size": 615603886,
-            "icon": "img/beegram.png",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/beegram.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/beegram.ipa",
-            "bundleIdentifier": "com.burbn.instagram",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "هذا تطبيق رائع متاح فقط على Zipa\nانستا \nانستغرام\nانستكرام",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/beegram.png",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "453.0.0",
-                    "date": "2026-11-06T20:28:37+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/beegram.ipa",
-                    "size": 615603886,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/beegram_screen_4.jpg"
                     ]
                 }
             ]
