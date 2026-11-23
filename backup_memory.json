@@ -10,6 +10,390 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1310638534,
+            "name": "Formula Ride",
+            "version": "1.1.1",
+            "size": 576461738,
+            "icon": "img/formularide.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/formularide.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/formularide.ipa",
+            "bundleIdentifier": "com.sevenseas.formularide",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Money Modifier → earn currency freely\n- Token Modifier → earn tokens freely\n- Unlock All Maps → access every track immediately\n- No Ads → uninterrupted racing",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/formularide.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.2",
+                    "date": "2026-11-23T22:54:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/formularide.ipa",
+                    "size": 576461738,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1387838528,
+            "name": "Virtual Villagers 7",
+            "version": "1.6.9",
+            "size": 515878925,
+            "icon": "img/virtualvillagers7.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/virtualvillagers7.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/virtualvillagers7.ipa",
+            "bundleIdentifier": "com.ldw.vv7",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Cheats Menu -> Head into Settings, toggle the Help button, close settings then re-open to show a Cheats button.*\n- Unlimited Food*\n- Unlimited Wood*\n- Unlimited Stone*\n- Unlimited Tech Points*\n- Unlimited Lavastone*\n\n* - Head into Settings and toggle the Help button. Only enable 1 feature at a time.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/virtualvillagers7.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.9",
+                    "date": "2026-11-23T22:53:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/virtualvillagers7.ipa",
+                    "size": 515878925,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1888649770,
+            "name": "Arrows – Puzzle Escape",
+            "version": "0.25.0",
+            "size": 270055274,
+            "icon": "img/arrowspuzzleescape.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/arrowspuzzleescape.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/arrowspuzzleescape.ipa",
+            "bundleIdentifier": "com.ecffri.arrows",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Max Lives",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/arrowspuzzleescape.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.25.0",
+                    "date": "2026-11-23T22:53:22+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/arrowspuzzleescape.ipa",
+                    "size": 270055274,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1684847062,
+            "name": "Match 3D",
+            "version": "3.0.8",
+            "size": 495669743,
+            "icon": "img/match3d.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/match3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/match3d.ipa",
+            "bundleIdentifier": "com.loop.match3d",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "🛒 Enable Fake Purchase\n🚫 No Ads\n\n📝 Note: Activate the hack from the mod menu.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/match3d.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "3.0.8",
+                    "date": "2026-11-23T22:53:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/match3d.ipa",
+                    "size": 495669743,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1908408262,
+            "name": "NHRA Legends of Drag Racing",
+            "version": "1.25.0",
+            "size": 477269256,
+            "icon": "img/nhralegendsofdragracing.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/nhralegendsofdragracing.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/nhralegendsofdragracing.ipa",
+            "bundleIdentifier": "com.concretesoftware.dragracingcar",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Enough Gold\n- Enough Cash",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nhralegendsofdragracing.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.25.0",
+                    "date": "2026-11-23T22:52:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/nhralegendsofdragracing.ipa",
+                    "size": 477269256,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1226344798,
+            "name": "Airplane Manager Tycoon Empire",
+            "version": "0.2.3",
+            "size": 398064888,
+            "icon": "img/airplanemanagertycoonempire.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/airplanemanagertycoonempire.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/airplanemanagertycoonempire.ipa",
+            "bundleIdentifier": "com.horusent.airplane.manager.tycoon",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto ADS NO → removes forced ad interruptions\n- Gems Enough → abundant premium currency for upgrades",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/airplanemanagertycoonempire.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.2.3",
+                    "date": "2026-11-23T22:51:28+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/airplanemanagertycoonempire.ipa",
+                    "size": 398064888,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1649224125,
+            "name": "On Raft",
+            "version": "1.0.2",
+            "size": 466863040,
+            "icon": "img/onraft.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
+            "bundleIdentifier": "com.on.raft",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- ADS NO / Rewards Free → No interruptions, instant rewards\n- Currency Multiplier → Earn currency faster\n- Resources Multiplier → Gather materials at an accelerated rate\n- Debug Menu → Advanced customization and testing options",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.2",
+                    "date": "2026-11-23T22:51:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
+                    "size": 466863040,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1925830946,
+            "name": "Last Beacon: Survival",
+            "version": "2.8.0",
+            "size": 630971746,
+            "icon": "img/lastbeaconsurvival.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/lastbeaconsurvival.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/lastbeaconsurvival.ipa",
+            "bundleIdentifier": "com.iflow.lastbeacon.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Never Die → survive any encounter unharmed\r\n- Damage Multiplier → amplify your combat effectiveness\r\n- No Skill Cooldown → use abilities instantly and repeatedly",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lastbeaconsurvival.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.8.0",
+                    "date": "2026-11-23T22:50:29+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/lastbeaconsurvival.ipa",
+                    "size": 630971746,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1261626748,
             "name": "Wingrush: Glide & Graze",
             "version": "1.3",
@@ -184114,54 +184498,6 @@
             ]
         },
         {
-            "id": 1908408262,
-            "name": "NHRA Legends of Drag Racing",
-            "version": "1.24.0",
-            "size": 473140701,
-            "icon": "img/nhralegendsofdragracing.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/nhralegendsofdragracing.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/nhralegendsofdragracing.ipa",
-            "bundleIdentifier": "com.concretesoftware.dragracingcar",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Enough Gold\n- Enough Cash",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/nhralegendsofdragracing.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.24.0",
-                    "date": "2026-11-09T05:12:48+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/nhralegendsofdragracing.ipa",
-                    "size": 473140701,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/nhralegendsofdragracing_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1535611610,
             "name": "MAke Drama : MAD",
             "version": "1.10.3",
@@ -184346,54 +184682,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/penguinisle_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/penguinisle_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/penguinisle_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1925830946,
-            "name": "Last Beacon: Survival",
-            "version": "2.7.0",
-            "size": 624573856,
-            "icon": "img/lastbeaconsurvival.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/lastbeaconsurvival.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/lastbeaconsurvival.ipa",
-            "bundleIdentifier": "com.iflow.lastbeacon.ios",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Never Die → survive any encounter unharmed\r\n- Damage Multiplier → amplify your combat effectiveness\r\n- No Skill Cooldown → use abilities instantly and repeatedly",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lastbeaconsurvival.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "2.7.0",
-                    "date": "2026-11-09T05:09:19+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/lastbeaconsurvival.ipa",
-                    "size": 624573856,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastbeaconsurvival_screen_4.jpg"
                     ]
                 }
             ]
@@ -200762,54 +201050,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rapidreload_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rapidreload_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rapidreload_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1310638534,
-            "name": "Formula Ride",
-            "version": "1.0.8",
-            "size": 501461704,
-            "icon": "img/formularide.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/formularide.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/formularide.ipa",
-            "bundleIdentifier": "com.sevenseas.formularide",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Money Modifier → earn currency freely\n- Token Modifier → earn tokens freely\n- Unlock All Maps → access every track immediately\n- No Ads → uninterrupted racing",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/formularide.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.8",
-                    "date": "2026-11-09T00:01:02+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/formularide.ipa",
-                    "size": 501461704,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/formularide_screen_4.jpg"
                     ]
                 }
             ]
@@ -350545,54 +350785,6 @@
             ]
         },
         {
-            "id": 1226344798,
-            "name": "Airplane Manager Tycoon Empire",
-            "version": "0.2.2",
-            "size": 182669329,
-            "icon": "img/airplanemanagertycoonempire.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/airplanemanagertycoonempire.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/airplanemanagertycoonempire.ipa",
-            "bundleIdentifier": "com.horusent.airplane.manager.tycoon",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Auto ADS NO → removes forced ad interruptions\n- Gems Enough → abundant premium currency for upgrades",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/airplanemanagertycoonempire.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "0.2.2",
-                    "date": "2026-11-05T18:29:32+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/airplanemanagertycoonempire.ipa",
-                    "size": 182669329,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/airplanemanagertycoonempire_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1917879624,
             "name": "Hacked & Modded iOS & Android Games",
             "version": "1.2.6",
@@ -357217,54 +357409,6 @@
             ]
         },
         {
-            "id": 1888649770,
-            "name": "Arrows – Puzzle Escape",
-            "version": "0.24.0",
-            "size": 93913777,
-            "icon": "img/arrowspuzzleescape.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/arrowspuzzleescape.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/arrowspuzzleescape.ipa",
-            "bundleIdentifier": "com.ecffri.arrows",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Max Lives",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/arrowspuzzleescape.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "0.24.0",
-                    "date": "2026-10-28T20:05:44+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/arrowspuzzleescape.ipa",
-                    "size": 93913777,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowspuzzleescape_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1778621916,
             "name": "Midnight Dreamers | Novels",
             "version": "1.6.11",
@@ -357404,54 +357548,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hatsunemikucolorfulstage_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hatsunemikucolorfulstage_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hatsunemikucolorfulstage_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1387838528,
-            "name": "Virtual Villagers 7",
-            "version": "1.5.10",
-            "size": 263550897,
-            "icon": "img/virtualvillagers7.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/virtualvillagers7.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/virtualvillagers7.ipa",
-            "bundleIdentifier": "com.ldw.vv7",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Cheats Menu -> Head into Settings, toggle the Help button, close settings then re-open to show a Cheats button.*\n- Unlimited Food*\n- Unlimited Wood*\n- Unlimited Stone*\n- Unlimited Tech Points*\n- Unlimited Lavastone*\n\n* - Head into Settings and toggle the Help button. Only enable 1 feature at a time.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/virtualvillagers7.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1.5.10",
-                    "date": "2026-10-28T16:26:31+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/virtualvillagers7.ipa",
-                    "size": 263550897,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/virtualvillagers7_screen_4.jpg"
                     ]
                 }
             ]
@@ -365932,54 +366028,6 @@
             ]
         },
         {
-            "id": 1684847062,
-            "name": "Match 3D",
-            "version": "1246.5.0",
-            "size": 314724737,
-            "icon": "img/match3d.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/match3d.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/match3d.ipa",
-            "bundleIdentifier": "com.loop.match3d",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "🛒 Enable Fake Purchase\n🚫 No Ads\n\n📝 Note: Activate the hack from the mod menu.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/match3d.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1246.5.0",
-                    "date": "2026-10-25T11:34:06+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/match3d.ipa",
-                    "size": 314724737,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/match3d_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1377869801,
             "name": "Screw It Out!",
             "version": "1.1.56",
@@ -370469,54 +370517,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetoweridletowerdefense_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetoweridletowerdefense_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/thetoweridletowerdefense_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1649224125,
-            "name": "On Raft",
-            "version": "1.0.1",
-            "size": 251242375,
-            "icon": "img/onraft.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
-            "bundleIdentifier": "com.on.raft",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- ADS NO / Rewards Free → No interruptions, instant rewards\n- Currency Multiplier → Earn currency faster\n- Resources Multiplier → Gather materials at an accelerated rate\n- Debug Menu → Advanced customization and testing options",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/onraft.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.1",
-                    "date": "2026-10-16T11:40:50+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/onraft.ipa",
-                    "size": 251242375,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/onraft_screen_4.png"
                     ]
                 }
             ]
