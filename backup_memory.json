@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1908641038,
+            "name": "Granny",
+            "version": "1.8.5",
+            "size": 776916036,
+            "icon": "img/granny.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/granny.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/granny.ipa",
+            "bundleIdentifier": "com.dvloper.granny",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- أعداء ESP\r\n- عناصر ESP\r\n- تجميد الأعداء\r\n- إعماء الأعداء (لا تهاجم)\r\n\r\n- ESP Enemies\r\n- ESP Items\r\n- Freeze Enemies\r\n- Blind Enemies (Don&#39;t Attack)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/granny.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.8.5",
+                    "date": "2026-11-23T21:52:14+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/granny.ipa",
+                    "size": 776916036,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1830464024,
             "name": "Genesis War",
             "version": "2.6.4",
@@ -247433,54 +247481,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rivalguns_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rivalguns_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rivalguns_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1908641038,
-            "name": "Granny",
-            "version": "1.8.4",
-            "size": 767122980,
-            "icon": "img/granny.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V8/granny.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V8/granny.ipa",
-            "bundleIdentifier": "com.dvloper.granny",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- أعداء ESP\r\n- عناصر ESP\r\n- تجميد الأعداء\r\n- إعماء الأعداء (لا تهاجم)\r\n\r\n- ESP Enemies\r\n- ESP Items\r\n- Freeze Enemies\r\n- Blind Enemies (Don&#39;t Attack)",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/granny.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1.8.4",
-                    "date": "2026-11-08T07:27:34+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V8/granny.ipa",
-                    "size": 767122980,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/granny_screen_4.jpg"
                     ]
                 }
             ]
