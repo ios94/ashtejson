@@ -37,12 +37,10 @@ TAG_FILE = "batch_tag.txt"
 BATCH_SIZE = sync.BATCH_SIZE
 
 DATA_URLS = [u for u in re.split(r"[,\s]+", os.environ.get("DATA_URLS", "").strip()) if u]
-MAX_UPDATES = int(os.environ.get("MAX_UPDATES", "1000000") or 1000000)
+MAX_UPDATES = int(os.environ.get("MAX_UPDATES", "60") or 60)
 DRY_RUN = os.environ.get("DRY_RUN", "No").strip().lower() in ("yes", "true", "1")
-FORCE = {n.strip().lower() for n in os.environ.get("FORCE_NAMES", "").split(",") if n.strip()}  # ناوی یاری کە بە زۆر ئابدەیت بکرێت
-DEEP = os.environ.get("DEEP_CHECK", "No").strip().lower() in ("yes", "true", "1")  # پشکنینی قووڵ: Info.plist ی IPA ی ڕاستەقینە
 WORKERS = 16
-MAX_CHECK_SECONDS = int(os.environ.get("MAX_CHECK_SECONDS", "3600") or 3600)  # ١ کاتژمێر زیاتر ناپشکنێت
+MAX_CHECK_SECONDS = int(os.environ.get("MAX_CHECK_SECONDS", "2400") or 2400)  # ٤٠ خولەک زیاتر ناپشکنێت
 HEADERS = sync.HEADERS
 
 
@@ -62,6 +60,11 @@ def is_newer(new, old):
     if a and b:
         return a > b
     return True  # وەشانەکان ژمارە نین، جیاوازیان هەیە
+
+
+def differs(site, json_v):
+    """وەشانی ماڵپەڕ و وەشانی JSON جیاوازن؟ (بە وشە، وەک ماڵپەڕەکە نیشانی دەدات: 1.030 ≠ 1.30)"""
+    return (site or "").strip() != (json_v or "").strip() and bool((site or "").strip())
 
 
 def remote_version(url):
@@ -109,17 +112,11 @@ def feed_version_of(it):
 
 def check_one(game, app, state):
     """(ئەنجام، وەشانی نوێ، sig).
-    ١) ئەگەر فید وەشانێکی نوێتری هەبوو لە JSON ـەکەمان -> ئابدەیت (خێراترین ڕێگا، بێ داواکاری)
-    ٢) ئەگەر فید هەمان وەشان یان کۆنتری نیشان دا، فید ڕەنگە دواکەوتبێت (وەک Hover Factory 1.2.6 لە کاتێکدا ماڵپەڕ 1.2.7 نیشان دەدات).
-       لە پشکنینی قووڵدا (DEEP) وەشانی ڕاستەقینە لە Info.plist ی IPA دەخوێنرێتەوە (Range، چەند سەد KB)
-    ٣) ئەگەر سێرڤەر Range پشتگیری نەکات و فید وەشانی نەبوو: size/ETag/Last-Modified بەراورد دەکرێت (update_state.json)"""
-    fv = game.get("fv") or ""
-    if app["name"].strip().lower() in FORCE:
-        return "force", fv or "?", None
-    if fv and is_newer(fv, app.get("version", "")):
-        return "feed", fv, None
-    if fv and not DEEP:
-        return "feed-same", None, None
+    ١) GET ی ئاسایی (وەک admin_adder) و تەنها هێدەرەکان دەخوێنرێنەوە، بەبێ دابەزاندنی فایل
+    ٢) ئەگەر سێرڤەر Accept-Ranges: bytes ی هەبوو، وەشانی ڕاستەقینە لە Info.plist دەخوێنرێتەوە
+    ٣) ئەگەر نا: size/ETag/Last-Modified بەراورد دەکرێت لەگەڵ جاری پێشوو (update_state.json)"""
+    if game.get("fv"):  # فیدەکە خۆی وەشانی هەیە: هیچ داواکارییەکی تر پێویست نیە (خێراترین ڕێگا)
+        return "feed", game["fv"], None
     url = game["ipa"]
     if not url.lower().startswith("http"):
         return "skip", None, None
@@ -144,21 +141,21 @@ def check_one(game, app, state):
     old_sig = state.get(key, {}).get("sig")
     if old_sig is None:
         return "baseline", None, sig  # یەکەم جار: تەنها تۆمار دەکرێت
-    if old_sig != sig and not fv:  # ئەگەر فید وەشانی هەبوو و sig گۆڕا بەبێ وەشانی ڕاستەقینە، ئابدەیت ناکرێت (ڕێگری لە دابەزاندنی بێ هۆ)
+    if old_sig != sig:
         return "sig-changed", "?", sig
     return "unchanged", None, sig
 
 
 # ------------------------------------------------------------------ prepare
 def gather_feed():
-    """هەموو سەرچاوەکان (DATA_URLS + فیدی خودی ماڵپەڕی SITE_URL) دەخوێنێتەوە.
-    بۆ هەر یارییەک نوێترین وەشان (و IPA ی هەمان وەشان) هەڵدەبژێرێت، چونکە یەک فید ڕەنگە دواکەوتبێت."""
-    best = {}
-    sources = list(DATA_URLS) + [""]  # "" = فیدەکە لە ماڵپەڕەکەوە خۆی بدۆزێتەوە
-    for url in sources:
+    items, seen = [], set()
+    for url in (DATA_URLS or [sync.DATA_URL]):
         sync.DATA_URL = url
         try:
             raw = sync.load_feed()
+            if raw:
+                print("🧪 sample feed item keys:", list(raw[0].keys()) if isinstance(raw[0], dict) else type(raw[0]))
+                print("🧪 sample:", json.dumps(raw[0], ensure_ascii=False)[:600])
             got = []
             for it in raw:
                 if not isinstance(it, dict):
@@ -168,21 +165,17 @@ def gather_feed():
                     got.append({"name": name, "ipa": ipa, "desc": sync.pick(it, sync.DESC_KEYS),
                                 "fv": feed_version_of(it)})
         except SystemExit:
-            print(f"⚠️ feed not available: {url or SITE_URL_FOR_LOG}")
+            print(f"⚠️ feed not available: {url}")
             continue
         except Exception as e:
             print(f"⚠️ feed error ({url}): {e}")
             continue
-        print(f"📥 source {url or SITE_URL_FOR_LOG}: {len(got)} items")
         for g in got:
             k = g["name"].lower().strip()
-            cur = best.get(k)
-            if cur is None or is_newer(g["fv"], cur["fv"]) or (not cur["fv"] and g["fv"]):
-                best[k] = g
-    return list(best.values())
-
-
-SITE_URL_FOR_LOG = sync.SITE_URL
+            if k not in seen:
+                seen.add(k)
+                items.append(g)
+    return items
 
 
 def prepare():
@@ -209,11 +202,10 @@ def prepare():
             key = app["name"].strip().lower()
             seen_fv = state.get(key, {}).get("fv")
             queued = False
-            if how == "force":
-                do_update = True
-            elif how == "feed":
+            if how == "feed":
                 # نوێتر لە وەشانی JSON و هێشتا ئەم وەشانەی فید ئابدەیت نەکراوە (ڕێگری لە ئابدەیتی بێ کۆتا)
-                do_update = is_newer(new_v, old_v) and new_v != seen_fv
+                # وەشانی JSON دەبێت وەک وەشانی ماڵپەڕە بێت: هەر جیاوازییەک، نەک تەنها کاتێک نوێتر بێت
+                do_update = differs(new_v, old_v) and new_v != seen_fv
             else:
                 do_update = how == "sig-changed" or bool(new_v and is_newer(new_v, old_v))
             if do_update:
@@ -234,8 +226,6 @@ def prepare():
                     entry["sig"] = sig
                 if how == "feed":
                     entry["fv"] = new_v
-                elif g.get("fv"):
-                    entry["fv"] = g["fv"]
             done += 1
             if done % 200 == 0:
                 print(f"   {done}/{len(games)} checked ({int(time.time() - start)}s)")
@@ -325,8 +315,18 @@ def merge():
         if idx is None:
             continue
         old = apps[idx]
-        if not is_newer(new.get("version", ""), old.get("version", "")):
-            print(f"⏭️ {new['name']}: version {new.get('version')} is not newer than {old.get('version')}, JSON not changed")
+        q = queued_items.get(new["name"], {})
+        from_feed = bool(q.get("fv"))  # ئەم ئابدەیتە لە فیدی ماڵپەڕەوە هاتووە
+        if from_feed:
+            if differs(q["fv"], old.get("version", "")):
+                new["version"] = q["fv"]  # وەشانی ماڵپەڕە دەنووسرێت
+                changed = True
+            else:
+                changed = False
+        else:
+            changed = is_newer(new.get("version", ""), old.get("version", ""))
+        if not changed:
+            print(f"⏭️ {new['name']}: version {new.get('version')} same as {old.get('version')}, JSON not changed")
         else:
             for k in ("version", "size", "install_url", "download_url", "versions"):
                 if k in new:
@@ -335,7 +335,6 @@ def merge():
             apps.insert(0, old)  # ئابدەیتکراو دەچێتە سەرەوە
             merged += 1
             print(f"🔄 {new['name']} -> {old['version']}")
-        q = queued_items.get(new["name"], {})
         entry = state.setdefault(new["name"].strip().lower(), {})
         if q.get("sig"):
             entry["sig"] = q["sig"]
