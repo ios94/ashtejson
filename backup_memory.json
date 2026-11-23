@@ -10,6 +10,486 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1636557126,
+            "name": "Marblebound",
+            "version": "2.2.0",
+            "size": 236704795,
+            "icon": "img/marblebound.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/marblebound.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/marblebound.ipa",
+            "bundleIdentifier": "com.ht.marbleheroes",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Pre Activated\r\n- Never Die\r\n- ATK",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/marblebound.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.2.0",
+                    "date": "2026-11-23T22:15:47+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/marblebound.ipa",
+                    "size": 236704795,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1693220898,
+            "name": "Infinite Defense: Idle TD Game",
+            "version": "0.1.6",
+            "size": 543539345,
+            "icon": "img/infinitedefenseidletdgame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/infinitedefenseidletdgame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/infinitedefenseidletdgame.ipa",
+            "bundleIdentifier": "com.horusent.infinite.defense",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Dev Tool → advanced customization and control",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/infinitedefenseidletdgame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.1.6",
+                    "date": "2026-11-23T22:15:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/infinitedefenseidletdgame.ipa",
+                    "size": 543539345,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1590059468,
+            "name": "Colony Flow!",
+            "version": "1.1.59",
+            "size": 498099718,
+            "icon": "img/colonyflow.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/colonyflow.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/colonyflow.ipa",
+            "bundleIdentifier": "com.abi.colony.flow",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto ADS NO → removes forced ad interruptions\n- Freeze Coins → prevents coin depletion\n- Freeze Lives → keeps your lives intact\n- Freeze Booster → locks booster usage",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/colonyflow.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.1.59",
+                    "date": "2026-11-23T22:14:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/colonyflow.ipa",
+                    "size": 498099718,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1608262223,
+            "name": "Meowdoku!",
+            "version": "1.25.1",
+            "size": 400843004,
+            "icon": "img/meowdoku.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/meowdoku.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/meowdoku.ipa",
+            "bundleIdentifier": "com.oakever.meowdoku",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto Win → instantly complete any level\n- Jump to Custom Level → skip ahead to your chosen puzzle\n- Unlimited Tools → use hints and aids without limit\n- Infinite Lives → play without running out of attempts\n- Premium / No Ads → enjoy uninterrupted gameplay",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/meowdoku.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.25.1",
+                    "date": "2026-11-23T22:14:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/meowdoku.ipa",
+                    "size": 400843004,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1952104221,
+            "name": "Mika: Dungeon Backpacker",
+            "version": "1.0.11",
+            "size": 450347150,
+            "icon": "img/mikadungeonbackpacker.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mikadungeonbackpacker.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mikadungeonbackpacker.ipa",
+            "bundleIdentifier": "com.davestudio.mika",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → amplifies your combat output\n- Reward Multiplier → increases loot and drops\n- Currencies Increase When Spend → resources replenish as you use them\n- Game Speed → adjust dungeon exploration pace\n- No ADS → play uninterrupted",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mikadungeonbackpacker.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.11",
+                    "date": "2026-11-23T22:13:59+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mikadungeonbackpacker.ipa",
+                    "size": 450347150,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1731034399,
+            "name": "Riftborn: Idle RPG",
+            "version": "1.0.23",
+            "size": 119950673,
+            "icon": "img/riftbornidlerpg.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/riftbornidlerpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/riftbornidlerpg.ipa",
+            "bundleIdentifier": "com.asmeragames.riftbornrpg",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Currency Max → maximize essence reserves instantly\n- Never Die → eliminate all combat damage and defeat\n- Damage Max → deal maximum damage to every enemy",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/riftbornidlerpg.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.24",
+                    "date": "2026-11-23T22:13:13+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/riftbornidlerpg.ipa",
+                    "size": 119950673,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1530691236,
+            "name": "Word Spells: Game for Seniors",
+            "version": "2.66",
+            "size": 289265785,
+            "icon": "img/wordspellsgameforseniors.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/wordspellsgameforseniors.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/wordspellsgameforseniors.ipa",
+            "bundleIdentifier": "com.openmygame.magicwordsearch",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto ADS NO\n- Unlimited Coins",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wordspellsgameforseniors.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.66",
+                    "date": "2026-11-23T22:13:03+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/wordspellsgameforseniors.ipa",
+                    "size": 289265785,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1805714495,
+            "name": "MidnightMarket",
+            "version": "1.0.28",
+            "size": 382525892,
+            "icon": "img/midnightmarket.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/midnightmarket.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/midnightmarket.ipa",
+            "bundleIdentifier": "com.rawhand.midnightmarket",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Coins → spend freely on inventory and upgrades\n- Unlimited Training Point → level up skills without limits\n- Unlimited Restore Powder → repair and restore items instantly",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/midnightmarket.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.28",
+                    "date": "2026-11-23T22:12:42+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/midnightmarket.ipa",
+                    "size": 382525892,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1240706112,
+            "name": "Cube Land Puzzle Game",
+            "version": "0.6.4",
+            "size": 462548199,
+            "icon": "img/cubelandpuzzlegame.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/cubelandpuzzlegame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/cubelandpuzzlegame.ipa",
+            "bundleIdentifier": "com.rotatelab.cubeblast",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Currencies\n- Bundles Purchased",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cubelandpuzzlegame.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.6.4",
+                    "date": "2026-11-23T22:12:18+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/cubelandpuzzlegame.ipa",
+                    "size": 462548199,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1844949303,
+            "name": "Search It - Hidden Objects",
+            "version": "1.4.14",
+            "size": 419614115,
+            "icon": "img/searchithiddenobjects.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/searchithiddenobjects.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/searchithiddenobjects.ipa",
+            "bundleIdentifier": "com.leap.searchit",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto ADS NO\n- Unlimited Coins\n- Booster Freeze",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/searchithiddenobjects.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4.14",
+                    "date": "2026-11-23T22:11:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/searchithiddenobjects.ipa",
+                    "size": 419614115,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1660363751,
             "name": "Droid Playground",
             "version": "1.0.52",
@@ -178499,54 +178979,6 @@
             ]
         },
         {
-            "id": 1240706112,
-            "name": "Cube Land Puzzle Game",
-            "version": "0.6.2",
-            "size": 406792276,
-            "icon": "img/cubelandpuzzlegame.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/cubelandpuzzlegame.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/cubelandpuzzlegame.ipa",
-            "bundleIdentifier": "com.rotatelab.cubeblast",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Currencies\n- Bundles Purchased",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/cubelandpuzzlegame.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "0.6.2",
-                    "date": "2026-11-09T06:06:14+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/cubelandpuzzlegame.ipa",
-                    "size": 406792276,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/cubelandpuzzlegame_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1286178137,
             "name": "Forge Master – Idle RPG",
             "version": "2.11.1",
@@ -184062,54 +184494,6 @@
             ]
         },
         {
-            "id": 1844949303,
-            "name": "Search It - Hidden Objects",
-            "version": "1.4.11",
-            "size": 417610998,
-            "icon": "img/searchithiddenobjects.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/searchithiddenobjects.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/searchithiddenobjects.ipa",
-            "bundleIdentifier": "com.leap.searchit",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Auto ADS NO\n- Unlimited Coins\n- Booster Freeze",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/searchithiddenobjects.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.4.11",
-                    "date": "2026-11-09T04:55:08+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/searchithiddenobjects.ipa",
-                    "size": 417610998,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/searchithiddenobjects_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1690686875,
             "name": "Royal Match",
             "version": "39781",
@@ -184629,54 +185013,6 @@
             ]
         },
         {
-            "id": 1608262223,
-            "name": "Meowdoku!",
-            "version": "1.23.0",
-            "size": 465345794,
-            "icon": "img/meowdoku.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/meowdoku.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/meowdoku.ipa",
-            "bundleIdentifier": "com.oakever.meowdoku",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Auto Win → instantly complete any level\n- Jump to Custom Level → skip ahead to your chosen puzzle\n- Unlimited Tools → use hints and aids without limit\n- Infinite Lives → play without running out of attempts\n- Premium / No Ads → enjoy uninterrupted gameplay",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/meowdoku.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.23.0",
-                    "date": "2026-11-09T04:48:30+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/meowdoku.ipa",
-                    "size": 465345794,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/meowdoku_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1415322875,
             "name": "Gear Defenders",
             "version": "1.5.18",
@@ -184803,54 +185139,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/recycleempire_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1952104221,
-            "name": "Mika: Dungeon Backpacker",
-            "version": "1.0.8",
-            "size": 410906989,
-            "icon": "img/mikadungeonbackpacker.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mikadungeonbackpacker.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mikadungeonbackpacker.ipa",
-            "bundleIdentifier": "com.davestudio.mika",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Damage Multiplier → amplifies your combat output\n- Reward Multiplier → increases loot and drops\n- Currencies Increase When Spend → resources replenish as you use them\n- Game Speed → adjust dungeon exploration pace\n- No ADS → play uninterrupted",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mikadungeonbackpacker.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.8",
-                    "date": "2026-11-09T04:45:13+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mikadungeonbackpacker.ipa",
-                    "size": 410906989,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mikadungeonbackpacker_screen_4.jpg"
                     ]
                 }
             ]
@@ -197949,54 +198237,6 @@
             ]
         },
         {
-            "id": 1636557126,
-            "name": "Marblebound",
-            "version": "2.0.1",
-            "size": 395711781,
-            "icon": "img/marblebound.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/marblebound.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/marblebound.ipa",
-            "bundleIdentifier": "com.ht.marbleheroes",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Pre Activated\r\n- Never Die\r\n- ATK",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/marblebound.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "2.0.1",
-                    "date": "2026-11-09T00:20:56+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/marblebound.ipa",
-                    "size": 395711781,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/marblebound_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1240292104,
             "name": "Hatch Dragons",
             "version": "1.6.4",
@@ -200042,54 +200282,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/valkyrianexusbattle_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/valkyrianexusbattle_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/valkyrianexusbattle_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1731034399,
-            "name": "Riftborn: Idle RPG",
-            "version": "1.0.11",
-            "size": 86502281,
-            "icon": "img/riftbornidlerpg.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/riftbornidlerpg.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/riftbornidlerpg.ipa",
-            "bundleIdentifier": "com.asmeragames.riftbornrpg",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Currency Max → maximize essence reserves instantly\n- Never Die → eliminate all combat damage and defeat\n- Damage Max → deal maximum damage to every enemy",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/riftbornidlerpg.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.11",
-                    "date": "2026-11-08T23:59:37+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/riftbornidlerpg.ipa",
-                    "size": 86502281,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/riftbornidlerpg_screen_4.png"
                     ]
                 }
             ]
@@ -354880,54 +355072,6 @@
             ]
         },
         {
-            "id": 1693220898,
-            "name": "Infinite Defense: Idle TD Game",
-            "version": "0.1.5",
-            "size": 207129862,
-            "icon": "img/infinitedefenseidletdgame.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/infinitedefenseidletdgame.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/infinitedefenseidletdgame.ipa",
-            "bundleIdentifier": "com.horusent.infinite.defense",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Dev Tool → advanced customization and control",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/infinitedefenseidletdgame.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "0.1.5",
-                    "date": "2026-10-29T14:00:10+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/infinitedefenseidletdgame.ipa",
-                    "size": 207129862,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/infinitedefenseidletdgame_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1753619790,
             "name": "Die Again: Troll Game Ever",
             "version": "1.2.12",
@@ -357164,54 +357308,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roguewiththedeadidlerpg_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roguewiththedeadidlerpg_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/roguewiththedeadidlerpg_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1590059468,
-            "name": "Colony Flow!",
-            "version": "1.1.55",
-            "size": 221479526,
-            "icon": "img/colonyflow.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/colonyflow.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/colonyflow.ipa",
-            "bundleIdentifier": "com.abi.colony.flow",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Auto ADS NO → removes forced ad interruptions\n- Freeze Coins → prevents coin depletion\n- Freeze Lives → keeps your lives intact\n- Freeze Booster → locks booster usage",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/colonyflow.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.1.55",
-                    "date": "2026-10-28T16:24:26+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/colonyflow.ipa",
-                    "size": 221479526,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/colonyflow_screen_4.png"
                     ]
                 }
             ]
@@ -359750,54 +359846,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knightsofpenandpaper3_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knightsofpenandpaper3_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/knightsofpenandpaper3_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1805714495,
-            "name": "MidnightMarket",
-            "version": "1.0.25",
-            "size": 198883460,
-            "icon": "img/midnightmarket.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/midnightmarket.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/midnightmarket.ipa",
-            "bundleIdentifier": "com.rawhand.midnightmarket",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Coins → spend freely on inventory and upgrades\n- Unlimited Training Point → level up skills without limits\n- Unlimited Restore Powder → repair and restore items instantly",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/midnightmarket.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.25",
-                    "date": "2026-10-28T00:44:18+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/midnightmarket.ipa",
-                    "size": 198883460,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/midnightmarket_screen_4.jpg"
                     ]
                 }
             ]
@@ -365111,54 +365159,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1530691236,
-            "name": "Word Spells: Game for Seniors",
-            "version": "2.65",
-            "size": 130693987,
-            "icon": "img/wordspellsgameforseniors.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/wordspellsgameforseniors.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/wordspellsgameforseniors.ipa",
-            "bundleIdentifier": "com.openmygame.magicwordsearch",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Auto ADS NO\n- Unlimited Coins",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wordspellsgameforseniors.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "2.65",
-                    "date": "2026-10-25T11:54:21+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/wordspellsgameforseniors.ipa",
-                    "size": 130693987,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wordspellsgameforseniors_screen_4.jpg"
                     ]
                 }
             ]
