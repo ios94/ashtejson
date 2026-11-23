@@ -10,6 +10,435 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1735586431,
+            "name": "LivingAlone3",
+            "version": "1.0.236",
+            "size": 170028681,
+            "icon": "img/livingalone3.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/livingalone3.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/livingalone3.ipa",
+            "bundleIdentifier": "com.factory608.LA3",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- iAP المجاني → فتح المشتريات المميزة على الفور",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/livingalone3.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_3.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_3.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.236",
+                    "date": "2026-11-23T23:32:37+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/livingalone3.ipa",
+                    "size": 170028681,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1710883345,
+            "name": "Endless Clash: Strategy RPG",
+            "version": "2.1.5",
+            "size": 743684835,
+            "icon": "img/endlessclashstrategyrpg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/endlessclashstrategyrpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/endlessclashstrategyrpg.ipa",
+            "bundleIdentifier": "com.brnmetaverse.endlessclash",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- لاعب لا يتضرر → تحمل أي مواجهة بدون هزيمة\n- مضاعف الضرر → عزز هجمات أبطالك\n- مضاعف الدفاع → قلل الضرر الوارد\nيعمل فقط في PVE",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/endlessclashstrategyrpg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.5",
+                    "date": "2026-11-23T23:31:54+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/endlessclashstrategyrpg.ipa",
+                    "size": 743684835,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1342434392,
+            "name": "Adobe Premiere: Video Editor",
+            "version": "26.24.0",
+            "size": 224692670,
+            "icon": "img/adobepremierevideoeditor.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/adobepremierevideoeditor.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/adobepremierevideoeditor.ipa",
+            "bundleIdentifier": "com.adobe.premiere.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "للتعديل على الصور وإضافة تأثيرات جميلة \r\nمع كامل المزايا .\r\n\r\nطريقة التفعيل : \r\n- سجل دخولك داخل التطبيق \r\n- فعل زر الشراء داخل المنيو \r\nثم  اضغط شراء ثم الغاء\r\n( في حال لم يتم تفعيل المميزات اخرج من التطبيق وفعل VPN واعد تشغيل التطبيق )\r\n\r\n- الحد الأدنى للإصدار: iOS 18.0\r\n\r\nTo edit photos and add beautiful effects\r\nwith full features.\r\n\r\nActivation method:\r\n- Log in to the app\r\n- Enable the purchase button in the menu\r\nthen press purchase then cancel\r\n(If features are not activated, exit the app, enable VPN, and restart the app)\r\n\r\n- Minimum version: iOS 18.0",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/adobepremierevideoeditor.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "26.24.0",
+                    "date": "2026-11-23T23:31:12+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/adobepremierevideoeditor.ipa",
+                    "size": 224692670,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1304155678,
+            "name": "Troll Toll: Idle RPG",
+            "version": "0.2.40",
+            "size": 751654058,
+            "icon": "img/trolltollidlerpg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/trolltollidlerpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/trolltollidlerpg.ipa",
+            "bundleIdentifier": "com.cyberdigitalnomad.trolltoll",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- أموال وأحجار كريمة غير محدودة\n- مضاعف المكافأة (1x-100x)\n- لاعب لا يتضرر\n- ضربة واحدة تقتل\n- سرعة الحركة (1x-10x)\n- لا إعلانات\n- معركة تمرير بريميوم\n- فتح جميع المناطق\n- افتح جميع الميزات\n- صندوق يومي فوري",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/trolltollidlerpg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.2.40",
+                    "date": "2026-11-23T23:30:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/trolltollidlerpg.ipa",
+                    "size": 751654058,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1459333137,
+            "name": "KeyringKnights",
+            "version": "1.7.0",
+            "size": 652436805,
+            "icon": "img/keyringknights.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/keyringknights.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/keyringknights.ipa",
+            "bundleIdentifier": "com.ex2games.keyring",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف الضرر → زيادة قوة هجومك\r\n- مضاعف الدفاع → تقوية حمايتك\r\n- بدون إعلانات → العب بدون انقطاع",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/keyringknights.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.0",
+                    "date": "2026-11-23T23:30:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/keyringknights.ipa",
+                    "size": 652436805,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1247586867,
+            "name": "Pixel Defenders: Merge TD Game",
+            "version": "1.0.14",
+            "size": 612261387,
+            "icon": "img/pixeldefendersmergetdgame.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/pixeldefendersmergetdgame.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/pixeldefendersmergetdgame.ipa",
+            "bundleIdentifier": "com.ondi.fortias.defense",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- مضاعف ضرر الوحدة → زيادة قوة هجوم الأبطال\r\n- مضاعف دفاع الوحدة → تعزيز متانة الوحدة\r\n- لا ضرر للوحدة → جعل الوحدات لا تقهر\r\n- مضاعف دفاع القلعة → تقوية دفاعات القلعة\r\n- لاضرر للقلعة → جعل القلعة لا تقهر",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pixeldefendersmergetdgame.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.15",
+                    "date": "2026-11-23T23:29:26+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/pixeldefendersmergetdgame.ipa",
+                    "size": 612261387,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1162591785,
+            "name": "Smart Attendance Fake GPS",
+            "version": "2.3.5",
+            "size": 93269411,
+            "icon": "img/smartattendancefakegps.png",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/smartattendancefakegps.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/smartattendancefakegps.ipa",
+            "bundleIdentifier": "com.mohapp.smartattendance",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "تطبيق معدل وأمن\r\nمضاف لة اداة Fake GPS Pro\r\nامكانية تغير الموقع الى اي موقع\r\nحفظ المواقع كمفضلة\r\nامكانية رفع الصور والفديو\r\nاعدادات البلوتوث\r\nتغير معرف الجهاز udid\r\nوالكثير من الميزات داخل الاداة",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smartattendancefakegps.png",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.3.5",
+                    "date": "2026-11-23T23:28:49+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/smartattendancefakegps.ipa",
+                    "size": 93269411,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1258628527,
+            "name": "Starlight Music Life Sim",
+            "version": "1.7.1",
+            "size": 374247936,
+            "icon": "img/starlightmusiclifesim.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/starlightmusiclifesim.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/starlightmusiclifesim.ipa",
+            "bundleIdentifier": "com.SoftForgeTech.StarlightMusicSim",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- DLC مفتوح → الوصول إلى جميع المحتوى المميز",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/starlightmusiclifesim.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.7.1",
+                    "date": "2026-11-23T23:28:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/starlightmusiclifesim.ipa",
+                    "size": 374247936,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1593181350,
+            "name": "Arrow Pro 3D",
+            "version": "1.23.0",
+            "size": 354533321,
+            "icon": "img/arrowpro3d.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/arrowpro3d.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/arrowpro3d.ipa",
+            "bundleIdentifier": "ios.arrow.cube.3d",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- الفوز التلقائي → أكمل المستويات على الفور\n- عملات معدنية غير محدودة → أنفق بحرية بدون استنزاف\n- تلميحات غير محدودة وتلميحات ميجا → الوصول إلى التلميحات في أي وقت\n- أرواح غير محدودة → العب بدون انتظار إعادة الشحن\n- مضاعف العملات المعدنية → اكسب العملات المعدنية بمعدل متزايد\n- مضاعف التلميحات وتلميحات ميجا → احصل على التلميحات بشكل أسرع\n- إضافة عملة معدنية → أضف العملات المعدنية يدويًا إلى رصيدك\n- إضافة تلميحات وتلميحات ميجا → أضف التلميحات يدويًا إلى رصيدك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/arrowpro3d.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.23.0",
+                    "date": "2026-11-23T23:28:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/arrowpro3d.ipa",
+                    "size": 354533321,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1974548447,
             "name": "Word Mind: Crossword puzzle",
             "version": "2611.0.1",
@@ -176538,54 +176967,6 @@
             ]
         },
         {
-            "id": 1247586867,
-            "name": "Pixel Defenders: Merge TD Game",
-            "version": "1.0.13",
-            "size": 606392948,
-            "icon": "img/pixeldefendersmergetdgame.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/pixeldefendersmergetdgame.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/pixeldefendersmergetdgame.ipa",
-            "bundleIdentifier": "com.ondi.fortias.defense",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- مضاعف ضرر الوحدة → زيادة قوة هجوم الأبطال\r\n- مضاعف دفاع الوحدة → تعزيز متانة الوحدة\r\n- لا ضرر للوحدة → جعل الوحدات لا تقهر\r\n- مضاعف دفاع القلعة → تقوية دفاعات القلعة\r\n- لاضرر للقلعة → جعل القلعة لا تقهر",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pixeldefendersmergetdgame.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.13",
-                    "date": "2026-11-09T07:05:31+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/pixeldefendersmergetdgame.ipa",
-                    "size": 606392948,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pixeldefendersmergetdgame_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1932876463,
             "name": "Brick_Inc",
             "version": "2.7.2",
@@ -177340,54 +177721,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergetile_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1710883345,
-            "name": "Endless Clash: Strategy RPG",
-            "version": "2.0.9",
-            "size": 490390780,
-            "icon": "img/endlessclashstrategyrpg.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/endlessclashstrategyrpg.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/endlessclashstrategyrpg.ipa",
-            "bundleIdentifier": "com.brnmetaverse.endlessclash",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- لاعب لا يتضرر → تحمل أي مواجهة بدون هزيمة\n- مضاعف الضرر → عزز هجمات أبطالك\n- مضاعف الدفاع → قلل الضرر الوارد\nيعمل فقط في PVE",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/endlessclashstrategyrpg.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "2.0.9",
-                    "date": "2026-11-09T06:54:50+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/endlessclashstrategyrpg.ipa",
-                    "size": 490390780,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/endlessclashstrategyrpg_screen_4.jpg"
                     ]
                 }
             ]
@@ -309136,54 +309469,6 @@
             ]
         },
         {
-            "id": 1593181350,
-            "name": "Arrow Pro 3D",
-            "version": "1.20.0",
-            "size": 356421468,
-            "icon": "img/arrowpro3d.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/arrowpro3d.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/arrowpro3d.ipa",
-            "bundleIdentifier": "ios.arrow.cube.3d",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- الفوز التلقائي → أكمل المستويات على الفور\n- عملات معدنية غير محدودة → أنفق بحرية بدون استنزاف\n- تلميحات غير محدودة وتلميحات ميجا → الوصول إلى التلميحات في أي وقت\n- أرواح غير محدودة → العب بدون انتظار إعادة الشحن\n- مضاعف العملات المعدنية → اكسب العملات المعدنية بمعدل متزايد\n- مضاعف التلميحات وتلميحات ميجا → احصل على التلميحات بشكل أسرع\n- إضافة عملة معدنية → أضف العملات المعدنية يدويًا إلى رصيدك\n- إضافة تلميحات وتلميحات ميجا → أضف التلميحات يدويًا إلى رصيدك",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/arrowpro3d.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.20.0",
-                    "date": "2026-11-07T11:17:04+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/arrowpro3d.ipa",
-                    "size": 356421468,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowpro3d_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1941591404,
             "name": "Kingdom Merge!",
             "version": "0.2.1",
@@ -324535,54 +324820,6 @@
             ]
         },
         {
-            "id": 1342434392,
-            "name": "Adobe Premiere: Video Editor",
-            "version": "26.23.0",
-            "size": 204322728,
-            "icon": "img/adobepremierevideoeditor.png",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/adobepremierevideoeditor.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/adobepremierevideoeditor.ipa",
-            "bundleIdentifier": "com.adobe.premiere.ios",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "للتعديل على الصور وإضافة تأثيرات جميلة \r\nمع كامل المزايا .\r\n\r\nطريقة التفعيل : \r\n- سجل دخولك داخل التطبيق \r\n- فعل زر الشراء داخل المنيو \r\nثم  اضغط شراء ثم الغاء\r\n( في حال لم يتم تفعيل المميزات اخرج من التطبيق وفعل VPN واعد تشغيل التطبيق )\r\n\r\n- الحد الأدنى للإصدار: iOS 18.0\r\n\r\nTo edit photos and add beautiful effects\r\nwith full features.\r\n\r\nActivation method:\r\n- Log in to the app\r\n- Enable the purchase button in the menu\r\nthen press purchase then cancel\r\n(If features are not activated, exit the app, enable VPN, and restart the app)\r\n\r\n- Minimum version: iOS 18.0",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/adobepremierevideoeditor.png",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "26.23.0",
-                    "date": "2026-11-07T05:46:28+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/adobepremierevideoeditor.ipa",
-                    "size": 204322728,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/adobepremierevideoeditor_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1160776944,
             "name": "Hader FakeGPS",
             "version": "1.4.0",
@@ -324626,54 +324863,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/haderfakegps_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/haderfakegps_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/haderfakegps_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1162591785,
-            "name": "Smart Attendance Fake GPS",
-            "version": "2.2.0",
-            "size": 100874076,
-            "icon": "img/smartattendancefakegps.png",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/smartattendancefakegps.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/smartattendancefakegps.ipa",
-            "bundleIdentifier": "com.mohapp.smartattendance",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "تطبيق معدل وأمن\r\nمضاف لة اداة Fake GPS Pro\r\nامكانية تغير الموقع الى اي موقع\r\nحفظ المواقع كمفضلة\r\nامكانية رفع الصور والفديو\r\nاعدادات البلوتوث\r\nتغير معرف الجهاز udid\r\nوالكثير من الميزات داخل الاداة",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/smartattendancefakegps.png",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "2.2.0",
-                    "date": "2026-11-07T05:45:51+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/smartattendancefakegps.ipa",
-                    "size": 100874076,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/smartattendancefakegps_screen_4.png"
                     ]
                 }
             ]
@@ -334078,54 +334267,6 @@
             ]
         },
         {
-            "id": 1258628527,
-            "name": "Starlight Music Life Sim",
-            "version": "1.6.0",
-            "size": 359633348,
-            "icon": "img/starlightmusiclifesim.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/starlightmusiclifesim.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/starlightmusiclifesim.ipa",
-            "bundleIdentifier": "com.SoftForgeTech.StarlightMusicSim",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- DLC مفتوح → الوصول إلى جميع المحتوى المميز",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/starlightmusiclifesim.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.6.0",
-                    "date": "2026-11-07T01:44:00+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/starlightmusiclifesim.ipa",
-                    "size": 359633348,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/starlightmusiclifesim_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1905440443,
             "name": "Ball of Ages",
             "version": "2.2.2",
@@ -342619,54 +342760,6 @@
             ]
         },
         {
-            "id": 1459333137,
-            "name": "KeyringKnights",
-            "version": "1.6.0",
-            "size": 646311173,
-            "icon": "img/keyringknights.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/keyringknights.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/keyringknights.ipa",
-            "bundleIdentifier": "com.ex2games.keyring",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- مضاعف الضرر → زيادة قوة هجومك\r\n- مضاعف الدفاع → تقوية حمايتك\r\n- بدون إعلانات → العب بدون انقطاع",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/keyringknights.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.6.0",
-                    "date": "2026-11-06T21:47:03+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/keyringknights.ipa",
-                    "size": 646311173,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/keyringknights_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1759747402,
             "name": "Township VN",
             "version": "40.0.0",
@@ -342950,51 +343043,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexaaway_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexaaway_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexaaway_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1735586431,
-            "name": "LivingAlone3",
-            "version": "1.0.233",
-            "size": 169251368,
-            "icon": "img/livingalone3.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/livingalone3.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/livingalone3.ipa",
-            "bundleIdentifier": "com.factory608.LA3",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- iAP المجاني → فتح المشتريات المميزة على الفور",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/livingalone3.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_3.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_3.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.233",
-                    "date": "2026-11-06T21:30:18+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/livingalone3.ipa",
-                    "size": 169251368,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/livingalone3_screen_3.jpg"
                     ]
                 }
             ]
@@ -349433,54 +349481,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sorceryschool_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sorceryschool_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/sorceryschool_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1304155678,
-            "name": "Troll Toll: Idle RPG",
-            "version": "0.2.39",
-            "size": 718137582,
-            "icon": "img/trolltollidlerpg.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V6/trolltollidlerpg.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V6/trolltollidlerpg.ipa",
-            "bundleIdentifier": "com.cyberdigitalnomad.trolltoll",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- أموال وأحجار كريمة غير محدودة\n- مضاعف المكافأة (1x-100x)\n- لاعب لا يتضرر\n- ضربة واحدة تقتل\n- سرعة الحركة (1x-10x)\n- لا إعلانات\n- معركة تمرير بريميوم\n- فتح جميع المناطق\n- افتح جميع الميزات\n- صندوق يومي فوري",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/trolltollidlerpg.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "0.2.39",
-                    "date": "2026-11-06T17:24:27+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V6/trolltollidlerpg.ipa",
-                    "size": 718137582,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/trolltollidlerpg_screen_4.jpg"
                     ]
                 }
             ]
