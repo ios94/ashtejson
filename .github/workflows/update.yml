@@ -1,9 +1,10 @@
-name: Ashte - Auto Update Games (checks every 3 hours)
+name: Ashte - Auto Update Games (checks every 30 minutes)
 
 on:
-  # یەک جار بە دەست Run بکە، دواتر خۆی هەموو ٣ کاتژمێر جارێک دەپشکنێت (٢٤ کاتژمێر)
+  # یەک جار بە دەست Run بکە، دواتر خۆی هەموو ٣٠ خولەک جارێک دەپشکنێت (فید + سەرچاوەی ماڵپەڕ)
+  # هەموو ٦ کاتژمێر جارێک پشکنینی قووڵیش دەکات (Info.plist ی IPA ی ڕاستەقینە)
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
     inputs:
       site_url:
@@ -24,19 +25,19 @@ on:
         options:
           - 'Yes'
           - 'No'
-      dry_run:
-        description: 'Yes = تەنها پیشان دەدات چی ئابدەیت دەبێت، هیچ ناگۆڕێت'
+      force_names:
+        description: 'ناوی یاری بە کۆما (بۆ نمونە: Hover Factory) - بە زۆر ئابدەیت دەکرێت'
+        required: false
+        default: ''
+        type: string
+      deep_check:
+        description: 'پشکنینی قووڵ (وەشانی ڕاستەقینەی IPA ی هەموو یارییەکان)'
         required: true
         default: 'No'
         type: choice
         options:
           - 'No'
           - 'Yes'
-      max_updates:
-        description: 'زۆرترین ژمارەی ئابدەیت لە هەر جارێکدا'
-        required: false
-        default: '60'
-        type: string
 
 # تەنها یەک ئابدەیت پێکەوە کار بکات
 concurrency:
@@ -54,8 +55,10 @@ jobs:
       SITE_URL: ${{ github.event.inputs.site_url || 'https://ashtemobile.tututweak.com/index.html' }}
       DATA_URLS: ${{ github.event.inputs.data_urls || 'https://vip.appiraq.com/api/store/apps/index.php?limit=100&page=' }}
       INJECT: ${{ github.event.inputs.inject_dylib || 'Yes' }}
-      DRY_RUN: ${{ github.event.inputs.dry_run || 'No' }}
-      MAX_UPDATES: ${{ github.event.inputs.max_updates || '60' }}
+      DRY_RUN: 'No'
+      MAX_UPDATES: '1000000'
+      FORCE_NAMES: ${{ github.event.inputs.force_names || '' }}
+      DEEP_CHECK: ${{ github.event.inputs.deep_check || 'No' }}
       APP_TYPE: auto
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -72,6 +75,12 @@ jobs:
 
       - name: Install dependencies
         run: pip install requests beautifulsoup4 lief
+
+      - name: Deep check every 6 hours (scheduled runs)
+        if: ${{ github.event_name == 'schedule' }}
+        run: |
+          H=$(date -u +%H); M=$(date -u +%M)
+          if [ $((10#$H % 6)) -eq 0 ] && [ $((10#$M)) -lt 30 ]; then echo "DEEP_CHECK=Yes" >> "$GITHUB_ENV"; fi
 
       - name: Check which games have a newer version
         id: prep
