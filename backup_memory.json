@@ -10,6 +10,342 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1660363751,
+            "name": "Droid Playground",
+            "version": "1.0.52",
+            "size": 461657523,
+            "icon": "img/droidplayground.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/droidplayground.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/droidplayground.ipa",
+            "bundleIdentifier": "com.cdt.droid.pg",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Droid Playground",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/droidplayground.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.52",
+                    "date": "2026-11-23T21:56:30+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/droidplayground.ipa",
+                    "size": 461657523,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1463287178,
+            "name": "Soldier Defense",
+            "version": "1.3.12",
+            "size": 436184869,
+            "icon": "img/soldierdefense.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/soldierdefense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/soldierdefense.ipa",
+            "bundleIdentifier": "com.wk.mmm",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Soldier Defense",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/soldierdefense.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.3.12",
+                    "date": "2026-11-23T21:56:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/soldierdefense.ipa",
+                    "size": 436184869,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1749443672,
+            "name": "Househunt: Fun With Real Homes",
+            "version": "0.15.5",
+            "size": 366275065,
+            "icon": "img/househuntfunwithrealhomes.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/househuntfunwithrealhomes.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/househuntfunwithrealhomes.ipa",
+            "bundleIdentifier": "com.closingtheory.housemap",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Househunt: Fun With Real Homes",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/househuntfunwithrealhomes.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.15.5",
+                    "date": "2026-11-23T21:55:34+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/househuntfunwithrealhomes.ipa",
+                    "size": 366275065,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1194718179,
+            "name": "Find Hidden Objects: Sherlock",
+            "version": "1.77.7600",
+            "size": 740694067,
+            "icon": "img/findhiddenobjectssherlock.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/findhiddenobjectssherlock.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/findhiddenobjectssherlock.ipa",
+            "bundleIdentifier": "com.g5e.bookspg",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Find Hidden Objects: Sherlock",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/findhiddenobjectssherlock.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.77.7600",
+                    "date": "2026-11-23T21:55:09+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/findhiddenobjectssherlock.ipa",
+                    "size": 740694067,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1712460636,
+            "name": "Crush Romance: Choices Stories",
+            "version": "0.6.30",
+            "size": 238831932,
+            "icon": "img/crushromancechoicesstories.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/crushromancechoicesstories.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/crushromancechoicesstories.ipa",
+            "bundleIdentifier": "com.risingmeta.crush",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Crush Romance: Choices Stories",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crushromancechoicesstories.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "0.6.30",
+                    "date": "2026-11-23T21:54:24+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/crushromancechoicesstories.ipa",
+                    "size": 238831932,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1849273168,
+            "name": "Pubg Star Tw",
+            "version": "21730",
+            "size": 498414601,
+            "icon": "img/pubgstartw.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/pubgstartw.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/pubgstartw.ipa",
+            "bundleIdentifier": "com.rekoo.pubgm",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "هاك ستار مدفوع  يحتاج كود شتراك و ملف zip\r\n\r\nلما تنزل  نسخة و تتثبت في جهاز  تفتحة رح يطلب منك ملف zip هذة ملف موجود ب قناتنا تليكرام\r\n\r\nمميزات نسخة\r\nرادار\r\nايم بوت\r\nثبات\r\nافخاء\r\nبولت تراك\r\nسكنات \r\nو مميزات اكثر اكتشف بنفسك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pubgstartw.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.7.0",
+                    "date": "2026-11-23T21:54:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/pubgstartw.ipa",
+                    "size": 498414601,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1958936939,
+            "name": "Pubg Star Global",
+            "version": "21745",
+            "size": 499361988,
+            "icon": "img/pubgstarglobal.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/pubgstarglobal.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/pubgstarglobal.ipa",
+            "bundleIdentifier": "com.tencent.ig",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "هاك ستار مدفوع  يحتاج كود شتراك و ملف zip\r\n\r\nلما تنزل  نسخة و تتثبت في جهاز  تفتحة رح يطلب منك ملف zip هذة ملف موجود ب قناتنا تليكرام\r\n\r\nمميزات نسخة\r\nرادار\r\nايم بوت\r\nثبات\r\nافخاء\r\nبولت تراك\r\nسكنات \r\nو مميزات اكثر اكتشف بنفسك",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pubgstarglobal.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "4.7.0",
+                    "date": "2026-11-23T21:53:36+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/pubgstarglobal.ipa",
+                    "size": 499361988,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1908641038,
             "name": "Granny",
             "version": "1.8.5",
@@ -206230,54 +206566,6 @@
             ]
         },
         {
-            "id": 1660363751,
-            "name": "Droid Playground",
-            "version": "1.0.50",
-            "size": 461598717,
-            "icon": "img/droidplayground.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/droidplayground.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/droidplayground.ipa",
-            "bundleIdentifier": "com.cdt.droid.pg",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Droid Playground",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/droidplayground.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1.0.50",
-                    "date": "2026-11-08T21:18:06+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/droidplayground.ipa",
-                    "size": 461598717,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/droidplayground_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1516049339,
             "name": "My Sushi Story",
             "version": "5.6.0",
@@ -206326,54 +206614,6 @@
             ]
         },
         {
-            "id": 1712460636,
-            "name": "Crush Romance: Choices Stories",
-            "version": "0.6.29",
-            "size": 224378865,
-            "icon": "img/crushromancechoicesstories.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/crushromancechoicesstories.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/crushromancechoicesstories.ipa",
-            "bundleIdentifier": "com.risingmeta.crush",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Crush Romance: Choices Stories",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/crushromancechoicesstories.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "0.6.29",
-                    "date": "2026-11-08T21:13:47+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/crushromancechoicesstories.ipa",
-                    "size": 224378865,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/crushromancechoicesstories_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1299926491,
             "name": "Human Rise: Idle Evolution",
             "version": "1.0.2",
@@ -206417,54 +206657,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/humanriseidleevolution_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/humanriseidleevolution_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/humanriseidleevolution_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1749443672,
-            "name": "Househunt: Fun With Real Homes",
-            "version": "0.15.1",
-            "size": 366133848,
-            "icon": "img/househuntfunwithrealhomes.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/househuntfunwithrealhomes.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/househuntfunwithrealhomes.ipa",
-            "bundleIdentifier": "com.closingtheory.housemap",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Househunt: Fun With Real Homes",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/househuntfunwithrealhomes.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "0.15.1",
-                    "date": "2026-11-08T21:12:29+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/househuntfunwithrealhomes.ipa",
-                    "size": 366133848,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/househuntfunwithrealhomes_screen_4.jpg"
                     ]
                 }
             ]
@@ -206561,54 +206753,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alittlewar2revenge_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alittlewar2revenge_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/alittlewar2revenge_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1463287178,
-            "name": "Soldier Defense",
-            "version": "1.3.9",
-            "size": 431907720,
-            "icon": "img/soldierdefense.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/soldierdefense.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/soldierdefense.ipa",
-            "bundleIdentifier": "com.wk.mmm",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Soldier Defense",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/soldierdefense.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.3.9",
-                    "date": "2026-11-08T21:11:33+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/soldierdefense.ipa",
-                    "size": 431907720,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/soldierdefense_screen_4.png"
                     ]
                 }
             ]
@@ -206753,54 +206897,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/papersplease_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/papersplease_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/papersplease_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1194718179,
-            "name": "Find Hidden Objects: Sherlock",
-            "version": "1.76.7600",
-            "size": 737908699,
-            "icon": "img/findhiddenobjectssherlock.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/findhiddenobjectssherlock.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/findhiddenobjectssherlock.ipa",
-            "bundleIdentifier": "com.g5e.bookspg",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Find Hidden Objects: Sherlock",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/findhiddenobjectssherlock.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1.76.7600",
-                    "date": "2026-11-08T21:04:57+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/findhiddenobjectssherlock.ipa",
-                    "size": 737908699,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/findhiddenobjectssherlock_screen_4.jpg"
                     ]
                 }
             ]
@@ -207046,54 +207142,6 @@
             ]
         },
         {
-            "id": 1958936939,
-            "name": "Pubg Star Global",
-            "version": "4.6.0",
-            "size": 490263925,
-            "icon": "img/pubgstarglobal.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/pubgstarglobal.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/pubgstarglobal.ipa",
-            "bundleIdentifier": "com.tencent.ig",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "هاك ستار مدفوع  يحتاج كود شتراك و ملف zip\r\n\r\nلما تنزل  نسخة و تتثبت في جهاز  تفتحة رح يطلب منك ملف zip هذة ملف موجود ب قناتنا تليكرام\r\n\r\nمميزات نسخة\r\nرادار\r\nايم بوت\r\nثبات\r\nافخاء\r\nبولت تراك\r\nسكنات \r\nو مميزات اكثر اكتشف بنفسك",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pubgstarglobal.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "4.6.0",
-                    "date": "2026-11-08T21:01:17+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/pubgstarglobal.ipa",
-                    "size": 490263925,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarglobal_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1679355036,
             "name": "Pubg Star Kr",
             "version": "4.6.0",
@@ -207137,54 +207185,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarkr_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarkr_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstarkr_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1849273168,
-            "name": "Pubg Star Tw",
-            "version": "4.6.0",
-            "size": 506981244,
-            "icon": "img/pubgstartw.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V9/pubgstartw.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V9/pubgstartw.ipa",
-            "bundleIdentifier": "com.rekoo.pubgm",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "هاك ستار مدفوع  يحتاج كود شتراك و ملف zip\r\n\r\nلما تنزل  نسخة و تتثبت في جهاز  تفتحة رح يطلب منك ملف zip هذة ملف موجود ب قناتنا تليكرام\r\n\r\nمميزات نسخة\r\nرادار\r\nايم بوت\r\nثبات\r\nافخاء\r\nبولت تراك\r\nسكنات \r\nو مميزات اكثر اكتشف بنفسك",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/pubgstartw.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "4.6.0",
-                    "date": "2026-11-08T21:00:28+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V9/pubgstartw.ipa",
-                    "size": 506981244,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pubgstartw_screen_4.jpg"
                     ]
                 }
             ]
