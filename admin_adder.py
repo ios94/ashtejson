@@ -241,9 +241,25 @@ def process_single_app(app_input, ipa_link, app_type):
         if "/releases/download/uploads/" in ipa_link:
             with open("uploads_consumed_assets.txt", "a", encoding="utf-8") as af:
                 af.write(urllib.parse.unquote(ipa_link.split("/releases/download/uploads/")[1].split("?")[0]) + "\n")
+        # هەوڵی چەند جۆر هێدەر دەدات، و کۆدی HTTP ی هەر هەوڵێک چاپ دەکات (پێشتر بێدەنگ شکست دەهێنا)
+        IPA_HEADER_SETS = [
+            ({}, "default"),
+            ({"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 "
+                            "(KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+              "Referer": "https://vip.appiraq.com/"}, "browser"),
+        ]
         try:
-            r = requests.get(ipa_link, stream=True)
-            if r.status_code == 200:
+            r = None
+            for hdr, label in IPA_HEADER_SETS:
+                cand = requests.get(ipa_link, stream=True, headers=hdr, timeout=(20, 120))
+                print(f"HTTP {cand.status_code} for IPA ({label} headers)")
+                if cand.status_code == 200:
+                    r = cand
+                    break
+                cand.close()
+            if r is None:
+                print(f"❌ IPA download failed: source did not return 200 for {app_input or ipa_link[:80]}")
+            else:
                 cl = int(r.headers.get("Content-Length") or 0)
                 if cl >= MAX_IPA_BYTES:
                     # پێش دابەزاندن دەزانین گەورەیە، بۆیە هەر دانابەزێت
@@ -258,7 +274,7 @@ def process_single_app(app_input, ipa_link, app_type):
                                 oversize = True
                                 break
                             f.write(chunk)
-            r.close()
+                r.close()
         except Exception as e:
             print("Error downloading package:", e)
 
