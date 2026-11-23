@@ -2,7 +2,7 @@ name: Ashte - Auto Update Games (checks every 30 minutes)
 
 on:
   # یەک جار بە دەست Run بکە، دواتر خۆی هەموو ٣٠ خولەک جارێک دەپشکنێت (فید + سەرچاوەی ماڵپەڕ)
-  # هەموو ٦ کاتژمێر جارێک پشکنینی قووڵیش دەکات (Info.plist ی IPA ی ڕاستەقینە)
+  # هەر جارێک هەموو یاری و ئەپەکان دەپشکنێت (فید + Info.plist ی IPA ی ڕاستەقینە)
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
@@ -25,19 +25,6 @@ on:
         options:
           - 'Yes'
           - 'No'
-      force_names:
-        description: 'ناوی یاری بە کۆما (بۆ نمونە: Hover Factory) - بە زۆر ئابدەیت دەکرێت'
-        required: false
-        default: ''
-        type: string
-      deep_check:
-        description: 'پشکنینی قووڵ (وەشانی ڕاستەقینەی IPA ی هەموو یارییەکان)'
-        required: true
-        default: 'No'
-        type: choice
-        options:
-          - 'No'
-          - 'Yes'
 
 # تەنها یەک ئابدەیت پێکەوە کار بکات
 concurrency:
@@ -57,8 +44,7 @@ jobs:
       INJECT: ${{ github.event.inputs.inject_dylib || 'Yes' }}
       DRY_RUN: 'No'
       MAX_UPDATES: '1000000'
-      FORCE_NAMES: ${{ github.event.inputs.force_names || '' }}
-      DEEP_CHECK: ${{ github.event.inputs.deep_check || 'No' }}
+      DEEP_CHECK: 'Yes'
       APP_TYPE: auto
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -75,12 +61,6 @@ jobs:
 
       - name: Install dependencies
         run: pip install requests beautifulsoup4 lief
-
-      - name: Deep check every 6 hours (scheduled runs)
-        if: ${{ github.event_name == 'schedule' }}
-        run: |
-          H=$(date -u +%H); M=$(date -u +%M)
-          if [ $((10#$H % 6)) -eq 0 ] && [ $((10#$M)) -lt 30 ]; then echo "DEEP_CHECK=Yes" >> "$GITHUB_ENV"; fi
 
       - name: Check which games have a newer version
         id: prep
