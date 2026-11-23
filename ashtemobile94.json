@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1800724162,
+            "name": "Hexa Tap Away Enjoy",
+            "version": "1.38.2",
+            "size": 245398955,
+            "icon": "img/hexatapawayenjoy.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/hexatapawayenjoy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/hexatapawayenjoy.ipa",
+            "bundleIdentifier": "in.playsimple.hexatapaway",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hexatapawayenjoy.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexatapawayenjoy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexatapawayenjoy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexatapawayenjoy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexatapawayenjoy_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexatapawayenjoy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexatapawayenjoy_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexatapawayenjoy_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexatapawayenjoy_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.38.2",
+                    "date": "2026-11-23T15:25:01+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/hexatapawayenjoy.ipa",
+                    "size": 245398955,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexatapawayenjoy_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexatapawayenjoy_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexatapawayenjoy_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hexatapawayenjoy_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1791354937,
             "name": "Sort N Loop Enjoy",
             "version": "1.2.7",
