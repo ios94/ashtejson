@@ -10,6 +10,379 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1261626748,
+            "name": "Wingrush: Glide & Graze",
+            "version": "1.3",
+            "size": 670613827,
+            "icon": "img/wingrushglidegraze.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/wingrushglidegraze.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/wingrushglidegraze.ipa",
+            "bundleIdentifier": "com.alejandroonieva.wingrush",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Add Coins → Earn currency faster for unlocks\n- Unlock All Characters → Access every pilot from the beginning\n- Never Die → Fly without fear of crashing\n- Fly Speed → Adjust your velocity for custom difficulty",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wingrushglidegraze.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.4",
+                    "date": "2026-11-23T22:45:07+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/wingrushglidegraze.ipa",
+                    "size": 670613827,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1286178137,
+            "name": "Forge Master – Idle RPG",
+            "version": "2.12.1",
+            "size": 341629511,
+            "icon": "img/forgemasteridlerpg.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/forgemasteridlerpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/forgemasteridlerpg.ipa",
+            "bundleIdentifier": "com.hariwn.legendofcivilizations",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- xDmg\n- Never Die",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/forgemasteridlerpg.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshots": [],
+            "versions": [
+                {
+                    "version": "2.12.1",
+                    "date": "2026-11-23T22:44:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/forgemasteridlerpg.ipa",
+                    "size": 341629511,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgemasteridlerpg_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgemasteridlerpg_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgemasteridlerpg_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgemasteridlerpg_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1742922110,
+            "name": "Facebook Sy",
+            "version": "586.0.0",
+            "size": 535765388,
+            "icon": "img/facebooksy.jpg",
+            "badge": "",
+            "type": "apps",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebooksy.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebooksy.ipa",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Facebook Sy App Features:\r\n\r\n1. Download Videos\r\n- You can download videos in full and in various qualities.\r\n\r\n2. Download Stories\r\n- You can download stories in various qualities.\r\n\r\n3. Disable automatic scrolling of stories.\r\n\r\n4. Copy Text\r\n- You can quickly copy text by long-pressing on posts.",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/facebooksy.jpg",
+            "tintColor": "#04ecfc",
+            "category": "apps",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "586.0.0",
+                    "date": "2026-11-23T22:44:02+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/facebooksy.ipa",
+                    "size": 535765388,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1875573615,
+            "name": "Tiny Bastion: Tower Defense",
+            "version": "1.2.2",
+            "size": 183042899,
+            "icon": "img/tinybastiontowerdefense.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/tinybastiontowerdefense.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/tinybastiontowerdefense.ipa",
+            "bundleIdentifier": "com.mjabbari.tinybastion",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → boost all damage output\n- Tower Damage → increased tower effectiveness\n- Hero Never Dies → heroes remain invincible\n- Unlimited Lives → infinite attempts per wave\n- Free Build & Upgrade → no cost to construct or enhance towers\n- Unlimited Gold → endless currency for purchases\n- Unlimited Gems (Spend/Gain) → premium currency without limits\n- Game Speed Multiplier → control battle pace\n- No ADS → uninterrupted gameplay",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tinybastiontowerdefense.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.2",
+                    "date": "2026-11-23T22:43:27+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/tinybastiontowerdefense.ipa",
+                    "size": 183042899,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1786993190,
+            "name": "Amaze GO!",
+            "version": "1.40.0",
+            "size": 555982853,
+            "icon": "img/amazego.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/amazego.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/amazego.ipa",
+            "bundleIdentifier": "com.oakever.arrows",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unlimited Items → use power-ups freely without running out\n- Never Die → play invincibly without puzzle constraints\n- Ghost Arrow → move arrows through obstacles\n- Instant Win → complete any level immediately\n- League Always Rank 1 (Untested) → claim top ranking in competitive modes\n- Skip Ads + No Ads → play uninterrupted without advertisements",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amazego.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.40.0",
+                    "date": "2026-11-23T22:43:16+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/amazego.ipa",
+                    "size": 555982853,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1213851063,
+            "name": "Arrows & Cats: Rescue Puzzle",
+            "version": "1.6.1",
+            "size": 592937061,
+            "icon": "img/arrowscatsrescuepuzzle.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/arrowscatsrescuepuzzle.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/arrowscatsrescuepuzzle.ipa",
+            "bundleIdentifier": "com.Nanali.ArrowsAndCats",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- SRDebug Menu → access to debug tools and cheats\n- No ADS → play uninterrupted",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/arrowscatsrescuepuzzle.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.6.1",
+                    "date": "2026-11-23T22:42:41+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/arrowscatsrescuepuzzle.ipa",
+                    "size": 592937061,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1289350922,
+            "name": "GunzTower: Pixel Dungeon RPG",
+            "version": "1.27",
+            "size": 596481763,
+            "icon": "img/gunztowerpixeldungeonrpg.png",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/gunztowerpixeldungeonrpg.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/gunztowerpixeldungeonrpg.ipa",
+            "bundleIdentifier": "com.fourdollars.dng",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Damage Multiplier → boost your firepower output\n- Defense Multiplier → reduce incoming damage taken",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gunztowerpixeldungeonrpg.png",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.27",
+                    "date": "2026-11-23T22:41:33+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/gunztowerpixeldungeonrpg.ipa",
+                    "size": 596481763,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1701181230,
+            "name": "Rush Protocol",
+            "version": "0.0.906",
+            "size": 565443639,
+            "icon": "img/rushprotocol.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/rushprotocol.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/rushprotocol.ipa",
+            "bundleIdentifier": "com.cgdealers.rushprotocol",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto ADS NO → manual aiming control\n- Unlimited Gems → premium currency without limits\n- Unlimited Coins → in-game currency for upgrades\n- Unlimited Weapon Part → craft and upgrade weapons freely",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rushprotocol.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.906",
+                    "date": "2026-11-23T22:40:23+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/rushprotocol.ipa",
+                    "size": 565443639,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1526378437,
             "name": "Narrow Front: WW2 Strategy",
             "version": "1.7.0",
@@ -178220,54 +178593,6 @@
             ]
         },
         {
-            "id": 1289350922,
-            "name": "GunzTower: Pixel Dungeon RPG",
-            "version": "1.24",
-            "size": 565815105,
-            "icon": "img/gunztowerpixeldungeonrpg.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/gunztowerpixeldungeonrpg.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/gunztowerpixeldungeonrpg.ipa",
-            "bundleIdentifier": "com.fourdollars.dng",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Damage Multiplier → boost your firepower output\n- Defense Multiplier → reduce incoming damage taken",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/gunztowerpixeldungeonrpg.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1.24",
-                    "date": "2026-11-09T06:25:27+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/gunztowerpixeldungeonrpg.ipa",
-                    "size": 565815105,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/gunztowerpixeldungeonrpg_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1352304604,
             "name": "Endless Puncher",
             "version": "1.7.04",
@@ -179731,43 +180056,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pawntodonmafiacrimestory_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pawntodonmafiacrimestory_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/pawntodonmafiacrimestory_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1286178137,
-            "name": "Forge Master – Idle RPG",
-            "version": "2.11.1",
-            "size": 331262083,
-            "icon": "img/forgemasteridlerpg.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/forgemasteridlerpg.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/forgemasteridlerpg.ipa",
-            "bundleIdentifier": "com.hariwn.legendofcivilizations",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- xDmg\n- Never Die",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/forgemasteridlerpg.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshots": [],
-            "versions": [
-                {
-                    "version": "2.11.1",
-                    "date": "2026-11-09T06:04:49+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/forgemasteridlerpg.ipa",
-                    "size": 331262083,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgemasteridlerpg_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgemasteridlerpg_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgemasteridlerpg_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/forgemasteridlerpg_screen_4.png"
                     ]
                 }
             ]
@@ -183725,54 +184013,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroage_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroage_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/heroage_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1213851063,
-            "name": "Arrows & Cats: Rescue Puzzle",
-            "version": "1.5.2",
-            "size": 558816491,
-            "icon": "img/arrowscatsrescuepuzzle.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/arrowscatsrescuepuzzle.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/arrowscatsrescuepuzzle.ipa",
-            "bundleIdentifier": "com.Nanali.ArrowsAndCats",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- SRDebug Menu → access to debug tools and cheats\n- No ADS → play uninterrupted",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/arrowscatsrescuepuzzle.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.5.2",
-                    "date": "2026-11-09T05:20:53+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/arrowscatsrescuepuzzle.ipa",
-                    "size": 558816491,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/arrowscatsrescuepuzzle_screen_4.png"
                     ]
                 }
             ]
@@ -199912,54 +200152,6 @@
             ]
         },
         {
-            "id": 1261626748,
-            "name": "Wingrush: Glide & Graze",
-            "version": "1.2",
-            "size": 666858724,
-            "icon": "img/wingrushglidegraze.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/wingrushglidegraze.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/wingrushglidegraze.ipa",
-            "bundleIdentifier": "com.alejandroonieva.wingrush",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Add Coins → Earn currency faster for unlocks\n- Unlock All Characters → Access every pilot from the beginning\n- Never Die → Fly without fear of crashing\n- Fly Speed → Adjust your velocity for custom difficulty",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/wingrushglidegraze.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.2",
-                    "date": "2026-11-09T00:09:40+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/wingrushglidegraze.ipa",
-                    "size": 666858724,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/wingrushglidegraze_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1167018092,
             "name": "Hard Time III",
             "version": "1.1.9",
@@ -201386,54 +201578,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popisland_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popisland_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/popisland_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1786993190,
-            "name": "Amaze GO!",
-            "version": "1.38.0",
-            "size": 531110545,
-            "icon": "img/amazego.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/amazego.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/amazego.ipa",
-            "bundleIdentifier": "com.oakever.arrows",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unlimited Items → use power-ups freely without running out\n- Never Die → play invincibly without puzzle constraints\n- Ghost Arrow → move arrows through obstacles\n- Instant Win → complete any level immediately\n- League Always Rank 1 (Untested) → claim top ranking in competitive modes\n- Skip Ads + No Ads → play uninterrupted without advertisements",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/amazego.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_4.jpg"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_1.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_2.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_3.jpg",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_4.jpg"
-            ],
-            "versions": [
-                {
-                    "version": "1.38.0",
-                    "date": "2026-11-08T23:47:54+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/amazego.ipa",
-                    "size": 531110545,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_1.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_2.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_3.jpg",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/amazego_screen_4.jpg"
                     ]
                 }
             ]
@@ -360043,54 +360187,6 @@
             ]
         },
         {
-            "id": 1701181230,
-            "name": "Rush Protocol",
-            "version": "0.0.903",
-            "size": 182828671,
-            "icon": "img/rushprotocol.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/rushprotocol.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/rushprotocol.ipa",
-            "bundleIdentifier": "com.cgdealers.rushprotocol",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Auto ADS NO → manual aiming control\n- Unlimited Gems → premium currency without limits\n- Unlimited Coins → in-game currency for upgrades\n- Unlimited Weapon Part → craft and upgrade weapons freely",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/rushprotocol.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "0.0.903",
-                    "date": "2026-10-27T23:15:48+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/rushprotocol.ipa",
-                    "size": 182828671,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/rushprotocol_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1453976963,
             "name": "GuanYu Idle",
             "version": "5.370",
@@ -365164,54 +365260,6 @@
             ]
         },
         {
-            "id": 1875573615,
-            "name": "Tiny Bastion: Tower Defense",
-            "version": "1.1",
-            "size": 61150491,
-            "icon": "img/tinybastiontowerdefense.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/tinybastiontowerdefense.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/tinybastiontowerdefense.ipa",
-            "bundleIdentifier": "com.mjabbari.tinybastion",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Damage Multiplier → boost all damage output\n- Tower Damage → increased tower effectiveness\n- Hero Never Dies → heroes remain invincible\n- Unlimited Lives → infinite attempts per wave\n- Free Build & Upgrade → no cost to construct or enhance towers\n- Unlimited Gold → endless currency for purchases\n- Unlimited Gems (Spend/Gain) → premium currency without limits\n- Game Speed Multiplier → control battle pace\n- No ADS → uninterrupted gameplay",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/tinybastiontowerdefense.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.1",
-                    "date": "2026-10-25T11:54:29+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/tinybastiontowerdefense.ipa",
-                    "size": 61150491,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/tinybastiontowerdefense_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1708180069,
             "name": "Sniper Siege: Defend & Destroy",
             "version": "3.79.3",
@@ -367790,54 +367838,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedlcrack_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedlcrack_screen_3.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/youtubedlcrack_screen_4.jpg"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1742922110,
-            "name": "Facebook Sy",
-            "version": "549.0.0",
-            "size": 182112295,
-            "icon": "img/facebooksy.jpg",
-            "badge": "",
-            "type": "apps",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebooksy.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/facebooksy.ipa",
-            "bundleIdentifier": "com.facebook.Facebook",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Facebook Sy App Features:\r\n\r\n1. Download Videos\r\n- You can download videos in full and in various qualities.\r\n\r\n2. Download Stories\r\n- You can download stories in various qualities.\r\n\r\n3. Disable automatic scrolling of stories.\r\n\r\n4. Copy Text\r\n- You can quickly copy text by long-pressing on posts.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/facebooksy.jpg",
-            "tintColor": "#04ecfc",
-            "category": "apps",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "549.0.0",
-                    "date": "2026-10-16T14:37:05+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/facebooksy.ipa",
-                    "size": 182112295,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/facebooksy_screen_4.png"
                     ]
                 }
             ]
