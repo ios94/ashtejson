@@ -258,6 +258,15 @@ def process_single_app(app_input, ipa_link, app_type):
                                 oversize = True
                                 break
                             f.write(chunk)
+            else:
+                # پێشتر هیچ نەدەنووسرا کاتێک سێرڤەر 200 ی نەدەدایەوە، بۆیە هۆکاری شکستەکە نەدەبینرا
+                try:
+                    snippet = next(r.iter_content(300), b"").decode("utf-8", "replace").replace("\n", " ")[:200]
+                except Exception:
+                    snippet = ""
+                host = urllib.parse.urlparse(ipa_link).netloc
+                print(f"⛔ Download refused: HTTP {r.status_code} from {host} | "
+                      f"server={r.headers.get('Server', '')} | type={r.headers.get('Content-Type', '')} | body: {snippet}")
             r.close()
         except Exception as e:
             print("Error downloading package:", e)
