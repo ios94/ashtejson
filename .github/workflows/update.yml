@@ -1,10 +1,9 @@
-name: Ashte - Auto Update Games (checks every 30 minutes)
+name: Ashte - Auto Update Games (checks every 3 hours)
 
 on:
-  # یەک جار بە دەست Run بکە، دواتر خۆی هەموو ٣٠ خولەک جارێک دەپشکنێت (فید + سەرچاوەی ماڵپەڕ)
-  # هەر جارێک هەموو یاری و ئەپەکانی فید دەپشکنێت (وەشان لە فیدەکەوە، بێ دەستدرێژی بۆ لینکی داونلۆد)
+  # یەک جار بە دەست Run بکە، دواتر خۆی هەموو ٣ کاتژمێر جارێک دەپشکنێت (٢٤ کاتژمێر)
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
     inputs:
       site_url:
@@ -25,6 +24,19 @@ on:
         options:
           - 'Yes'
           - 'No'
+      dry_run:
+        description: 'Yes = تەنها پیشان دەدات چی ئابدەیت دەبێت، هیچ ناگۆڕێت'
+        required: true
+        default: 'No'
+        type: choice
+        options:
+          - 'No'
+          - 'Yes'
+      max_updates:
+        description: 'زۆرترین ژمارەی ئابدەیت لە هەر جارێکدا'
+        required: false
+        default: '60'
+        type: string
 
 # تەنها یەک ئابدەیت پێکەوە کار بکات
 concurrency:
@@ -42,9 +54,8 @@ jobs:
       SITE_URL: ${{ github.event.inputs.site_url || 'https://ashtemobile.tututweak.com/index.html' }}
       DATA_URLS: ${{ github.event.inputs.data_urls || 'https://vip.appiraq.com/api/store/apps/index.php?limit=100&page=' }}
       INJECT: ${{ github.event.inputs.inject_dylib || 'Yes' }}
-      DRY_RUN: 'No'
-      MAX_UPDATES: '1000000'
-      DEEP_CHECK: 'No'
+      DRY_RUN: ${{ github.event.inputs.dry_run || 'No' }}
+      MAX_UPDATES: ${{ github.event.inputs.max_updates || '60' }}
       APP_TYPE: auto
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
