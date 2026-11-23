@@ -2,7 +2,7 @@ name: Ashte - Auto Update Games (checks every 30 minutes)
 
 on:
   # یەک جار بە دەست Run بکە، دواتر خۆی هەموو ٣٠ خولەک جارێک دەپشکنێت (فید + سەرچاوەی ماڵپەڕ)
-  # هەر جارێک هەموو یاری و ئەپەکان دەپشکنێت (فید + Info.plist ی IPA ی ڕاستەقینە)
+  # هەر جارێک هەموو یاری و ئەپەکانی فید دەپشکنێت (وەشان لە فیدەکەوە، بێ دەستدرێژی بۆ لینکی داونلۆد)
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
@@ -44,7 +44,7 @@ jobs:
       INJECT: ${{ github.event.inputs.inject_dylib || 'Yes' }}
       DRY_RUN: 'No'
       MAX_UPDATES: '1000000'
-      DEEP_CHECK: 'Yes'
+      DEEP_CHECK: 'No'
       APP_TYPE: auto
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
