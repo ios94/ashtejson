@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1237355026,
+            "name": "Merge & Blast: Dream Island",
+            "version": "2.58.0",
+            "size": 296123022,
+            "icon": "img/mergeblastdreamisland.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/mergeblastdreamisland.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/mergeblastdreamisland.ipa",
+            "bundleIdentifier": "com.dreamo.woodyblast",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Auto Win\n- Coin + Moves [ Disable After Get ]",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/mergeblastdreamisland.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeblastdreamisland_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeblastdreamisland_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeblastdreamisland_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeblastdreamisland_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeblastdreamisland_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeblastdreamisland_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeblastdreamisland_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeblastdreamisland_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "2.58.0",
+                    "date": "2026-11-26T21:20:56+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/mergeblastdreamisland.ipa",
+                    "size": 296123022,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeblastdreamisland_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeblastdreamisland_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeblastdreamisland_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/mergeblastdreamisland_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1380549795,
             "name": "Marmot Survivor: Roguelike",
             "version": "1.5.1",
