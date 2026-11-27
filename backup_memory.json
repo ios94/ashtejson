@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1845588462,
+            "name": "Fortress Merge",
+            "version": "1.2.0",
+            "size": 189265467,
+            "icon": "img/fortressmerge.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/fortressmerge.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/fortressmerge.ipa",
+            "bundleIdentifier": "com.ttt.fortressmerge",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Unit Damage Multiplier → Increase offensive power per attack\n- Unit Defence Multiplier → Strengthen defensive resilience\n- Unit Never Die → Make units invulnerable in battle\n- Unit Speed Multiplier → Accelerate unit movement and action speed\n- Unlimited Currencies → Will increase instead of decrease",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fortressmerge.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.2.0",
+                    "date": "2026-11-27T14:10:57+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/fortressmerge.ipa",
+                    "size": 189265467,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1543763759,
             "name": "Foodie Pop!",
             "version": "2.1.58",
@@ -357353,54 +357401,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleminertycoonclickergame_screen_2.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleminertycoonclickergame_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/idleminertycoonclickergame_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1845588462,
-            "name": "Fortress Merge",
-            "version": "1.1.2",
-            "size": 187995217,
-            "icon": "img/fortressmerge.jpg",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V2/fortressmerge.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V2/fortressmerge.ipa",
-            "bundleIdentifier": "com.ttt.fortressmerge",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Unit Damage Multiplier → Increase offensive power per attack\n- Unit Defence Multiplier → Strengthen defensive resilience\n- Unit Never Die → Make units invulnerable in battle\n- Unit Speed Multiplier → Accelerate unit movement and action speed\n- Unlimited Currencies → Will increase instead of decrease",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/fortressmerge.jpg",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.1.2",
-                    "date": "2026-10-28T23:17:58+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V2/fortressmerge.ipa",
-                    "size": 187995217,
-                    "buildVersion": null,
-                    "minOSVersion": "15.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/fortressmerge_screen_4.png"
                     ]
                 }
             ]
