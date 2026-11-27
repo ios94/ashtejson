@@ -10,6 +10,54 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1543763759,
+            "name": "Foodie Pop!",
+            "version": "2.1.58",
+            "size": 294253092,
+            "icon": "img/foodiepop.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/foodiepop.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/foodiepop.ipa",
+            "bundleIdentifier": "com.abi.skewer.sort",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Instant Cooking → Skip wait times and cook dishes immediately\n- Coin Multiplier → Earn currency faster for upgrades and progression\n- Unlock All Maps & Levels → Access every stage without grinding prerequisites\n- Always 3 Stars → Earn perfect ratings on every completed level\n- Cheat Menu → Toggle hacks on and off as you play\n- No ADS → Enjoy uninterrupted gameplay without advertisements",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/foodiepop.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodiepop_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodiepop_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodiepop_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodiepop_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodiepop_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodiepop_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodiepop_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodiepop_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "2.1.58",
+                    "date": "2026-11-27T13:56:55+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/foodiepop.ipa",
+                    "size": 294253092,
+                    "buildVersion": null,
+                    "minOSVersion": "10.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodiepop_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodiepop_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodiepop_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/foodiepop_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1756078743,
             "name": "Foodventure Inc: Idle Tycoon",
             "version": "1.0.28",
