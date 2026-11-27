@@ -10,6 +10,144 @@
     "headerURL": "https://ashtemobile.site/logo.png",
     "apps": [
         {
+            "id": 1292239501,
+            "name": "Last Asylum: Plague",
+            "version": "1.0.76",
+            "size": 525309002,
+            "icon": "img/lastasylumplague.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V5/lastasylumplague.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V5/lastasylumplague.ipa",
+            "bundleIdentifier": "com.phs.global.ios",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Fast Walking Speed\n- Super Fast Clini Healing\n- Increased Healing/Collection Coins Range fast coins pickup and healing multipole rooms at once.\n- Instant kill rats (not for campaign or map battles. Its for events where you have to kill rats)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/lastasylumplague.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastasylumplague_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastasylumplague_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastasylumplague_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastasylumplague_screen_4.jpg"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastasylumplague_screen_1.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastasylumplague_screen_2.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastasylumplague_screen_3.jpg",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastasylumplague_screen_4.jpg"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.76",
+                    "date": "2026-11-27T14:28:20+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V5/lastasylumplague.ipa",
+                    "size": 525309002,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastasylumplague_screen_1.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastasylumplague_screen_2.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastasylumplague_screen_3.jpg",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/lastasylumplague_screen_4.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1659203425,
+            "name": "They Are Coming!",
+            "version": "4.28.2",
+            "size": 146030498,
+            "icon": "img/theyarecoming.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V5/theyarecoming.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V5/theyarecoming.ipa",
+            "bundleIdentifier": "com.luna.theyarecoming",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "- Debug Menu (Enable by tapping top left corner) → reveals advanced options and controls",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theyarecoming.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_4.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_2.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_3.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_4.png"
+            ],
+            "versions": [
+                {
+                    "version": "4.28.2",
+                    "date": "2026-11-27T14:28:11+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V5/theyarecoming.ipa",
+                    "size": 146030498,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_2.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_3.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_4.png"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1218156194,
+            "name": "Hair Challenge",
+            "version": "43.7.10",
+            "size": 242271085,
+            "icon": "img/hairchallenge.jpg",
+            "badge": "",
+            "type": "games",
+            "install_url": "https://github.com/ios94/ashtejson/releases/download/V5/hairchallenge.ipa",
+            "download_url": "https://github.com/ios94/ashtejson/releases/download/V5/hairchallenge.ipa",
+            "bundleIdentifier": "com.Upperpik.HairChallenge",
+            "marketplaceID": "",
+            "developerName": "AshteMobile",
+            "subtitle": "Awesome App",
+            "localizedDescription": "Are you ready for a big hair challenge?\n\nThis adventure will give you long, luscious hair! This popular hair runner game is perfect for you!\n\n- Free store (buy then cancel)",
+            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hairchallenge.jpg",
+            "tintColor": "#04ecfc",
+            "category": "games",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_2.png"
+            ],
+            "screenshots": [
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_1.png",
+                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_2.png"
+            ],
+            "versions": [
+                {
+                    "version": "43.7.10",
+                    "date": "2026-11-27T14:28:08+00:00",
+                    "localizedDescription": null,
+                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V5/hairchallenge.ipa",
+                    "size": 242271085,
+                    "buildVersion": null,
+                    "minOSVersion": "15.0",
+                    "screenshots": [
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_1.png",
+                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_2.png"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 1845588462,
             "name": "Fortress Merge",
             "version": "1.2.0",
@@ -202675,48 +202813,6 @@
             ]
         },
         {
-            "id": 1218156194,
-            "name": "Hair Challenge",
-            "version": "43.7.8",
-            "size": 403219649,
-            "icon": "img/hairchallenge.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/hairchallenge.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/hairchallenge.ipa",
-            "bundleIdentifier": "com.Upperpik.HairChallenge",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "Awesome App! Downloaded from AshteMobile.",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/hairchallenge.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_2.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_2.png"
-            ],
-            "versions": [
-                {
-                    "version": "43.7.8",
-                    "date": "2026-11-09T00:21:22+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/hairchallenge.ipa",
-                    "size": 403219649,
-                    "buildVersion": null,
-                    "minOSVersion": "10.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/hairchallenge_screen_2.png"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 1240292104,
             "name": "Hatch Dragons",
             "version": "1.6.4",
@@ -370418,54 +370514,6 @@
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockcitywarsmafiatown_screen_2.jpg",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockcitywarsmafiatown_screen_3.png",
                         "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/blockcitywarsmafiatown_screen_4.png"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 1659203425,
-            "name": "They Are Coming!",
-            "version": "4.28.0",
-            "size": 143298767,
-            "icon": "img/theyarecoming.png",
-            "badge": "",
-            "type": "games",
-            "install_url": "https://github.com/ios94/ashtejson/releases/download/V1/theyarecoming.ipa",
-            "download_url": "https://github.com/ios94/ashtejson/releases/download/V1/theyarecoming.ipa",
-            "bundleIdentifier": "com.luna.theyarecoming",
-            "marketplaceID": "",
-            "developerName": "AshteMobile",
-            "subtitle": "Awesome App",
-            "localizedDescription": "- Debug Menu (Enable by tapping top left corner) → reveals advanced options and controls",
-            "iconURL": "https://raw.githubusercontent.com/ios94/ashtejson/main/img/theyarecoming.png",
-            "tintColor": "#04ecfc",
-            "category": "games",
-            "screenshotURLs": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_4.png"
-            ],
-            "screenshots": [
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_1.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_2.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_3.png",
-                "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_4.png"
-            ],
-            "versions": [
-                {
-                    "version": "4.28.0",
-                    "date": "2026-10-16T13:46:33+00:00",
-                    "localizedDescription": null,
-                    "downloadURL": "https://github.com/ios94/ashtejson/releases/download/V1/theyarecoming.ipa",
-                    "size": 143298767,
-                    "buildVersion": null,
-                    "minOSVersion": "14.0",
-                    "screenshots": [
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_1.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_2.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_3.png",
-                        "https://raw.githubusercontent.com/ios94/ashtejson/main/imgg/theyarecoming_screen_4.png"
                     ]
                 }
             ]
